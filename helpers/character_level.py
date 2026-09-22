@@ -10,18 +10,43 @@ a ``start_date`` and the top of the table unlocks in batches over time.
 subtracts that level's ``experience_to_level_up`` rather than resetting the bar to 0. That
 matches the master column being named per-level, but no capture pins it down -- if the client
 ever shows a wrong progress bar, this is the assumption to revisit.
+
+The curve is not paid in full: ``RequiredExperienceCoefficient`` scales it by the character's
+rarity (0.3 / 0.5 / 0.8 / 1.0). Both the requirement and the exp a character banks are in that
+scaled unit, so ``experience_to_reach`` and ``apply_experience`` scale consistently -- see
+``scaled_experience``.
 """
 
 from datetime import datetime, timezone
+from decimal import Decimal
 from typing import Optional
 
 from helpers.cache import cache
+from models.enums import CharacterRarities
 from models.master_data.CharacterExperienceItemMaster import (
     CharacterExperienceItemMaster,
 )
 
 _LEVELS: dict = {}
 _EXP_ITEMS: dict = {}
+_CHARACTERS: dict = {}
+
+# How much of the curve a character actually has to pay, by rarity. Recovered from the client:
+# `Constants.Character.RequiredExperienceCoefficient` is filled in its `.cctor` with
+# `Decimal..ctor(lo, mid, hi, isNegative, scale)` arguments 3/5/8/10 at scale 1, i.e. these
+# decimals -- reading the lo word alone (3/5/8/10) gives values ten times too large.
+# The client multiplies the *summed* curve by this (`CharacterEnhanceLevelUpModel
+# .GetLimitLevelTotalExp` returns the raw total, `CalculationConsumeExpItem` scales it), so the
+# coefficient is applied to a cumulative figure here too, never per level.
+_REQUIRED_EXPERIENCE_COEFFICIENT: dict = {
+    CharacterRarities.Rare1: Decimal("0.3"),
+    CharacterRarities.Rare2: Decimal("0.5"),
+    CharacterRarities.Rare3: Decimal("0.8"),
+    CharacterRarities.Rare4: Decimal("1.0"),
+}
+_MAX_EXPERIENCE_COEFFICIENT = Decimal("1.0")
+# the client's `fcsel` yields 0 for a rarity it does not recognise
+_UNKNOWN_RARITY_COEFFICIENT = Decimal(0)
 
 
 def _levels() -> dict:
@@ -63,22 +88,77 @@ def experience_to_level_up(level: int) -> Optional[int]:
     return row.experience_to_level_up if row is not None else None
 
 
-def experience_to_reach(level: int, current_experience: int, target: int) -> int:
+def _characters() -> dict:
+    if not _CHARACTERS:
+        _CHARACTERS.update({r.id_: r for r in cache.character_master})
+    return _CHARACTERS
+
+
+def character_rarity(character_master_id: int) -> Optional[CharacterRarities]:
+    """The rarity of the character a master id refers to, or None if it is unknown."""
+    master = _characters().get(character_master_id)
+    return getattr(master, "rarity", None) if master is not None else None
+
+
+def required_experience_coefficient(rarity: Optional[CharacterRarities]) -> Decimal:
+    """The fraction of the raw curve a character of ``rarity`` pays.
+
+    A rarity the client has no entry for scales by 0, matching its lookup fallback rather than
+    guessing a default.
+    """
+    if rarity is None:
+        return _UNKNOWN_RARITY_COEFFICIENT
+    return _REQUIRED_EXPERIENCE_COEFFICIENT.get(rarity, _UNKNOWN_RARITY_COEFFICIENT)
+
+
+def scaled_experience(amount: int, rarity: Optional[CharacterRarities]) -> int:
+    """Apply the rarity coefficient to a raw exp amount, the way the client does.
+
+    The client scales cumulative figures with ``decimal`` and truncates back to a whole number,
+    so this keeps the same precision instead of using binary floats -- 0.3 and 0.8 are not
+    exactly representable as floats and would drift on large totals.
+    """
+    if amount <= 0:
+        return 0
+    scaled = Decimal(amount) * required_experience_coefficient(rarity)
+    # the coefficient never grows an amount, and a truncated value must not read as a level up
+    return max(0, int(scaled))
+
+
+def experience_to_reach(
+    level: int,
+    current_experience: int,
+    target: int,
+    rarity: Optional[CharacterRarities] = None,
+) -> int:
     """Exp still needed to reach ``target`` from a character's current standing (0 if it is
-    already there)."""
+    already there), scaled by ``rarity``.
+
+    ``current_experience`` is stored against the *scaled* curve, so the whole requirement is
+    scaled before subtracting it -- scaling the remainder instead would compare two different
+    units.
+    """
     total = 0
     for lv in range(max(1, level), target):
         need = experience_to_level_up(lv)
         if need is None:  # off the end of the curve -- nothing further is reachable
             break
         total += need
-    return max(0, total - current_experience)
+    return max(0, scaled_experience(total, rarity) - current_experience)
 
 
 def apply_experience(
-    level: int, current_experience: int, gained: int, cap: int
+    level: int,
+    current_experience: int,
+    gained: int,
+    cap: int,
+    rarity: Optional[CharacterRarities] = None,
 ) -> tuple[int, int]:
     """Spend ``gained`` exp on a character. Returns its ``(level, currentExperience)``.
+
+    Each level's requirement is scaled by ``rarity``, because a character's stored experience
+    and its requirement have to be in the same unit: a rarity 1 character banks 0.3 of the raw
+    curve per level, so it levels up against that same 0.3.
 
     The cap itself is reachable -- a character levels *to* the player rank cap, not to one
     below it. Exp past the cap is banked in ``currentExperience`` rather than dropped, so it
@@ -89,7 +169,10 @@ def apply_experience(
     experience = current_experience + gained
     while level < cap:
         need = experience_to_level_up(level)
-        if need is None or experience < need:
+        if need is None:
+            break
+        need = scaled_experience(need, rarity)
+        if need <= 0 or experience < need:
             break
         experience -= need
         level += 1

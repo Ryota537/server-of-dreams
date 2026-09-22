@@ -25,6 +25,7 @@ from helpers.character_enhance import (
 )
 from helpers.character_level import (
     apply_experience,
+    character_rarity,
     experience_item,
     experience_to_reach,
     level_cap,
@@ -114,7 +115,11 @@ async def characters_add_experience(request: Request, characterId: int):
         # a character sitting at the cap still takes the exp -- it banks against the next
         # player rank uncap instead of being thrown away
         level, experience = apply_experience(
-            character.level, character.currentExperience, gained, level_cap(user)
+            character.level,
+            character.currentExperience,
+            gained,
+            level_cap(user),
+            character_rarity(character.characterMasterId),
         )
         await conn.execute(
             update_character_level(user_id, characterId, level, experience)
@@ -233,9 +238,12 @@ async def characters_bulk_level_up(request: Request):
             character = characters.get(entry.character_id)
             if character is None or character.level >= cap:
                 continue
+            rarity = character_rarity(character.characterMasterId)
             spend = spend_from_pool(
                 stock,
-                experience_to_reach(character.level, character.currentExperience, cap),
+                experience_to_reach(
+                    character.level, character.currentExperience, cap, rarity
+                ),
             )
             gained = 0
             for item_master_id, quantity in spend.items():
@@ -246,7 +254,7 @@ async def characters_bulk_level_up(request: Request):
             if not gained:
                 continue
             level, experience = apply_experience(
-                character.level, character.currentExperience, gained, cap
+                character.level, character.currentExperience, gained, cap, rarity
             )
             await conn.execute(
                 update_character_level(user_id, character.id, level, experience)
