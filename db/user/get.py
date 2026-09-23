@@ -1067,6 +1067,18 @@ def get_connect_with_passwords(user_id: int) -> SelectQuery[ConnectWithPasswordM
     )
 
 
+def get_connect_with_password_by_linkage_code(
+    linkage_code: str,
+) -> SelectQuery[ConnectWithPasswordModel]:
+    # the takeover lookup is by linkage code alone: the caller is unauthenticated and does
+    # not know its own userId yet.
+    return SelectQuery(
+        ConnectWithPasswordModel,
+        'SELECT * FROM "connect_with_password" WHERE "linkageCode" = $1',
+        linkage_code,
+    )
+
+
 def get_tournament_details(user_id: int) -> SelectQuery[TournamentDetailModel]:
     return SelectQuery(
         TournamentDetailModel,

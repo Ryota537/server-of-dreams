@@ -4,11 +4,17 @@ from fastapi import APIRouter, Request
 from core import YumeApp
 
 from db.user import get_user_preferences, update_birth_date
+from helpers.account_link import (
+    get_confirmation_code,
+    get_take_over_account,
+    register_take_over_password,
+)
 from helpers.msgpack import iso_to_micros, read_request, respond
 from helpers.auth import authenticate
 from helpers.auth import register
 from helpers.user_data import current_user_id, data_object
 from models import *
+from models.unions import IDATA_OBJECT_KEY
 
 router = APIRouter(tags=["Account"])
 
@@ -52,7 +58,8 @@ async def account_disconnect_account(request: Request, provider: int):
 async def account_get_confirmation_code(request: Request):
     app: YumeApp = request.app
     payload = {}  # no payload
-    return respond(TimedConfirmationCode())
+    user_id = current_user_id(request)
+    return respond(await get_confirmation_code(app, user_id))
 
 
 # /api/Account/GetCurrentUserData
@@ -89,7 +96,14 @@ async def account_get_rooot_transition_token(request: Request):
 async def account_get_take_over_account(request: Request):
     app: YumeApp = request.app
     payload = await read_request(request, TakeOverAccountPayload)
-    return respond(TakeOverAccountResult())
+    if payload is None:
+        return respond(TakeOverAccountResult())
+    # unauthenticated on purpose: this is the fresh-install entry point
+    return respond(
+        await get_take_over_account(
+            app, payload.linkage_code or "", payload.password or ""
+        )
+    )
 
 
 # /api/Account/Register
@@ -107,7 +121,20 @@ async def account_register(request: Request):
 async def account_register_take_over_password(request: Request):
     app: YumeApp = request.app
     payload = await read_request(request, RegisterTakeOverPasswordPayload)
-    return respond(TakeOverCodeResult())
+    user_id = current_user_id(request)
+    result, row_id = await register_take_over_password(
+        app, user_id, (payload.password if payload is not None else "") or ""
+    )
+    # the captured response echoes the ConnectWithPassword row so the client's local copy
+    # of the entity reflects the id it now holds. Built from the union key directly:
+    # data_object() reads model_dump() without by_alias, which would drop the aliased
+    # `id` field and echo a zero.
+    present = (
+        [[IDATA_OBJECT_KEY["ConnectWithPassword"], [row_id]]]
+        if row_id is not None
+        else []
+    )
+    return respond(result, present=present)
 
 
 # /api/Account/TakeOverWithAccountConnect

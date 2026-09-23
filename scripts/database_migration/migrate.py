@@ -6,6 +6,8 @@ from peewee import IntegerField, Model, PostgresqlDatabase
 
 from helpers.config import Database
 
+from .migrate_2_to_3 import run as migrate_2_to_3
+
 _parser = argparse.ArgumentParser()
 _parser.add_argument("--config", default="config.yml", help="Path to config file")
 _args = _parser.parse_args()
@@ -21,7 +23,9 @@ db = PostgresqlDatabase(
     port=CONFIG.port,
 )
 
-migrations: Dict[int, Callable[[PostgresqlDatabase], int]] = {}
+migrations: Dict[int, Callable[[PostgresqlDatabase], int]] = {
+    2: migrate_2_to_3,
+}
 
 
 class BaseModel(Model):
