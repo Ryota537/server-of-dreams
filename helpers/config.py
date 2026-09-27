@@ -49,4 +49,19 @@ class Database(BaseModel):
     settings: DatabaseSettings = DatabaseSettings()
 
 
+class RealtimeSettings(BaseModel):
+    """The realtime StreamingHub listener (see ``realtime/``).
+
+    Optional as a whole: absent means the channel runs only when started
+    explicitly by ``realtime_main.py``. TLS needs both certfile and keyfile.
+    """
+
+    host: str = "0.0.0.0"
+    port: int = 8443
+    certfile: str = ""
+    keyfile: str = ""
+    auto_start: bool = False
+
+
 database: Database = Database(**config["database"])
+realtime: RealtimeSettings = RealtimeSettings(**(config.get("realtime") or {}))
