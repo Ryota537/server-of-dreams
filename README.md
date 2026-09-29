@@ -1,5 +1,5 @@
 # Server of Dreams (夢のサーバー)
-A certain EOSing mobile theatre idol rhythm game's private server implementation.
+A certain EOSed mobile theatre idol rhythm game's WIP private server implementation.
 
 ## Run
 
@@ -43,6 +43,8 @@ python main.py
 2026/07/20 - Music Shop + Market
 
 2026/07/20 - Character Level Up, Awakening, Sense Enhance, Talent Bloom
+
+2026/09/28 - EOS 🫡 (some server side math just got very very hard or impossible...)
 
 ## Priority Todo
 - Broken character level up calculations (perhaps in Sirius Shared? reverse engineer it)
