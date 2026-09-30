@@ -11,7 +11,7 @@ Needs a postgresql database
 pip install -r requirements.txt
 python -m scripts.database_setup
 python -m scripts.download_masterdata
-python -m scripts.download_asset_catalogs
+python -m scripts.download_all_assets   # https://github.com/Ryota537/asset-of-dreams
 python main.py
 ```
 
@@ -73,3 +73,4 @@ POST https://lb-api.wds-stellarium.com/api/Home/CheckEexternalPayment -> no elec
 # Credits
 - [t-wy](https://github.com/t-wy) for user ID hashing
 - [wds-sirius/Adv-Resource](https://github.com/wds-sirius/Adv-Resource) for episode data and archive (`_data/episodes/`)
+- [assets-of-dreams](https://github.com/Ryota537/asset-of-dreams) for archived game assets

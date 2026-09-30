@@ -1,132 +1,196 @@
-"""Download every asset bundle for the game into ``_data/assets/`` (Android + iOS).
+"""Download every game asset from the asset-of-dreams GitHub release into ``_data/assets/``.
 
-    python -m scripts.download_asset_catalogs
-    python -m scripts.download_all_assets --dry-run # do a check of work first
-    python -m scripts.download_all_assets # actually do the download
+    python -m scripts.download_all_assets --dry-run                        # list zips + destinations
+    python -m scripts.download_all_assets                                  # download + extract everything
+    python -m scripts.download_all_assets --only notations scenes static-assets
+    python -m scripts.download_all_assets --only 2d-assets --platform android
 
-Each catalog's ``m_InternalIds`` encodes bundles as ``<prefixIndex>#/<name>`` which
-resolve (via ``m_InternalIdPrefixes``) to ``http://<kind>/<platform>/<group>/<name>``.
-The real file lives at ``<asset_url>/<kind>/<platform>/<version>/<group>/<name>`` and
-is saved to ``_data/assets/<kind>/<platform>/<group>/<name>``. Existing files are skipped,
-so re-running resumes. This is the entire game -- expect many GB.
+The live CDN (assets-e.wds-stellarium.com) is dead (EOS), so rather than crawling it
+bundle-by-bundle we pull the pre-packaged release zips published by
+``github.com/Ryota537/asset-of-dreams`` and unpack each into place:
+
+    <kind>-<platform>[-N].zip -> _data/assets/<kind>/<platform>/   (catalog.json + *.bundle)
+    notations.zip             -> _data/assets/Notations/
+    scenes.zip                -> _data/assets/scenes/
+    static-assets.zip         -> _data/assets/static-assets/
+
+``notations``/``scenes``/``static-assets`` are resources the old crawler never fetched.
+The masterdata zip in the same release is skipped -- that belongs to
+``scripts.download_masterdata``. Already-extracted files are skipped, so a re-run resumes.
+This is the entire game -- expect many tens of GB.
+
+The old per-bundle crawlers survive as ``download_all_assets_deprecated`` and
+``download_asset_catalogs_deprecated`` (both dead: they hit the EOS CDN).
 """
+
+from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import shutil
 import sys
 import urllib.error
 import urllib.request
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import zipfile
 from pathlib import Path
+from typing import NamedTuple
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from scripts._sirius import MaintenanceError, environment  # noqa: E402
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+ASSETS = PROJECT_ROOT / "_data" / "assets"
+ZIP_CACHE = ASSETS / ".zips"
 
-ASSETS = Path(__file__).resolve().parent.parent / "_data" / "assets"
-ASSET_URL = "https://assets-e.wds-stellarium.com/production"
+REPO = "Ryota537/asset-of-dreams"
+TAG = "1.96.0-7"
+UA = "server-of-dreams"
+
 KINDS = ("2d-assets", "3d-assets", "cri-assets")
-PLATFORMS = ("Android", "iOS")
-_REF = re.compile(r"^(\d+)#(.*)$")
+PLATFORMS = ("android", "ios")
+# release base name -> destination dir name under _data/assets/
+EXTRA_DESTS = {"notations": "Notations", "scenes": "scenes", "static-assets": "static-assets"}
+CATEGORIES = KINDS + tuple(EXTRA_DESTS)
+
+# "<base>.zip" or "<base>-<part>.zip" (multi-part release zips add a "-N" split suffix)
+_SPLIT = re.compile(r"^(?P<base>.+?)(?:-(?P<part>\d+))?\.zip$")
 
 
-def bundle_rel_paths(catalog_path: Path) -> list:
-    """Distinct ``<group>/<name>.bundle`` paths (relative to the version dir)."""
-    data = json.loads(catalog_path.read_text(encoding="utf-8"))
-    prefixes = data["m_InternalIdPrefixes"]
-    out, seen = [], set()
-    for iid in data["m_InternalIds"]:
-        if not iid.endswith(".bundle"):
-            continue
-        m = _REF.match(iid)
-        resolved = (
-            prefixes[int(m.group(1))] + m.group(2)
-            if m and int(m.group(1)) < len(prefixes)
-            else iid
-        )
-        # http://<kind>/<platform>/<group>/<name> -> <group>/<name>
-        tail = resolved.split("://", 1)[-1].split("/", 2)
-        rel = tail[2] if len(tail) == 3 else resolved
-        if rel not in seen:
-            seen.add(rel)
-            out.append(rel)
-    return out
+class Zip(NamedTuple):
+    name: str
+    url: str
+    size: int
+    dest: Path
 
 
-def _download(url: str, dest: Path) -> str:
-    if dest.exists():
-        return "skip"
+def resolve(name: str) -> tuple[str, Path] | None:
+    """(category, destination dir) a release zip unpacks into, or None to skip it."""
+    m = _SPLIT.match(name)
+    if not m:
+        return None
+    base = m.group("base")
+    if base in EXTRA_DESTS:
+        return base, ASSETS / EXTRA_DESTS[base]
+    for kind in KINDS:
+        platform = base[len(kind) + 1 :]
+        if base.startswith(kind + "-") and platform in PLATFORMS:
+            return kind, ASSETS / kind / platform
+    return None
+
+
+def release_assets(tag: str) -> list[dict]:
+    url = f"https://api.github.com/repos/{REPO}/releases/tags/{tag}"
+    headers = {"User-Agent": UA, "Accept": "application/vnd.github+json"}
+    token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read().decode("utf-8")).get("assets", [])
+
+
+def _download(url: str, dest: Path, size: int) -> None:
     dest.parent.mkdir(parents=True, exist_ok=True)
-    tmp = dest.with_name(dest.name + ".part")
-    req = urllib.request.Request(url, headers={"User-Agent": "server-of-dreams"})
-    with urllib.request.urlopen(req, timeout=120) as r, open(tmp, "wb") as f:
-        shutil.copyfileobj(r, f)
-    tmp.replace(dest)  # atomic: a killed download never leaves a "complete" file
-    return "ok"
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=300) as r, open(dest, "wb") as f:
+        done = 0
+        while chunk := r.read(1 << 20):
+            f.write(chunk)
+            done += len(chunk)
+            pct = f" ({done * 100 // size}%)" if size else ""
+            print(f"\r  downloading {done / 1e6:7.0f} MB{pct}", end="", flush=True)
+    print()
+
+
+def _extract(zip_path: Path, dest: Path) -> tuple[int, int]:
+    """Unpack every file into ``dest``, skipping ones already present at the same size."""
+    dest.mkdir(parents=True, exist_ok=True)
+    root = dest.resolve()
+    ok = skip = 0
+    with zipfile.ZipFile(zip_path) as zf:
+        for info in zf.infolist():
+            if info.is_dir():
+                continue
+            target = (dest / info.filename).resolve()
+            if target != root and root not in target.parents:  # guard against zip-slip
+                print(f"  ! unsafe path skipped: {info.filename}")
+                continue
+            if target.exists() and target.stat().st_size == info.file_size:
+                skip += 1
+                continue
+            target.parent.mkdir(parents=True, exist_ok=True)
+            with zf.open(info) as src, open(target, "wb") as out:
+                shutil.copyfileobj(src, out)
+            ok += 1
+    return ok, skip
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dry-run", action="store_true", help="count bundles only")
-    parser.add_argument("--workers", type=int, default=16, help="parallel downloads")
-    parser.add_argument("--limit", type=int, default=0, help="max bundles per catalog")
-    parser.add_argument("--kind", choices=KINDS, help="only this asset kind")
-    parser.add_argument("--platform", choices=PLATFORMS, help="only this platform")
+    parser.add_argument("--tag", default=TAG, help="release tag to pull from")
+    parser.add_argument(
+        "--dry-run", action="store_true", help="list zips + destinations, download nothing"
+    )
+    parser.add_argument(
+        "--only", nargs="+", choices=CATEGORIES, help="limit to these categories"
+    )
+    parser.add_argument(
+        "--platform", choices=PLATFORMS, help="limit bundle downloads to one platform"
+    )
+    parser.add_argument(
+        "--keep-zips", action="store_true", help="keep downloaded zips instead of deleting them"
+    )
     args = parser.parse_args()
 
     try:
-        version = str(environment().asset_version)
-    except MaintenanceError:
-        print("Server is in maintenance")
+        assets = release_assets(args.tag)
+    except urllib.error.HTTPError as e:
+        print(f"failed to fetch release {args.tag}: {e.code} {e.reason}")
         return
-    print(f"asset version {version}")
-    kinds = (args.kind,) if args.kind else KINDS
-    platforms = (args.platform,) if args.platform else PLATFORMS
 
-    grand_total = 0
-    for kind in kinds:
-        for platform in platforms:
-            root = ASSETS / kind / platform.lower()
-            catalog = root / "catalog.json"
-            if not catalog.is_file():
-                print(f"{kind}/{platform}: no catalog (run download_asset_catalogs)")
+    plan: list[Zip] = []
+    for a in assets:
+        name = a["name"]
+        resolved = resolve(name)
+        if resolved is None:
+            print(f"skipping {name} (not an asset zip)")
+            continue
+        category, dest = resolved
+        if args.only and category not in args.only:
+            continue
+        if args.platform and category in KINDS and dest.name != args.platform:
+            continue
+        plan.append(Zip(name, a["browser_download_url"], int(a["size"]), dest))
+
+    total = sum(z.size for z in plan)
+    print(f"\nrelease {args.tag}: {len(plan)} zip(s), {total / 1e9:.1f} GB to download")
+    for z in plan:
+        print(f"  {z.name:34} {z.size / 1e6:8.1f} MB -> {z.dest.relative_to(PROJECT_ROOT)}")
+    if args.dry_run or not plan:
+        return
+
+    for z in plan:
+        print(f"\n{z.name} -> {z.dest.relative_to(PROJECT_ROOT)}")
+        zip_path = ZIP_CACHE / z.name
+        if zip_path.exists() and zip_path.stat().st_size == z.size:
+            print("  (already downloaded)")
+        else:
+            part = zip_path.with_name(z.name + ".part")
+            _download(z.url, part, z.size)
+            if part.stat().st_size != z.size:
+                print(f"  ! size mismatch ({part.stat().st_size} != {z.size}); skipped")
+                part.unlink(missing_ok=True)
                 continue
-            rels = bundle_rel_paths(catalog)
-            if args.limit:
-                rels = rels[: args.limit]
-            grand_total += len(rels)
-            print(f"{kind}/{platform}: {len(rels)} bundles")
-            if args.dry_run:
-                continue
+            part.replace(zip_path)  # atomic: a killed download never looks complete
+        ok, skip = _extract(zip_path, z.dest)
+        print(f"  extracted {ok} file(s), skipped {skip} already present")
+        if not args.keep_zips:
+            zip_path.unlink(missing_ok=True)
 
-            ok = skip = err = done = 0
-            with ThreadPoolExecutor(max_workers=args.workers) as pool:
-                futures = {
-                    pool.submit(
-                        _download,
-                        f"{ASSET_URL}/{kind}/{platform}/{version}/{rel}",
-                        root / rel,
-                    ): rel
-                    for rel in rels
-                }
-                for fut in as_completed(futures):
-                    done += 1
-                    try:
-                        res = fut.result()
-                        ok += res == "ok"
-                        skip += res == "skip"
-                    except urllib.error.HTTPError as e:
-                        err += 1
-                        print(f"  ! {futures[fut]} ({e.code})")
-                    except Exception as e:  # noqa: BLE001
-                        err += 1
-                        print(f"  ! {futures[fut]} ({type(e).__name__})")
-                    if done % 200 == 0 or done == len(rels):
-                        print(f"  {done}/{len(rels)} ok={ok} skip={skip} err={err}")
-
-    print(f"total bundles: {grand_total}")
+    if not args.keep_zips and ZIP_CACHE.is_dir():
+        shutil.rmtree(ZIP_CACHE, ignore_errors=True)
+    print("\ndone")
 
 
 main()

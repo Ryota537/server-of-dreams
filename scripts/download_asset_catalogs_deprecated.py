@@ -1,6 +1,10 @@
-"""Download and decompress the Unity Addressables asset catalogs.
+"""DEPRECATED: fetched catalogs from the live CDN, which is dead (EOS 410 GONE). The
+catalogs now ship inside each ``<kind>-<platform>`` release zip, so
+``scripts.download_all_assets`` writes them. Kept for reference only.
 
-    python -m scripts.download_asset_catalogs
+Download and decompress the Unity Addressables asset catalogs.
+
+    python -m scripts.download_asset_catalogs_deprecated
 
 Each ``catalog_<ver>.json.br`` is a Brotli-compressed Addressables catalog. This
 fetches every kind/platform pair and writes the decompressed catalog to
@@ -16,7 +20,7 @@ import brotli
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from scripts._sirius import MaintenanceError, environment  # noqa: E402
+from scripts._sirius import MaintenanceError, environment
 
 OUT = Path(__file__).resolve().parent.parent / "_data" / "assets"
 ASSET_URL = "https://assets-e.wds-stellarium.com/production"

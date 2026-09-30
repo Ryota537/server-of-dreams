@@ -1,5 +1,5 @@
 """Serve the local Addressables catalogs. Everything derives from the decompressed
-``assets/<kind>/<platform>/catalog.json`` that ``download_asset_catalogs`` writes:
+``assets/<kind>/<platform>/catalog.json`` that ``download_all_assets`` writes:
 
 - ``.json.br`` -> brotli of that json (the client decompresses it by extension)
 - ``.hash``    -> SpookyHash-128 of that json, little-endian, lowercase hex
