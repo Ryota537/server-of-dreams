@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "event_master_id": 26001,
+  "target_min_rank": 9999999,
+  "target_max_rank": 1,
+  "camp1_reward_trophy_master_id": 2600150,
+  "camp2_reward_trophy_master_id": 2600151
+ },
+ {
+  "id": 2,
+  "event_master_id": 26002,
+  "target_min_rank": 9999999,
+  "target_max_rank": 1,
+  "camp1_reward_trophy_master_id": 2600250,
+  "camp2_reward_trophy_master_id": 2600251
+ },
+ {
+  "id": 3,
+  "event_master_id": 26003,
+  "target_min_rank": 9999999,
+  "target_max_rank": 1,
+  "camp1_reward_trophy_master_id": 2600350,
+  "camp2_reward_trophy_master_id": 2600351
+ },
+ {
+  "id": 4,
+  "event_master_id": 26004,
+  "target_min_rank": 9999999,
+  "target_max_rank": 1,
+  "camp1_reward_trophy_master_id": 2600450,
+  "camp2_reward_trophy_master_id": 2600451
+ },
+ {
+  "id": 5,
+  "event_master_id": 26005,
+  "target_min_rank": 9999999,
+  "target_max_rank": 1,
+  "camp1_reward_trophy_master_id": 2600550,
+  "camp2_reward_trophy_master_id": 2600551
+ },
+ {
+  "id": 6,
+  "event_master_id": 26006,
+  "target_min_rank": 9999999,
+  "target_max_rank": 1,
+  "camp1_reward_trophy_master_id": 2600650,
+  "camp2_reward_trophy_master_id": 2600651
+ }
+]

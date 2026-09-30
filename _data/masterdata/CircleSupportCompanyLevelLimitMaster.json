@@ -1,0 +1,202 @@
+[
+ {
+  "id": 1,
+  "next_level_limit": 11,
+  "required_coin": 10000000,
+  "release_date": "2025-10-20T14:00:00+00:00",
+  "details": [
+   {
+    "order": 1,
+    "item_master_id": 130021,
+    "required_quantity": 200000
+   },
+   {
+    "order": 2,
+    "item_master_id": 130022,
+    "required_quantity": 200000
+   },
+   {
+    "order": 3,
+    "item_master_id": 130023,
+    "required_quantity": 200000
+   },
+   {
+    "order": 4,
+    "item_master_id": 130024,
+    "required_quantity": 200000
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "next_level_limit": 12,
+  "required_coin": 20000000,
+  "release_date": "2025-10-20T14:00:00+00:00",
+  "details": [
+   {
+    "order": 1,
+    "item_master_id": 130021,
+    "required_quantity": 400000
+   },
+   {
+    "order": 2,
+    "item_master_id": 130022,
+    "required_quantity": 400000
+   },
+   {
+    "order": 3,
+    "item_master_id": 130023,
+    "required_quantity": 400000
+   },
+   {
+    "order": 4,
+    "item_master_id": 130024,
+    "required_quantity": 400000
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "next_level_limit": 13,
+  "required_coin": 40000000,
+  "release_date": "2025-10-20T14:00:00+00:00",
+  "details": [
+   {
+    "order": 1,
+    "item_master_id": 130021,
+    "required_quantity": 800000
+   },
+   {
+    "order": 2,
+    "item_master_id": 130022,
+    "required_quantity": 800000
+   },
+   {
+    "order": 3,
+    "item_master_id": 130023,
+    "required_quantity": 800000
+   },
+   {
+    "order": 4,
+    "item_master_id": 130024,
+    "required_quantity": 800000
+   },
+   {
+    "order": 5,
+    "item_master_id": 130031,
+    "required_quantity": 40000
+   },
+   {
+    "order": 6,
+    "item_master_id": 130032,
+    "required_quantity": 40000
+   },
+   {
+    "order": 7,
+    "item_master_id": 130033,
+    "required_quantity": 40000
+   },
+   {
+    "order": 8,
+    "item_master_id": 130034,
+    "required_quantity": 40000
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "next_level_limit": 14,
+  "required_coin": 80000000,
+  "release_date": "2025-10-20T14:00:00+00:00",
+  "details": [
+   {
+    "order": 1,
+    "item_master_id": 130021,
+    "required_quantity": 1600000
+   },
+   {
+    "order": 2,
+    "item_master_id": 130022,
+    "required_quantity": 1600000
+   },
+   {
+    "order": 3,
+    "item_master_id": 130023,
+    "required_quantity": 1600000
+   },
+   {
+    "order": 4,
+    "item_master_id": 130024,
+    "required_quantity": 1600000
+   },
+   {
+    "order": 5,
+    "item_master_id": 130031,
+    "required_quantity": 80000
+   },
+   {
+    "order": 6,
+    "item_master_id": 130032,
+    "required_quantity": 80000
+   },
+   {
+    "order": 7,
+    "item_master_id": 130033,
+    "required_quantity": 80000
+   },
+   {
+    "order": 8,
+    "item_master_id": 130034,
+    "required_quantity": 80000
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "next_level_limit": 15,
+  "required_coin": 160000000,
+  "release_date": "2025-10-20T14:00:00+00:00",
+  "details": [
+   {
+    "order": 1,
+    "item_master_id": 130021,
+    "required_quantity": 3200000
+   },
+   {
+    "order": 2,
+    "item_master_id": 130022,
+    "required_quantity": 3200000
+   },
+   {
+    "order": 3,
+    "item_master_id": 130023,
+    "required_quantity": 3200000
+   },
+   {
+    "order": 4,
+    "item_master_id": 130024,
+    "required_quantity": 3200000
+   },
+   {
+    "order": 5,
+    "item_master_id": 130031,
+    "required_quantity": 160000
+   },
+   {
+    "order": 6,
+    "item_master_id": 130032,
+    "required_quantity": 160000
+   },
+   {
+    "order": 7,
+    "item_master_id": 130033,
+    "required_quantity": 160000
+   },
+   {
+    "order": 8,
+    "item_master_id": 130034,
+    "required_quantity": 160000
+   }
+  ]
+ }
+]

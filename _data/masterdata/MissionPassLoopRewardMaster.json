@@ -1,0 +1,1538 @@
+[
+ {
+  "id": 1,
+  "phase": 1,
+  "start_date": "2024-08-01T05:00:00+00:00",
+  "end_date": "2024-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 101,
+    "mission_pass_loop_reward_master_id": 1,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "phase": 2,
+  "start_date": "2024-08-01T05:00:00+00:00",
+  "end_date": "2024-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 201,
+    "mission_pass_loop_reward_master_id": 2,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "phase": 3,
+  "start_date": "2024-08-01T05:00:00+00:00",
+  "end_date": "2024-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 301,
+    "mission_pass_loop_reward_master_id": 3,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "phase": 4,
+  "start_date": "2024-08-01T05:00:00+00:00",
+  "end_date": "2024-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 401,
+    "mission_pass_loop_reward_master_id": 4,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "phase": 1,
+  "start_date": "2024-09-01T05:00:00+00:00",
+  "end_date": "2024-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 501,
+    "mission_pass_loop_reward_master_id": 5,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "phase": 2,
+  "start_date": "2024-09-01T05:00:00+00:00",
+  "end_date": "2024-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 601,
+    "mission_pass_loop_reward_master_id": 6,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "phase": 3,
+  "start_date": "2024-09-01T05:00:00+00:00",
+  "end_date": "2024-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 701,
+    "mission_pass_loop_reward_master_id": 7,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "phase": 4,
+  "start_date": "2024-09-01T05:00:00+00:00",
+  "end_date": "2024-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 801,
+    "mission_pass_loop_reward_master_id": 8,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "phase": 1,
+  "start_date": "2024-10-01T05:00:00+00:00",
+  "end_date": "2024-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 901,
+    "mission_pass_loop_reward_master_id": 9,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "phase": 2,
+  "start_date": "2024-10-01T05:00:00+00:00",
+  "end_date": "2024-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1001,
+    "mission_pass_loop_reward_master_id": 10,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "phase": 3,
+  "start_date": "2024-10-01T05:00:00+00:00",
+  "end_date": "2024-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1101,
+    "mission_pass_loop_reward_master_id": 11,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "phase": 4,
+  "start_date": "2024-10-01T05:00:00+00:00",
+  "end_date": "2024-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1201,
+    "mission_pass_loop_reward_master_id": 12,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "phase": 1,
+  "start_date": "2024-11-01T05:00:00+00:00",
+  "end_date": "2024-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1301,
+    "mission_pass_loop_reward_master_id": 13,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "phase": 2,
+  "start_date": "2024-11-01T05:00:00+00:00",
+  "end_date": "2024-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1401,
+    "mission_pass_loop_reward_master_id": 14,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "phase": 3,
+  "start_date": "2024-11-01T05:00:00+00:00",
+  "end_date": "2024-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1501,
+    "mission_pass_loop_reward_master_id": 15,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "phase": 4,
+  "start_date": "2024-11-01T05:00:00+00:00",
+  "end_date": "2024-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1601,
+    "mission_pass_loop_reward_master_id": 16,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "phase": 1,
+  "start_date": "2024-12-01T05:00:00+00:00",
+  "end_date": "2025-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1701,
+    "mission_pass_loop_reward_master_id": 17,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "phase": 2,
+  "start_date": "2024-12-01T05:00:00+00:00",
+  "end_date": "2025-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1801,
+    "mission_pass_loop_reward_master_id": 18,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "phase": 3,
+  "start_date": "2024-12-01T05:00:00+00:00",
+  "end_date": "2025-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 1901,
+    "mission_pass_loop_reward_master_id": 19,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "phase": 4,
+  "start_date": "2024-12-01T05:00:00+00:00",
+  "end_date": "2025-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2001,
+    "mission_pass_loop_reward_master_id": 20,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "phase": 1,
+  "start_date": "2025-01-01T05:00:00+00:00",
+  "end_date": "2025-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2101,
+    "mission_pass_loop_reward_master_id": 21,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "phase": 2,
+  "start_date": "2025-01-01T05:00:00+00:00",
+  "end_date": "2025-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2201,
+    "mission_pass_loop_reward_master_id": 22,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "phase": 3,
+  "start_date": "2025-01-01T05:00:00+00:00",
+  "end_date": "2025-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2301,
+    "mission_pass_loop_reward_master_id": 23,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "phase": 4,
+  "start_date": "2025-01-01T05:00:00+00:00",
+  "end_date": "2025-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2401,
+    "mission_pass_loop_reward_master_id": 24,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "phase": 1,
+  "start_date": "2025-02-01T05:00:00+00:00",
+  "end_date": "2025-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2501,
+    "mission_pass_loop_reward_master_id": 25,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "phase": 2,
+  "start_date": "2025-02-01T05:00:00+00:00",
+  "end_date": "2025-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2601,
+    "mission_pass_loop_reward_master_id": 26,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "phase": 3,
+  "start_date": "2025-02-01T05:00:00+00:00",
+  "end_date": "2025-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2701,
+    "mission_pass_loop_reward_master_id": 27,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "phase": 4,
+  "start_date": "2025-02-01T05:00:00+00:00",
+  "end_date": "2025-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2801,
+    "mission_pass_loop_reward_master_id": 28,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "phase": 1,
+  "start_date": "2025-03-01T05:00:00+00:00",
+  "end_date": "2025-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 2901,
+    "mission_pass_loop_reward_master_id": 29,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "phase": 2,
+  "start_date": "2025-03-01T05:00:00+00:00",
+  "end_date": "2025-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3001,
+    "mission_pass_loop_reward_master_id": 30,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "phase": 3,
+  "start_date": "2025-03-01T05:00:00+00:00",
+  "end_date": "2025-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3101,
+    "mission_pass_loop_reward_master_id": 31,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "phase": 4,
+  "start_date": "2025-03-01T05:00:00+00:00",
+  "end_date": "2025-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3201,
+    "mission_pass_loop_reward_master_id": 32,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "phase": 1,
+  "start_date": "2025-04-01T05:00:00+00:00",
+  "end_date": "2025-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3301,
+    "mission_pass_loop_reward_master_id": 33,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "phase": 2,
+  "start_date": "2025-04-01T05:00:00+00:00",
+  "end_date": "2025-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3401,
+    "mission_pass_loop_reward_master_id": 34,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "phase": 3,
+  "start_date": "2025-04-01T05:00:00+00:00",
+  "end_date": "2025-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3501,
+    "mission_pass_loop_reward_master_id": 35,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "phase": 4,
+  "start_date": "2025-04-01T05:00:00+00:00",
+  "end_date": "2025-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3601,
+    "mission_pass_loop_reward_master_id": 36,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "phase": 1,
+  "start_date": "2025-05-01T05:00:00+00:00",
+  "end_date": "2025-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3701,
+    "mission_pass_loop_reward_master_id": 37,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "phase": 2,
+  "start_date": "2025-05-01T05:00:00+00:00",
+  "end_date": "2025-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3801,
+    "mission_pass_loop_reward_master_id": 38,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "phase": 3,
+  "start_date": "2025-05-01T05:00:00+00:00",
+  "end_date": "2025-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 3901,
+    "mission_pass_loop_reward_master_id": 39,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "phase": 4,
+  "start_date": "2025-05-01T05:00:00+00:00",
+  "end_date": "2025-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4001,
+    "mission_pass_loop_reward_master_id": 40,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "phase": 1,
+  "start_date": "2025-06-01T05:00:00+00:00",
+  "end_date": "2025-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4101,
+    "mission_pass_loop_reward_master_id": 41,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "phase": 2,
+  "start_date": "2025-06-01T05:00:00+00:00",
+  "end_date": "2025-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4201,
+    "mission_pass_loop_reward_master_id": 42,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "phase": 3,
+  "start_date": "2025-06-01T05:00:00+00:00",
+  "end_date": "2025-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4301,
+    "mission_pass_loop_reward_master_id": 43,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "phase": 4,
+  "start_date": "2025-06-01T05:00:00+00:00",
+  "end_date": "2025-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4401,
+    "mission_pass_loop_reward_master_id": 44,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "phase": 1,
+  "start_date": "2025-07-01T05:00:00+00:00",
+  "end_date": "2025-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4501,
+    "mission_pass_loop_reward_master_id": 45,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "phase": 2,
+  "start_date": "2025-07-01T05:00:00+00:00",
+  "end_date": "2025-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4601,
+    "mission_pass_loop_reward_master_id": 46,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "phase": 3,
+  "start_date": "2025-07-01T05:00:00+00:00",
+  "end_date": "2025-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4701,
+    "mission_pass_loop_reward_master_id": 47,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "phase": 4,
+  "start_date": "2025-07-01T05:00:00+00:00",
+  "end_date": "2025-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4801,
+    "mission_pass_loop_reward_master_id": 48,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "phase": 1,
+  "start_date": "2025-08-01T05:00:00+00:00",
+  "end_date": "2025-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 4901,
+    "mission_pass_loop_reward_master_id": 49,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "phase": 2,
+  "start_date": "2025-08-01T05:00:00+00:00",
+  "end_date": "2025-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5001,
+    "mission_pass_loop_reward_master_id": 50,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "phase": 3,
+  "start_date": "2025-08-01T05:00:00+00:00",
+  "end_date": "2025-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5101,
+    "mission_pass_loop_reward_master_id": 51,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "phase": 4,
+  "start_date": "2025-08-01T05:00:00+00:00",
+  "end_date": "2025-09-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5201,
+    "mission_pass_loop_reward_master_id": 52,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "phase": 1,
+  "start_date": "2025-09-01T05:00:00+00:00",
+  "end_date": "2025-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5301,
+    "mission_pass_loop_reward_master_id": 53,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "phase": 2,
+  "start_date": "2025-09-01T05:00:00+00:00",
+  "end_date": "2025-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5401,
+    "mission_pass_loop_reward_master_id": 54,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "phase": 3,
+  "start_date": "2025-09-01T05:00:00+00:00",
+  "end_date": "2025-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5501,
+    "mission_pass_loop_reward_master_id": 55,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "phase": 4,
+  "start_date": "2025-09-01T05:00:00+00:00",
+  "end_date": "2025-10-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5601,
+    "mission_pass_loop_reward_master_id": 56,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "phase": 1,
+  "start_date": "2025-10-01T05:00:00+00:00",
+  "end_date": "2025-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5701,
+    "mission_pass_loop_reward_master_id": 57,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "phase": 2,
+  "start_date": "2025-10-01T05:00:00+00:00",
+  "end_date": "2025-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5801,
+    "mission_pass_loop_reward_master_id": 58,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "phase": 3,
+  "start_date": "2025-10-01T05:00:00+00:00",
+  "end_date": "2025-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 5901,
+    "mission_pass_loop_reward_master_id": 59,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "phase": 4,
+  "start_date": "2025-10-01T05:00:00+00:00",
+  "end_date": "2025-11-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6001,
+    "mission_pass_loop_reward_master_id": 60,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "phase": 1,
+  "start_date": "2025-11-01T05:00:00+00:00",
+  "end_date": "2025-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6101,
+    "mission_pass_loop_reward_master_id": 61,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "phase": 2,
+  "start_date": "2025-11-01T05:00:00+00:00",
+  "end_date": "2025-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6201,
+    "mission_pass_loop_reward_master_id": 62,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "phase": 3,
+  "start_date": "2025-11-01T05:00:00+00:00",
+  "end_date": "2025-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6301,
+    "mission_pass_loop_reward_master_id": 63,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "phase": 4,
+  "start_date": "2025-11-01T05:00:00+00:00",
+  "end_date": "2025-12-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6401,
+    "mission_pass_loop_reward_master_id": 64,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "phase": 1,
+  "start_date": "2025-12-01T05:00:00+00:00",
+  "end_date": "2026-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6501,
+    "mission_pass_loop_reward_master_id": 65,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "phase": 2,
+  "start_date": "2025-12-01T05:00:00+00:00",
+  "end_date": "2026-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6601,
+    "mission_pass_loop_reward_master_id": 66,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "phase": 3,
+  "start_date": "2025-12-01T05:00:00+00:00",
+  "end_date": "2026-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6701,
+    "mission_pass_loop_reward_master_id": 67,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "phase": 4,
+  "start_date": "2025-12-01T05:00:00+00:00",
+  "end_date": "2026-01-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6801,
+    "mission_pass_loop_reward_master_id": 68,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "phase": 1,
+  "start_date": "2026-01-01T05:00:00+00:00",
+  "end_date": "2026-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 6901,
+    "mission_pass_loop_reward_master_id": 69,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "phase": 2,
+  "start_date": "2026-01-01T05:00:00+00:00",
+  "end_date": "2026-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7001,
+    "mission_pass_loop_reward_master_id": 70,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "phase": 3,
+  "start_date": "2026-01-01T05:00:00+00:00",
+  "end_date": "2026-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7101,
+    "mission_pass_loop_reward_master_id": 71,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "phase": 4,
+  "start_date": "2026-01-01T05:00:00+00:00",
+  "end_date": "2026-02-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7201,
+    "mission_pass_loop_reward_master_id": 72,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "phase": 1,
+  "start_date": "2026-02-01T05:00:00+00:00",
+  "end_date": "2026-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7301,
+    "mission_pass_loop_reward_master_id": 73,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "phase": 2,
+  "start_date": "2026-02-01T05:00:00+00:00",
+  "end_date": "2026-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7401,
+    "mission_pass_loop_reward_master_id": 74,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "phase": 3,
+  "start_date": "2026-02-01T05:00:00+00:00",
+  "end_date": "2026-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7501,
+    "mission_pass_loop_reward_master_id": 75,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "phase": 4,
+  "start_date": "2026-02-01T05:00:00+00:00",
+  "end_date": "2026-03-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7601,
+    "mission_pass_loop_reward_master_id": 76,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "phase": 1,
+  "start_date": "2026-03-01T05:00:00+00:00",
+  "end_date": "2026-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7701,
+    "mission_pass_loop_reward_master_id": 77,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "phase": 2,
+  "start_date": "2026-03-01T05:00:00+00:00",
+  "end_date": "2026-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7801,
+    "mission_pass_loop_reward_master_id": 78,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "phase": 3,
+  "start_date": "2026-03-01T05:00:00+00:00",
+  "end_date": "2026-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 7901,
+    "mission_pass_loop_reward_master_id": 79,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "phase": 4,
+  "start_date": "2026-03-01T05:00:00+00:00",
+  "end_date": "2026-04-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8001,
+    "mission_pass_loop_reward_master_id": 80,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "phase": 1,
+  "start_date": "2026-04-01T05:00:00+00:00",
+  "end_date": "2026-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8101,
+    "mission_pass_loop_reward_master_id": 81,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "phase": 2,
+  "start_date": "2026-04-01T05:00:00+00:00",
+  "end_date": "2026-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8201,
+    "mission_pass_loop_reward_master_id": 82,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "phase": 3,
+  "start_date": "2026-04-01T05:00:00+00:00",
+  "end_date": "2026-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8301,
+    "mission_pass_loop_reward_master_id": 83,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "phase": 4,
+  "start_date": "2026-04-01T05:00:00+00:00",
+  "end_date": "2026-05-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8401,
+    "mission_pass_loop_reward_master_id": 84,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "phase": 1,
+  "start_date": "2026-05-01T05:00:00+00:00",
+  "end_date": "2026-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8501,
+    "mission_pass_loop_reward_master_id": 85,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "phase": 2,
+  "start_date": "2026-05-01T05:00:00+00:00",
+  "end_date": "2026-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8601,
+    "mission_pass_loop_reward_master_id": 86,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 87,
+  "phase": 3,
+  "start_date": "2026-05-01T05:00:00+00:00",
+  "end_date": "2026-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8701,
+    "mission_pass_loop_reward_master_id": 87,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 88,
+  "phase": 4,
+  "start_date": "2026-05-01T05:00:00+00:00",
+  "end_date": "2026-06-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8801,
+    "mission_pass_loop_reward_master_id": 88,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "phase": 1,
+  "start_date": "2026-06-01T05:00:00+00:00",
+  "end_date": "2026-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 8901,
+    "mission_pass_loop_reward_master_id": 89,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "phase": 2,
+  "start_date": "2026-06-01T05:00:00+00:00",
+  "end_date": "2026-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 9001,
+    "mission_pass_loop_reward_master_id": 90,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "phase": 3,
+  "start_date": "2026-06-01T05:00:00+00:00",
+  "end_date": "2026-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 9101,
+    "mission_pass_loop_reward_master_id": 91,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "phase": 4,
+  "start_date": "2026-06-01T05:00:00+00:00",
+  "end_date": "2026-07-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 9201,
+    "mission_pass_loop_reward_master_id": 92,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "phase": 1,
+  "start_date": "2026-07-01T05:00:00+00:00",
+  "end_date": "2026-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 9301,
+    "mission_pass_loop_reward_master_id": 93,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "phase": 2,
+  "start_date": "2026-07-01T05:00:00+00:00",
+  "end_date": "2026-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 9401,
+    "mission_pass_loop_reward_master_id": 94,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "phase": 3,
+  "start_date": "2026-07-01T05:00:00+00:00",
+  "end_date": "2026-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 9501,
+    "mission_pass_loop_reward_master_id": 95,
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "is_sp": false
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "phase": 4,
+  "start_date": "2026-07-01T05:00:00+00:00",
+  "end_date": "2026-08-01T05:00:00+00:00",
+  "rewards": [
+   {
+    "id": 9601,
+    "mission_pass_loop_reward_master_id": 96,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "is_sp": false
+   }
+  ]
+ }
+]

@@ -1,0 +1,3792 @@
+[
+ {
+  "id": 310010,
+  "name": "光る竹",
+  "description": "",
+  "rarity": 1,
+  "accessory_level_pattern_group_id": 1,
+  "fixed_accessory_effects": [
+   310010
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ひかるたけ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 310020,
+  "name": "りんご",
+  "description": "",
+  "rarity": 1,
+  "accessory_level_pattern_group_id": 1,
+  "fixed_accessory_effects": [
+   310020
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "りんご",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 310030,
+  "name": "人魚姫の鏡",
+  "description": "",
+  "rarity": 1,
+  "accessory_level_pattern_group_id": 1,
+  "fixed_accessory_effects": [
+   310030
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "にんぎょひめのかがみ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 310040,
+  "name": "灰かぶりの箒",
+  "description": "",
+  "rarity": 1,
+  "accessory_level_pattern_group_id": 1,
+  "fixed_accessory_effects": [
+   310040
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "はいかぶりのほうき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320010,
+  "name": "シャムシール",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320010
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "しゃむしーる",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320020,
+  "name": "真っ赤なバラ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320020
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まっかなばら",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320030,
+  "name": "如意棒",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320030
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "にょいぼう",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320040,
+  "name": "魔法の杖",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320040
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まほうのつえ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320050,
+  "name": "黄金の鉢",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320050
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "おうごんのはち",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320060,
+  "name": "ファントムの楽譜",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320060
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ふぁんとむのがくふ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320070,
+  "name": "マッチ箱",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320070
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まっちばこ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320080,
+  "name": "チーズ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320080
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ちーず",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320090,
+  "name": "狩人のナイフ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320090
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "かりうどのないふ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320100,
+  "name": "ガリバーの旅日記",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320100
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "がりばーのたびにっき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320110,
+  "name": "アンカー",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320110
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "あんかー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320120,
+  "name": "魔法少女カリューのチョーカー",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320120
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まほうしょうじょかりゅーのちょーかー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320130,
+  "name": "マクベスの短剣",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320130
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まくべすのたんけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320140,
+  "name": "調査ファイル",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320140
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ちょうさふぁいる",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320150,
+  "name": "菊の髪飾り",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320150
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "きくのかみかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320160,
+  "name": "マスケット銃",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320160
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ますけっとじゅう",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320170,
+  "name": "ティーセット",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320170
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "てぃーせっと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320180,
+  "name": "狐の面",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320180
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "きつねのめん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320190,
+  "name": "浦島太郎の木刀",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320190
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "うらしまたろうのぼくとう",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320200,
+  "name": "赤い果実",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320200
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "あかいかじつ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320210,
+  "name": "いばら姫の花飾り",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320210
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "いばらひめのはなかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320220,
+  "name": "ピーターパンの帽子",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320220
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ぴーたーぱんのぼうし",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320230,
+  "name": "魔法使いのステッキ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320230
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まほうつかいのすてっき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320240,
+  "name": "三国志の武将旗",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320240
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "さんごくしのぶしょうき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320250,
+  "name": "ファウストのメガネ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320250
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ふぁうすとのめがね",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320260,
+  "name": "アリアのロゼッタ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320260
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ありあのろぜった",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320270,
+  "name": "天ぷらうどん",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320270
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "てんぷらうどん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320280,
+  "name": "白娘子の剣",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320280
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "はくじょうしのけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320290,
+  "name": "黎明な狩人のナイフ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320290
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなかりうどのないふ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320300,
+  "name": "黎明なガリバーの旅日記",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320300
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいながりばーのたびにっき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320310,
+  "name": "黎明なファントムの楽譜",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320310
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなふぁんとむのがくふ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320320,
+  "name": "黎明なマッチ箱",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320320
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなまっちばこ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320330,
+  "name": "黎明なチーズ",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320330
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなちーず",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320340,
+  "name": "黎明なアンカー",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320340
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなあんかー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320350,
+  "name": "劇場版 魔法少女カリューのチョーカー",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320350
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "げきじょうばんまほうしょうじょかりゅーのちょーかー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320360,
+  "name": "黎明な調査ファイル",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320360
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなちょうさふぁいる",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320370,
+  "name": "黎明なマクベスの短剣",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320370
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなまくべすのたんけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320380,
+  "name": "黎明な菊の髪飾り",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320380
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなきくのかみかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320390,
+  "name": "黎明なマスケット銃",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320390
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなますけっとじゅう",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 320400,
+  "name": "黎明なティーセット",
+  "description": "",
+  "rarity": 2,
+  "accessory_level_pattern_group_id": 2,
+  "fixed_accessory_effects": [
+   320400
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなてぃーせっと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330010,
+  "name": "星のペンダント",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330010,
+   330011
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ほしのぺんだんと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330020,
+  "name": "流星のペンダント",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330020,
+   330021,
+   330022
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "りゅうせいのぺんだんと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330030,
+  "name": "懐中時計",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330030,
+   330031
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "かいちゅうどけい",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330040,
+  "name": "音符のブローチ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330040,
+   330041
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "おんぷのぶろーち",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330050,
+  "name": "ガラスのブリエット",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330050,
+   330051
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "がらすのぶりえっと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330060,
+  "name": "サンキャッチャー",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330060,
+   330061
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "さんきゃっちゃー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330070,
+  "name": "スコッチウイスキー",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330070,
+   330071
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "すこっちういすきー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330080,
+  "name": "積怨の日記",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330080,
+   330081
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "せきえんのにっき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330090,
+  "name": "フラワーグラス",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330090,
+   330091
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ふらわーぐらす",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330100,
+  "name": "トランプカード",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330100,
+   330101
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "とらんぷかーど",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330110,
+  "name": "小悪魔リボン",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330110,
+   330111
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "こあくまりぼん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330120,
+  "name": "蝶のブローチ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330120,
+   330121
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ちょうのぶろーち",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330130,
+  "name": "模造刀",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330130,
+   330131
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "もぞうとう",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330140,
+  "name": "キャンドルホルダー",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330140,
+   330141
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "きゃんどるほるだー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330150,
+  "name": "フロストフラワー",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330150,
+   330151
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ふろすとふらわー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330160,
+  "name": "ハーバリウム",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330160,
+   330161
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "はーばりうむ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330170,
+  "name": "猫耳ヘッドフォン",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330170,
+   330171,
+   330172
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ねこみみへっどふぉん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330180,
+  "name": "白詰草のスワッグ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330180,
+   330181
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "しろつめくさのすわっぐ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330190,
+  "name": "アクリルリング",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330190,
+   330191
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "あくりるりんぐ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330200,
+  "name": "夜桜の扇子",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330200,
+   330201
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "よざくらのせんす",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 330210,
+  "name": "天使のオーブ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   330210,
+   330211
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "てんしのおーぶ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331010,
+  "name": "竹の花",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331010
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "たけのはな",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331020,
+  "name": "天の羽衣",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331020
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "あまのはごろも",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331030,
+  "name": "ガラスの靴",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331030
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "がらすのくつ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331040,
+  "name": "12時の鐘",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331040
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "12じのかね",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331050,
+  "name": "魔法のランプ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331050
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まほうのらんぷ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331060,
+  "name": "ファントムの仮面",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331060
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ふぁんとむのかめん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331070,
+  "name": "七星剣",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331070
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "しちせいけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331080,
+  "name": "ジュリエットの指輪",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331080
+  ],
+  "random_effect_groups": [
+   3
+  ],
+  "pronounce_name": "じゅりえっとのゆびわ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331090,
+  "name": "呪われた茨のムチ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331090
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "のろわれたいばらのむち",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331100,
+  "name": "音楽隊のギター",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331100
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "おんがくたいのぎたー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331110,
+  "name": "魔法のブラシ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331110
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "まほうのぶらし",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331120,
+  "name": "ゲーム機",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331120
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "げーむき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331130,
+  "name": "白鳥の髪飾り",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331130
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "はくちょうのかみかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331140,
+  "name": "ジャックの竪琴",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331140
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "じゃっくのたてごと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331150,
+  "name": "陰陽師の札",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331150
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "おんみょうじのふだ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331160,
+  "name": "不思議な懐中時計",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331160
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ふしぎなかいちゅうどけい",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331170,
+  "name": "人魚の涙",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331170
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "にんぎょのなみだ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331180,
+  "name": "魔法少女カリューのステッキ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331180
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "まほうしょうじょかりゅーのすてっき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331190,
+  "name": "魔法少女カリューのブローチ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331190
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "まほうしょうじょかりゅーのぶろーち",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331200,
+  "name": "花のかんむり",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331200
+  ],
+  "random_effect_groups": [
+   3
+  ],
+  "pronounce_name": "はなのかんむり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331210,
+  "name": "クマの王子様",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331210
+  ],
+  "random_effect_groups": [
+   3
+  ],
+  "pronounce_name": "くまのおうじさま",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331220,
+  "name": "戦女神の槍",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331220
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "いくさめがみのやり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331230,
+  "name": "戦女神の籠手",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331230
+  ],
+  "random_effect_groups": [
+   3
+  ],
+  "pronounce_name": "いくさめがみのこて",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331240,
+  "name": "銃士の羽付き帽子",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331240
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "じゅうしのはねつきぼうし",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331250,
+  "name": "銃士のおたま",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331250
+  ],
+  "random_effect_groups": [
+   7
+  ],
+  "pronounce_name": "じゅうしのおたま",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331260,
+  "name": "王女の大剣",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331260
+  ],
+  "random_effect_groups": [
+   9
+  ],
+  "pronounce_name": "おうじょのたいけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331270,
+  "name": "王女の宝冠",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331270
+  ],
+  "random_effect_groups": [
+   9
+  ],
+  "pronounce_name": "おうじょのほうかん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331280,
+  "name": "スパチュラ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331280
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "すぱちゅら",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331290,
+  "name": "桃太郎のハチマキ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331290
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ももたろうのはちまき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331300,
+  "name": "大きな鳥籠",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331300
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "おおきなとりかご",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331310,
+  "name": "少女の着物",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331310
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "しょうじょのきもの",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331320,
+  "name": "アリスのカチューシャ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331320
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ありすのかちゅーしゃ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331330,
+  "name": "幸福な王子のマント",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331330
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "こうふくなおうじのまんと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331340,
+  "name": "王様の王冠",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331340
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "おうさまのおうかん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331350,
+  "name": "太陽の髪飾り",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331350
+  ],
+  "random_effect_groups": [
+   7
+  ],
+  "pronounce_name": "たいようのかみかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331360,
+  "name": "ウィリアムテルの帽子",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331360
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "うぃりあむてるのぼうし",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331370,
+  "name": "メフィストの薬",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331370
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "めふぃすとのくすり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331380,
+  "name": "クリスマスプレゼント",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331380
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "くりすますぷれぜんと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331390,
+  "name": "山猫のエプロン",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331390
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "やまねこのえぷろん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331400,
+  "name": "王子の冠",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331410
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "おうじのかんむり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331410,
+  "name": "魔法の剣",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331400
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "まほうのけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331420,
+  "name": "諸葛亮の髪飾り",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331420
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "しょかつりょうのかみかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331430,
+  "name": "諸葛亮の羽団扇",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331430
+  ],
+  "random_effect_groups": [
+   3
+  ],
+  "pronounce_name": "しょかつりょうのはねせんす",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331440,
+  "name": "天使の輪",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331440
+  ],
+  "random_effect_groups": [
+   3
+  ],
+  "pronounce_name": "てんしのわ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331450,
+  "name": "小悪魔のヘッドドレス",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331450
+  ],
+  "random_effect_groups": [
+   3
+  ],
+  "pronounce_name": "こあくまのへっどどれす",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331460,
+  "name": "キャプテンの手袋",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331460
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "きゃぷてんのてぶくろ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331470,
+  "name": "キャプテンの水兵帽",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331470
+  ],
+  "random_effect_groups": [
+   7
+  ],
+  "pronounce_name": "きゃぷてんのすいへいぼう",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331480,
+  "name": "グレイシャルドーナツ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331480
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ぐれいしゃるどーなつ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331490,
+  "name": "グレイシャルキャンディー",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331490
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "ぐれいしゃるきゃんでぃー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331500,
+  "name": "白娘子の髪飾り",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331500
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "はくじょうしのかみかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331510,
+  "name": "許仙の装束",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331510
+  ],
+  "random_effect_groups": [
+   11
+  ],
+  "pronounce_name": "きょせんのしょうぞく",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331520,
+  "name": "黎明なファントムの仮面",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331520
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなふぁんとむのかめん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331530,
+  "name": "黎明な七星剣",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331530
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなしちせいけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331540,
+  "name": "黎明なジュリエットの指輪",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331540
+  ],
+  "random_effect_groups": [
+   13
+  ],
+  "pronounce_name": "れいめいなじゅりえっとのゆびわ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331550,
+  "name": "黎明な魔法のランプ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331550
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなまほうのらんぷ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331560,
+  "name": "黎明な呪われた茨のムチ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331560
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなのろわれたいばらのむち",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331570,
+  "name": "黎明な音楽隊のギター",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331570
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなおんがくたいのぎたー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331580,
+  "name": "黎明な魔法のブラシ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331580
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなまほうのぶらし",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331590,
+  "name": "黎明なゲーム機",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331590
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなげーむき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331600,
+  "name": "黎明な白鳥の髪飾り",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331600
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなはくちょうのかみかざり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331610,
+  "name": "黎明なジャックの竪琴",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331610
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなじゃっくのたてごと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331620,
+  "name": "黎明な陰陽師の札",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331620
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなおんみょうじのふだ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331630,
+  "name": "黎明な不思議な懐中時計",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331630
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなふしぎなかいちゅうどけい",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331640,
+  "name": "黎明な人魚の涙",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331640
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなにんぎょのなみだ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331650,
+  "name": "劇場版 魔法少女カリューのステッキ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331650
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "げきじょうばんまほうしょうじょかりゅーのすてっき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331660,
+  "name": "劇場版 魔法少女カリューのブローチ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331660
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "げきじょうばんまほうしょうじょかりゅーのぶろーち",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331670,
+  "name": "黎明な戦女神の槍",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331670
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "れいめいないくさめがみのやり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331680,
+  "name": "黎明な戦女神の籠手",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331680
+  ],
+  "random_effect_groups": [
+   13
+  ],
+  "pronounce_name": "れいめいないくさめがみのこて",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331690,
+  "name": "黎明な花のかんむり",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331690
+  ],
+  "random_effect_groups": [
+   13
+  ],
+  "pronounce_name": "れいめいなはなのかんむり",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331700,
+  "name": "黎明なクマの王子様",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331700
+  ],
+  "random_effect_groups": [
+   13
+  ],
+  "pronounce_name": "れいめいなくまのおうじさま",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331710,
+  "name": "黎明な銃士の羽付き帽子",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331710
+  ],
+  "random_effect_groups": [
+   5
+  ],
+  "pronounce_name": "れいめいなじゅうしのはねつきぼうし",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331720,
+  "name": "黎明な銃士のおたま",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331720
+  ],
+  "random_effect_groups": [
+   7
+  ],
+  "pronounce_name": "れいめいなじゅうしのおたま",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331730,
+  "name": "黎明な王女の大剣",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331730
+  ],
+  "random_effect_groups": [
+   9
+  ],
+  "pronounce_name": "れいめいなおうじょのたいけん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331740,
+  "name": "黎明な王女の宝冠",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331740
+  ],
+  "random_effect_groups": [
+   9
+  ],
+  "pronounce_name": "れいめいなおうじょのほうかん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331750,
+  "name": "黎明なスパチュラ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331750
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなすぱちゅら",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 331760,
+  "name": "黎明な桃太郎のハチマキ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331760
+  ],
+  "random_effect_groups": [
+   1
+  ],
+  "pronounce_name": "れいめいなももたろうのはちまき",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 332010,
+  "name": "竹の花★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331010
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "たけのはな",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332020,
+  "name": "天の羽衣★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331020
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "あまのはごろも",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332030,
+  "name": "ガラスの靴★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331030
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "がらすのくつ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332040,
+  "name": "12時の鐘★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331040
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "12じのかね",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332050,
+  "name": "魔法のランプ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331050
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "まほうのらんぷ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332060,
+  "name": "ファントムの仮面★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331060
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "ふぁんとむのかめん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332070,
+  "name": "七星剣★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331070
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "しちせいけん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332080,
+  "name": "ジュリエットの指輪★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331080
+  ],
+  "random_effect_groups": [
+   4
+  ],
+  "pronounce_name": "じゅりえっとのゆびわ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332090,
+  "name": "呪われた茨のムチ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331090
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "のろわれたいばらのむち",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332100,
+  "name": "音楽隊のギター★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331100
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "おんがくたいのぎたー",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332110,
+  "name": "魔法のブラシ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331110
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "まほうのぶらし",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332120,
+  "name": "ゲーム機★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331120
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "げーむき",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332130,
+  "name": "白鳥の髪飾り★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331130
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "はくちょうのかみかざり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332140,
+  "name": "ジャックの竪琴★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331140
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "じゃっくのたてごと",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332150,
+  "name": "陰陽師の札★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331150
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "おんみょうじのふだ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332160,
+  "name": "不思議な懐中時計★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331160
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "ふしぎなかいちゅうどけい",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332170,
+  "name": "人魚の涙★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331170
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "にんぎょのなみだ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332180,
+  "name": "魔法少女カリューのステッキ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331180
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "まほうしょうじょかりゅーのすてっき",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332190,
+  "name": "魔法少女カリューのブローチ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331190
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "まほうしょうじょかりゅーのぶろーち",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332200,
+  "name": "花のかんむり★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331200
+  ],
+  "random_effect_groups": [
+   4
+  ],
+  "pronounce_name": "はなのかんむり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332210,
+  "name": "クマの王子様★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331210
+  ],
+  "random_effect_groups": [
+   4
+  ],
+  "pronounce_name": "くまのおうじさま",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332220,
+  "name": "戦女神の槍★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331220
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "いくさめがみのやり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332230,
+  "name": "戦女神の籠手★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331230
+  ],
+  "random_effect_groups": [
+   4
+  ],
+  "pronounce_name": "いくさめがみのこて",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332240,
+  "name": "銃士の羽付き帽子★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331240
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "じゅうしのはねつきぼうし",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332250,
+  "name": "銃士のおたま★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331250
+  ],
+  "random_effect_groups": [
+   8
+  ],
+  "pronounce_name": "じゅうしのおたま",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332260,
+  "name": "王女の大剣★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331260
+  ],
+  "random_effect_groups": [
+   10
+  ],
+  "pronounce_name": "おうじょのたいけん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332270,
+  "name": "王女の宝冠★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331270
+  ],
+  "random_effect_groups": [
+   10
+  ],
+  "pronounce_name": "おうじょのほうかん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332280,
+  "name": "スパチュラ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331280
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "すぱちゅら",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332290,
+  "name": "桃太郎のハチマキ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331290
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "ももたろうのはちまき",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332300,
+  "name": "大きな鳥籠★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331300
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "おおきなとりかご",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332310,
+  "name": "少女の着物★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331310
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "しょうじょのきもの",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332320,
+  "name": "アリスのカチューシャ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331320
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "ありすのかちゅーしゃ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332330,
+  "name": "幸福な王子のマント★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331330
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "こうふくなおうじのまんと",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332340,
+  "name": "王様の王冠★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331340
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "おうさまのおうかん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332350,
+  "name": "太陽の髪飾り★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331350
+  ],
+  "random_effect_groups": [
+   8
+  ],
+  "pronounce_name": "たいようのかみかざり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332360,
+  "name": "ウィリアムテルの帽子★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331360
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "うぃりあむてるのぼうし",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332370,
+  "name": "メフィストの薬★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331370
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "めふぃすとのくすり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332380,
+  "name": "クリスマスプレゼント★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331380
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "くりすますぷれぜんと",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332390,
+  "name": "山猫のエプロン★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331390
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "やまねこのえぷろん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332400,
+  "name": "王子の冠★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331410
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "おうじのかんむり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332410,
+  "name": "魔法の剣★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331400
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "まほうのけん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332420,
+  "name": "諸葛亮の髪飾り★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331420
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "しょかつりょうのかみかざり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332430,
+  "name": "諸葛亮の羽団扇★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331430
+  ],
+  "random_effect_groups": [
+   4
+  ],
+  "pronounce_name": "しょかつりょうのはねせんす",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332440,
+  "name": "天使の輪★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331440
+  ],
+  "random_effect_groups": [
+   4
+  ],
+  "pronounce_name": "てんしのわ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332450,
+  "name": "小悪魔のヘッドドレス★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331450
+  ],
+  "random_effect_groups": [
+   4
+  ],
+  "pronounce_name": "こあくまのへっどどれす",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332460,
+  "name": "キャプテンの手袋★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331460
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "きゃぷてんのてぶくろ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332470,
+  "name": "キャプテンの水兵帽★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331470
+  ],
+  "random_effect_groups": [
+   8
+  ],
+  "pronounce_name": "きゃぷてんのすいへいぼう",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332480,
+  "name": "グレイシャルドーナツ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331480
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "ぐれいしゃるどーなつ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332490,
+  "name": "グレイシャルキャンディー★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331490
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "ぐれいしゃるきゃんでぃー",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332500,
+  "name": "白娘子の髪飾り★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331500
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "はくじょうしのかみかざり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332510,
+  "name": "許仙の装束★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331510
+  ],
+  "random_effect_groups": [
+   12
+  ],
+  "pronounce_name": "きょせんのしょうぞく",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332520,
+  "name": "黎明なファントムの仮面★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331520
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなふぁんとむのかめん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332530,
+  "name": "黎明な七星剣★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331530
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなしちせいけん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332540,
+  "name": "黎明なジュリエットの指輪★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331540
+  ],
+  "random_effect_groups": [
+   14
+  ],
+  "pronounce_name": "れいめいなじゅりえっとのゆびわ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332550,
+  "name": "黎明な魔法のランプ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331550
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなまほうのらんぷ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332560,
+  "name": "黎明な呪われた茨のムチ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331560
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなのろわれたいばらのむち",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332570,
+  "name": "黎明な音楽隊のギター★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331570
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなおんがくたいのぎたー",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332580,
+  "name": "黎明な魔法のブラシ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331580
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなまほうのぶらし",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332590,
+  "name": "黎明なゲーム機★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331590
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなげーむき",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332600,
+  "name": "黎明な白鳥の髪飾り★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331600
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなはくちょうのかみかざり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332610,
+  "name": "黎明なジャックの竪琴★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331610
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなじゃっくのたてごと",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332620,
+  "name": "黎明な陰陽師の札★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331620
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなおんみょうじのふだ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332630,
+  "name": "黎明な不思議な懐中時計★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331630
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなふしぎなかいちゅうどけい",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332640,
+  "name": "黎明な人魚の涙★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331640
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなにんぎょのなみだ",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332650,
+  "name": "劇場版 魔法少女カリューのステッキ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331650
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "げきじょうばんまほうしょうじょかりゅーのすてっき",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332660,
+  "name": "劇場版 魔法少女カリューのブローチ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331660
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "げきじょうばんまほうしょうじょかりゅーのぶろーち",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332670,
+  "name": "黎明な戦女神の槍★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331670
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "れいめいないくさめがみのやり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332680,
+  "name": "黎明な戦女神の籠手★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331680
+  ],
+  "random_effect_groups": [
+   14
+  ],
+  "pronounce_name": "れいめいないくさめがみのこて",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332690,
+  "name": "黎明な花のかんむり★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331690
+  ],
+  "random_effect_groups": [
+   14
+  ],
+  "pronounce_name": "れいめいなはなのかんむり",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332700,
+  "name": "黎明なクマの王子様★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331700
+  ],
+  "random_effect_groups": [
+   14
+  ],
+  "pronounce_name": "れいめいなくまのおうじさま",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332710,
+  "name": "黎明な銃士の羽付き帽子★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331710
+  ],
+  "random_effect_groups": [
+   6
+  ],
+  "pronounce_name": "れいめいなじゅうしのはねつきぼうし",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332720,
+  "name": "黎明な銃士のおたま★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331720
+  ],
+  "random_effect_groups": [
+   8
+  ],
+  "pronounce_name": "れいめいなじゅうしのおたま",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332730,
+  "name": "黎明な王女の大剣★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331730
+  ],
+  "random_effect_groups": [
+   10
+  ],
+  "pronounce_name": "れいめいなおうじょのたいけん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332740,
+  "name": "黎明な王女の宝冠★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331740
+  ],
+  "random_effect_groups": [
+   10
+  ],
+  "pronounce_name": "れいめいなおうじょのほうかん",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332750,
+  "name": "黎明なスパチュラ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331750
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなすぱちゅら",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 332760,
+  "name": "黎明な桃太郎のハチマキ★",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   331760
+  ],
+  "random_effect_groups": [
+   2
+  ],
+  "pronounce_name": "れいめいなももたろうのはちまき",
+  "series": 1,
+  "max_level": 10
+ },
+ {
+  "id": 430010,
+  "name": "マフラータオル",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430010,
+   430011
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "まふらーたおる",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430020,
+  "name": "抗魔の仮面",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430020
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "こうまのかめん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430030,
+  "name": "ナビニャンのヘッドホン",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430030
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "なびにゃんのへっどほん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430040,
+  "name": "ゼロの仮面",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430040
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ぜろのかめん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430050,
+  "name": "セツナのティアラ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430050
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "せつなのてぃあら",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430060,
+  "name": "ぷちユメフェスTシャツ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430060,
+   430061
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ぷちゆめふぇすＴしゃつ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430070,
+  "name": "ぷりずむパラソル",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430070
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ぷりずむぱらそる",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430080,
+  "name": "バングルライト",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430080,
+   430081
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ばんぐるらいと",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430090,
+  "name": "Global Stage Tシャツ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430090,
+   430091
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "GlobalStageTしゃつ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430100,
+  "name": "千歌のヘアピン",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430100,
+   430101
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ちかのへあぴん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430110,
+  "name": "梨子のバレッタ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430110,
+   430111
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "りこのばれった",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430120,
+  "name": "ヨハネの翼",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430120,
+   430121
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "よはねのつばさ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430130,
+  "name": "ルビィのリュック",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430130,
+   430131
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "るびぃのりゅっく",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430140,
+  "name": "ダイヤの扇子",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430140,
+   430141
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "だいやのせんす",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430150,
+  "name": "なでしこのガスランタン",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430150
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "なでしこのがすらんたん",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430160,
+  "name": "アルミナの大鎌",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430160
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "あるみなのおおがま",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430170,
+  "name": "ボコ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430170
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ぼこ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430180,
+  "name": "ぷちユメフェスVol.2ミニタオル",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430180,
+   430181
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ぷちゆめふぇすVol.2みにたおる",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430190,
+  "name": "DJプレーヤー",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430190,
+   430191
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "DJぷれーやー",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430200,
+  "name": "ぷちユメフェスVol.2Tシャツ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430200,
+   430201
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "ぷちゆめふぇすVol.2Tしゃつ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430210,
+  "name": "SWL Tシャツ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430210,
+   430211
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "SWLTしゃつ",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430220,
+  "name": "Brilliant Stars！",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430220,
+   430221
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "Brilliant Stars",
+  "series": 0,
+  "max_level": 10
+ },
+ {
+  "id": 430230,
+  "name": "怪盗ゲソパンダキャットのブローチ",
+  "description": "",
+  "rarity": 3,
+  "accessory_level_pattern_group_id": 3,
+  "fixed_accessory_effects": [
+   430230,
+   430231
+  ],
+  "random_effect_groups": [],
+  "pronounce_name": "かいとうげそぱんだきゃっとのぶろーち",
+  "series": 0,
+  "max_level": 10
+ }
+]

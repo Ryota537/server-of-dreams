@@ -1,0 +1,368 @@
+[
+ {
+  "id": 0,
+  "level": 0,
+  "stamina_base_value": 100,
+  "description": ""
+ },
+ {
+  "id": 1,
+  "level": 1,
+  "stamina_base_value": 105,
+  "description": ""
+ },
+ {
+  "id": 2,
+  "level": 2,
+  "stamina_base_value": 110,
+  "description": "公演、協力公演での獲得EXP2%UP"
+ },
+ {
+  "id": 3,
+  "level": 3,
+  "stamina_base_value": 115,
+  "description": ""
+ },
+ {
+  "id": 4,
+  "level": 4,
+  "stamina_base_value": 120,
+  "description": "公演の報酬量2%UP"
+ },
+ {
+  "id": 5,
+  "level": 5,
+  "stamina_base_value": 125,
+  "description": ""
+ },
+ {
+  "id": 6,
+  "level": 6,
+  "stamina_base_value": 130,
+  "description": "稽古での獲得SP1%UP"
+ },
+ {
+  "id": 7,
+  "level": 7,
+  "stamina_base_value": 135,
+  "description": ""
+ },
+ {
+  "id": 8,
+  "level": 8,
+  "stamina_base_value": 145,
+  "description": "公演、協力公演での獲得EXP3%UP"
+ },
+ {
+  "id": 9,
+  "level": 9,
+  "stamina_base_value": 155,
+  "description": ""
+ },
+ {
+  "id": 10,
+  "level": 10,
+  "stamina_base_value": 165,
+  "description": "公演の報酬量3%UP"
+ },
+ {
+  "id": 11,
+  "level": 11,
+  "stamina_base_value": 180,
+  "description": ""
+ },
+ {
+  "id": 12,
+  "level": 12,
+  "stamina_base_value": 195,
+  "description": ""
+ },
+ {
+  "id": 13,
+  "level": 13,
+  "stamina_base_value": 210,
+  "description": ""
+ },
+ {
+  "id": 14,
+  "level": 14,
+  "stamina_base_value": 230,
+  "description": ""
+ },
+ {
+  "id": 15,
+  "level": 15,
+  "stamina_base_value": 250,
+  "description": "稽古での獲得SP1%UP"
+ },
+ {
+  "id": 16,
+  "level": 16,
+  "stamina_base_value": 260,
+  "description": ""
+ },
+ {
+  "id": 17,
+  "level": 17,
+  "stamina_base_value": 270,
+  "description": ""
+ },
+ {
+  "id": 18,
+  "level": 18,
+  "stamina_base_value": 280,
+  "description": ""
+ },
+ {
+  "id": 19,
+  "level": 19,
+  "stamina_base_value": 290,
+  "description": ""
+ },
+ {
+  "id": 20,
+  "level": 20,
+  "stamina_base_value": 300,
+  "description": "稽古での獲得SP2%UP"
+ },
+ {
+  "id": 21,
+  "level": 21,
+  "stamina_base_value": 305,
+  "description": ""
+ },
+ {
+  "id": 22,
+  "level": 22,
+  "stamina_base_value": 310,
+  "description": ""
+ },
+ {
+  "id": 23,
+  "level": 23,
+  "stamina_base_value": 315,
+  "description": ""
+ },
+ {
+  "id": 24,
+  "level": 24,
+  "stamina_base_value": 320,
+  "description": "公演、協力公演での獲得EXP2%UP"
+ },
+ {
+  "id": 25,
+  "level": 25,
+  "stamina_base_value": 325,
+  "description": ""
+ },
+ {
+  "id": 26,
+  "level": 26,
+  "stamina_base_value": 330,
+  "description": ""
+ },
+ {
+  "id": 27,
+  "level": 27,
+  "stamina_base_value": 335,
+  "description": ""
+ },
+ {
+  "id": 28,
+  "level": 28,
+  "stamina_base_value": 340,
+  "description": "公演の報酬量2%UP"
+ },
+ {
+  "id": 29,
+  "level": 29,
+  "stamina_base_value": 345,
+  "description": ""
+ },
+ {
+  "id": 30,
+  "level": 30,
+  "stamina_base_value": 350,
+  "description": "稽古での獲得SP1%UP"
+ },
+ {
+  "id": 31,
+  "level": 31,
+  "stamina_base_value": 355,
+  "description": ""
+ },
+ {
+  "id": 32,
+  "level": 32,
+  "stamina_base_value": 360,
+  "description": "公演、協力公演での獲得EXP3%UP"
+ },
+ {
+  "id": 33,
+  "level": 33,
+  "stamina_base_value": 365,
+  "description": ""
+ },
+ {
+  "id": 34,
+  "level": 34,
+  "stamina_base_value": 370,
+  "description": ""
+ },
+ {
+  "id": 35,
+  "level": 35,
+  "stamina_base_value": 375,
+  "description": ""
+ },
+ {
+  "id": 36,
+  "level": 36,
+  "stamina_base_value": 380,
+  "description": "公演の報酬量3%UP"
+ },
+ {
+  "id": 37,
+  "level": 37,
+  "stamina_base_value": 385,
+  "description": ""
+ },
+ {
+  "id": 38,
+  "level": 38,
+  "stamina_base_value": 390,
+  "description": "稽古での獲得SP1%UP"
+ },
+ {
+  "id": 39,
+  "level": 39,
+  "stamina_base_value": 395,
+  "description": ""
+ },
+ {
+  "id": 40,
+  "level": 40,
+  "stamina_base_value": 400,
+  "description": "稽古での獲得SP2%UP"
+ },
+ {
+  "id": 41,
+  "level": 41,
+  "stamina_base_value": 405,
+  "description": ""
+ },
+ {
+  "id": 42,
+  "level": 42,
+  "stamina_base_value": 410,
+  "description": ""
+ },
+ {
+  "id": 43,
+  "level": 43,
+  "stamina_base_value": 415,
+  "description": "公演、協力公演での獲得EXP2%UP"
+ },
+ {
+  "id": 44,
+  "level": 44,
+  "stamina_base_value": 420,
+  "description": ""
+ },
+ {
+  "id": 45,
+  "level": 45,
+  "stamina_base_value": 425,
+  "description": ""
+ },
+ {
+  "id": 46,
+  "level": 46,
+  "stamina_base_value": 430,
+  "description": "公演の報酬量2%UP"
+ },
+ {
+  "id": 47,
+  "level": 47,
+  "stamina_base_value": 435,
+  "description": ""
+ },
+ {
+  "id": 48,
+  "level": 48,
+  "stamina_base_value": 440,
+  "description": ""
+ },
+ {
+  "id": 49,
+  "level": 49,
+  "stamina_base_value": 445,
+  "description": "稽古での獲得SP1%UP"
+ },
+ {
+  "id": 50,
+  "level": 50,
+  "stamina_base_value": 450,
+  "description": ""
+ },
+ {
+  "id": 51,
+  "level": 51,
+  "stamina_base_value": 455,
+  "description": ""
+ },
+ {
+  "id": 52,
+  "level": 52,
+  "stamina_base_value": 460,
+  "description": ""
+ },
+ {
+  "id": 53,
+  "level": 53,
+  "stamina_base_value": 465,
+  "description": "公演、協力公演での獲得EXP3%UP"
+ },
+ {
+  "id": 54,
+  "level": 54,
+  "stamina_base_value": 470,
+  "description": ""
+ },
+ {
+  "id": 55,
+  "level": 55,
+  "stamina_base_value": 475,
+  "description": ""
+ },
+ {
+  "id": 56,
+  "level": 56,
+  "stamina_base_value": 480,
+  "description": ""
+ },
+ {
+  "id": 57,
+  "level": 57,
+  "stamina_base_value": 485,
+  "description": "公演の報酬量3%UP"
+ },
+ {
+  "id": 58,
+  "level": 58,
+  "stamina_base_value": 490,
+  "description": ""
+ },
+ {
+  "id": 59,
+  "level": 59,
+  "stamina_base_value": 495,
+  "description": ""
+ },
+ {
+  "id": 60,
+  "level": 60,
+  "stamina_base_value": 500,
+  "description": "稽古での獲得SP3%UP"
+ }
+]

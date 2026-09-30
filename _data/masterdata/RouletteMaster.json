@@ -1,0 +1,9510 @@
+[
+ {
+  "id": 20011,
+  "roulette_event_master_id": 2001,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132001,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2001101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20012,
+  "roulette_event_master_id": 2001,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132002,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2001201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2001212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132001,
+      "thing_type": 1,
+      "thing_quantity": 500
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132003,
+      "thing_type": 1,
+      "thing_quantity": 3
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20013,
+  "roulette_event_master_id": 2001,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132003,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20013",
+  "prizes": [
+   {
+    "id": 2001301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2001302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 111035,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2001303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2001304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2001305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2001306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2001307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 111035,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2001308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2001309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2001310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 111035,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2001311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2001312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 132002,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132001,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     },
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20021,
+  "roulette_event_master_id": 2002,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132004,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2002101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20022,
+  "roulette_event_master_id": 2002,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132005,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2002201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2002212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132004,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132006,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20023,
+  "roulette_event_master_id": 2002,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132006,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2002301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2002302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2002303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2002304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2002305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2002306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2002307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2002308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2002309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2002310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2002311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2002312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132004,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20031,
+  "roulette_event_master_id": 2003,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132007,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2003101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20032,
+  "roulette_event_master_id": 2003,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132008,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2003201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2003212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132007,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132009,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20033,
+  "roulette_event_master_id": 2003,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132009,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2003301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2003302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2003303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2003304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2003305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2003306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2003307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2003308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2003309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2003310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2003311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2003312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132007,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20041,
+  "roulette_event_master_id": 2004,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132010,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2004101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20042,
+  "roulette_event_master_id": 2004,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132011,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2004201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2004212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132010,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132012,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20043,
+  "roulette_event_master_id": 2004,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132012,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2004301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2004302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2004303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2004304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2004305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2004306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2004307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2004308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2004309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2004310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2004311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2004312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132010,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20051,
+  "roulette_event_master_id": 2005,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132013,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2005101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20052,
+  "roulette_event_master_id": 2005,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132014,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2005201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2005212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132013,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132015,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20053,
+  "roulette_event_master_id": 2005,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132015,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2005301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2005302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2005303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2005304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2005305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2005306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2005307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2005308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2005309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2005310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2005311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2005312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132013,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20061,
+  "roulette_event_master_id": 2006,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132016,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2006101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20062,
+  "roulette_event_master_id": 2006,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132017,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2006201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2006212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132016,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132018,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20063,
+  "roulette_event_master_id": 2006,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132018,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2006301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2006302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2006303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2006304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2006305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2006306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2006307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2006308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2006309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2006310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2006311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2006312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132016,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20071,
+  "roulette_event_master_id": 2007,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132019,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2007101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20072,
+  "roulette_event_master_id": 2007,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132020,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2007201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2007212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132019,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132021,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20073,
+  "roulette_event_master_id": 2007,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132021,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2007301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2007302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2007303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2007304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2007305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2007306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2007307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2007308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2007309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2007310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2007311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2007312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132019,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20081,
+  "roulette_event_master_id": 2008,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132022,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2008101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20082,
+  "roulette_event_master_id": 2008,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132023,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2008201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2008212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132022,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132024,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20083,
+  "roulette_event_master_id": 2008,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132024,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2008301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2008302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2008303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2008304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2008305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2008306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2008307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2008308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2008309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2008310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2008311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2008312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132022,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20091,
+  "roulette_event_master_id": 2009,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132025,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2009101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20092,
+  "roulette_event_master_id": 2009,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132026,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2009201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2009212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132025,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132027,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20093,
+  "roulette_event_master_id": 2009,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132027,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2009301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2009302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2009303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2009304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2009305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2009306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2009307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2009308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2009309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2009310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2009311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2009312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132025,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20101,
+  "roulette_event_master_id": 2010,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132028,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2010101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20102,
+  "roulette_event_master_id": 2010,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132029,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2010201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2010212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132028,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132030,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20103,
+  "roulette_event_master_id": 2010,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132030,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2010301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2010302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2010303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2010304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2010305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2010306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2010307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2010308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2010309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2010310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2010311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2010312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132028,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20111,
+  "roulette_event_master_id": 2011,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132031,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2011101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20112,
+  "roulette_event_master_id": 2011,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132032,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2011201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2011212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132031,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132033,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20113,
+  "roulette_event_master_id": 2011,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132033,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2011301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2011302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2011303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2011304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2011305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2011306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2011307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2011308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2011309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2011310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2011311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2011312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132031,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20121,
+  "roulette_event_master_id": 2012,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132034,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2012101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20122,
+  "roulette_event_master_id": 2012,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132035,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2012201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2012212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132034,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132036,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20123,
+  "roulette_event_master_id": 2012,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132036,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2012301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2012302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2012303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2012304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2012305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2012306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2012307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2012308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2012309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2012310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2012311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2012312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132034,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20131,
+  "roulette_event_master_id": 2013,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132037,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2013101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20132,
+  "roulette_event_master_id": 2013,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132038,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2013201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2013212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132037,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132039,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20133,
+  "roulette_event_master_id": 2013,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132039,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2013301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2013302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2013303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2013304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2013305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2013306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2013307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2013308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2013309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2013310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2013311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2013312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132037,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20141,
+  "roulette_event_master_id": 2014,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132040,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2014101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20142,
+  "roulette_event_master_id": 2014,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132041,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2014201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2014212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132040,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132042,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20143,
+  "roulette_event_master_id": 2014,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132042,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2014301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2014302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2014303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2014304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2014305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2014306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2014307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2014308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2014309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2014310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2014311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2014312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132040,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20151,
+  "roulette_event_master_id": 2015,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132043,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2015101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20152,
+  "roulette_event_master_id": 2015,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132044,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2015201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2015212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132043,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132045,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20153,
+  "roulette_event_master_id": 2015,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132045,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2015301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2015302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2015303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2015304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2015305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2015306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2015307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2015308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2015309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2015310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2015311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2015312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132043,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20161,
+  "roulette_event_master_id": 2016,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132046,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2016101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20162,
+  "roulette_event_master_id": 2016,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132047,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2016201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2016212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132046,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132048,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20163,
+  "roulette_event_master_id": 2016,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132048,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2016301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2016302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2016303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2016304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2016305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2016306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2016307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2016308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2016309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2016310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2016311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2016312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132046,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20171,
+  "roulette_event_master_id": 2017,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132049,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2017101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20172,
+  "roulette_event_master_id": 2017,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132050,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2017201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2017212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132049,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132051,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20173,
+  "roulette_event_master_id": 2017,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132051,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2017301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2017302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2017303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2017304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2017305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2017306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2017307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2017308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2017309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2017310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2017311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2017312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132049,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ },
+ {
+  "id": 20181,
+  "roulette_event_master_id": 2018,
+  "order": 1,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132052,
+  "required_ticket_quantity": 10,
+  "roulette_image_path": "20011",
+  "prizes": [
+   {
+    "id": 2018101,
+    "slot": 1,
+    "acquire_point_quantity": 250,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018102,
+    "slot": 2,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018103,
+    "slot": 3,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018104,
+    "slot": 4,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018105,
+    "slot": 5,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018106,
+    "slot": 6,
+    "acquire_point_quantity": 200,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018107,
+    "slot": 7,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018108,
+    "slot": 8,
+    "acquire_point_quantity": 150,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018109,
+    "slot": 9,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018110,
+    "slot": 10,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018111,
+    "slot": 11,
+    "acquire_point_quantity": 120,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018112,
+    "slot": 12,
+    "acquire_point_quantity": 100,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 20,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 10
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 250,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 750,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 20
+     }
+    ]
+   },
+   {
+    "roll_count": 1000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 1500,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 30
+     }
+    ]
+   },
+   {
+    "roll_count": 2000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 3000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 40
+     }
+    ]
+   },
+   {
+    "roll_count": 5000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 8000,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   },
+   {
+    "roll_count": 10000,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット"
+ },
+ {
+  "id": 20182,
+  "roulette_event_master_id": 2018,
+  "order": 2,
+  "roulette_type": 1,
+  "roulette_ticket_item_master_id": 132053,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20012",
+  "prizes": [
+   {
+    "id": 2018201,
+    "slot": 1,
+    "acquire_point_quantity": 5000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018202,
+    "slot": 2,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018203,
+    "slot": 3,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018204,
+    "slot": 4,
+    "acquire_point_quantity": 2500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018205,
+    "slot": 5,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018206,
+    "slot": 6,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018207,
+    "slot": 7,
+    "acquire_point_quantity": 2000,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018208,
+    "slot": 8,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018209,
+    "slot": 9,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018210,
+    "slot": 10,
+    "acquire_point_quantity": 3500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018211,
+    "slot": 11,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   },
+   {
+    "id": 2018212,
+    "slot": 12,
+    "acquire_point_quantity": 1500,
+    "acquire_prize_thing": null
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 50,
+    "rewards": [
+     {
+      "thing_id": 132052,
+      "thing_type": 1,
+      "thing_quantity": 500
+     }
+    ]
+   },
+   {
+    "roll_count": 100,
+    "rewards": [
+     {
+      "thing_id": 140000,
+      "thing_type": 1,
+      "thing_quantity": 100
+     }
+    ]
+   },
+   {
+    "roll_count": 500,
+    "rewards": [
+     {
+      "thing_id": 132054,
+      "thing_type": 1,
+      "thing_quantity": 3
+     }
+    ]
+   }
+  ],
+  "name": "ポイントルーレット【SP】"
+ },
+ {
+  "id": 20183,
+  "roulette_event_master_id": 2018,
+  "order": 3,
+  "roulette_type": 2,
+  "roulette_ticket_item_master_id": 132054,
+  "required_ticket_quantity": 1,
+  "roulette_image_path": "20014",
+  "prizes": [
+   {
+    "id": 2018301,
+    "slot": 1,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 150000,
+     "thing_type": 1,
+     "thing_quantity": 30
+    }
+   },
+   {
+    "id": 2018302,
+    "slot": 2,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110002,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2018303,
+    "slot": 3,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2018304,
+    "slot": 4,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130012,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   },
+   {
+    "id": 2018305,
+    "slot": 5,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 110003,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2018306,
+    "slot": 6,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2018307,
+    "slot": 7,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2018308,
+    "slot": 8,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130011,
+     "thing_type": 1,
+     "thing_quantity": 500
+    }
+   },
+   {
+    "id": 2018309,
+    "slot": 9,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130071,
+     "thing_type": 1,
+     "thing_quantity": 3
+    }
+   },
+   {
+    "id": 2018310,
+    "slot": 10,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 0,
+     "thing_type": 13,
+     "thing_quantity": 200
+    }
+   },
+   {
+    "id": 2018311,
+    "slot": 11,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 140000,
+     "thing_type": 1,
+     "thing_quantity": 100
+    }
+   },
+   {
+    "id": 2018312,
+    "slot": 12,
+    "acquire_point_quantity": null,
+    "acquire_prize_thing": {
+     "thing_id": 130064,
+     "thing_type": 1,
+     "thing_quantity": 50
+    }
+   }
+  ],
+  "roll_rewards": [
+   {
+    "roll_count": 1,
+    "rewards": [
+     {
+      "thing_id": 132052,
+      "thing_type": 1,
+      "thing_quantity": 1000
+     }
+    ]
+   },
+   {
+    "roll_count": 2,
+    "rewards": [
+     {
+      "thing_id": 130013,
+      "thing_type": 1,
+      "thing_quantity": 2
+     }
+    ]
+   },
+   {
+    "roll_count": 5,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 300
+     }
+    ]
+   },
+   {
+    "roll_count": 10,
+    "rewards": [
+     {
+      "thing_id": 150000,
+      "thing_type": 1,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ],
+  "name": "ダイスタールーレット"
+ }
+]

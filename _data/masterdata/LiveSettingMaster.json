@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "name": "公演",
+  "live_type": 1,
+  "live_drop_frame_group_master_id": 1
+ },
+ {
+  "id": 2,
+  "name": "稽古",
+  "live_type": 3,
+  "live_drop_frame_group_master_id": 2
+ },
+ {
+  "id": 11,
+  "name": "シリウス劇場",
+  "live_type": 2,
+  "live_drop_frame_group_master_id": 11
+ },
+ {
+  "id": 12,
+  "name": "Edenホール",
+  "live_type": 2,
+  "live_drop_frame_group_master_id": 12
+ },
+ {
+  "id": 13,
+  "name": "銀河シアター",
+  "live_type": 2,
+  "live_drop_frame_group_master_id": 13
+ },
+ {
+  "id": 14,
+  "name": "電姫空間",
+  "live_type": 2,
+  "live_drop_frame_group_master_id": 14
+ },
+ {
+  "id": 15,
+  "name": "電姫空間【Re:】",
+  "live_type": 2,
+  "live_drop_frame_group_master_id": 15
+ },
+ {
+  "id": 21,
+  "name": "なかまと挑戦",
+  "live_type": 2,
+  "live_drop_frame_group_master_id": 21
+ }
+]

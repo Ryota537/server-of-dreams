@@ -1,0 +1,182 @@
+[
+ {
+  "id": 1,
+  "achivement_rate_rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 30,
+    "difficulty": 1,
+    "achivement_rate": "80.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 30,
+    "difficulty": 1,
+    "achivement_rate": "90.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 30,
+    "difficulty": 1,
+    "achivement_rate": "95.00"
+   },
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 20000,
+    "difficulty": 1,
+    "achivement_rate": "98.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 10,
+    "difficulty": 1,
+    "achivement_rate": "100.00"
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 30,
+    "difficulty": 2,
+    "achivement_rate": "80.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 30,
+    "difficulty": 2,
+    "achivement_rate": "90.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 30,
+    "difficulty": 2,
+    "achivement_rate": "95.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 30,
+    "difficulty": 2,
+    "achivement_rate": "98.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 10,
+    "difficulty": 2,
+    "achivement_rate": "100.00"
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 30,
+    "difficulty": 3,
+    "achivement_rate": "80.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 30,
+    "difficulty": 3,
+    "achivement_rate": "90.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 30,
+    "difficulty": 3,
+    "achivement_rate": "95.00"
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 30,
+    "difficulty": 3,
+    "achivement_rate": "98.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 10,
+    "difficulty": 3,
+    "achivement_rate": "100.00"
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 30,
+    "difficulty": 4,
+    "achivement_rate": "80.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 30,
+    "difficulty": 4,
+    "achivement_rate": "90.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 30,
+    "difficulty": 4,
+    "achivement_rate": "95.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 10,
+    "difficulty": 4,
+    "achivement_rate": "98.00"
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 10,
+    "difficulty": 4,
+    "achivement_rate": "100.00"
+   },
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 2000,
+    "difficulty": 5,
+    "achivement_rate": "80.00"
+   },
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 3000,
+    "difficulty": 5,
+    "achivement_rate": "90.00"
+   },
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 5000,
+    "difficulty": 5,
+    "achivement_rate": "95.00"
+   },
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 10000,
+    "difficulty": 5,
+    "achivement_rate": "98.00"
+   },
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 10000,
+    "difficulty": 5,
+    "achivement_rate": "100.00"
+   }
+  ]
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "name": "シリウス",
+  "companies": 1,
+  "description": "",
+  "is_other": false
+ },
+ {
+  "id": 2,
+  "name": "Eden",
+  "companies": 2,
+  "description": "",
+  "is_other": false
+ },
+ {
+  "id": 3,
+  "name": "銀河座",
+  "companies": 3,
+  "description": "",
+  "is_other": false
+ },
+ {
+  "id": 4,
+  "name": "劇団電姫",
+  "companies": 4,
+  "description": "",
+  "is_other": false
+ },
+ {
+  "id": 900,
+  "name": "ラブライブサンシャイン",
+  "companies": 900,
+  "description": "",
+  "is_other": true
+ }
+]

@@ -1,0 +1,4202 @@
+[
+ {
+  "id": 110101,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110101
+ },
+ {
+  "id": 110102,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 101,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110102
+ },
+ {
+  "id": 110103,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 101,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110103
+ },
+ {
+  "id": 110201,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 102,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110201
+ },
+ {
+  "id": 110202,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 102,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110202
+ },
+ {
+  "id": 110203,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 102,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110203
+ },
+ {
+  "id": 110301,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 103,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110301
+ },
+ {
+  "id": 110302,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 103,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110302
+ },
+ {
+  "id": 110303,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 103,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110303
+ },
+ {
+  "id": 110401,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 104,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110401
+ },
+ {
+  "id": 110402,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 104,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110402
+ },
+ {
+  "id": 110403,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 104,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110403
+ },
+ {
+  "id": 110501,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 105,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110501
+ },
+ {
+  "id": 110502,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110502
+ },
+ {
+  "id": 110503,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 105,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110503
+ },
+ {
+  "id": 110601,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 106,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110601
+ },
+ {
+  "id": 110602,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 106,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110602
+ },
+ {
+  "id": 110603,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 106,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 110603
+ },
+ {
+  "id": 120101,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120101
+ },
+ {
+  "id": 120102,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 201,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120102
+ },
+ {
+  "id": 120103,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 201,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120103
+ },
+ {
+  "id": 120201,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 202,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120201
+ },
+ {
+  "id": 120202,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 202,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120202
+ },
+ {
+  "id": 120203,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 202,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120203
+ },
+ {
+  "id": 120301,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 203,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120301
+ },
+ {
+  "id": 120302,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 203,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120302
+ },
+ {
+  "id": 120303,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 203,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120303
+ },
+ {
+  "id": 120401,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 204,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120401
+ },
+ {
+  "id": 120402,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 204,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120402
+ },
+ {
+  "id": 120403,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 204,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120403
+ },
+ {
+  "id": 120501,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 205,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120501
+ },
+ {
+  "id": 120502,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120502
+ },
+ {
+  "id": 120503,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 205,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 120503
+ },
+ {
+  "id": 130101,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130101
+ },
+ {
+  "id": 130102,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 301,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130102
+ },
+ {
+  "id": 130103,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 301,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130103
+ },
+ {
+  "id": 130201,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 302,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130201
+ },
+ {
+  "id": 130202,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 302,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130202
+ },
+ {
+  "id": 130203,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 302,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130203
+ },
+ {
+  "id": 130301,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 303,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130301
+ },
+ {
+  "id": 130302,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 303,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130302
+ },
+ {
+  "id": 130303,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 303,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130303
+ },
+ {
+  "id": 130401,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 304,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130401
+ },
+ {
+  "id": 130402,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 304,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130402
+ },
+ {
+  "id": 130403,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 304,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130403
+ },
+ {
+  "id": 130501,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 305,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130501
+ },
+ {
+  "id": 130502,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130502
+ },
+ {
+  "id": 130503,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 305,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 130503
+ },
+ {
+  "id": 140101,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140101
+ },
+ {
+  "id": 140102,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 401,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140102
+ },
+ {
+  "id": 140103,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 401,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140103
+ },
+ {
+  "id": 140201,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 402,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140201
+ },
+ {
+  "id": 140202,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 402,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140202
+ },
+ {
+  "id": 140203,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 402,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140203
+ },
+ {
+  "id": 140301,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 403,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140301
+ },
+ {
+  "id": 140302,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 403,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140302
+ },
+ {
+  "id": 140303,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 403,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140303
+ },
+ {
+  "id": 140401,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 404,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140401
+ },
+ {
+  "id": 140402,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 404,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140402
+ },
+ {
+  "id": 140403,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 404,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140403
+ },
+ {
+  "id": 140501,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 405,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140501
+ },
+ {
+  "id": 140502,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140502
+ },
+ {
+  "id": 140503,
+  "character_point_event_master_id": 1,
+  "character_base_master_id": 405,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 140503
+ },
+ {
+  "id": 210101,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210101
+ },
+ {
+  "id": 210102,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 101,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210102
+ },
+ {
+  "id": 210103,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 101,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210103
+ },
+ {
+  "id": 210201,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 102,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210201
+ },
+ {
+  "id": 210202,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 102,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210202
+ },
+ {
+  "id": 210203,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 102,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210203
+ },
+ {
+  "id": 210301,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 103,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210301
+ },
+ {
+  "id": 210302,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 103,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210302
+ },
+ {
+  "id": 210303,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 103,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210303
+ },
+ {
+  "id": 210401,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 104,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210401
+ },
+ {
+  "id": 210402,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 104,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210402
+ },
+ {
+  "id": 210403,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 104,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210403
+ },
+ {
+  "id": 210501,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 105,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210501
+ },
+ {
+  "id": 210502,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210502
+ },
+ {
+  "id": 210503,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 105,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210503
+ },
+ {
+  "id": 210601,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 106,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210601
+ },
+ {
+  "id": 210602,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 106,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210602
+ },
+ {
+  "id": 210603,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 106,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 210603
+ },
+ {
+  "id": 220101,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220101
+ },
+ {
+  "id": 220102,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 201,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220102
+ },
+ {
+  "id": 220103,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 201,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220103
+ },
+ {
+  "id": 220201,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 202,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220201
+ },
+ {
+  "id": 220202,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 202,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220202
+ },
+ {
+  "id": 220203,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 202,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220203
+ },
+ {
+  "id": 220301,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 203,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220301
+ },
+ {
+  "id": 220302,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 203,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220302
+ },
+ {
+  "id": 220303,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 203,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220303
+ },
+ {
+  "id": 220401,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 204,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220401
+ },
+ {
+  "id": 220402,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 204,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220402
+ },
+ {
+  "id": 220403,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 204,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220403
+ },
+ {
+  "id": 220501,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 205,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220501
+ },
+ {
+  "id": 220502,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220502
+ },
+ {
+  "id": 220503,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 205,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 220503
+ },
+ {
+  "id": 230101,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230101
+ },
+ {
+  "id": 230102,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 301,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230102
+ },
+ {
+  "id": 230103,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 301,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230103
+ },
+ {
+  "id": 230201,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 302,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230201
+ },
+ {
+  "id": 230202,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 302,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230202
+ },
+ {
+  "id": 230203,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 302,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230203
+ },
+ {
+  "id": 230301,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 303,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230301
+ },
+ {
+  "id": 230302,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 303,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230302
+ },
+ {
+  "id": 230303,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 303,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230303
+ },
+ {
+  "id": 230401,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 304,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230401
+ },
+ {
+  "id": 230402,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 304,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230402
+ },
+ {
+  "id": 230403,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 304,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230403
+ },
+ {
+  "id": 230501,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 305,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230501
+ },
+ {
+  "id": 230502,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230502
+ },
+ {
+  "id": 230503,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 305,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 230503
+ },
+ {
+  "id": 240101,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240101
+ },
+ {
+  "id": 240102,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 401,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240102
+ },
+ {
+  "id": 240103,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 401,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240103
+ },
+ {
+  "id": 240201,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 402,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240201
+ },
+ {
+  "id": 240202,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 402,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240202
+ },
+ {
+  "id": 240203,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 402,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240203
+ },
+ {
+  "id": 240301,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 403,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240301
+ },
+ {
+  "id": 240302,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 403,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240302
+ },
+ {
+  "id": 240303,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 403,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240303
+ },
+ {
+  "id": 240401,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 404,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240401
+ },
+ {
+  "id": 240402,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 404,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240402
+ },
+ {
+  "id": 240403,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 404,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240403
+ },
+ {
+  "id": 240501,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 405,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240501
+ },
+ {
+  "id": 240502,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240502
+ },
+ {
+  "id": 240503,
+  "character_point_event_master_id": 2,
+  "character_base_master_id": 405,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 240503
+ },
+ {
+  "id": 310101,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310101
+ },
+ {
+  "id": 310102,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 101,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310102
+ },
+ {
+  "id": 310103,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 101,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310103
+ },
+ {
+  "id": 310201,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 102,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310201
+ },
+ {
+  "id": 310202,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 102,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310202
+ },
+ {
+  "id": 310203,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 102,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310203
+ },
+ {
+  "id": 310301,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 103,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310301
+ },
+ {
+  "id": 310302,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 103,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310302
+ },
+ {
+  "id": 310303,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 103,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310303
+ },
+ {
+  "id": 310401,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 104,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310401
+ },
+ {
+  "id": 310402,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 104,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310402
+ },
+ {
+  "id": 310403,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 104,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310403
+ },
+ {
+  "id": 310501,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 105,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310501
+ },
+ {
+  "id": 310502,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310502
+ },
+ {
+  "id": 310503,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 105,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310503
+ },
+ {
+  "id": 310601,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 106,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310601
+ },
+ {
+  "id": 310602,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 106,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310602
+ },
+ {
+  "id": 310603,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 106,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 310603
+ },
+ {
+  "id": 320101,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320101
+ },
+ {
+  "id": 320102,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 201,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320102
+ },
+ {
+  "id": 320103,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 201,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320103
+ },
+ {
+  "id": 320201,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 202,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320201
+ },
+ {
+  "id": 320202,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 202,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320202
+ },
+ {
+  "id": 320203,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 202,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320203
+ },
+ {
+  "id": 320301,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 203,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320301
+ },
+ {
+  "id": 320302,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 203,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320302
+ },
+ {
+  "id": 320303,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 203,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320303
+ },
+ {
+  "id": 320401,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 204,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320401
+ },
+ {
+  "id": 320402,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 204,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320402
+ },
+ {
+  "id": 320403,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 204,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320403
+ },
+ {
+  "id": 320501,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 205,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320501
+ },
+ {
+  "id": 320502,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320502
+ },
+ {
+  "id": 320503,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 205,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 320503
+ },
+ {
+  "id": 330101,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330101
+ },
+ {
+  "id": 330102,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 301,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330102
+ },
+ {
+  "id": 330103,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 301,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330103
+ },
+ {
+  "id": 330201,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 302,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330201
+ },
+ {
+  "id": 330202,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 302,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330202
+ },
+ {
+  "id": 330203,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 302,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330203
+ },
+ {
+  "id": 330301,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 303,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330301
+ },
+ {
+  "id": 330302,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 303,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330302
+ },
+ {
+  "id": 330303,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 303,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330303
+ },
+ {
+  "id": 330401,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 304,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330401
+ },
+ {
+  "id": 330402,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 304,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330402
+ },
+ {
+  "id": 330403,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 304,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330403
+ },
+ {
+  "id": 330501,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 305,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330501
+ },
+ {
+  "id": 330502,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330502
+ },
+ {
+  "id": 330503,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 305,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 330503
+ },
+ {
+  "id": 340101,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340101
+ },
+ {
+  "id": 340102,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 401,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340102
+ },
+ {
+  "id": 340103,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 401,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340103
+ },
+ {
+  "id": 340201,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 402,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340201
+ },
+ {
+  "id": 340202,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 402,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340202
+ },
+ {
+  "id": 340203,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 402,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340203
+ },
+ {
+  "id": 340301,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 403,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340301
+ },
+ {
+  "id": 340302,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 403,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340302
+ },
+ {
+  "id": 340303,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 403,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340303
+ },
+ {
+  "id": 340401,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 404,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340401
+ },
+ {
+  "id": 340402,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 404,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340402
+ },
+ {
+  "id": 340403,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 404,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340403
+ },
+ {
+  "id": 340501,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 405,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340501
+ },
+ {
+  "id": 340502,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340502
+ },
+ {
+  "id": 340503,
+  "character_point_event_master_id": 3,
+  "character_base_master_id": 405,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 340503
+ },
+ {
+  "id": 410101,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410101
+ },
+ {
+  "id": 410102,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 101,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410102
+ },
+ {
+  "id": 410103,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 101,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410103
+ },
+ {
+  "id": 410201,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 102,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410201
+ },
+ {
+  "id": 410202,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 102,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410202
+ },
+ {
+  "id": 410203,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 102,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410203
+ },
+ {
+  "id": 410301,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 103,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410301
+ },
+ {
+  "id": 410302,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 103,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410302
+ },
+ {
+  "id": 410303,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 103,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410303
+ },
+ {
+  "id": 410401,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 104,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410401
+ },
+ {
+  "id": 410402,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 104,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410402
+ },
+ {
+  "id": 410403,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 104,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410403
+ },
+ {
+  "id": 410501,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 105,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410501
+ },
+ {
+  "id": 410502,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410502
+ },
+ {
+  "id": 410503,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 105,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410503
+ },
+ {
+  "id": 410601,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 106,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410601
+ },
+ {
+  "id": 410602,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 106,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410602
+ },
+ {
+  "id": 410603,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 106,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 410603
+ },
+ {
+  "id": 420101,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420101
+ },
+ {
+  "id": 420102,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 201,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420102
+ },
+ {
+  "id": 420103,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 201,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420103
+ },
+ {
+  "id": 420201,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 202,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420201
+ },
+ {
+  "id": 420202,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 202,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420202
+ },
+ {
+  "id": 420203,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 202,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420203
+ },
+ {
+  "id": 420301,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 203,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420301
+ },
+ {
+  "id": 420302,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 203,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420302
+ },
+ {
+  "id": 420303,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 203,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420303
+ },
+ {
+  "id": 420401,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 204,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420401
+ },
+ {
+  "id": 420402,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 204,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420402
+ },
+ {
+  "id": 420403,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 204,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420403
+ },
+ {
+  "id": 420501,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 205,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420501
+ },
+ {
+  "id": 420502,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420502
+ },
+ {
+  "id": 420503,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 205,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 420503
+ },
+ {
+  "id": 430101,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430101
+ },
+ {
+  "id": 430102,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 301,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430102
+ },
+ {
+  "id": 430103,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 301,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430103
+ },
+ {
+  "id": 430201,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 302,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430201
+ },
+ {
+  "id": 430202,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 302,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430202
+ },
+ {
+  "id": 430203,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 302,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430203
+ },
+ {
+  "id": 430301,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 303,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430301
+ },
+ {
+  "id": 430302,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 303,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430302
+ },
+ {
+  "id": 430303,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 303,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430303
+ },
+ {
+  "id": 430401,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 304,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430401
+ },
+ {
+  "id": 430402,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 304,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430402
+ },
+ {
+  "id": 430403,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 304,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430403
+ },
+ {
+  "id": 430501,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 305,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430501
+ },
+ {
+  "id": 430502,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430502
+ },
+ {
+  "id": 430503,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 305,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 430503
+ },
+ {
+  "id": 440101,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440101
+ },
+ {
+  "id": 440102,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 401,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440102
+ },
+ {
+  "id": 440103,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 401,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440103
+ },
+ {
+  "id": 440201,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 402,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440201
+ },
+ {
+  "id": 440202,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 402,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440202
+ },
+ {
+  "id": 440203,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 402,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440203
+ },
+ {
+  "id": 440301,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 403,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440301
+ },
+ {
+  "id": 440302,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 403,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440302
+ },
+ {
+  "id": 440303,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 403,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440303
+ },
+ {
+  "id": 440401,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 404,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440401
+ },
+ {
+  "id": 440402,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 404,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440402
+ },
+ {
+  "id": 440403,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 404,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440403
+ },
+ {
+  "id": 440501,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 405,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440501
+ },
+ {
+  "id": 440502,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440502
+ },
+ {
+  "id": 440503,
+  "character_point_event_master_id": 4,
+  "character_base_master_id": 405,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 440503
+ },
+ {
+  "id": 510101,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510101
+ },
+ {
+  "id": 510102,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 101,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510102
+ },
+ {
+  "id": 510103,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 101,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510103
+ },
+ {
+  "id": 510201,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 102,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510201
+ },
+ {
+  "id": 510202,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 102,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510202
+ },
+ {
+  "id": 510203,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 102,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510203
+ },
+ {
+  "id": 510301,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 103,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510301
+ },
+ {
+  "id": 510302,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 103,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510302
+ },
+ {
+  "id": 510303,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 103,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510303
+ },
+ {
+  "id": 510401,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 104,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510401
+ },
+ {
+  "id": 510402,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 104,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510402
+ },
+ {
+  "id": 510403,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 104,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510403
+ },
+ {
+  "id": 510501,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 105,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510501
+ },
+ {
+  "id": 510502,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510502
+ },
+ {
+  "id": 510503,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 105,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510503
+ },
+ {
+  "id": 510601,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 106,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510601
+ },
+ {
+  "id": 510602,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 106,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510602
+ },
+ {
+  "id": 510603,
+  "character_point_event_master_id": 5,
+  "character_base_master_id": 106,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 510603
+ },
+ {
+  "id": 630101,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630101
+ },
+ {
+  "id": 630102,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 301,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630102
+ },
+ {
+  "id": 630103,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 301,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630103
+ },
+ {
+  "id": 630201,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 302,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630201
+ },
+ {
+  "id": 630202,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 302,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630202
+ },
+ {
+  "id": 630203,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 302,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630203
+ },
+ {
+  "id": 630301,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 303,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630301
+ },
+ {
+  "id": 630302,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 303,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630302
+ },
+ {
+  "id": 630303,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 303,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630303
+ },
+ {
+  "id": 630401,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 304,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630401
+ },
+ {
+  "id": 630402,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 304,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630402
+ },
+ {
+  "id": 630403,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 304,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630403
+ },
+ {
+  "id": 630501,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 305,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630501
+ },
+ {
+  "id": 630502,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630502
+ },
+ {
+  "id": 630503,
+  "character_point_event_master_id": 6,
+  "character_base_master_id": 305,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 630503
+ },
+ {
+  "id": 710101,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710101
+ },
+ {
+  "id": 710102,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 101,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710102
+ },
+ {
+  "id": 710103,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 101,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710103
+ },
+ {
+  "id": 710201,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 102,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710201
+ },
+ {
+  "id": 710202,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 102,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710202
+ },
+ {
+  "id": 710203,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 102,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710203
+ },
+ {
+  "id": 710301,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 103,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710301
+ },
+ {
+  "id": 710302,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 103,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710302
+ },
+ {
+  "id": 710303,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 103,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710303
+ },
+ {
+  "id": 710401,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 104,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710401
+ },
+ {
+  "id": 710402,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 104,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710402
+ },
+ {
+  "id": 710403,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 104,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710403
+ },
+ {
+  "id": 710501,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 105,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710501
+ },
+ {
+  "id": 710502,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710502
+ },
+ {
+  "id": 710503,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 105,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710503
+ },
+ {
+  "id": 710601,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 106,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710601
+ },
+ {
+  "id": 710602,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 106,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710602
+ },
+ {
+  "id": 710603,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 106,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 710603
+ },
+ {
+  "id": 720101,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720101
+ },
+ {
+  "id": 720102,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 201,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720102
+ },
+ {
+  "id": 720103,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 201,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720103
+ },
+ {
+  "id": 720201,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 202,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720201
+ },
+ {
+  "id": 720202,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 202,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720202
+ },
+ {
+  "id": 720203,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 202,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720203
+ },
+ {
+  "id": 720301,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 203,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720301
+ },
+ {
+  "id": 720302,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 203,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720302
+ },
+ {
+  "id": 720303,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 203,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720303
+ },
+ {
+  "id": 720401,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 204,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720401
+ },
+ {
+  "id": 720402,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 204,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720402
+ },
+ {
+  "id": 720403,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 204,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720403
+ },
+ {
+  "id": 720501,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 205,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720501
+ },
+ {
+  "id": 720502,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720502
+ },
+ {
+  "id": 720503,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 205,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 720503
+ },
+ {
+  "id": 730101,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730101
+ },
+ {
+  "id": 730102,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 301,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730102
+ },
+ {
+  "id": 730103,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 301,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730103
+ },
+ {
+  "id": 730201,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 302,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730201
+ },
+ {
+  "id": 730202,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 302,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730202
+ },
+ {
+  "id": 730203,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 302,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730203
+ },
+ {
+  "id": 730301,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 303,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730301
+ },
+ {
+  "id": 730302,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 303,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730302
+ },
+ {
+  "id": 730303,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 303,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730303
+ },
+ {
+  "id": 730401,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 304,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730401
+ },
+ {
+  "id": 730402,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 304,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730402
+ },
+ {
+  "id": 730403,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 304,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730403
+ },
+ {
+  "id": 730501,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 305,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730501
+ },
+ {
+  "id": 730502,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730502
+ },
+ {
+  "id": 730503,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 305,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 730503
+ },
+ {
+  "id": 740101,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740101
+ },
+ {
+  "id": 740102,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 401,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740102
+ },
+ {
+  "id": 740103,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 401,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740103
+ },
+ {
+  "id": 740201,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 402,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740201
+ },
+ {
+  "id": 740202,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 402,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740202
+ },
+ {
+  "id": 740203,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 402,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740203
+ },
+ {
+  "id": 740301,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 403,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740301
+ },
+ {
+  "id": 740302,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 403,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740302
+ },
+ {
+  "id": 740303,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 403,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740303
+ },
+ {
+  "id": 740401,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 404,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740401
+ },
+ {
+  "id": 740402,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 404,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740402
+ },
+ {
+  "id": 740403,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 404,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740403
+ },
+ {
+  "id": 740501,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 405,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740501
+ },
+ {
+  "id": 740502,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740502
+ },
+ {
+  "id": 740503,
+  "character_point_event_master_id": 7,
+  "character_base_master_id": 405,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 740503
+ },
+ {
+  "id": 840101,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840101
+ },
+ {
+  "id": 840102,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 401,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840102
+ },
+ {
+  "id": 840103,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 401,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840103
+ },
+ {
+  "id": 840201,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 402,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840201
+ },
+ {
+  "id": 840202,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 402,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840202
+ },
+ {
+  "id": 840203,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 402,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840203
+ },
+ {
+  "id": 840301,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 403,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840301
+ },
+ {
+  "id": 840302,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 403,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840302
+ },
+ {
+  "id": 840303,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 403,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840303
+ },
+ {
+  "id": 840401,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 404,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840401
+ },
+ {
+  "id": 840402,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 404,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840402
+ },
+ {
+  "id": 840403,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 404,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840403
+ },
+ {
+  "id": 840501,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 405,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840501
+ },
+ {
+  "id": 840502,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840502
+ },
+ {
+  "id": 840503,
+  "character_point_event_master_id": 8,
+  "character_base_master_id": 405,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 840503
+ },
+ {
+  "id": 920101,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920101
+ },
+ {
+  "id": 920102,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 201,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920102
+ },
+ {
+  "id": 920103,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 201,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920103
+ },
+ {
+  "id": 920201,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 202,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920201
+ },
+ {
+  "id": 920202,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 202,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920202
+ },
+ {
+  "id": 920203,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 202,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920203
+ },
+ {
+  "id": 920301,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 203,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920301
+ },
+ {
+  "id": 920302,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 203,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920302
+ },
+ {
+  "id": 920303,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 203,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920303
+ },
+ {
+  "id": 920401,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 204,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920401
+ },
+ {
+  "id": 920402,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 204,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920402
+ },
+ {
+  "id": 920403,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 204,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920403
+ },
+ {
+  "id": 920501,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 205,
+  "target_min_rank": 1,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920501
+ },
+ {
+  "id": 920502,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920502
+ },
+ {
+  "id": 920503,
+  "character_point_event_master_id": 9,
+  "character_base_master_id": 205,
+  "target_min_rank": 101,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 920503
+ },
+ {
+  "id": 1010101,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010101
+ },
+ {
+  "id": 1010102,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 101,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010102
+ },
+ {
+  "id": 1010103,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 101,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010103
+ },
+ {
+  "id": 1010104,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 101,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010104
+ },
+ {
+  "id": 1010105,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 101,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010105
+ },
+ {
+  "id": 1010106,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 101,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010106
+ },
+ {
+  "id": 1010107,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 101,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010107
+ },
+ {
+  "id": 1010201,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 102,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010201
+ },
+ {
+  "id": 1010202,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 102,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010202
+ },
+ {
+  "id": 1010203,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 102,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010203
+ },
+ {
+  "id": 1010204,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 102,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010204
+ },
+ {
+  "id": 1010205,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 102,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010205
+ },
+ {
+  "id": 1010206,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 102,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010206
+ },
+ {
+  "id": 1010207,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 102,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010207
+ },
+ {
+  "id": 1010301,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 103,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010301
+ },
+ {
+  "id": 1010302,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 103,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010302
+ },
+ {
+  "id": 1010303,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 103,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010303
+ },
+ {
+  "id": 1010304,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 103,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010304
+ },
+ {
+  "id": 1010305,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 103,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010305
+ },
+ {
+  "id": 1010306,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 103,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010306
+ },
+ {
+  "id": 1010307,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 103,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010307
+ },
+ {
+  "id": 1010401,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 104,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010401
+ },
+ {
+  "id": 1010402,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 104,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010402
+ },
+ {
+  "id": 1010403,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 104,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010403
+ },
+ {
+  "id": 1010404,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 104,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010404
+ },
+ {
+  "id": 1010405,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 104,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010405
+ },
+ {
+  "id": 1010406,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 104,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010406
+ },
+ {
+  "id": 1010407,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 104,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010407
+ },
+ {
+  "id": 1010501,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 105,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010501
+ },
+ {
+  "id": 1010502,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 105,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010502
+ },
+ {
+  "id": 1010503,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 105,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010503
+ },
+ {
+  "id": 1010504,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 105,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010504
+ },
+ {
+  "id": 1010505,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010505
+ },
+ {
+  "id": 1010506,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 105,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010506
+ },
+ {
+  "id": 1010507,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 105,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010507
+ },
+ {
+  "id": 1010601,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 106,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010601
+ },
+ {
+  "id": 1010602,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 106,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010602
+ },
+ {
+  "id": 1010603,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 106,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010603
+ },
+ {
+  "id": 1010604,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 106,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010604
+ },
+ {
+  "id": 1010605,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 106,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010605
+ },
+ {
+  "id": 1010606,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 106,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010606
+ },
+ {
+  "id": 1010607,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 106,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1010607
+ },
+ {
+  "id": 1020101,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020101
+ },
+ {
+  "id": 1020102,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 201,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020102
+ },
+ {
+  "id": 1020103,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 201,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020103
+ },
+ {
+  "id": 1020104,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 201,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020104
+ },
+ {
+  "id": 1020105,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 201,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020105
+ },
+ {
+  "id": 1020106,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 201,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020106
+ },
+ {
+  "id": 1020107,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 201,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020107
+ },
+ {
+  "id": 1020201,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 202,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020201
+ },
+ {
+  "id": 1020202,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 202,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020202
+ },
+ {
+  "id": 1020203,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 202,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020203
+ },
+ {
+  "id": 1020204,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 202,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020204
+ },
+ {
+  "id": 1020205,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 202,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020205
+ },
+ {
+  "id": 1020206,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 202,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020206
+ },
+ {
+  "id": 1020207,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 202,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020207
+ },
+ {
+  "id": 1020301,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 203,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020301
+ },
+ {
+  "id": 1020302,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 203,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020302
+ },
+ {
+  "id": 1020303,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 203,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020303
+ },
+ {
+  "id": 1020304,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 203,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020304
+ },
+ {
+  "id": 1020305,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 203,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020305
+ },
+ {
+  "id": 1020306,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 203,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020306
+ },
+ {
+  "id": 1020307,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 203,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020307
+ },
+ {
+  "id": 1020401,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 204,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020401
+ },
+ {
+  "id": 1020402,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 204,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020402
+ },
+ {
+  "id": 1020403,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 204,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020403
+ },
+ {
+  "id": 1020404,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 204,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020404
+ },
+ {
+  "id": 1020405,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 204,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020405
+ },
+ {
+  "id": 1020406,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 204,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020406
+ },
+ {
+  "id": 1020407,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 204,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020407
+ },
+ {
+  "id": 1020501,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 205,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020501
+ },
+ {
+  "id": 1020502,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 205,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020502
+ },
+ {
+  "id": 1020503,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 205,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020503
+ },
+ {
+  "id": 1020504,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 205,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020504
+ },
+ {
+  "id": 1020505,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020505
+ },
+ {
+  "id": 1020506,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 205,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020506
+ },
+ {
+  "id": 1020507,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 205,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1020507
+ },
+ {
+  "id": 1030101,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030101
+ },
+ {
+  "id": 1030102,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 301,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030102
+ },
+ {
+  "id": 1030103,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 301,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030103
+ },
+ {
+  "id": 1030104,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 301,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030104
+ },
+ {
+  "id": 1030105,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 301,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030105
+ },
+ {
+  "id": 1030106,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 301,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030106
+ },
+ {
+  "id": 1030107,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 301,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030107
+ },
+ {
+  "id": 1030201,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 302,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030201
+ },
+ {
+  "id": 1030202,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 302,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030202
+ },
+ {
+  "id": 1030203,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 302,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030203
+ },
+ {
+  "id": 1030204,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 302,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030204
+ },
+ {
+  "id": 1030205,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 302,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030205
+ },
+ {
+  "id": 1030206,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 302,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030206
+ },
+ {
+  "id": 1030207,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 302,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030207
+ },
+ {
+  "id": 1030301,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 303,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030301
+ },
+ {
+  "id": 1030302,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 303,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030302
+ },
+ {
+  "id": 1030303,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 303,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030303
+ },
+ {
+  "id": 1030304,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 303,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030304
+ },
+ {
+  "id": 1030305,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 303,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030305
+ },
+ {
+  "id": 1030306,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 303,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030306
+ },
+ {
+  "id": 1030307,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 303,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030307
+ },
+ {
+  "id": 1030401,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 304,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030401
+ },
+ {
+  "id": 1030402,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 304,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030402
+ },
+ {
+  "id": 1030403,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 304,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030403
+ },
+ {
+  "id": 1030404,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 304,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030404
+ },
+ {
+  "id": 1030405,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 304,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030405
+ },
+ {
+  "id": 1030406,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 304,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030406
+ },
+ {
+  "id": 1030407,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 304,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030407
+ },
+ {
+  "id": 1030501,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 305,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030501
+ },
+ {
+  "id": 1030502,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 305,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030502
+ },
+ {
+  "id": 1030503,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 305,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030503
+ },
+ {
+  "id": 1030504,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 305,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030504
+ },
+ {
+  "id": 1030505,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030505
+ },
+ {
+  "id": 1030506,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 305,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030506
+ },
+ {
+  "id": 1030507,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 305,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1030507
+ },
+ {
+  "id": 1040101,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040101
+ },
+ {
+  "id": 1040102,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 401,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040102
+ },
+ {
+  "id": 1040103,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 401,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040103
+ },
+ {
+  "id": 1040104,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 401,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040104
+ },
+ {
+  "id": 1040105,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 401,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040105
+ },
+ {
+  "id": 1040106,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 401,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040106
+ },
+ {
+  "id": 1040107,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 401,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040107
+ },
+ {
+  "id": 1040201,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 402,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040201
+ },
+ {
+  "id": 1040202,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 402,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040202
+ },
+ {
+  "id": 1040203,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 402,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040203
+ },
+ {
+  "id": 1040204,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 402,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040204
+ },
+ {
+  "id": 1040205,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 402,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040205
+ },
+ {
+  "id": 1040206,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 402,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040206
+ },
+ {
+  "id": 1040207,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 402,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040207
+ },
+ {
+  "id": 1040301,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 403,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040301
+ },
+ {
+  "id": 1040302,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 403,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040302
+ },
+ {
+  "id": 1040303,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 403,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040303
+ },
+ {
+  "id": 1040304,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 403,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040304
+ },
+ {
+  "id": 1040305,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 403,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040305
+ },
+ {
+  "id": 1040306,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 403,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040306
+ },
+ {
+  "id": 1040307,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 403,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040307
+ },
+ {
+  "id": 1040401,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 404,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040401
+ },
+ {
+  "id": 1040402,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 404,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040402
+ },
+ {
+  "id": 1040403,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 404,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040403
+ },
+ {
+  "id": 1040404,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 404,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040404
+ },
+ {
+  "id": 1040405,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 404,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040405
+ },
+ {
+  "id": 1040406,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 404,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040406
+ },
+ {
+  "id": 1040407,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 404,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040407
+ },
+ {
+  "id": 1040501,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 405,
+  "target_min_rank": 1,
+  "target_max_rank": 1,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040501
+ },
+ {
+  "id": 1040502,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 405,
+  "target_min_rank": 2,
+  "target_max_rank": 2,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040502
+ },
+ {
+  "id": 1040503,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 405,
+  "target_min_rank": 3,
+  "target_max_rank": 3,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040503
+ },
+ {
+  "id": 1040504,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 405,
+  "target_min_rank": 4,
+  "target_max_rank": 10,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040504
+ },
+ {
+  "id": 1040505,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 100,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040505
+ },
+ {
+  "id": 1040506,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 405,
+  "target_min_rank": 101,
+  "target_max_rank": 500,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040506
+ },
+ {
+  "id": 1040507,
+  "character_point_event_master_id": 10,
+  "character_base_master_id": 405,
+  "target_min_rank": 501,
+  "target_max_rank": 1000,
+  "character_point_event_character_ranking_reward_item_package_master_id": 1040507
+ }
+]

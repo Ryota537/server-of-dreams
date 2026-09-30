@@ -1,0 +1,18 @@
+[
+ {
+  "id": 1,
+  "motion_name": "mouth/normal_anime"
+ },
+ {
+  "id": 2,
+  "motion_name": "mouth/happy_anime"
+ },
+ {
+  "id": 3,
+  "motion_name": "mouth/angry_anime"
+ },
+ {
+  "id": 4,
+  "motion_name": "mouth/sad_anime"
+ }
+]

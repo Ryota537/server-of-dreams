@@ -1,0 +1,2949 @@
+[
+ {
+  "id": 8500,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8501,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8502,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8503,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 8510,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8511,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8512,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8513,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 8520,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8521,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8522,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8523,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 8524,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8531,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8532,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8533,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 8540,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8541,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8542,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8543,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8544,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8545,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8550,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8551,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8552,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8553,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8554,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8555,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8560,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8561,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8562,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8563,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8564,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8565,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8570,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8571,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8572,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8573,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8574,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8575,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8580,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8581,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8582,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8583,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8584,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8585,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8690,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8691,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8692,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8693,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8694,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8695,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8700,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8701,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8702,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8703,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8704,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8705,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8710,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8711,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8712,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8713,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8714,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8715,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8720,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8721,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8722,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8723,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8724,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8725,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8730,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8731,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8732,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8733,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8734,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8735,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8740,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8741,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8742,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8743,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8744,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8745,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8750,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8751,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8752,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8753,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8754,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8755,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8760,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8761,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8762,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8763,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8764,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8765,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8770,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8771,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8772,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8773,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8774,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8775,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8780,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8781,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8782,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8783,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8784,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8785,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8790,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8791,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8792,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8793,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8794,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8795,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8800,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8801,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8802,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8803,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8804,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8805,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8810,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8811,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8812,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8813,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8814,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8815,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8820,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8821,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8822,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8823,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8824,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8825,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8830,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8831,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8832,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8833,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8834,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8835,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8840,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8841,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8842,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8843,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 8850,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8851,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8852,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8853,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8854,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8855,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8860,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8861,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8862,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8863,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8864,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8865,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8870,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8871,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8872,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8873,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8874,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8875,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8880,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8881,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8882,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8883,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8884,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8885,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8890,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8891,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8892,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8893,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8894,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8895,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8900,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8901,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8902,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8903,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8904,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8905,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8910,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8911,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8912,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8913,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8914,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8915,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8920,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8921,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8922,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8923,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8924,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8925,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8930,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8931,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8932,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8933,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8934,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8935,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8940,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8941,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8942,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8943,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8944,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8945,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8950,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8951,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8952,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8953,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8954,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8955,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8960,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8961,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8962,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8963,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8964,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8965,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8970,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8971,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8972,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8973,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8974,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8975,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8980,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8981,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8982,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8983,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8984,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8985,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 8990,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 8991,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 8992,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 8993,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 8994,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 8995,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9000,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9001,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9002,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9003,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9004,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9005,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9010,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9011,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9012,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9013,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9014,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9015,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9020,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9021,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9022,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9023,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9024,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9025,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9030,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9031,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9032,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9033,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9034,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9035,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9040,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9041,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9042,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9043,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9044,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9045,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9050,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9051,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9052,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9053,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9054,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9055,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9060,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9061,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9062,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9063,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9064,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9065,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9070,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9071,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9072,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9073,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9074,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9075,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9080,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9081,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9082,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9083,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9084,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9085,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9090,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9091,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9092,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9093,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9094,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9095,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9100,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9101,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9102,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9103,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9104,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9105,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9110,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9111,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9112,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9113,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9114,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9115,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9120,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9121,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9122,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9123,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9124,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9125,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9130,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9131,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9132,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9133,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9134,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9135,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9140,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9141,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9142,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9143,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9144,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9145,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9150,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9151,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9152,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9153,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9154,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9155,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9160,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9161,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9162,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9163,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9164,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9165,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9170,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9171,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9172,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9173,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9174,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9175,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9180,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9181,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9182,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9183,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9184,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9185,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9190,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9191,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9192,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9193,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9194,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9195,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9200,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9201,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9202,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9203,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9204,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9205,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9210,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9211,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9212,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9213,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9214,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9215,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9220,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9221,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9222,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9223,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9224,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9225,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9230,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9231,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9232,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9233,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9234,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9235,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9240,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9241,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9242,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9243,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9244,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9245,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9250,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9251,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9252,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9253,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9254,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9255,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9260,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9261,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9262,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9263,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9264,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9265,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9270,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9271,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9272,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9273,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9274,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9275,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9280,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9281,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9282,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9283,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9284,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9285,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9290,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9291,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9292,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9293,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9294,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9295,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9300,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9301,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9302,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9303,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9304,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9305,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9310,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9311,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9312,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9313,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9314,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9315,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9320,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9321,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9322,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9323,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9324,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9325,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9330,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9331,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9332,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9333,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9334,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9335,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9340,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9341,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9342,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9343,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9344,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9345,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9350,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9351,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9352,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9353,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9354,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9355,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9360,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9361,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9362,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9363,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9364,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9365,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9380,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9381,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9382,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9383,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9384,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9385,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9390,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9391,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9392,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9393,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9394,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9395,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9400,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9401,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9402,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9403,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9404,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9405,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9500,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9501,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9502,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9503,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 9510,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9511,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9512,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9513,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 9520,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9521,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9522,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9523,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 9524,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9531,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9532,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9533,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 9540,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9541,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9542,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9543,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 9600,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9601,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9602,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9603,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9604,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9605,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9610,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9611,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9612,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9613,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9614,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9615,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 9620,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 9621,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 9622,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 9623,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 9624,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 9625,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10000,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10001,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10002,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10003,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10004,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10005,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10010,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10011,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10012,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10013,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10014,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10015,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10020,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10021,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10022,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10023,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10024,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10025,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10030,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10031,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10032,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10033,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10034,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10035,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10040,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10041,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10042,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10043,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10044,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10045,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10050,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10051,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10052,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10053,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10054,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10055,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10060,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10061,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10062,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10063,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10064,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10065,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10070,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10071,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10072,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10073,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10074,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10075,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10080,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10081,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10082,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10083,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10084,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10085,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10090,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10091,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10092,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10093,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10094,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10095,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10100,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10101,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10102,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10103,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10104,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10105,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10110,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10111,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10112,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10113,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10114,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10115,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10120,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10121,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10122,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10123,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10124,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10125,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10130,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10131,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10132,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10133,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10134,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10135,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10140,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10141,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10142,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10143,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10144,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10145,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10150,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10151,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10152,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10153,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10154,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10155,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10160,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10161,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10162,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10163,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10164,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10165,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10170,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10171,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10172,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10173,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10174,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10175,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10180,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10181,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10182,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10183,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10184,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10185,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 10190,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 10191,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 10192,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 10193,
+    "step": 3
+   },
+   {
+    "gacha_master_id": 10194,
+    "step": 4
+   },
+   {
+    "gacha_master_id": 10195,
+    "step": 5
+   }
+  ]
+ },
+ {
+  "id": 11000,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11001,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11002,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11003,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11010,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11011,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11012,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11013,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11020,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11021,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11022,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11023,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11030,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11031,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11032,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11033,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11040,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11041,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11042,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11043,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11050,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11051,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11052,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11053,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11060,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11061,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11062,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11063,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11070,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11071,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11072,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11073,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11080,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11081,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11082,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11083,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11090,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11091,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11092,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11093,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11100,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11101,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11102,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11103,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11110,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11111,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11112,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11113,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11120,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11121,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11122,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11123,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11130,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11131,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11132,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11133,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11140,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11141,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11142,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11143,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11150,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11151,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11152,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11153,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11160,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11161,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11162,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11163,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11170,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11171,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11172,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11173,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11180,
+  "stepup_gachas": [
+   {
+    "gacha_master_id": 11181,
+    "step": 1
+   },
+   {
+    "gacha_master_id": 11182,
+    "step": 2
+   },
+   {
+    "gacha_master_id": 11183,
+    "step": 3
+   }
+  ]
+ },
+ {
+  "id": 11190,
+  "stepup_gachas": []
+ }
+]

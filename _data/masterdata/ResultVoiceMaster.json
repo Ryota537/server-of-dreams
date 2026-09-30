@@ -1,0 +1,1250 @@
+[
+ {
+  "id": 1011,
+  "character_base_master_id": 101,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "101507",
+  "motion": "8"
+ },
+ {
+  "id": 1012,
+  "character_base_master_id": 101,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "101506",
+  "motion": "7"
+ },
+ {
+  "id": 1013,
+  "character_base_master_id": 101,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "101505",
+  "motion": "6"
+ },
+ {
+  "id": 1014,
+  "character_base_master_id": 101,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "101504",
+  "motion": "5"
+ },
+ {
+  "id": 1015,
+  "character_base_master_id": 101,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "101503",
+  "motion": "3"
+ },
+ {
+  "id": 1016,
+  "character_base_master_id": 101,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "101502",
+  "motion": "4"
+ },
+ {
+  "id": 1021,
+  "character_base_master_id": 102,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "102507",
+  "motion": "6"
+ },
+ {
+  "id": 1022,
+  "character_base_master_id": 102,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "102506",
+  "motion": "5"
+ },
+ {
+  "id": 1023,
+  "character_base_master_id": 102,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "102505",
+  "motion": "1"
+ },
+ {
+  "id": 1024,
+  "character_base_master_id": 102,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "102504",
+  "motion": "2"
+ },
+ {
+  "id": 1025,
+  "character_base_master_id": 102,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "102503",
+  "motion": "4"
+ },
+ {
+  "id": 1026,
+  "character_base_master_id": 102,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "102502",
+  "motion": "8"
+ },
+ {
+  "id": 1031,
+  "character_base_master_id": 103,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "103507",
+  "motion": "7"
+ },
+ {
+  "id": 1032,
+  "character_base_master_id": 103,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "103506",
+  "motion": "6"
+ },
+ {
+  "id": 1033,
+  "character_base_master_id": 103,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "103505",
+  "motion": "3"
+ },
+ {
+  "id": 1034,
+  "character_base_master_id": 103,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "103504",
+  "motion": "4"
+ },
+ {
+  "id": 1035,
+  "character_base_master_id": 103,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "103503",
+  "motion": "1"
+ },
+ {
+  "id": 1036,
+  "character_base_master_id": 103,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "103502",
+  "motion": "5"
+ },
+ {
+  "id": 1041,
+  "character_base_master_id": 104,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "104507",
+  "motion": "5"
+ },
+ {
+  "id": 1042,
+  "character_base_master_id": 104,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "104506",
+  "motion": "3"
+ },
+ {
+  "id": 1043,
+  "character_base_master_id": 104,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "104505",
+  "motion": "2"
+ },
+ {
+  "id": 1044,
+  "character_base_master_id": 104,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "104504",
+  "motion": "1"
+ },
+ {
+  "id": 1045,
+  "character_base_master_id": 104,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "104503",
+  "motion": "8"
+ },
+ {
+  "id": 1046,
+  "character_base_master_id": 104,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "104502",
+  "motion": "6"
+ },
+ {
+  "id": 1051,
+  "character_base_master_id": 105,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "105507",
+  "motion": "6"
+ },
+ {
+  "id": 1052,
+  "character_base_master_id": 105,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "105506",
+  "motion": "5"
+ },
+ {
+  "id": 1053,
+  "character_base_master_id": 105,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "105505",
+  "motion": "2"
+ },
+ {
+  "id": 1054,
+  "character_base_master_id": 105,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "105504",
+  "motion": "3"
+ },
+ {
+  "id": 1055,
+  "character_base_master_id": 105,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "105503",
+  "motion": "4"
+ },
+ {
+  "id": 1056,
+  "character_base_master_id": 105,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "105502",
+  "motion": "7"
+ },
+ {
+  "id": 1061,
+  "character_base_master_id": 106,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "106507",
+  "motion": "2"
+ },
+ {
+  "id": 1062,
+  "character_base_master_id": 106,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "106506",
+  "motion": "6"
+ },
+ {
+  "id": 1063,
+  "character_base_master_id": 106,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "106505",
+  "motion": "4"
+ },
+ {
+  "id": 1064,
+  "character_base_master_id": 106,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "106504",
+  "motion": "3"
+ },
+ {
+  "id": 1065,
+  "character_base_master_id": 106,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "106503",
+  "motion": "8"
+ },
+ {
+  "id": 1066,
+  "character_base_master_id": 106,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "106502",
+  "motion": "5"
+ },
+ {
+  "id": 2011,
+  "character_base_master_id": 201,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "201507",
+  "motion": "6"
+ },
+ {
+  "id": 2012,
+  "character_base_master_id": 201,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "201506",
+  "motion": "5"
+ },
+ {
+  "id": 2013,
+  "character_base_master_id": 201,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "201505",
+  "motion": "2"
+ },
+ {
+  "id": 2014,
+  "character_base_master_id": 201,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "201504",
+  "motion": "7"
+ },
+ {
+  "id": 2015,
+  "character_base_master_id": 201,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "201503",
+  "motion": "8"
+ },
+ {
+  "id": 2016,
+  "character_base_master_id": 201,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "201502",
+  "motion": "4"
+ },
+ {
+  "id": 2021,
+  "character_base_master_id": 202,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "202507",
+  "motion": "6"
+ },
+ {
+  "id": 2022,
+  "character_base_master_id": 202,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "202506",
+  "motion": "7"
+ },
+ {
+  "id": 2023,
+  "character_base_master_id": 202,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "202505",
+  "motion": "4"
+ },
+ {
+  "id": 2024,
+  "character_base_master_id": 202,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "202504",
+  "motion": "3"
+ },
+ {
+  "id": 2025,
+  "character_base_master_id": 202,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "202503",
+  "motion": "1"
+ },
+ {
+  "id": 2026,
+  "character_base_master_id": 202,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "202502",
+  "motion": "2"
+ },
+ {
+  "id": 2031,
+  "character_base_master_id": 203,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "203507",
+  "motion": "8"
+ },
+ {
+  "id": 2032,
+  "character_base_master_id": 203,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "203506",
+  "motion": "7"
+ },
+ {
+  "id": 2033,
+  "character_base_master_id": 203,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "203505",
+  "motion": "9"
+ },
+ {
+  "id": 2034,
+  "character_base_master_id": 203,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "203504",
+  "motion": "3"
+ },
+ {
+  "id": 2035,
+  "character_base_master_id": 203,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "203503",
+  "motion": "1"
+ },
+ {
+  "id": 2036,
+  "character_base_master_id": 203,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "203502",
+  "motion": "6"
+ },
+ {
+  "id": 2041,
+  "character_base_master_id": 204,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "204507",
+  "motion": "2"
+ },
+ {
+  "id": 2042,
+  "character_base_master_id": 204,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "204506",
+  "motion": "3"
+ },
+ {
+  "id": 2043,
+  "character_base_master_id": 204,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "204505",
+  "motion": "8"
+ },
+ {
+  "id": 2044,
+  "character_base_master_id": 204,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "204504",
+  "motion": "5"
+ },
+ {
+  "id": 2045,
+  "character_base_master_id": 204,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "204503",
+  "motion": "1"
+ },
+ {
+  "id": 2046,
+  "character_base_master_id": 204,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "204502",
+  "motion": "7"
+ },
+ {
+  "id": 2051,
+  "character_base_master_id": 205,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "205507",
+  "motion": "8"
+ },
+ {
+  "id": 2052,
+  "character_base_master_id": 205,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "205506",
+  "motion": "7"
+ },
+ {
+  "id": 2053,
+  "character_base_master_id": 205,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "205505",
+  "motion": "5"
+ },
+ {
+  "id": 2054,
+  "character_base_master_id": 205,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "205504",
+  "motion": "2"
+ },
+ {
+  "id": 2055,
+  "character_base_master_id": 205,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "205503",
+  "motion": "3"
+ },
+ {
+  "id": 2056,
+  "character_base_master_id": 205,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "205502",
+  "motion": "6"
+ },
+ {
+  "id": 3011,
+  "character_base_master_id": 301,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "301507",
+  "motion": "8"
+ },
+ {
+  "id": 3012,
+  "character_base_master_id": 301,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "301506",
+  "motion": "7"
+ },
+ {
+  "id": 3013,
+  "character_base_master_id": 301,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "301505",
+  "motion": "5"
+ },
+ {
+  "id": 3014,
+  "character_base_master_id": 301,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "301504",
+  "motion": "4"
+ },
+ {
+  "id": 3015,
+  "character_base_master_id": 301,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "301503",
+  "motion": "2"
+ },
+ {
+  "id": 3016,
+  "character_base_master_id": 301,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "301502",
+  "motion": "1"
+ },
+ {
+  "id": 3021,
+  "character_base_master_id": 302,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "302507",
+  "motion": "6"
+ },
+ {
+  "id": 3022,
+  "character_base_master_id": 302,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "302506",
+  "motion": "5"
+ },
+ {
+  "id": 3023,
+  "character_base_master_id": 302,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "302505",
+  "motion": "2"
+ },
+ {
+  "id": 3024,
+  "character_base_master_id": 302,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "302504",
+  "motion": "8"
+ },
+ {
+  "id": 3025,
+  "character_base_master_id": 302,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "302503",
+  "motion": "4"
+ },
+ {
+  "id": 3026,
+  "character_base_master_id": 302,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "302502",
+  "motion": "1"
+ },
+ {
+  "id": 3031,
+  "character_base_master_id": 303,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "303507",
+  "motion": "8"
+ },
+ {
+  "id": 3032,
+  "character_base_master_id": 303,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "303506",
+  "motion": "4"
+ },
+ {
+  "id": 3033,
+  "character_base_master_id": 303,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "303505",
+  "motion": "2"
+ },
+ {
+  "id": 3034,
+  "character_base_master_id": 303,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "303504",
+  "motion": "3"
+ },
+ {
+  "id": 3035,
+  "character_base_master_id": 303,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "303503",
+  "motion": "6"
+ },
+ {
+  "id": 3036,
+  "character_base_master_id": 303,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "303502",
+  "motion": "7"
+ },
+ {
+  "id": 3041,
+  "character_base_master_id": 304,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "304507",
+  "motion": "8"
+ },
+ {
+  "id": 3042,
+  "character_base_master_id": 304,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "304506",
+  "motion": "7"
+ },
+ {
+  "id": 3043,
+  "character_base_master_id": 304,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "304505",
+  "motion": "2"
+ },
+ {
+  "id": 3044,
+  "character_base_master_id": 304,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "304504",
+  "motion": "4"
+ },
+ {
+  "id": 3045,
+  "character_base_master_id": 304,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "304503",
+  "motion": "6"
+ },
+ {
+  "id": 3046,
+  "character_base_master_id": 304,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "304502",
+  "motion": "3"
+ },
+ {
+  "id": 3051,
+  "character_base_master_id": 305,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "305507",
+  "motion": "6"
+ },
+ {
+  "id": 3052,
+  "character_base_master_id": 305,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "305506",
+  "motion": "4"
+ },
+ {
+  "id": 3053,
+  "character_base_master_id": 305,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "305505",
+  "motion": "3"
+ },
+ {
+  "id": 3054,
+  "character_base_master_id": 305,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "305504",
+  "motion": "9"
+ },
+ {
+  "id": 3055,
+  "character_base_master_id": 305,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "305503",
+  "motion": "5"
+ },
+ {
+  "id": 3056,
+  "character_base_master_id": 305,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "305502",
+  "motion": "8"
+ },
+ {
+  "id": 4011,
+  "character_base_master_id": 401,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "401507",
+  "motion": "6"
+ },
+ {
+  "id": 4012,
+  "character_base_master_id": 401,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "401506",
+  "motion": "7"
+ },
+ {
+  "id": 4013,
+  "character_base_master_id": 401,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "401505",
+  "motion": "4"
+ },
+ {
+  "id": 4014,
+  "character_base_master_id": 401,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "401504",
+  "motion": "5"
+ },
+ {
+  "id": 4015,
+  "character_base_master_id": 401,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "401503",
+  "motion": "3"
+ },
+ {
+  "id": 4016,
+  "character_base_master_id": 401,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "401502",
+  "motion": "1"
+ },
+ {
+  "id": 4021,
+  "character_base_master_id": 402,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "402507",
+  "motion": "8"
+ },
+ {
+  "id": 4022,
+  "character_base_master_id": 402,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "402506",
+  "motion": "2"
+ },
+ {
+  "id": 4023,
+  "character_base_master_id": 402,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "402505",
+  "motion": "6"
+ },
+ {
+  "id": 4024,
+  "character_base_master_id": 402,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "402504",
+  "motion": "3"
+ },
+ {
+  "id": 4025,
+  "character_base_master_id": 402,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "402503",
+  "motion": "5"
+ },
+ {
+  "id": 4026,
+  "character_base_master_id": 402,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "402502",
+  "motion": "4"
+ },
+ {
+  "id": 4031,
+  "character_base_master_id": 403,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "403507",
+  "motion": "2"
+ },
+ {
+  "id": 4032,
+  "character_base_master_id": 403,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "403506",
+  "motion": "8"
+ },
+ {
+  "id": 4033,
+  "character_base_master_id": 403,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "403505",
+  "motion": "5"
+ },
+ {
+  "id": 4034,
+  "character_base_master_id": 403,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "403504",
+  "motion": "7"
+ },
+ {
+  "id": 4035,
+  "character_base_master_id": 403,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "403503",
+  "motion": "4"
+ },
+ {
+  "id": 4036,
+  "character_base_master_id": 403,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "403502",
+  "motion": "3"
+ },
+ {
+  "id": 4041,
+  "character_base_master_id": 404,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "404507",
+  "motion": "8"
+ },
+ {
+  "id": 4042,
+  "character_base_master_id": 404,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "404506",
+  "motion": "6"
+ },
+ {
+  "id": 4043,
+  "character_base_master_id": 404,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "404505",
+  "motion": "7"
+ },
+ {
+  "id": 4044,
+  "character_base_master_id": 404,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "404504",
+  "motion": "4"
+ },
+ {
+  "id": 4045,
+  "character_base_master_id": 404,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "404503",
+  "motion": "5"
+ },
+ {
+  "id": 4046,
+  "character_base_master_id": 404,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "404502",
+  "motion": "2"
+ },
+ {
+  "id": 4051,
+  "character_base_master_id": 405,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "405507",
+  "motion": "4"
+ },
+ {
+  "id": 4052,
+  "character_base_master_id": 405,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "405506",
+  "motion": "2"
+ },
+ {
+  "id": 4053,
+  "character_base_master_id": 405,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "405505",
+  "motion": "7"
+ },
+ {
+  "id": 4054,
+  "character_base_master_id": 405,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "405504",
+  "motion": "8"
+ },
+ {
+  "id": 4055,
+  "character_base_master_id": 405,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "405503",
+  "motion": "5"
+ },
+ {
+  "id": 4056,
+  "character_base_master_id": 405,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "405502",
+  "motion": "3"
+ },
+ {
+  "id": 9011,
+  "character_base_master_id": 901,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "901507",
+  "motion": "3"
+ },
+ {
+  "id": 9012,
+  "character_base_master_id": 901,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "901506",
+  "motion": "5"
+ },
+ {
+  "id": 9013,
+  "character_base_master_id": 901,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "901505",
+  "motion": "4"
+ },
+ {
+  "id": 9014,
+  "character_base_master_id": 901,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "901504",
+  "motion": "1"
+ },
+ {
+  "id": 9015,
+  "character_base_master_id": 901,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "901503",
+  "motion": "3"
+ },
+ {
+  "id": 9016,
+  "character_base_master_id": 901,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "901502",
+  "motion": "4"
+ },
+ {
+  "id": 9021,
+  "character_base_master_id": 902,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "902507",
+  "motion": "7"
+ },
+ {
+  "id": 9022,
+  "character_base_master_id": 902,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "902506",
+  "motion": "5"
+ },
+ {
+  "id": 9023,
+  "character_base_master_id": 902,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "902505",
+  "motion": "2"
+ },
+ {
+  "id": 9024,
+  "character_base_master_id": 902,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "902504",
+  "motion": "1"
+ },
+ {
+  "id": 9025,
+  "character_base_master_id": 902,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "902503",
+  "motion": "3"
+ },
+ {
+  "id": 9026,
+  "character_base_master_id": 902,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "902502",
+  "motion": "6"
+ },
+ {
+  "id": 9041,
+  "character_base_master_id": 904,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "904507",
+  "motion": "8"
+ },
+ {
+  "id": 9042,
+  "character_base_master_id": 904,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "904506",
+  "motion": "7"
+ },
+ {
+  "id": 9043,
+  "character_base_master_id": 904,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "904505",
+  "motion": "4"
+ },
+ {
+  "id": 9044,
+  "character_base_master_id": 904,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "904504",
+  "motion": "6"
+ },
+ {
+  "id": 9045,
+  "character_base_master_id": 904,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "904503",
+  "motion": "2"
+ },
+ {
+  "id": 9046,
+  "character_base_master_id": 904,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "904502",
+  "motion": "1"
+ },
+ {
+  "id": 9061,
+  "character_base_master_id": 906,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "906507",
+  "motion": "2"
+ },
+ {
+  "id": 9062,
+  "character_base_master_id": 906,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "906506",
+  "motion": "8"
+ },
+ {
+  "id": 9063,
+  "character_base_master_id": 906,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "906505",
+  "motion": "5"
+ },
+ {
+  "id": 9064,
+  "character_base_master_id": 906,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "906504",
+  "motion": "4"
+ },
+ {
+  "id": 9065,
+  "character_base_master_id": 906,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "906503",
+  "motion": "3"
+ },
+ {
+  "id": 9066,
+  "character_base_master_id": 906,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "906502",
+  "motion": "2"
+ },
+ {
+  "id": 9091,
+  "character_base_master_id": 909,
+  "order": 1,
+  "condition_type": 1,
+  "voice_asset_id": "909507",
+  "motion": "8"
+ },
+ {
+  "id": 9092,
+  "character_base_master_id": 909,
+  "order": 2,
+  "condition_type": 2,
+  "voice_asset_id": "909506",
+  "motion": "6"
+ },
+ {
+  "id": 9093,
+  "character_base_master_id": 909,
+  "order": 3,
+  "condition_type": 3,
+  "voice_asset_id": "909505",
+  "motion": "3"
+ },
+ {
+  "id": 9094,
+  "character_base_master_id": 909,
+  "order": 4,
+  "condition_type": 4,
+  "voice_asset_id": "909504",
+  "motion": "5"
+ },
+ {
+  "id": 9095,
+  "character_base_master_id": 909,
+  "order": 5,
+  "condition_type": 5,
+  "voice_asset_id": "909503",
+  "motion": "3"
+ },
+ {
+  "id": 9096,
+  "character_base_master_id": 909,
+  "order": 6,
+  "condition_type": 6,
+  "voice_asset_id": "909502",
+  "motion": "6"
+ }
+]

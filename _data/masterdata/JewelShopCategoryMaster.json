@@ -1,0 +1,66 @@
+[
+ {
+  "id": 1,
+  "name": "劇ジュエル",
+  "layout_type": 30,
+  "is_display_locking": 0,
+  "banner_path": "img_common_tab_icon_jewel",
+  "order": 7
+ },
+ {
+  "id": 2,
+  "name": "ログインパス",
+  "layout_type": 10,
+  "is_display_locking": 1,
+  "banner_path": "img_common_tab_icon_login_pass",
+  "order": 7
+ },
+ {
+  "id": 3,
+  "name": "お得パス",
+  "layout_type": 20,
+  "is_display_locking": 0,
+  "banner_path": "img_common_tab_icon_value_pass",
+  "order": 3
+ },
+ {
+  "id": 4,
+  "name": "お得パック",
+  "layout_type": 30,
+  "is_display_locking": 0,
+  "banner_path": "img_common_tab_icon_value_pack",
+  "order": 6
+ },
+ {
+  "id": 5,
+  "name": "限定パック",
+  "layout_type": 30,
+  "is_display_locking": 1,
+  "banner_path": "img_common_tab_icon_limited_pack",
+  "order": 5
+ },
+ {
+  "id": 6,
+  "name": "おすすめ",
+  "layout_type": 10,
+  "is_display_locking": 1,
+  "banner_path": "img_common_tab_icon_circle_recommend",
+  "order": 2
+ },
+ {
+  "id": 7,
+  "name": "フラッシュ",
+  "layout_type": 30,
+  "is_display_locking": 1,
+  "banner_path": "img_common_tab_icon_flashsale",
+  "order": 1
+ },
+ {
+  "id": 8,
+  "name": "誕生日",
+  "layout_type": 30,
+  "is_display_locking": 1,
+  "banner_path": "img_common_tab_icon_birthday_pack",
+  "order": 4
+ }
+]

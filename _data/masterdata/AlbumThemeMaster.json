@@ -1,0 +1,322 @@
+[
+ {
+  "id": 1,
+  "order": 1,
+  "name": "シンプル",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2,
+  "order": 2,
+  "name": "ベーシック",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3,
+  "order": 3,
+  "name": "シリウス",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 4,
+  "order": 4,
+  "name": "Eden",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 5,
+  "order": 5,
+  "name": "銀河座",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 6,
+  "order": 6,
+  "name": "劇団電姫",
+  "description": "",
+  "is_hide": true,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 7,
+  "order": 7,
+  "name": "和風",
+  "description": "",
+  "is_hide": true,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 8,
+  "order": 8,
+  "name": "花",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 9,
+  "order": 9,
+  "name": "新緑",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 10,
+  "order": 10,
+  "name": "夢",
+  "description": "",
+  "is_hide": true,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 12,
+  "order": 12,
+  "name": "Wanna Be A Star",
+  "description": "",
+  "is_hide": false,
+  "is_default": true,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 13,
+  "order": 13,
+  "name": "コードギアス反逆のルルーシュコラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-06-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 14,
+  "order": 14,
+  "name": "オンゲキコラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-09-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 15,
+  "order": 16,
+  "name": "maimai でらっくすコラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-10-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 16,
+  "order": 18,
+  "name": "ラブライブ！サンシャイン!!コラボ1",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-11-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 17,
+  "order": 15,
+  "name": "Global Stage",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-10-06T20:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 18,
+  "order": 17,
+  "name": "ハロウィンナイト",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-10-20T21:30:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 19,
+  "order": 19,
+  "name": "ラブライブ！サンシャイン!!コラボ2",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-11-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 20,
+  "order": 20,
+  "name": "ホワイトクリスマス",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2024-12-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 21,
+  "order": 21,
+  "name": "『ゆるキャン△ SEASON３』コラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-02-18T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 22,
+  "order": 22,
+  "name": "正月",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 23,
+  "order": 24,
+  "name": "CHUNITHMコラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-05-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 24,
+  "order": 23,
+  "name": "温泉むすめコラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-03-15T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 25,
+  "order": 25,
+  "name": "IDOLY PRIDEコラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-05-15T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 26,
+  "order": 26,
+  "name": "ガールズ＆パンツァー 最終章コラボ",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-06-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 27,
+  "order": 27,
+  "name": "公演背景",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-03-22T20:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 28,
+  "order": 28,
+  "name": "音の波形",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-03-07T19:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 29,
+  "order": 29,
+  "name": "夏の思い出【カスタマイズ】",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-07-25T22:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 30,
+  "order": 30,
+  "name": "夏の思い出【ナイトプール】",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-07-25T22:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 31,
+  "order": 31,
+  "name": "Sparkle Wonder Land",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2025-11-15T20:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 32,
+  "order": 32,
+  "name": "ジュゴン福笑いの台紙",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2026-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 33,
+  "order": 33,
+  "name": "咲きゆく花のように",
+  "description": "",
+  "is_hide": true,
+  "is_default": false,
+  "start_date": "2026-04-29T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ }
+]

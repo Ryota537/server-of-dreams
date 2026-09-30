@@ -1,0 +1,302 @@
+[
+ {
+  "id": 1,
+  "default_costumes": [
+   {
+    "id": 101,
+    "character_base_master_id": 101,
+    "costume_master_id": 11
+   },
+   {
+    "id": 102,
+    "character_base_master_id": 102,
+    "costume_master_id": 21
+   },
+   {
+    "id": 103,
+    "character_base_master_id": 103,
+    "costume_master_id": 31
+   },
+   {
+    "id": 104,
+    "character_base_master_id": 104,
+    "costume_master_id": 211
+   },
+   {
+    "id": 105,
+    "character_base_master_id": 105,
+    "costume_master_id": 41
+   },
+   {
+    "id": 106,
+    "character_base_master_id": 106,
+    "costume_master_id": 51
+   },
+   {
+    "id": 107,
+    "character_base_master_id": 201,
+    "costume_master_id": 241
+   },
+   {
+    "id": 108,
+    "character_base_master_id": 202,
+    "costume_master_id": 61
+   },
+   {
+    "id": 109,
+    "character_base_master_id": 203,
+    "costume_master_id": 71
+   },
+   {
+    "id": 110,
+    "character_base_master_id": 204,
+    "costume_master_id": 81
+   },
+   {
+    "id": 111,
+    "character_base_master_id": 205,
+    "costume_master_id": 281
+   },
+   {
+    "id": 112,
+    "character_base_master_id": 301,
+    "costume_master_id": 91
+   },
+   {
+    "id": 113,
+    "character_base_master_id": 302,
+    "costume_master_id": 101
+   },
+   {
+    "id": 114,
+    "character_base_master_id": 303,
+    "costume_master_id": 111
+   },
+   {
+    "id": 115,
+    "character_base_master_id": 304,
+    "costume_master_id": 121
+   },
+   {
+    "id": 116,
+    "character_base_master_id": 305,
+    "costume_master_id": 131
+   },
+   {
+    "id": 117,
+    "character_base_master_id": 401,
+    "costume_master_id": 141
+   },
+   {
+    "id": 118,
+    "character_base_master_id": 402,
+    "costume_master_id": 151
+   },
+   {
+    "id": 119,
+    "character_base_master_id": 403,
+    "costume_master_id": 161
+   },
+   {
+    "id": 120,
+    "character_base_master_id": 404,
+    "costume_master_id": 171
+   },
+   {
+    "id": 121,
+    "character_base_master_id": 405,
+    "costume_master_id": 381
+   },
+   {
+    "id": 122,
+    "character_base_master_id": 901,
+    "costume_master_id": 2521
+   },
+   {
+    "id": 123,
+    "character_base_master_id": 902,
+    "costume_master_id": 2521
+   },
+   {
+    "id": 124,
+    "character_base_master_id": 904,
+    "costume_master_id": 2531
+   },
+   {
+    "id": 125,
+    "character_base_master_id": 906,
+    "costume_master_id": 2511
+   },
+   {
+    "id": 126,
+    "character_base_master_id": 909,
+    "costume_master_id": 2511
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "default_costumes": [
+   {
+    "id": 201,
+    "character_base_master_id": 101,
+    "costume_master_id": 2781
+   },
+   {
+    "id": 202,
+    "character_base_master_id": 102,
+    "costume_master_id": 2781
+   },
+   {
+    "id": 203,
+    "character_base_master_id": 103,
+    "costume_master_id": 2781
+   },
+   {
+    "id": 204,
+    "character_base_master_id": 104,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 205,
+    "character_base_master_id": 105,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 206,
+    "character_base_master_id": 106,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 207,
+    "character_base_master_id": 201,
+    "costume_master_id": 2791
+   },
+   {
+    "id": 208,
+    "character_base_master_id": 202,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 209,
+    "character_base_master_id": 203,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 210,
+    "character_base_master_id": 204,
+    "costume_master_id": 2791
+   },
+   {
+    "id": 211,
+    "character_base_master_id": 205,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 212,
+    "character_base_master_id": 301,
+    "costume_master_id": 2791
+   },
+   {
+    "id": 213,
+    "character_base_master_id": 302,
+    "costume_master_id": 2791
+   },
+   {
+    "id": 214,
+    "character_base_master_id": 303,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 215,
+    "character_base_master_id": 304,
+    "costume_master_id": 2791
+   },
+   {
+    "id": 216,
+    "character_base_master_id": 305,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 217,
+    "character_base_master_id": 401,
+    "costume_master_id": 2781
+   },
+   {
+    "id": 218,
+    "character_base_master_id": 402,
+    "costume_master_id": 2781
+   },
+   {
+    "id": 219,
+    "character_base_master_id": 403,
+    "costume_master_id": 2781
+   },
+   {
+    "id": 220,
+    "character_base_master_id": 404,
+    "costume_master_id": 2791
+   },
+   {
+    "id": 221,
+    "character_base_master_id": 405,
+    "costume_master_id": 2771
+   },
+   {
+    "id": 222,
+    "character_base_master_id": 901,
+    "costume_master_id": 2521
+   },
+   {
+    "id": 223,
+    "character_base_master_id": 902,
+    "costume_master_id": 2521
+   },
+   {
+    "id": 224,
+    "character_base_master_id": 904,
+    "costume_master_id": 2531
+   },
+   {
+    "id": 225,
+    "character_base_master_id": 906,
+    "costume_master_id": 2511
+   },
+   {
+    "id": 226,
+    "character_base_master_id": 909,
+    "costume_master_id": 2511
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "default_costumes": [
+   {
+    "id": 301,
+    "character_base_master_id": 901,
+    "costume_master_id": 25211
+   },
+   {
+    "id": 302,
+    "character_base_master_id": 902,
+    "costume_master_id": 25211
+   },
+   {
+    "id": 303,
+    "character_base_master_id": 904,
+    "costume_master_id": 25311
+   },
+   {
+    "id": 304,
+    "character_base_master_id": 906,
+    "costume_master_id": 25111
+   },
+   {
+    "id": 305,
+    "character_base_master_id": 909,
+    "costume_master_id": 25111
+   }
+  ]
+ }
+]

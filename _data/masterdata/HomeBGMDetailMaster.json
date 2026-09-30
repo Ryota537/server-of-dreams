@@ -1,0 +1,1649 @@
+[
+ {
+  "id": 1001,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ワナビスタ！",
+  "bgm_path": "inst_1",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 1
+ },
+ {
+  "id": 1002,
+  "home_bgm_master_id": 1,
+  "bgm_name": "トゥ・オブ・アス",
+  "bgm_path": "inst_2",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 2
+ },
+ {
+  "id": 1003,
+  "home_bgm_master_id": 1,
+  "bgm_name": "勿忘唄",
+  "bgm_path": "inst_3",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 3
+ },
+ {
+  "id": 1004,
+  "home_bgm_master_id": 1,
+  "bgm_name": "夢見月夜",
+  "bgm_path": "inst_4",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 4
+ },
+ {
+  "id": 1005,
+  "home_bgm_master_id": 1,
+  "bgm_name": "悠久月華",
+  "bgm_path": "inst_5",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 5
+ },
+ {
+  "id": 1006,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ダイヤモンドの誓い",
+  "bgm_path": "inst_6",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 6
+ },
+ {
+  "id": 1007,
+  "home_bgm_master_id": 1,
+  "bgm_name": "魔法のラストノート",
+  "bgm_path": "inst_7",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 7
+ },
+ {
+  "id": 1008,
+  "home_bgm_master_id": 1,
+  "bgm_name": "New Nostalgic Friend",
+  "bgm_path": "inst_8",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 8
+ },
+ {
+  "id": 1009,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Drawing World",
+  "bgm_path": "inst_9",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 9
+ },
+ {
+  "id": 1010,
+  "home_bgm_master_id": 1,
+  "bgm_name": "名もなき恋人よ",
+  "bgm_path": "inst_10",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 10
+ },
+ {
+  "id": 1011,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Etoile",
+  "bgm_path": "inst_11",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 11
+ },
+ {
+  "id": 1012,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Masquerade",
+  "bgm_path": "inst_12",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 12
+ },
+ {
+  "id": 1013,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Farewell song",
+  "bgm_path": "inst_13",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 13
+ },
+ {
+  "id": 1014,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Eternity",
+  "bgm_path": "inst_14",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 14
+ },
+ {
+  "id": 1015,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Decide",
+  "bgm_path": "inst_15",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 15
+ },
+ {
+  "id": 1016,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ウタカタメロディ",
+  "bgm_path": "inst_16",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 16
+ },
+ {
+  "id": 1017,
+  "home_bgm_master_id": 1,
+  "bgm_name": "シリウスの輝きのように",
+  "bgm_path": "inst_17",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 17
+ },
+ {
+  "id": 1018,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Faith in Expression",
+  "bgm_path": "inst_19",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 19
+ },
+ {
+  "id": 1019,
+  "home_bgm_master_id": 1,
+  "bgm_name": "プラネタリウム・レヴュー",
+  "bgm_path": "inst_21",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 21
+ },
+ {
+  "id": 1020,
+  "home_bgm_master_id": 1,
+  "bgm_name": "デアエ・エクス・マキナ！",
+  "bgm_path": "inst_23",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 23
+ },
+ {
+  "id": 1021,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Binary Star",
+  "bgm_path": "inst_25",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 25
+ },
+ {
+  "id": 1022,
+  "home_bgm_master_id": 1,
+  "bgm_name": "暁星アストレーション",
+  "bgm_path": "inst_26",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 26
+ },
+ {
+  "id": 1023,
+  "home_bgm_master_id": 1,
+  "bgm_name": "情熱リベレイション",
+  "bgm_path": "inst_27",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 27
+ },
+ {
+  "id": 1024,
+  "home_bgm_master_id": 1,
+  "bgm_name": "プレイ・マイ・フェイバリット!!",
+  "bgm_path": "inst_28",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 28
+ },
+ {
+  "id": 1025,
+  "home_bgm_master_id": 1,
+  "bgm_name": "幾億の星の空で",
+  "bgm_path": "inst_29",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 29
+ },
+ {
+  "id": 1026,
+  "home_bgm_master_id": 1,
+  "bgm_name": "純粋と奔放",
+  "bgm_path": "inst_30",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 30
+ },
+ {
+  "id": 1027,
+  "home_bgm_master_id": 1,
+  "bgm_name": "アタシのアシタはアタシがキメル",
+  "bgm_path": "inst_44",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 44
+ },
+ {
+  "id": 1028,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Blondie Revenge Tragedy",
+  "bgm_path": "inst_45",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 45
+ },
+ {
+  "id": 1029,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Fernweh",
+  "bgm_path": "inst_46",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 46
+ },
+ {
+  "id": 1030,
+  "home_bgm_master_id": 1,
+  "bgm_name": "サマーバカンス☆アクトレス！",
+  "bgm_path": "inst_47",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 47
+ },
+ {
+  "id": 1031,
+  "home_bgm_master_id": 1,
+  "bgm_name": "I Wanna",
+  "bgm_path": "inst_48",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 48
+ },
+ {
+  "id": 1032,
+  "home_bgm_master_id": 1,
+  "bgm_name": "パーティー・ジョーク・シンデレラ",
+  "bgm_path": "inst_49",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 49
+ },
+ {
+  "id": 1033,
+  "home_bgm_master_id": 1,
+  "bgm_name": "てぃだんちゅ MEETS てぃんがーら！",
+  "bgm_path": "inst_50",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 50
+ },
+ {
+  "id": 1034,
+  "home_bgm_master_id": 1,
+  "bgm_name": "夏の夜空に光る雪",
+  "bgm_path": "inst_51",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 51
+ },
+ {
+  "id": 1035,
+  "home_bgm_master_id": 1,
+  "bgm_name": "電脳スペクタクル",
+  "bgm_path": "inst_53",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 53
+ },
+ {
+  "id": 1036,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ひとりの夜のフィルモグラフィー",
+  "bgm_path": "inst_54",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 54
+ },
+ {
+  "id": 1037,
+  "home_bgm_master_id": 1,
+  "bgm_name": "フレーフレー・ファンファーレ！",
+  "bgm_path": "inst_56",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 56
+ },
+ {
+  "id": 1038,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Black Diary",
+  "bgm_path": "inst_57",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 57
+ },
+ {
+  "id": 1039,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Pandastic Stage!",
+  "bgm_path": "inst_58",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 58
+ },
+ {
+  "id": 1040,
+  "home_bgm_master_id": 1,
+  "bgm_name": "血を着飾る栄華のために",
+  "bgm_path": "inst_59",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 59
+ },
+ {
+  "id": 1041,
+  "home_bgm_master_id": 1,
+  "bgm_name": "巡る暦の花のように",
+  "bgm_path": "inst_61",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 61
+ },
+ {
+  "id": 1042,
+  "home_bgm_master_id": 1,
+  "bgm_name": "革命ダンス",
+  "bgm_path": "inst_62",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 62
+ },
+ {
+  "id": 1043,
+  "home_bgm_master_id": 1,
+  "bgm_name": "マイ・ピクチャー・ストーリー",
+  "bgm_path": "inst_63",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 63
+ },
+ {
+  "id": 1044,
+  "home_bgm_master_id": 1,
+  "bgm_name": "きらり！マジカリュー・スマイル！",
+  "bgm_path": "inst_64",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 64
+ },
+ {
+  "id": 1045,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Forbidden Fruit Addiction",
+  "bgm_path": "inst_66",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 66
+ },
+ {
+  "id": 1046,
+  "home_bgm_master_id": 1,
+  "bgm_name": "So long, Say Goodbye",
+  "bgm_path": "inst_67",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 67
+ },
+ {
+  "id": 1047,
+  "home_bgm_master_id": 1,
+  "bgm_name": "夢のステラリウム",
+  "bgm_path": "inst_68",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 68
+ },
+ {
+  "id": 1048,
+  "home_bgm_master_id": 1,
+  "bgm_name": "トゥインクル・トゥインクル・スクールデイズ！",
+  "bgm_path": "inst_69",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 69
+ },
+ {
+  "id": 1049,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ちいさないのちのさけるばしょ",
+  "bgm_path": "inst_70",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 70
+ },
+ {
+  "id": 1050,
+  "home_bgm_master_id": 1,
+  "bgm_name": "いろはうたBLOOMING",
+  "bgm_path": "inst_71",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 71
+ },
+ {
+  "id": 1051,
+  "home_bgm_master_id": 1,
+  "bgm_name": "フタリノスタルジア",
+  "bgm_path": "inst_73",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 73
+ },
+ {
+  "id": 1052,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Get to Act Life♡",
+  "bgm_path": "inst_74",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 74
+ },
+ {
+  "id": 1053,
+  "home_bgm_master_id": 1,
+  "bgm_name": "こんなに素晴らしい世界で",
+  "bgm_path": "inst_75",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 75
+ },
+ {
+  "id": 1054,
+  "home_bgm_master_id": 1,
+  "bgm_name": "不可逆的運命ディストピア",
+  "bgm_path": "inst_76",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 76
+ },
+ {
+  "id": 1055,
+  "home_bgm_master_id": 1,
+  "bgm_name": "小さな奇跡の降る夜に",
+  "bgm_path": "inst_77",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 77
+ },
+ {
+  "id": 1056,
+  "home_bgm_master_id": 1,
+  "bgm_name": "HAPPY NEW SHOW TIME!",
+  "bgm_path": "inst_79",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 79
+ },
+ {
+  "id": 1057,
+  "home_bgm_master_id": 1,
+  "bgm_name": "アンプレザント・ライン",
+  "bgm_path": "inst_81",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 81
+ },
+ {
+  "id": 1058,
+  "home_bgm_master_id": 1,
+  "bgm_name": "アイ・ウィル！",
+  "bgm_path": "inst_82",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 82
+ },
+ {
+  "id": 1059,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Rolling Stone",
+  "bgm_path": "inst_83",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 83
+ },
+ {
+  "id": 1060,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ミックス・アップ・インタレスト！",
+  "bgm_path": "inst_91",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 91
+ },
+ {
+  "id": 1061,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Crystal Bell",
+  "bgm_path": "inst_92",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 92
+ },
+ {
+  "id": 1062,
+  "home_bgm_master_id": 1,
+  "bgm_name": "St. Bitter Sweet",
+  "bgm_path": "inst_93",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 93
+ },
+ {
+  "id": 1063,
+  "home_bgm_master_id": 1,
+  "bgm_name": "賭世遊戯",
+  "bgm_path": "inst_94",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 94
+ },
+ {
+  "id": 1064,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ふぁうすと・いんぷれっしょん！！",
+  "bgm_path": "inst_95",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 95
+ },
+ {
+  "id": 1065,
+  "home_bgm_master_id": 1,
+  "bgm_name": "To B-eat, or not to B-eat!",
+  "bgm_path": "inst_97",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 97
+ },
+ {
+  "id": 1066,
+  "home_bgm_master_id": 1,
+  "bgm_name": "MY FIRST ACT！",
+  "bgm_path": "inst_98",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 98
+ },
+ {
+  "id": 1067,
+  "home_bgm_master_id": 1,
+  "bgm_name": "深度異症候群-Shindoi Syndrome-",
+  "bgm_path": "inst_99",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 99
+ },
+ {
+  "id": 1068,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Singin' little blue bird",
+  "bgm_path": "inst_100",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 100
+ },
+ {
+  "id": 1069,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ハートフル・レシピ",
+  "bgm_path": "inst_101",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 101
+ },
+ {
+  "id": 1070,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Friends Per Second",
+  "bgm_path": "inst_102",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 102
+ },
+ {
+  "id": 1071,
+  "home_bgm_master_id": 1,
+  "bgm_name": "眩しい朝日に照らされて",
+  "bgm_path": "inst_103",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 103
+ },
+ {
+  "id": 1072,
+  "home_bgm_master_id": 1,
+  "bgm_name": "夕焼け色は始まりの色",
+  "bgm_path": "inst_104",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 104
+ },
+ {
+  "id": 1073,
+  "home_bgm_master_id": 1,
+  "bgm_name": "銀月照らす美しき罪",
+  "bgm_path": "inst_105",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 105
+ },
+ {
+  "id": 1074,
+  "home_bgm_master_id": 1,
+  "bgm_name": "アクト・レゾナンス",
+  "bgm_path": "inst_106",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 106
+ },
+ {
+  "id": 1075,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Thirsty Soul",
+  "bgm_path": "inst_108",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 108
+ },
+ {
+  "id": 1076,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Wish upon a star",
+  "bgm_path": "inst_109",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 109
+ },
+ {
+  "id": 1077,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ワンダフル・フラワー・ガーデン！",
+  "bgm_path": "inst_110",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 110
+ },
+ {
+  "id": 1078,
+  "home_bgm_master_id": 1,
+  "bgm_name": "リアルタイム・リプライ！",
+  "bgm_path": "inst_111",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 111
+ },
+ {
+  "id": 1079,
+  "home_bgm_master_id": 1,
+  "bgm_name": "マン・ハン・チュエンシー!!",
+  "bgm_path": "inst_112",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 112
+ },
+ {
+  "id": 1080,
+  "home_bgm_master_id": 1,
+  "bgm_name": "雪は春に、そして花束を",
+  "bgm_path": "inst_113",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 113
+ },
+ {
+  "id": 1081,
+  "home_bgm_master_id": 1,
+  "bgm_name": "惑う星達のダンスホール",
+  "bgm_path": "inst_115",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 115
+ },
+ {
+  "id": 1082,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Like Blooming Flowers",
+  "bgm_path": "inst_116",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 116
+ },
+ {
+  "id": 1083,
+  "home_bgm_master_id": 1,
+  "bgm_name": "水際PARTY、水着でFUNNY",
+  "bgm_path": "inst_117",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 117
+ },
+ {
+  "id": 1084,
+  "home_bgm_master_id": 1,
+  "bgm_name": "踊る魔法に観る魔法",
+  "bgm_path": "inst_160",
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 160
+ },
+ {
+  "id": 1085,
+  "home_bgm_master_id": 1,
+  "bgm_name": "硝子色の欠片",
+  "bgm_path": "inst_161",
+  "start_date": "2024-08-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 161
+ },
+ {
+  "id": 1086,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Neustart",
+  "bgm_path": "inst_162",
+  "start_date": "2024-09-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 162
+ },
+ {
+  "id": 1087,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Original Scene",
+  "bgm_path": "inst_163",
+  "start_date": "2024-10-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 163
+ },
+ {
+  "id": 1088,
+  "home_bgm_master_id": 1,
+  "bgm_name": "色即是空卍Trick is Treat！",
+  "bgm_path": "inst_164",
+  "start_date": "2024-10-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 164
+ },
+ {
+  "id": 1089,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ハチメンロッピング！",
+  "bgm_path": "inst_96",
+  "start_date": "2024-11-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 96
+ },
+ {
+  "id": 1090,
+  "home_bgm_master_id": 1,
+  "bgm_name": "トーキョー・ウィンター・ミュージック",
+  "bgm_path": "inst_181",
+  "start_date": "2024-12-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 181
+ },
+ {
+  "id": 1091,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Sweet Memories",
+  "bgm_path": "inst_165",
+  "start_date": "2024-12-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 165
+ },
+ {
+  "id": 1092,
+  "home_bgm_master_id": 1,
+  "bgm_name": "史上最幸NEW YEAR!",
+  "bgm_path": "inst_166",
+  "start_date": "2024-12-31T15:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 166
+ },
+ {
+  "id": 1093,
+  "home_bgm_master_id": 1,
+  "bgm_name": "絶対！ニーデリッヒ宣言♡",
+  "bgm_path": "inst_182",
+  "start_date": "2025-01-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 182
+ },
+ {
+  "id": 1094,
+  "home_bgm_master_id": 1,
+  "bgm_name": "黎明の残照の果て、新しき光の空へ",
+  "bgm_path": "inst_178",
+  "start_date": "2025-01-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 178
+ },
+ {
+  "id": 1095,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Worlds Dye Star",
+  "bgm_path": "inst_201",
+  "start_date": "2025-01-25T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 201
+ },
+ {
+  "id": 1096,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ヱテルナ・ガラクシア",
+  "bgm_path": "inst_179",
+  "start_date": "2025-01-26T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 179
+ },
+ {
+  "id": 1097,
+  "home_bgm_master_id": 1,
+  "bgm_name": "いこうよ！ネバーランドへ",
+  "bgm_path": "inst_180",
+  "start_date": "2025-01-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 180
+ },
+ {
+  "id": 1098,
+  "home_bgm_master_id": 1,
+  "bgm_name": "君というメソッドへ",
+  "bgm_path": "inst_188",
+  "start_date": "2025-02-09T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 188
+ },
+ {
+  "id": 1099,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Act on my feelings.",
+  "bgm_path": "inst_183",
+  "start_date": "2025-02-28T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 183
+ },
+ {
+  "id": 1100,
+  "home_bgm_master_id": 1,
+  "bgm_name": "想い出はリタルダンド",
+  "bgm_path": "inst_189",
+  "start_date": "2025-03-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 189
+ },
+ {
+  "id": 1101,
+  "home_bgm_master_id": 1,
+  "bgm_name": "蜃気楼の向こう側、君は笑ってくれるかな",
+  "bgm_path": "inst_184",
+  "start_date": "2025-03-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 184
+ },
+ {
+  "id": 1102,
+  "home_bgm_master_id": 1,
+  "bgm_name": "RAREFIED HEIGHTS",
+  "bgm_path": "inst_209",
+  "start_date": "2025-03-28T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 209
+ },
+ {
+  "id": 1103,
+  "home_bgm_master_id": 1,
+  "bgm_name": "マッピング・マイ・ワールド",
+  "bgm_path": "inst_185",
+  "start_date": "2025-03-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 185
+ },
+ {
+  "id": 1104,
+  "home_bgm_master_id": 1,
+  "bgm_name": "シャボンに浮かぶセカイであおう",
+  "bgm_path": "inst_202",
+  "start_date": "2025-04-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 202
+ },
+ {
+  "id": 1105,
+  "home_bgm_master_id": 1,
+  "bgm_name": "グローリー・ワンダーランド",
+  "bgm_path": "inst_210",
+  "start_date": "2025-04-11T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 210
+ },
+ {
+  "id": 1106,
+  "home_bgm_master_id": 1,
+  "bgm_name": "いつか、薄紅の空の下で",
+  "bgm_path": "inst_186",
+  "start_date": "2025-04-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 186
+ },
+ {
+  "id": 1107,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ティンクル・ティンクル・ティンク！",
+  "bgm_path": "inst_187",
+  "start_date": "2025-04-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 187
+ },
+ {
+  "id": 1108,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ハオダー？ハオアー！-好的？好啊！-",
+  "bgm_path": "inst_203",
+  "start_date": "2025-05-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 203
+ },
+ {
+  "id": 1109,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Dear My Eden",
+  "bgm_path": "inst_204",
+  "start_date": "2025-05-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 204
+ },
+ {
+  "id": 1110,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Sunny day in June.",
+  "bgm_path": "inst_205",
+  "start_date": "2025-06-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 205
+ },
+ {
+  "id": 1111,
+  "home_bgm_master_id": 1,
+  "bgm_name": "SECRET TRAINING!!!!",
+  "bgm_path": "inst_206",
+  "start_date": "2025-06-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 206
+ },
+ {
+  "id": 1112,
+  "home_bgm_master_id": 1,
+  "bgm_name": "氷雨に舞う火の鳥",
+  "bgm_path": "inst_207",
+  "start_date": "2025-07-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 207
+ },
+ {
+  "id": 1113,
+  "home_bgm_master_id": 1,
+  "bgm_name": "愛に生きる喜びを",
+  "bgm_path": "inst_223",
+  "start_date": "2025-07-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 223
+ },
+ {
+  "id": 1114,
+  "home_bgm_master_id": 1,
+  "bgm_name": "カルペ・ディエム",
+  "bgm_path": "inst_236",
+  "start_date": "2025-07-26T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 236
+ },
+ {
+  "id": 1115,
+  "home_bgm_master_id": 1,
+  "bgm_name": "黄昏時、夏の余韻",
+  "bgm_path": "inst_224",
+  "start_date": "2025-07-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 224
+ },
+ {
+  "id": 1116,
+  "home_bgm_master_id": 1,
+  "bgm_name": "VIVID BIT AT HOME！",
+  "bgm_path": "inst_225",
+  "start_date": "2025-08-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 225
+ },
+ {
+  "id": 1117,
+  "home_bgm_master_id": 1,
+  "bgm_name": "星に出逢えた夜に歌って",
+  "bgm_path": "inst_227",
+  "start_date": "2025-08-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 227
+ },
+ {
+  "id": 1118,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ナツのキオクのナイショのホンネ！",
+  "bgm_path": "inst_226",
+  "start_date": "2025-08-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 226
+ },
+ {
+  "id": 1119,
+  "home_bgm_master_id": 1,
+  "bgm_name": "陰陽幻燈譚",
+  "bgm_path": "inst_229",
+  "start_date": "2025-09-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 229
+ },
+ {
+  "id": 1120,
+  "home_bgm_master_id": 1,
+  "bgm_name": "STARRY STORY！",
+  "bgm_path": "inst_230",
+  "start_date": "2025-09-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 230
+ },
+ {
+  "id": 1121,
+  "home_bgm_master_id": 1,
+  "bgm_name": "アンチ・サニーデイズ・カレンダー",
+  "bgm_path": "inst_208",
+  "start_date": "2025-09-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 208
+ },
+ {
+  "id": 1122,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Gazing Dialogue Play",
+  "bgm_path": "inst_228",
+  "start_date": "2025-10-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 228
+ },
+ {
+  "id": 1123,
+  "home_bgm_master_id": 1,
+  "bgm_name": "五条大橋の妖しき化生",
+  "bgm_path": "inst_232",
+  "start_date": "2025-10-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 232
+ },
+ {
+  "id": 1124,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Aschenputtel",
+  "bgm_path": "inst_233",
+  "start_date": "2025-10-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 233
+ },
+ {
+  "id": 1125,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ハロー・マイ・ロケット",
+  "bgm_path": "inst_231",
+  "start_date": "2025-11-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 231
+ },
+ {
+  "id": 1126,
+  "home_bgm_master_id": 1,
+  "bgm_name": "誰ガ為ノサダメ",
+  "bgm_path": "inst_237",
+  "start_date": "2025-11-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 237
+ },
+ {
+  "id": 1127,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Vivid-day Happy-day Boost!",
+  "bgm_path": "inst_238",
+  "start_date": "2025-11-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 238
+ },
+ {
+  "id": 1128,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ヴィヴァラヰタ",
+  "bgm_path": "inst_239",
+  "start_date": "2025-12-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 239
+ },
+ {
+  "id": 1129,
+  "home_bgm_master_id": 1,
+  "bgm_name": "テアトルム・アストラーレ",
+  "bgm_path": "inst_241",
+  "start_date": "2025-12-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 241
+ },
+ {
+  "id": 1130,
+  "home_bgm_master_id": 1,
+  "bgm_name": "開運御礼初詣！",
+  "bgm_path": "inst_242",
+  "start_date": "2025-12-31T15:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 242
+ },
+ {
+  "id": 1131,
+  "home_bgm_master_id": 1,
+  "bgm_name": "バブリック・ビューイング！",
+  "bgm_path": "inst_243",
+  "start_date": "2026-01-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 243
+ },
+ {
+  "id": 1132,
+  "home_bgm_master_id": 1,
+  "bgm_name": "錆びついた胸に一雫の心を",
+  "bgm_path": "inst_244",
+  "start_date": "2026-01-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 244
+ },
+ {
+  "id": 1133,
+  "home_bgm_master_id": 1,
+  "bgm_name": "エクストラ・エキストラ！ -Extra Extra-",
+  "bgm_path": "inst_262",
+  "start_date": "2026-01-26T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 262
+ },
+ {
+  "id": 1134,
+  "home_bgm_master_id": 1,
+  "bgm_name": "未来への前奏曲-Prelude-",
+  "bgm_path": "inst_245",
+  "start_date": "2026-01-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 245
+ },
+ {
+  "id": 1135,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Astral×Relation",
+  "bgm_path": "inst_246",
+  "start_date": "2026-02-09T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 246
+ },
+ {
+  "id": 1136,
+  "home_bgm_master_id": 1,
+  "bgm_name": "空っぽのギフトボックス",
+  "bgm_path": "inst_247",
+  "start_date": "2026-02-18T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 247
+ },
+ {
+  "id": 1137,
+  "home_bgm_master_id": 1,
+  "bgm_name": "八躯モ断ツ剣ノ傍デ",
+  "bgm_path": "inst_248",
+  "start_date": "2026-02-28T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 248
+ },
+ {
+  "id": 1138,
+  "home_bgm_master_id": 1,
+  "bgm_name": "情熱と歓喜のCarnaval！",
+  "bgm_path": "inst_251",
+  "start_date": "2026-03-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 251
+ },
+ {
+  "id": 1139,
+  "home_bgm_master_id": 1,
+  "bgm_name": "劇団電姫すいっちおん！",
+  "bgm_path": "inst_252",
+  "start_date": "2026-03-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 252
+ },
+ {
+  "id": 1140,
+  "home_bgm_master_id": 1,
+  "bgm_name": "FUN×FUN☆SEEKER!!",
+  "bgm_path": "inst_253",
+  "start_date": "2026-03-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 253
+ },
+ {
+  "id": 1141,
+  "home_bgm_master_id": 1,
+  "bgm_name": "The other side of the mirror",
+  "bgm_path": "inst_254",
+  "start_date": "2026-04-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 254
+ },
+ {
+  "id": 1142,
+  "home_bgm_master_id": 1,
+  "bgm_name": "私の愛は愛を殺す",
+  "bgm_path": "inst_255",
+  "start_date": "2026-04-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 255
+ },
+ {
+  "id": 1143,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Besties' Place!",
+  "bgm_path": "inst_256",
+  "start_date": "2026-04-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 256
+ },
+ {
+  "id": 1144,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ふろうてぃんぐ・ていすてぃ",
+  "bgm_path": "inst_257",
+  "start_date": "2026-05-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 257
+ },
+ {
+  "id": 1145,
+  "home_bgm_master_id": 1,
+  "bgm_name": "非対称性のダンス",
+  "bgm_path": "inst_258",
+  "start_date": "2026-05-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 258
+ },
+ {
+  "id": 1146,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Fly to the WORLD",
+  "bgm_path": "inst_259",
+  "start_date": "2026-05-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 259
+ },
+ {
+  "id": 1147,
+  "home_bgm_master_id": 1,
+  "bgm_name": "雨に願えば",
+  "bgm_path": "inst_260",
+  "start_date": "2026-06-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 260
+ },
+ {
+  "id": 1148,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Make New Testament",
+  "bgm_path": "inst_261",
+  "start_date": "2026-06-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 261
+ },
+ {
+  "id": 1149,
+  "home_bgm_master_id": 1,
+  "bgm_name": "LIVE OUR STAR",
+  "bgm_path": "inst_263",
+  "start_date": "2026-06-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 263
+ },
+ {
+  "id": 1150,
+  "home_bgm_master_id": 1,
+  "bgm_name": "LIFE IS BEAUTIFUL STAGE",
+  "bgm_path": "inst_264",
+  "start_date": "2026-07-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 264
+ },
+ {
+  "id": 1151,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ワールドダイスター！",
+  "bgm_path": "inst_265",
+  "start_date": "2026-07-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 265
+ },
+ {
+  "id": 1152,
+  "home_bgm_master_id": 1,
+  "bgm_name": "星の地図に軌跡を描いて",
+  "bgm_path": "inst_901",
+  "start_date": "2026-07-26T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 901
+ },
+ {
+  "id": 1153,
+  "home_bgm_master_id": 1,
+  "bgm_name": "Beyond the Truth",
+  "bgm_path": "inst_902",
+  "start_date": "2026-07-26T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 902
+ },
+ {
+  "id": 1154,
+  "home_bgm_master_id": 1,
+  "bgm_name": "ネビュラ・プレミエール",
+  "bgm_path": "inst_903",
+  "start_date": "2026-07-26T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 903
+ },
+ {
+  "id": 1155,
+  "home_bgm_master_id": 1,
+  "bgm_name": "でん☆げき《もあ》ぶーーーーーすと！！！！！",
+  "bgm_path": "inst_904",
+  "start_date": "2026-07-26T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "music_master_id": 904
+ },
+ {
+  "id": 11001,
+  "home_bgm_master_id": 11,
+  "bgm_name": "ワナビスタ！",
+  "bgm_path": "inst_1",
+  "start_date": "2024-07-12T17:00:00+00:00",
+  "end_date": "2024-07-26T00:00:00+00:00",
+  "music_master_id": 1
+ },
+ {
+  "id": 11002,
+  "home_bgm_master_id": 11,
+  "bgm_name": "シリウスの輝きのように",
+  "bgm_path": "inst_17",
+  "start_date": "2024-07-12T17:00:00+00:00",
+  "end_date": "2024-07-26T00:00:00+00:00",
+  "music_master_id": 17
+ },
+ {
+  "id": 11003,
+  "home_bgm_master_id": 11,
+  "bgm_name": "Faith in Expression",
+  "bgm_path": "inst_19",
+  "start_date": "2024-07-12T17:00:00+00:00",
+  "end_date": "2024-07-26T00:00:00+00:00",
+  "music_master_id": 19
+ },
+ {
+  "id": 11004,
+  "home_bgm_master_id": 11,
+  "bgm_name": "プラネタリウム・レヴュー",
+  "bgm_path": "inst_21",
+  "start_date": "2024-07-12T17:00:00+00:00",
+  "end_date": "2024-07-26T00:00:00+00:00",
+  "music_master_id": 21
+ },
+ {
+  "id": 11005,
+  "home_bgm_master_id": 11,
+  "bgm_name": "デアエ・エクス・マキナ！",
+  "bgm_path": "inst_23",
+  "start_date": "2024-07-12T17:00:00+00:00",
+  "end_date": "2024-07-26T00:00:00+00:00",
+  "music_master_id": 23
+ },
+ {
+  "id": 12001,
+  "home_bgm_master_id": 12,
+  "bgm_name": "夢のステラリウム",
+  "bgm_path": "inst_68",
+  "start_date": "2024-07-26T00:00:00+00:00",
+  "end_date": "2024-08-09T17:00:00+00:00",
+  "music_master_id": 68
+ },
+ {
+  "id": 13001,
+  "home_bgm_master_id": 13,
+  "bgm_name": "ワナビスタ！",
+  "bgm_path": "inst_1",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 1
+ },
+ {
+  "id": 13002,
+  "home_bgm_master_id": 13,
+  "bgm_name": "トゥ・オブ・アス",
+  "bgm_path": "inst_2",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 2
+ },
+ {
+  "id": 13003,
+  "home_bgm_master_id": 13,
+  "bgm_name": "勿忘唄",
+  "bgm_path": "inst_3",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 3
+ },
+ {
+  "id": 13004,
+  "home_bgm_master_id": 13,
+  "bgm_name": "夢見月夜",
+  "bgm_path": "inst_4",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 4
+ },
+ {
+  "id": 13005,
+  "home_bgm_master_id": 13,
+  "bgm_name": "悠久月華",
+  "bgm_path": "inst_5",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 5
+ },
+ {
+  "id": 13006,
+  "home_bgm_master_id": 13,
+  "bgm_name": "ダイヤモンドの誓い",
+  "bgm_path": "inst_6",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 6
+ },
+ {
+  "id": 13007,
+  "home_bgm_master_id": 13,
+  "bgm_name": "魔法のラストノート",
+  "bgm_path": "inst_7",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 7
+ },
+ {
+  "id": 13008,
+  "home_bgm_master_id": 13,
+  "bgm_name": "New Nostalgic Friend",
+  "bgm_path": "inst_8",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 8
+ },
+ {
+  "id": 13009,
+  "home_bgm_master_id": 13,
+  "bgm_name": "Drawing World",
+  "bgm_path": "inst_9",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 9
+ },
+ {
+  "id": 13010,
+  "home_bgm_master_id": 13,
+  "bgm_name": "名もなき恋人よ",
+  "bgm_path": "inst_10",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 10
+ },
+ {
+  "id": 13011,
+  "home_bgm_master_id": 13,
+  "bgm_name": "Etoile",
+  "bgm_path": "inst_11",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 11
+ },
+ {
+  "id": 13012,
+  "home_bgm_master_id": 13,
+  "bgm_name": "Masquerade",
+  "bgm_path": "inst_12",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 12
+ },
+ {
+  "id": 13013,
+  "home_bgm_master_id": 13,
+  "bgm_name": "Farewell song",
+  "bgm_path": "inst_13",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 13
+ },
+ {
+  "id": 13014,
+  "home_bgm_master_id": 13,
+  "bgm_name": "シリウスの輝きのように",
+  "bgm_path": "inst_17",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 17
+ },
+ {
+  "id": 13015,
+  "home_bgm_master_id": 13,
+  "bgm_name": "Faith in Expression",
+  "bgm_path": "inst_19",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 19
+ },
+ {
+  "id": 13016,
+  "home_bgm_master_id": 13,
+  "bgm_name": "プラネタリウム・レヴュー",
+  "bgm_path": "inst_21",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 21
+ },
+ {
+  "id": 13017,
+  "home_bgm_master_id": 13,
+  "bgm_name": "デアエ・エクス・マキナ！",
+  "bgm_path": "inst_23",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 23
+ },
+ {
+  "id": 13018,
+  "home_bgm_master_id": 13,
+  "bgm_name": "暁星アストレーション",
+  "bgm_path": "inst_26",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 26
+ },
+ {
+  "id": 13019,
+  "home_bgm_master_id": 13,
+  "bgm_name": "幾億の星の空で",
+  "bgm_path": "inst_29",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 29
+ },
+ {
+  "id": 13020,
+  "home_bgm_master_id": 13,
+  "bgm_name": "純粋と奔放",
+  "bgm_path": "inst_30",
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "music_master_id": 30
+ },
+ {
+  "id": 14001,
+  "home_bgm_master_id": 14,
+  "bgm_name": "夢のステラリウム",
+  "bgm_path": "inst_68",
+  "start_date": "2025-07-26T00:00:00+00:00",
+  "end_date": "2025-08-09T17:00:00+00:00",
+  "music_master_id": 68
+ },
+ {
+  "id": 14002,
+  "home_bgm_master_id": 14,
+  "bgm_name": "Worlds Dye Star",
+  "bgm_path": "inst_201",
+  "start_date": "2025-07-26T00:00:00+00:00",
+  "end_date": "2025-08-09T17:00:00+00:00",
+  "music_master_id": 201
+ }
+]

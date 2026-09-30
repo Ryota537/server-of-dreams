@@ -1,0 +1,191 @@
+[
+ {
+  "rarity": 1,
+  "current_stage": 0,
+  "required_piece_amount": 2,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 1,
+  "current_stage": 1,
+  "required_piece_amount": 4,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 1,
+  "current_stage": 2,
+  "required_piece_amount": 6,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 1,
+  "current_stage": 3,
+  "required_piece_amount": 8,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 1,
+  "current_stage": 4,
+  "required_piece_amount": 10,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 2,
+  "current_stage": 0,
+  "required_piece_amount": 5,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 2,
+  "current_stage": 1,
+  "required_piece_amount": 10,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 2,
+  "current_stage": 2,
+  "required_piece_amount": 15,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 2,
+  "current_stage": 3,
+  "required_piece_amount": 20,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 2,
+  "current_stage": 4,
+  "required_piece_amount": 25,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 3,
+  "current_stage": 0,
+  "required_piece_amount": 20,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 3,
+  "current_stage": 1,
+  "required_piece_amount": 40,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 3,
+  "current_stage": 2,
+  "required_piece_amount": 60,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 3,
+  "current_stage": 3,
+  "required_piece_amount": 80,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 3,
+  "current_stage": 4,
+  "required_piece_amount": 100,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 4,
+  "current_stage": 0,
+  "required_piece_amount": 250,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 4,
+  "current_stage": 1,
+  "required_piece_amount": 350,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 4,
+  "current_stage": 2,
+  "required_piece_amount": 400,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 4,
+  "current_stage": 3,
+  "required_piece_amount": 450,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 4,
+  "current_stage": 4,
+  "required_piece_amount": 550,
+  "talent_bloom_item_type": 1,
+  "generic_bloom_item_master_id": 140000,
+  "required_item_master_id": null,
+  "required_item_amount": null
+ },
+ {
+  "rarity": 4,
+  "current_stage": 5,
+  "required_piece_amount": 80,
+  "talent_bloom_item_type": 2,
+  "generic_bloom_item_master_id": null,
+  "required_item_master_id": 150000,
+  "required_item_amount": 250
+ }
+]

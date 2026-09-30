@@ -1,0 +1,4506 @@
+[
+ {
+  "id": 1,
+  "event_master_id": 25001,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2001,
+  "stages": [
+   {
+    "id": 101,
+    "bonus_live_master_id": 1,
+    "order": 1,
+    "music_master_id": 110,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250011,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2024-08-20T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 1010101,
+      "thing_type": 1,
+      "thing_id": 132002,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 1010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 1010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 1010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 102,
+    "bonus_live_master_id": 1,
+    "order": 2,
+    "music_master_id": 135,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250012,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2024-08-22T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 1020101,
+      "thing_type": 1,
+      "thing_id": 132002,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 1020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 1020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 1020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 103,
+    "bonus_live_master_id": 1,
+    "order": 3,
+    "music_master_id": 57,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250013,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 135845,
+    "unlock_condition_value": 30000,
+    "start_date": "2024-08-23T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 1030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 1030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 1030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 1030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 104,
+    "bonus_live_master_id": 1,
+    "order": 4,
+    "music_master_id": 34,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250014,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 135845,
+    "unlock_condition_value": 50000,
+    "start_date": "2024-08-25T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 1040101,
+      "thing_type": 1,
+      "thing_id": 132003,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 1040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 1040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 1040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 1040202,
+      "thing_type": 1,
+      "thing_id": 132002,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 105,
+    "bonus_live_master_id": 1,
+    "order": 5,
+    "music_master_id": 19,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250015,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 373285,
+    "unlock_condition_value": 100000,
+    "start_date": "2024-08-27T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 1050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 1050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 1050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 1050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 1050202,
+      "thing_type": 1,
+      "thing_id": 132003,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "event_master_id": 25002,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2002,
+  "stages": [
+   {
+    "id": 201,
+    "bonus_live_master_id": 2,
+    "order": 1,
+    "music_master_id": 76,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250021,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 35145,
+    "unlock_condition_value": 1000,
+    "start_date": "2024-09-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 2010101,
+      "thing_type": 1,
+      "thing_id": 132005,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 2010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 2010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 2010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 202,
+    "bonus_live_master_id": 2,
+    "order": 2,
+    "music_master_id": 125,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250022,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 49995,
+    "unlock_condition_value": 15000,
+    "start_date": "2024-09-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 2020101,
+      "thing_type": 1,
+      "thing_id": 132005,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 2020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 2020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 2020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 203,
+    "bonus_live_master_id": 2,
+    "order": 3,
+    "music_master_id": 44,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250023,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 122395,
+    "unlock_condition_value": 30000,
+    "start_date": "2024-09-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 2030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 2030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 2030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 2030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 204,
+    "bonus_live_master_id": 2,
+    "order": 4,
+    "music_master_id": 43,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250024,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 162745,
+    "unlock_condition_value": 50000,
+    "start_date": "2024-09-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 2040101,
+      "thing_type": 1,
+      "thing_id": 132006,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 2040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 2040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 2040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 2040202,
+      "thing_type": 1,
+      "thing_id": 132005,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 205,
+    "bonus_live_master_id": 2,
+    "order": 5,
+    "music_master_id": 23,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250025,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 219035,
+    "unlock_condition_value": 100000,
+    "start_date": "2024-09-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 2050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 2050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 2050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 2050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 2050202,
+      "thing_type": 1,
+      "thing_id": 132006,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "event_master_id": 25003,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2003,
+  "stages": [
+   {
+    "id": 301,
+    "bonus_live_master_id": 3,
+    "order": 1,
+    "music_master_id": 109,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250031,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2024-10-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 3010101,
+      "thing_type": 1,
+      "thing_id": 132008,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 3010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 3010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 3010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 302,
+    "bonus_live_master_id": 3,
+    "order": 2,
+    "music_master_id": 119,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250032,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2024-10-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 3020101,
+      "thing_type": 1,
+      "thing_id": 132008,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 3020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 3020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 3020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 303,
+    "bonus_live_master_id": 3,
+    "order": 3,
+    "music_master_id": 49,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250033,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2024-10-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 3030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 3030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 3030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 3030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 304,
+    "bonus_live_master_id": 3,
+    "order": 4,
+    "music_master_id": 100,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250034,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 50000,
+    "start_date": "2024-10-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 3040101,
+      "thing_type": 1,
+      "thing_id": 132009,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 3040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 3040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 3040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 3040202,
+      "thing_type": 1,
+      "thing_id": 132008,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 305,
+    "bonus_live_master_id": 3,
+    "order": 5,
+    "music_master_id": 17,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250035,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 311585,
+    "unlock_condition_value": 100000,
+    "start_date": "2024-10-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 3050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 3050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 3050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 3050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 3050202,
+      "thing_type": 1,
+      "thing_id": 132009,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 3050203,
+      "thing_type": 1,
+      "thing_id": 132008,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "event_master_id": 25004,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2004,
+  "stages": [
+   {
+    "id": 401,
+    "bonus_live_master_id": 4,
+    "order": 1,
+    "music_master_id": 96,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250036,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2024-11-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 4010101,
+      "thing_type": 1,
+      "thing_id": 132011,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 4010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 4010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 4010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 402,
+    "bonus_live_master_id": 4,
+    "order": 2,
+    "music_master_id": 112,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250037,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2024-11-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 4020101,
+      "thing_type": 1,
+      "thing_id": 132011,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 4020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 4020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 4020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 403,
+    "bonus_live_master_id": 4,
+    "order": 3,
+    "music_master_id": 61,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250038,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2024-11-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 4030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 4030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 4030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 4030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 404,
+    "bonus_live_master_id": 4,
+    "order": 4,
+    "music_master_id": 124,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250039,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 108945,
+    "unlock_condition_value": 50000,
+    "start_date": "2024-11-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 4040101,
+      "thing_type": 1,
+      "thing_id": 132012,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 4040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 4040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 4040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 4040202,
+      "thing_type": 1,
+      "thing_id": 132011,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 405,
+    "bonus_live_master_id": 4,
+    "order": 5,
+    "music_master_id": 21,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250040,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 280735,
+    "unlock_condition_value": 100000,
+    "start_date": "2024-11-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 4050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 4050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 4050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 4050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 4050202,
+      "thing_type": 1,
+      "thing_id": 132012,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 4050203,
+      "thing_type": 1,
+      "thing_id": 132011,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "event_master_id": 25005,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2005,
+  "stages": [
+   {
+    "id": 501,
+    "bonus_live_master_id": 5,
+    "order": 1,
+    "music_master_id": 66,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250051,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2024-12-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 5010101,
+      "thing_type": 1,
+      "thing_id": 132014,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 5010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 5010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 5010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 502,
+    "bonus_live_master_id": 5,
+    "order": 2,
+    "music_master_id": 123,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250052,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2024-12-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 5020101,
+      "thing_type": 1,
+      "thing_id": 132014,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 5020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 5020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 5020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 503,
+    "bonus_live_master_id": 5,
+    "order": 3,
+    "music_master_id": 108,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250053,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2024-12-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 5030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 5030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 5030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 5030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 504,
+    "bonus_live_master_id": 5,
+    "order": 4,
+    "music_master_id": 140,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250054,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 122395,
+    "unlock_condition_value": 50000,
+    "start_date": "2024-12-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 5040101,
+      "thing_type": 1,
+      "thing_id": 132015,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 5040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 5040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 5040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 5040202,
+      "thing_type": 1,
+      "thing_id": 132014,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 505,
+    "bonus_live_master_id": 5,
+    "order": 5,
+    "music_master_id": 181,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250055,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 342435,
+    "unlock_condition_value": 100000,
+    "start_date": "2024-12-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 5050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 5050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 5050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 5050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 5050202,
+      "thing_type": 1,
+      "thing_id": 132015,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 5050203,
+      "thing_type": 1,
+      "thing_id": 132014,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "event_master_id": 25006,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2006,
+  "stages": [
+   {
+    "id": 601,
+    "bonus_live_master_id": 6,
+    "order": 1,
+    "music_master_id": 13,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250061,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-01-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 6010101,
+      "thing_type": 1,
+      "thing_id": 132017,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 6010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 6010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 6010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 602,
+    "bonus_live_master_id": 6,
+    "order": 2,
+    "music_master_id": 167,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250062,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 35145,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-01-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 6020101,
+      "thing_type": 1,
+      "thing_id": 132017,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 6020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 6020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 6020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 603,
+    "bonus_live_master_id": 6,
+    "order": 3,
+    "music_master_id": 46,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250063,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 95495,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-01-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 6030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 6030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 6030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 6030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 604,
+    "bonus_live_master_id": 6,
+    "order": 4,
+    "music_master_id": 38,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250064,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-01-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 6040101,
+      "thing_type": 1,
+      "thing_id": 132018,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 6040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 6040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 6040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 6040202,
+      "thing_type": 1,
+      "thing_id": 132017,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 605,
+    "bonus_live_master_id": 6,
+    "order": 5,
+    "music_master_id": 182,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250065,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 342435,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-01-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 6050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 6050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 6050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 6050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 6050202,
+      "thing_type": 1,
+      "thing_id": 132018,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 6050203,
+      "thing_type": 1,
+      "thing_id": 132017,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "event_master_id": 25007,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2007,
+  "stages": [
+   {
+    "id": 701,
+    "bonus_live_master_id": 7,
+    "order": 1,
+    "music_master_id": 103,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250071,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-02-09T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 7010101,
+      "thing_type": 1,
+      "thing_id": 132020,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 7010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 7010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 7010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 702,
+    "bonus_live_master_id": 7,
+    "order": 2,
+    "music_master_id": 141,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250072,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-02-11T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 7020101,
+      "thing_type": 1,
+      "thing_id": 132020,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 7020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 7020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 7020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 703,
+    "bonus_live_master_id": 7,
+    "order": 3,
+    "music_master_id": 50,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250073,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 68595,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-02-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 7030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 7030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 7030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 7030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 704,
+    "bonus_live_master_id": 7,
+    "order": 4,
+    "music_master_id": 132,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250074,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-02-14T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 7040101,
+      "thing_type": 1,
+      "thing_id": 132021,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 7040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 7040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 7040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 7040202,
+      "thing_type": 1,
+      "thing_id": 132020,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 705,
+    "bonus_live_master_id": 7,
+    "order": 5,
+    "music_master_id": 188,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250075,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 342435,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-02-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 7050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 7050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 7050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 7050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 7050202,
+      "thing_type": 1,
+      "thing_id": 132021,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 7050203,
+      "thing_type": 1,
+      "thing_id": 132020,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "event_master_id": 25008,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2008,
+  "stages": [
+   {
+    "id": 801,
+    "bonus_live_master_id": 8,
+    "order": 1,
+    "music_master_id": 74,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250081,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-03-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 8010101,
+      "thing_type": 1,
+      "thing_id": 132023,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 8010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 8010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 8010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 802,
+    "bonus_live_master_id": 8,
+    "order": 2,
+    "music_master_id": 157,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250082,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-03-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 8020101,
+      "thing_type": 1,
+      "thing_id": 132023,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 8020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 8020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 8020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 803,
+    "bonus_live_master_id": 8,
+    "order": 3,
+    "music_master_id": 166,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250083,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 68595,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-03-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 8030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 8030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 8030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 8030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 804,
+    "bonus_live_master_id": 8,
+    "order": 4,
+    "music_master_id": 88,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250084,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 135845,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-03-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 8040101,
+      "thing_type": 1,
+      "thing_id": 132024,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 8040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 8040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 8040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 8040202,
+      "thing_type": 1,
+      "thing_id": 132023,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 805,
+    "bonus_live_master_id": 8,
+    "order": 5,
+    "music_master_id": 189,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250085,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 342435,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-03-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 8050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 8050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 8050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 8050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 8050202,
+      "thing_type": 1,
+      "thing_id": 132024,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 8050203,
+      "thing_type": 1,
+      "thing_id": 132023,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "event_master_id": 25009,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2009,
+  "stages": [
+   {
+    "id": 901,
+    "bonus_live_master_id": 9,
+    "order": 1,
+    "music_master_id": 82,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250091,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-04-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 9010101,
+      "thing_type": 1,
+      "thing_id": 132026,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 9010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 9010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 9010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 902,
+    "bonus_live_master_id": 9,
+    "order": 2,
+    "music_master_id": 102,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250092,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-04-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 9020101,
+      "thing_type": 1,
+      "thing_id": 132026,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 9020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 9020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 9020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 903,
+    "bonus_live_master_id": 9,
+    "order": 3,
+    "music_master_id": 92,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250093,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-04-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 9030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 9030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 9030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 9030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 904,
+    "bonus_live_master_id": 9,
+    "order": 4,
+    "music_master_id": 35,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250094,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 95495,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-04-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 9040101,
+      "thing_type": 1,
+      "thing_id": 132027,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 9040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 9040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 9040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 9040202,
+      "thing_type": 1,
+      "thing_id": 132026,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 905,
+    "bonus_live_master_id": 9,
+    "order": 5,
+    "music_master_id": 202,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250095,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 404135,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-04-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 9050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 9050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 9050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 9050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 9050202,
+      "thing_type": 1,
+      "thing_id": 132027,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 9050203,
+      "thing_type": 1,
+      "thing_id": 132026,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "event_master_id": 25010,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2010,
+  "stages": [
+   {
+    "id": 1001,
+    "bonus_live_master_id": 10,
+    "order": 1,
+    "music_master_id": 93,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250101,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-05-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 10010101,
+      "thing_type": 1,
+      "thing_id": 132029,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 10010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 10010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 10010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1002,
+    "bonus_live_master_id": 10,
+    "order": 2,
+    "music_master_id": 89,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250102,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-05-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 10020101,
+      "thing_type": 1,
+      "thing_id": 132029,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 10020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 10020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 10020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1003,
+    "bonus_live_master_id": 10,
+    "order": 3,
+    "music_master_id": 45,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250103,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-05-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 10030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 10030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 10030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 10030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1004,
+    "bonus_live_master_id": 10,
+    "order": 4,
+    "music_master_id": 118,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250104,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 135845,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-05-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 10040101,
+      "thing_type": 1,
+      "thing_id": 132030,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 10040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 10040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 10040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 10040202,
+      "thing_type": 1,
+      "thing_id": 132029,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1005,
+    "bonus_live_master_id": 10,
+    "order": 5,
+    "music_master_id": 216,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250105,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 496685,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-05-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 10050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 10050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 10050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 10050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 10050202,
+      "thing_type": 1,
+      "thing_id": 132030,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 10050203,
+      "thing_type": 1,
+      "thing_id": 132029,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "event_master_id": 25011,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2011,
+  "stages": [
+   {
+    "id": 1101,
+    "bonus_live_master_id": 11,
+    "order": 1,
+    "music_master_id": 109,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250111,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-06-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 11010101,
+      "thing_type": 1,
+      "thing_id": 132032,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 11010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 11010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 11010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1102,
+    "bonus_live_master_id": 11,
+    "order": 2,
+    "music_master_id": 195,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250112,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-06-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 11020101,
+      "thing_type": 1,
+      "thing_id": 132032,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 11020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 11020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 11020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1103,
+    "bonus_live_master_id": 11,
+    "order": 3,
+    "music_master_id": 104,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250113,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-06-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 11030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 11030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 11030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 11030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1104,
+    "bonus_live_master_id": 11,
+    "order": 4,
+    "music_master_id": 185,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250114,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 122395,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-06-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 11040101,
+      "thing_type": 1,
+      "thing_id": 132033,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 11040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 11040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 11040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 11040202,
+      "thing_type": 1,
+      "thing_id": 132032,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1105,
+    "bonus_live_master_id": 11,
+    "order": 5,
+    "music_master_id": 205,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250115,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 311585,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-06-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 11050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 11050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 11050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 11050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 11050202,
+      "thing_type": 1,
+      "thing_id": 132033,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 11050203,
+      "thing_type": 1,
+      "thing_id": 132032,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "event_master_id": 25012,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2012,
+  "stages": [
+   {
+    "id": 1201,
+    "bonus_live_master_id": 12,
+    "order": 1,
+    "music_master_id": 91,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250121,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-07-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 12010101,
+      "thing_type": 1,
+      "thing_id": 132035,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 12010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 12010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 12010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1202,
+    "bonus_live_master_id": 12,
+    "order": 2,
+    "music_master_id": 120,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250122,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-07-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 12020101,
+      "thing_type": 1,
+      "thing_id": 132035,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 12020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 12020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 12020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1203,
+    "bonus_live_master_id": 12,
+    "order": 3,
+    "music_master_id": 94,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250123,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 95495,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-07-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 12030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 12030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 12030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 12030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1204,
+    "bonus_live_master_id": 12,
+    "order": 4,
+    "music_master_id": 175,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250124,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 108945,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-07-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 12040101,
+      "thing_type": 1,
+      "thing_id": 132036,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 12040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 12040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 12040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 12040202,
+      "thing_type": 1,
+      "thing_id": 132035,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1205,
+    "bonus_live_master_id": 12,
+    "order": 5,
+    "music_master_id": 207,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250125,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 280735,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-07-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 12050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 12050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 12050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 12050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 12050202,
+      "thing_type": 1,
+      "thing_id": 132036,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 12050203,
+      "thing_type": 1,
+      "thing_id": 132035,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "event_master_id": 25013,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2013,
+  "stages": [
+   {
+    "id": 1301,
+    "bonus_live_master_id": 13,
+    "order": 1,
+    "music_master_id": 58,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250131,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-08-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 13010101,
+      "thing_type": 1,
+      "thing_id": 132038,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 13010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 13010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 13010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1302,
+    "bonus_live_master_id": 13,
+    "order": 2,
+    "music_master_id": 39,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250132,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 40095,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-08-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 13020101,
+      "thing_type": 1,
+      "thing_id": 132038,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 13020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 13020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 13020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1303,
+    "bonus_live_master_id": 13,
+    "order": 3,
+    "music_master_id": 71,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250133,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 95495,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-08-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 13030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 13030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 13030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 13030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1304,
+    "bonus_live_master_id": 13,
+    "order": 4,
+    "music_master_id": 177,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250134,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 108945,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-08-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 13040101,
+      "thing_type": 1,
+      "thing_id": 132039,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 13040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 13040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 13040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 13040202,
+      "thing_type": 1,
+      "thing_id": 132038,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1305,
+    "bonus_live_master_id": 13,
+    "order": 5,
+    "music_master_id": 225,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250135,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 280735,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-08-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 13050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 13050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 13050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 13050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 13050202,
+      "thing_type": 1,
+      "thing_id": 132039,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 13050203,
+      "thing_type": 1,
+      "thing_id": 132038,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "event_master_id": 25014,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2014,
+  "stages": [
+   {
+    "id": 1401,
+    "bonus_live_master_id": 14,
+    "order": 1,
+    "music_master_id": 106,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250141,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-09-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 14010101,
+      "thing_type": 1,
+      "thing_id": 132041,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 14010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 14010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 14010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1402,
+    "bonus_live_master_id": 14,
+    "order": 2,
+    "music_master_id": 42,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250142,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 40095,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-09-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 14020101,
+      "thing_type": 1,
+      "thing_id": 132041,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 14020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 14020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 14020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1403,
+    "bonus_live_master_id": 14,
+    "order": 3,
+    "music_master_id": 45,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250143,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 95495,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-09-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 14030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 14030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 14030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 14030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1404,
+    "bonus_live_master_id": 14,
+    "order": 4,
+    "music_master_id": 155,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250144,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 108945,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-09-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 14040101,
+      "thing_type": 1,
+      "thing_id": 132042,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 14040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 14040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 14040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 14040202,
+      "thing_type": 1,
+      "thing_id": 132041,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1405,
+    "bonus_live_master_id": 14,
+    "order": 5,
+    "music_master_id": 229,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250145,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 373285,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-09-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 14050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 14050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 14050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 14050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 14050202,
+      "thing_type": 1,
+      "thing_id": 132042,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 14050203,
+      "thing_type": 1,
+      "thing_id": 132041,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "event_master_id": 25015,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2015,
+  "stages": [
+   {
+    "id": 1501,
+    "bonus_live_master_id": 15,
+    "order": 1,
+    "music_master_id": 224,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250151,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-10-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 15010101,
+      "thing_type": 1,
+      "thing_id": 132044,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 15010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 15010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 15010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1502,
+    "bonus_live_master_id": 15,
+    "order": 2,
+    "music_master_id": 129,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250152,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 35145,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-10-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 15020101,
+      "thing_type": 1,
+      "thing_id": 132044,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 15020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 15020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 15020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1503,
+    "bonus_live_master_id": 15,
+    "order": 3,
+    "music_master_id": 163,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250153,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-10-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 15030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 15030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 15030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 15030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1504,
+    "bonus_live_master_id": 15,
+    "order": 4,
+    "music_master_id": 84,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250154,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 122395,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-10-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 15040101,
+      "thing_type": 1,
+      "thing_id": 132045,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 15040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 15040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 15040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 15040202,
+      "thing_type": 1,
+      "thing_id": 132044,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1505,
+    "bonus_live_master_id": 15,
+    "order": 5,
+    "music_master_id": 228,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250155,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 342435,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-10-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 15050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 15050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 15050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 15050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 15050202,
+      "thing_type": 1,
+      "thing_id": 132045,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 15050203,
+      "thing_type": 1,
+      "thing_id": 132044,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "event_master_id": 25016,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2016,
+  "stages": [
+   {
+    "id": 1601,
+    "bonus_live_master_id": 16,
+    "order": 1,
+    "music_master_id": 97,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250156,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2025-11-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 16010101,
+      "thing_type": 1,
+      "thing_id": 132047,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 16010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 16010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 16010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1602,
+    "bonus_live_master_id": 16,
+    "order": 2,
+    "music_master_id": 152,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250157,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 15000,
+    "start_date": "2025-11-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 16020101,
+      "thing_type": 1,
+      "thing_id": 132047,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 16020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 16020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 16020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1603,
+    "bonus_live_master_id": 16,
+    "order": 3,
+    "music_master_id": 54,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250158,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 108945,
+    "unlock_condition_value": 30000,
+    "start_date": "2025-11-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 16030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 16030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 16030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 16030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1604,
+    "bonus_live_master_id": 16,
+    "order": 4,
+    "music_master_id": 122,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250159,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 122395,
+    "unlock_condition_value": 50000,
+    "start_date": "2025-11-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 16040101,
+      "thing_type": 1,
+      "thing_id": 132048,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 16040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 16040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 16040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 16040202,
+      "thing_type": 1,
+      "thing_id": 132047,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1605,
+    "bonus_live_master_id": 16,
+    "order": 5,
+    "music_master_id": 231,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250160,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 373285,
+    "unlock_condition_value": 100000,
+    "start_date": "2025-11-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 16050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 16050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 16050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 16050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 16050202,
+      "thing_type": 1,
+      "thing_id": 132048,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 16050203,
+      "thing_type": 1,
+      "thing_id": 132047,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "event_master_id": 25017,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2017,
+  "stages": [
+   {
+    "id": 1701,
+    "bonus_live_master_id": 17,
+    "order": 1,
+    "music_master_id": 15,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250171,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 30195,
+    "unlock_condition_value": 1000,
+    "start_date": "2026-02-09T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 17010101,
+      "thing_type": 1,
+      "thing_id": 132050,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 17010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 17010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 17010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1702,
+    "bonus_live_master_id": 17,
+    "order": 2,
+    "music_master_id": 190,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250172,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 40095,
+    "unlock_condition_value": 15000,
+    "start_date": "2026-02-11T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 17020101,
+      "thing_type": 1,
+      "thing_id": 132050,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 17020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 17020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 17020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1703,
+    "bonus_live_master_id": 17,
+    "order": 3,
+    "music_master_id": 26,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250173,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 82045,
+    "unlock_condition_value": 30000,
+    "start_date": "2026-02-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 17030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 17030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 17030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 17030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1704,
+    "bonus_live_master_id": 17,
+    "order": 4,
+    "music_master_id": 137,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250174,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 108945,
+    "unlock_condition_value": 50000,
+    "start_date": "2026-02-14T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 17040101,
+      "thing_type": 1,
+      "thing_id": 132051,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 17040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 17040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 17040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 17040202,
+      "thing_type": 1,
+      "thing_id": 132050,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1705,
+    "bonus_live_master_id": 17,
+    "order": 5,
+    "music_master_id": 246,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250175,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 280735,
+    "unlock_condition_value": 100000,
+    "start_date": "2026-02-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 17050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 17050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 17050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 17050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 17050202,
+      "thing_type": 1,
+      "thing_id": 132051,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 17050203,
+      "thing_type": 1,
+      "thing_id": 132050,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "event_master_id": 25018,
+  "first_clear_event_point_quantity": 50000,
+  "clear_event_point_quantity": 10000,
+  "unlock_condition_type": 1,
+  "unlock_condition_value": 2018,
+  "stages": [
+   {
+    "id": 1801,
+    "bonus_live_master_id": 18,
+    "order": 1,
+    "music_master_id": 48,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250181,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 40095,
+    "unlock_condition_value": 1000,
+    "start_date": "2026-04-10T17:00:00+00:00",
+    "rewards": [
+     {
+      "id": 18010101,
+      "thing_type": 1,
+      "thing_id": 132053,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 18010102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 18010103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 18010201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 50,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1802,
+    "bonus_live_master_id": 18,
+    "order": 2,
+    "music_master_id": 167,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250182,
+    "recommended_company": null,
+    "recommended_level": 10,
+    "clear_score": 40095,
+    "unlock_condition_value": 15000,
+    "start_date": "2026-04-12T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 18020101,
+      "thing_type": 1,
+      "thing_id": 132053,
+      "thing_quantity": 10,
+      "is_first_clear": true
+     },
+     {
+      "id": 18020102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 18020103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 18020201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 60,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1803,
+    "bonus_live_master_id": 18,
+    "order": 3,
+    "music_master_id": 11,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250183,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 95495,
+    "unlock_condition_value": 30000,
+    "start_date": "2026-04-13T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 18030101,
+      "thing_type": 1,
+      "thing_id": 130071,
+      "thing_quantity": 3,
+      "is_first_clear": true
+     },
+     {
+      "id": 18030102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 18030103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 18030201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 70,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1804,
+    "bonus_live_master_id": 18,
+    "order": 4,
+    "music_master_id": 240,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250184,
+    "recommended_company": null,
+    "recommended_level": 20,
+    "clear_score": 108945,
+    "unlock_condition_value": 50000,
+    "start_date": "2026-04-15T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 18040101,
+      "thing_type": 1,
+      "thing_id": 132054,
+      "thing_quantity": 5,
+      "is_first_clear": true
+     },
+     {
+      "id": 18040102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 1,
+      "is_first_clear": true
+     },
+     {
+      "id": 18040103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 18040201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 80,
+      "is_first_clear": false
+     },
+     {
+      "id": 18040202,
+      "thing_type": 1,
+      "thing_id": 132053,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": null
+   },
+   {
+    "id": 1805,
+    "bonus_live_master_id": 18,
+    "order": 5,
+    "music_master_id": 254,
+    "vocal_version": 1,
+    "sense_notation_master_id": 250185,
+    "recommended_company": null,
+    "recommended_level": 30,
+    "clear_score": 311585,
+    "unlock_condition_value": 100000,
+    "start_date": "2026-04-16T05:00:00+00:00",
+    "rewards": [
+     {
+      "id": 18050101,
+      "thing_type": 1,
+      "thing_id": 150000,
+      "thing_quantity": 30,
+      "is_first_clear": true
+     },
+     {
+      "id": 18050102,
+      "thing_type": 1,
+      "thing_id": 210001,
+      "thing_quantity": 2,
+      "is_first_clear": true
+     },
+     {
+      "id": 18050103,
+      "thing_type": 13,
+      "thing_id": 0,
+      "thing_quantity": 100,
+      "is_first_clear": true
+     },
+     {
+      "id": 18050201,
+      "thing_type": 1,
+      "thing_id": 140000,
+      "thing_quantity": 100,
+      "is_first_clear": false
+     },
+     {
+      "id": 18050202,
+      "thing_type": 1,
+      "thing_id": 132054,
+      "thing_quantity": 1,
+      "is_first_clear": false
+     },
+     {
+      "id": 18050203,
+      "thing_type": 1,
+      "thing_id": 132053,
+      "thing_quantity": 5,
+      "is_first_clear": false
+     }
+    ],
+    "clear_star_act_count": 2
+   }
+  ]
+ }
+]

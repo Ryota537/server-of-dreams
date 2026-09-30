@@ -1,0 +1,9977 @@
+[
+ {
+  "id": 301,
+  "event_box_gacha_master_id": 3,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 30101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 300,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30102,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 30103,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30104,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30105,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30106,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30107,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30108,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30109,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30110,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30111,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 30112,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30113,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30114,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30115,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30116,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30117,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30118,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 30119,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 1000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 302,
+  "event_box_gacha_master_id": 3,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 30201,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 30,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30202,
+    "thing_id": 320050,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30204,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 30205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 30206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30207,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30208,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30209,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30210,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30211,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30212,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30213,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30214,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 30215,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30216,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30217,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30218,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30219,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30220,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 303,
+  "event_box_gacha_master_id": 3,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 30301,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 200,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30302,
+    "thing_id": 320050,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30303,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30304,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30305,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 70,
+    "is_resettable": false
+   },
+   {
+    "id": 30306,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30307,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30308,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30309,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30310,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30311,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30312,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30313,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30314,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30315,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 30316,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30317,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30318,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30319,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30320,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30321,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30322,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30323,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30324,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30325,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 304,
+  "event_box_gacha_master_id": 3,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 30401,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30402,
+    "thing_id": 320050,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30403,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30404,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30405,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 30406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 30407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 30408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30409,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30410,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30411,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30412,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30414,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30415,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30416,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30417,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30418,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30419,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30420,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30421,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30422,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 7,
+    "is_resettable": false
+   },
+   {
+    "id": 30423,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30424,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30425,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30426,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30427,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30428,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30429,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 4000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30430,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 305,
+  "event_box_gacha_master_id": 3,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 30501,
+    "thing_id": 400002,
+    "thing_type": 6,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30502,
+    "thing_id": 320050,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 30503,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30504,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30505,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 30506,
+    "thing_id": 110003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 30507,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 30508,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 30509,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30510,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30511,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30512,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30513,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30514,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30515,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30516,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30517,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30518,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30519,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30520,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30521,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30522,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30523,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30524,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 30525,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30526,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30527,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30528,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30529,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30530,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30531,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30532,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 30533,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30534,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 306,
+  "event_box_gacha_master_id": 3,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 30601,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30602,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30603,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30604,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30605,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30606,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 30607,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30608,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30609,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30610,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30611,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30612,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30613,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30614,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30615,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30616,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 30617,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30618,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30619,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 30620,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 30621,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 30622,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 3000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 401,
+  "event_box_gacha_master_id": 4,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 40101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 300,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40102,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 40103,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40104,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40105,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40106,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40107,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40108,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40109,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40110,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40111,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 40112,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40113,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40114,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40115,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40116,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40117,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40118,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 40119,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 1000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 402,
+  "event_box_gacha_master_id": 4,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 40201,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 30,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40202,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40204,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 40205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 40206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40207,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40208,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40209,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40210,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40211,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40212,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40213,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40214,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 40215,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40216,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40217,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40218,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40219,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40220,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 403,
+  "event_box_gacha_master_id": 4,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 40301,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 200,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40302,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40303,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40304,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40305,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 70,
+    "is_resettable": false
+   },
+   {
+    "id": 40306,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40307,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40308,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40309,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40310,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40311,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40312,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40313,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40314,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40315,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 40316,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40317,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40318,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40319,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40320,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40321,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40322,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40323,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40324,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40325,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 404,
+  "event_box_gacha_master_id": 4,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 40401,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40402,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40403,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40404,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40405,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 40406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 40407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 40408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40409,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40410,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40411,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40412,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40414,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40415,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40416,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40417,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40418,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40419,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40420,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40421,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40422,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 7,
+    "is_resettable": false
+   },
+   {
+    "id": 40423,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40424,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40425,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40426,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40427,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40428,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40429,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 4000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40430,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 405,
+  "event_box_gacha_master_id": 4,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 40501,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 40502,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40503,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40504,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 40505,
+    "thing_id": 110003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 40506,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 40507,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 40508,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40509,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40510,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40511,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40512,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40513,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40514,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40515,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40516,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40517,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40518,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40519,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40520,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40521,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40522,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40523,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 40524,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40525,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40526,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40527,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40528,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40529,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40530,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40531,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 40532,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40533,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 406,
+  "event_box_gacha_master_id": 4,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 40601,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40602,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40603,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40604,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40605,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40606,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 40607,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40608,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40609,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40610,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40611,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40612,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40613,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40614,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40615,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40616,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 40617,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40618,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40619,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 40620,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 40621,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 40622,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 3000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 501,
+  "event_box_gacha_master_id": 5,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 50101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 300,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50102,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 50103,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50104,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50105,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50106,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50107,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50108,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50109,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50110,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50111,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 50112,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50113,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50114,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50115,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50116,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50117,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50118,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 50119,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 1000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 502,
+  "event_box_gacha_master_id": 5,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 50201,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 30,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50202,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50204,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 50205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 50206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50207,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50208,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50209,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50210,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50211,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50212,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50213,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50214,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 50215,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50216,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50217,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50218,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50219,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50220,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 503,
+  "event_box_gacha_master_id": 5,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 50301,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 200,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50302,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50303,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50304,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50305,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 70,
+    "is_resettable": false
+   },
+   {
+    "id": 50306,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50307,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50308,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50309,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50310,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50311,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50312,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50313,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50314,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50315,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 50316,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50317,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50318,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50319,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50320,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50321,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50322,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50323,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50324,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50325,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 504,
+  "event_box_gacha_master_id": 5,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 50401,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50402,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50403,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50404,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50405,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 50406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 50407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 50408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50409,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50410,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50411,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50412,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50414,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50415,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50416,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50417,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50418,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50419,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50420,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50421,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50422,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 7,
+    "is_resettable": false
+   },
+   {
+    "id": 50423,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50424,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50425,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50426,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50427,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50428,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50429,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 4000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50430,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 505,
+  "event_box_gacha_master_id": 5,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 50501,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 50502,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50503,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50504,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 50505,
+    "thing_id": 110003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 50506,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 50507,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 50508,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50509,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50510,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50511,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50512,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50513,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50514,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50515,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50516,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50517,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50518,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50519,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50520,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50521,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50522,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50523,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 50524,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50525,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50526,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50527,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50528,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50529,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50530,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50531,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 50532,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50533,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 506,
+  "event_box_gacha_master_id": 5,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 50601,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50602,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50603,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50604,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50605,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50606,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 50607,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50608,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50609,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50610,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50611,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50612,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50613,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50614,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50615,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50616,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 50617,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50618,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50619,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 50620,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 50621,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 50622,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 3000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 601,
+  "event_box_gacha_master_id": 6,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 60101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 300,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60102,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 60103,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60104,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60105,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60106,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60107,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60108,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60109,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60110,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60111,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 60112,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60113,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60114,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60115,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60116,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60117,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60118,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 60119,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 1000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 602,
+  "event_box_gacha_master_id": 6,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 60201,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 30,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60202,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60204,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 60205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 60206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60207,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60208,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60209,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60210,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60211,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60212,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60213,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60214,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 60215,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60216,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60217,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60218,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60219,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60220,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 603,
+  "event_box_gacha_master_id": 6,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 60301,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 200,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60302,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60303,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60304,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60305,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 70,
+    "is_resettable": false
+   },
+   {
+    "id": 60306,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60307,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60308,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60309,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60310,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60311,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60312,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60313,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60314,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60315,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 60316,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60317,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60318,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60319,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60320,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60321,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60322,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60323,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60324,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60325,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 604,
+  "event_box_gacha_master_id": 6,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 60401,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60402,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60403,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60404,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60405,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 60406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 60407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 60408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60409,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60410,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60411,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60412,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60414,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60415,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60416,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60417,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60418,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60419,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60420,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60421,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60422,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 7,
+    "is_resettable": false
+   },
+   {
+    "id": 60423,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60424,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60425,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60426,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60427,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60428,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60429,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 4000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60430,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 605,
+  "event_box_gacha_master_id": 6,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 60501,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 60502,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60503,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60504,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 60505,
+    "thing_id": 110003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 60506,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 60507,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 60508,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60509,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60510,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60511,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60512,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60513,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60514,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60515,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60516,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60517,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60518,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60519,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60520,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60521,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60522,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60523,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 60524,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60525,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60526,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60527,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60528,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60529,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60530,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60531,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 60532,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60533,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 606,
+  "event_box_gacha_master_id": 6,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 60601,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60602,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60603,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60604,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60605,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60606,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 60607,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60608,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60609,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60610,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60611,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60612,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60613,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60614,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60615,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60616,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 60617,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60618,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60619,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 60620,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 60621,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 60622,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 3000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 701,
+  "event_box_gacha_master_id": 7,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 70101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 300,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70102,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 70103,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70104,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70105,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70106,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70107,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70108,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70109,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70110,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70111,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 70112,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70113,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70114,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70115,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70116,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70117,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70118,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 70119,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 1000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 702,
+  "event_box_gacha_master_id": 7,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 70201,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 30,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70202,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70204,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 70205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 70206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70207,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70208,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70209,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70210,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70211,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70212,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70213,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70214,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 70215,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70216,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70217,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70218,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70219,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70220,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 703,
+  "event_box_gacha_master_id": 7,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 70301,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 200,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70302,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70303,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70304,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70305,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 70,
+    "is_resettable": false
+   },
+   {
+    "id": 70306,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70307,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70308,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70309,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70310,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70311,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70312,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70313,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70314,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70315,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 70316,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70317,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70318,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70319,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70320,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70321,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70322,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70323,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70324,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70325,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 704,
+  "event_box_gacha_master_id": 7,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 70401,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70402,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70403,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70404,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70405,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 70406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 70407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 70408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70409,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70410,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70411,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70412,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70414,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70415,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70416,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70417,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70418,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70419,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70420,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70421,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70422,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 7,
+    "is_resettable": false
+   },
+   {
+    "id": 70423,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70424,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70425,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70426,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70427,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70428,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70429,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 4000,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70430,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 705,
+  "event_box_gacha_master_id": 7,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 70501,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 70502,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70503,
+    "thing_id": 110001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70504,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 70505,
+    "thing_id": 110003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 70506,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 80,
+    "is_resettable": false
+   },
+   {
+    "id": 70507,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 70508,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70509,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70510,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70511,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70512,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70513,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70514,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70515,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70516,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70517,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70518,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70519,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70520,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70521,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70522,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70523,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 70524,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70525,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70526,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70527,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70528,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70529,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70530,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70531,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 70532,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70533,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 10000,
+    "hit_limit": 10,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 706,
+  "event_box_gacha_master_id": 7,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 70601,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70602,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70603,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70604,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70605,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70606,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 70607,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70608,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70609,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70610,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70611,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70612,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70613,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70614,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70615,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70616,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 70617,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70618,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70619,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 70620,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 70621,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 70622,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 3000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 801,
+  "event_box_gacha_master_id": 8,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 80101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 300,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 80102,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 80103,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80104,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 80105,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80106,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80107,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80108,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80109,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80110,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80111,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80112,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80113,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80114,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80115,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80116,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80117,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80118,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80119,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 802,
+  "event_box_gacha_master_id": 8,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 80201,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 50,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 80202,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": true
+   },
+   {
+    "id": 80203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80204,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 80205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 80206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80207,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80208,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80209,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80210,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80211,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80212,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80213,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80214,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80215,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80216,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80217,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80218,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80219,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80220,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80221,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80222,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80223,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 80224,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 20,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 803,
+  "event_box_gacha_master_id": 8,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 80301,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 200,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 80302,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80303,
+    "thing_id": 130015,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": true
+   },
+   {
+    "id": 80304,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80305,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 80306,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 80307,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 80308,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80309,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80310,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80311,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80312,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80313,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80314,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80315,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80316,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80317,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80318,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80319,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80320,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 80321,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 80322,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80323,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80324,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80325,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80326,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 80327,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 8000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 804,
+  "event_box_gacha_master_id": 8,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 80401,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 80402,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80403,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80404,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": true
+   },
+   {
+    "id": 80405,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 80406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 60,
+    "is_resettable": false
+   },
+   {
+    "id": 80407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 80408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 80409,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80410,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80411,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80412,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80414,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80415,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 80416,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80417,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80418,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80419,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 45,
+    "is_resettable": false
+   },
+   {
+    "id": 80420,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 80421,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80422,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80423,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 80424,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80425,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80426,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80427,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 80428,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 15000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 805,
+  "event_box_gacha_master_id": 8,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 80501,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 80502,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80503,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80504,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80505,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 80506,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 60,
+    "is_resettable": false
+   },
+   {
+    "id": 80507,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 80508,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80509,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80510,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80511,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80512,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 80513,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80514,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80515,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 45,
+    "is_resettable": false
+   },
+   {
+    "id": 80516,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 80517,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80518,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80519,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80520,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 80521,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 20000,
+    "hit_limit": 30,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 806,
+  "event_box_gacha_master_id": 8,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 80601,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80602,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80603,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80604,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80605,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80606,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 80607,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80608,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80609,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80610,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80611,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80612,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80613,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80614,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80615,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80616,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 80617,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80618,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80619,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 80620,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 80621,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 80622,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 3000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 901,
+  "event_box_gacha_master_id": 9,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 90101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 400,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90102,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 90103,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90104,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 90105,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90106,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90107,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90108,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90109,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90110,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90111,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90112,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90113,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90114,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90115,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90116,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90117,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90118,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90119,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 902,
+  "event_box_gacha_master_id": 9,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 90201,
+    "thing_id": 320190,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90202,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 5,
+    "is_resettable": true
+   },
+   {
+    "id": 90203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90204,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 90205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 90206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90207,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90208,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90209,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90210,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90211,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90212,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90213,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90214,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90215,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90216,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90217,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90218,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90219,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90220,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90221,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90222,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90223,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 90224,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 20,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 903,
+  "event_box_gacha_master_id": 9,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 90301,
+    "thing_id": 320190,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90302,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 40,
+    "hit_limit": 5,
+    "is_resettable": true
+   },
+   {
+    "id": 90303,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90304,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90305,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 90306,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 90307,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 90308,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90309,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90310,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90311,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90312,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90313,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90314,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90315,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90316,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90317,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90318,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90319,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90320,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 90321,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 90322,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90323,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90324,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90325,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90326,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 90327,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 8000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 904,
+  "event_box_gacha_master_id": 9,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 90401,
+    "thing_id": 320190,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90402,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": true
+   },
+   {
+    "id": 90403,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90404,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90405,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 60,
+    "is_resettable": false
+   },
+   {
+    "id": 90407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 90408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 90409,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90410,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90411,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90412,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90414,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90415,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 90416,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90417,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90418,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90419,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 45,
+    "is_resettable": false
+   },
+   {
+    "id": 90420,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 90421,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90422,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90423,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 90424,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90425,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90426,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90427,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 90428,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 15000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 905,
+  "event_box_gacha_master_id": 9,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 90501,
+    "thing_id": 320190,
+    "thing_type": 3,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90502,
+    "thing_id": 400016,
+    "thing_type": 6,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90503,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 90504,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90505,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90506,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90507,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90508,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 60,
+    "is_resettable": false
+   },
+   {
+    "id": 90509,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 90510,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90511,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90512,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90513,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90514,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 90515,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90516,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90517,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 45,
+    "is_resettable": false
+   },
+   {
+    "id": 90518,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 90519,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90520,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90521,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90522,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 2,
+    "is_resettable": false
+   },
+   {
+    "id": 90523,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 20000,
+    "hit_limit": 30,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 906,
+  "event_box_gacha_master_id": 9,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 90601,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 15,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90602,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90603,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90604,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90605,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90606,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 90607,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90608,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90609,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90610,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90611,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90612,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90613,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90614,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90615,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90616,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 90617,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90618,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90619,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 90620,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 90621,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 2000,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 90622,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 3000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 1001,
+  "event_box_gacha_master_id": 10,
+  "order": 1,
+  "box_things": [
+   {
+    "id": 100101,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 400,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 100102,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 100103,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 100104,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 100105,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100106,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100107,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100108,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100109,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100110,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100111,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100112,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100113,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100114,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 100115,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100116,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100117,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100118,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100119,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 1002,
+  "event_box_gacha_master_id": 10,
+  "order": 2,
+  "box_things": [
+   {
+    "id": 100201,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 3,
+    "is_resettable": true
+   },
+   {
+    "id": 100202,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 100203,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100204,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 100205,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 100206,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100207,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100208,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100209,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100210,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100211,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 20,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100212,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 100213,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100214,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100215,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100216,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100217,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 100218,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100219,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100220,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100221,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100222,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100223,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100224,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 5000,
+    "hit_limit": 20,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 1003,
+  "event_box_gacha_master_id": 10,
+  "order": 3,
+  "box_things": [
+   {
+    "id": 100301,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 40,
+    "hit_limit": 5,
+    "is_resettable": true
+   },
+   {
+    "id": 100302,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": true
+   },
+   {
+    "id": 100303,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100304,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 100305,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 60,
+    "is_resettable": false
+   },
+   {
+    "id": 100306,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 100307,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100308,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100309,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100310,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100311,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100312,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100313,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100314,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 11,
+    "is_resettable": false
+   },
+   {
+    "id": 100315,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100316,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100317,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100318,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100319,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100320,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 100321,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 100322,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 100323,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100324,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100325,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100326,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 100327,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 8000,
+    "hit_limit": 25,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 1004,
+  "event_box_gacha_master_id": 10,
+  "order": 4,
+  "box_things": [
+   {
+    "id": 100401,
+    "thing_id": 391500,
+    "thing_type": 16,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 100402,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": true
+   },
+   {
+    "id": 100403,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 100404,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100405,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100406,
+    "thing_id": 120001,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 60,
+    "is_resettable": false
+   },
+   {
+    "id": 100407,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 100408,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 25,
+    "is_resettable": false
+   },
+   {
+    "id": 100409,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100410,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100411,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100412,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100413,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100414,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100415,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100416,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 100417,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100418,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100419,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100420,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 45,
+    "is_resettable": false
+   },
+   {
+    "id": 100421,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100422,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100423,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100424,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100425,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100426,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100427,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100428,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 100429,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 15000,
+    "hit_limit": 15,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 1005,
+  "event_box_gacha_master_id": 10,
+  "order": 5,
+  "box_things": [
+   {
+    "id": 100501,
+    "thing_id": 107,
+    "thing_type": 8,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 100502,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": true
+   },
+   {
+    "id": 100503,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100504,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100505,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 5,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100506,
+    "thing_id": 130012,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100507,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 100508,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 65,
+    "is_resettable": false
+   },
+   {
+    "id": 100509,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100510,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100511,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100512,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100513,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100514,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 100515,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100516,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100517,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 100518,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100519,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100520,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 45,
+    "is_resettable": false
+   },
+   {
+    "id": 100521,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 100522,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100523,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100524,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100525,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100526,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 100527,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 20000,
+    "hit_limit": 30,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 1006,
+  "event_box_gacha_master_id": 10,
+  "order": 6,
+  "box_things": [
+   {
+    "id": 100601,
+    "thing_id": 400018,
+    "thing_type": 6,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": true
+   },
+   {
+    "id": 100602,
+    "thing_id": 130071,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": true
+   },
+   {
+    "id": 100603,
+    "thing_id": 140000,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100604,
+    "thing_id": 130064,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100605,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 10,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100606,
+    "thing_id": 130012,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100607,
+    "thing_id": 110002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 3,
+    "is_resettable": false
+   },
+   {
+    "id": 100608,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 65,
+    "is_resettable": false
+   },
+   {
+    "id": 100609,
+    "thing_id": 120003,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 35,
+    "is_resettable": false
+   },
+   {
+    "id": 100610,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100611,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100612,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100613,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100614,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 100615,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100616,
+    "thing_id": 130091,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100617,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 100618,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 5,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100619,
+    "thing_id": 130051,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100620,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 15,
+    "hit_limit": 45,
+    "is_resettable": false
+   },
+   {
+    "id": 100621,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 10,
+    "hit_limit": 40,
+    "is_resettable": false
+   },
+   {
+    "id": 100622,
+    "thing_id": 510001,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100623,
+    "thing_id": 510002,
+    "thing_type": 1,
+    "thing_quantity": 2,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100624,
+    "thing_id": 510003,
+    "thing_type": 1,
+    "thing_quantity": 3,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100625,
+    "thing_id": 510004,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100626,
+    "thing_id": 510005,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 1,
+    "is_resettable": false
+   },
+   {
+    "id": 100627,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 20000,
+    "hit_limit": 30,
+    "is_resettable": false
+   }
+  ]
+ },
+ {
+  "id": 1007,
+  "event_box_gacha_master_id": 10,
+  "order": 7,
+  "box_things": [
+   {
+    "id": 100701,
+    "thing_id": 0,
+    "thing_type": 13,
+    "thing_quantity": 6,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100702,
+    "thing_id": 120002,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 50,
+    "is_resettable": false
+   },
+   {
+    "id": 100703,
+    "thing_id": 130021,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100704,
+    "thing_id": 130022,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100705,
+    "thing_id": 130023,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100706,
+    "thing_id": 130024,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 30,
+    "is_resettable": false
+   },
+   {
+    "id": 100707,
+    "thing_id": 130025,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100708,
+    "thing_id": 130031,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100709,
+    "thing_id": 130032,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100710,
+    "thing_id": 130033,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100711,
+    "thing_id": 130034,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 15,
+    "is_resettable": false
+   },
+   {
+    "id": 100712,
+    "thing_id": 130035,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100713,
+    "thing_id": 130041,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100714,
+    "thing_id": 130042,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100715,
+    "thing_id": 130043,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100716,
+    "thing_id": 130061,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100717,
+    "thing_id": 130062,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 10,
+    "is_resettable": false
+   },
+   {
+    "id": 100718,
+    "thing_id": 130063,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100719,
+    "thing_id": 130081,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 20,
+    "is_resettable": false
+   },
+   {
+    "id": 100720,
+    "thing_id": 130082,
+    "thing_type": 1,
+    "thing_quantity": 1,
+    "hit_limit": 5,
+    "is_resettable": false
+   },
+   {
+    "id": 100721,
+    "thing_id": 0,
+    "thing_type": 12,
+    "thing_quantity": 1500,
+    "hit_limit": 50,
+    "is_resettable": false
+   }
+  ]
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "photo_effect_max_variety": 1,
+  "description": "演技力（全アクター）",
+  "can_use_item": false
+ },
+ {
+  "id": 2,
+  "photo_effect_max_variety": 3,
+  "description": "演技力",
+  "can_use_item": true
+ },
+ {
+  "id": 3,
+  "photo_effect_max_variety": 5,
+  "description": "歌唱力",
+  "can_use_item": true
+ },
+ {
+  "id": 4,
+  "photo_effect_max_variety": 5,
+  "description": "表現力",
+  "can_use_item": true
+ },
+ {
+  "id": 5,
+  "photo_effect_max_variety": 5,
+  "description": "集中力",
+  "can_use_item": true
+ },
+ {
+  "id": 6,
+  "photo_effect_max_variety": 1,
+  "description": "初期Pゲージ獲得",
+  "can_use_item": false
+ },
+ {
+  "id": 7,
+  "photo_effect_max_variety": 1,
+  "description": "PG上限上昇",
+  "can_use_item": false
+ },
+ {
+  "id": 8,
+  "photo_effect_max_variety": 3,
+  "description": "属性アクターの演技力",
+  "can_use_item": false
+ }
+]

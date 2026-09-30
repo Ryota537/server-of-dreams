@@ -1,0 +1,898 @@
+[
+ {
+  "id": 2001,
+  "music_master_id": 3,
+  "member_amount": 2,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 102,
+    "costume_master_id": 10141
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 101,
+    "costume_master_id": 10111
+   }
+  ],
+  "delay_seconds": 0.699999988079071,
+  "movie_delay_seconds": 3.0,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2002,
+  "music_master_id": 7,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 104,
+    "costume_master_id": 11161
+   }
+  ],
+  "delay_seconds": 2.5999999046325684,
+  "movie_delay_seconds": 3.4000000953674316,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2003,
+  "music_master_id": 9,
+  "member_amount": 3,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 401,
+    "costume_master_id": 11421
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 405,
+    "costume_master_id": 11461
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 402,
+    "costume_master_id": 11431
+   }
+  ],
+  "delay_seconds": 0.3499999940395355,
+  "movie_delay_seconds": 0.4000000059604645,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2004,
+  "music_master_id": 12,
+  "member_amount": 2,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 101,
+    "costume_master_id": 12111
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 104,
+    "costume_master_id": 12131
+   }
+  ],
+  "delay_seconds": 0.699999988079071,
+  "movie_delay_seconds": 0.800000011920929,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2005,
+  "music_master_id": 17,
+  "member_amount": 6,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 101,
+    "costume_master_id": 411
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 102,
+    "costume_master_id": 411
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 103,
+    "costume_master_id": 411
+   },
+   {
+    "order": 4,
+    "character_base_master_id": 104,
+    "costume_master_id": 411
+   },
+   {
+    "order": 5,
+    "character_base_master_id": 105,
+    "costume_master_id": 411
+   },
+   {
+    "order": 6,
+    "character_base_master_id": 106,
+    "costume_master_id": 411
+   }
+  ],
+  "delay_seconds": -0.10000000149011612,
+  "movie_delay_seconds": 0.30000001192092896,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 500
+ },
+ {
+  "id": 2006,
+  "music_master_id": 19,
+  "member_amount": 5,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 201,
+    "costume_master_id": 421
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 202,
+    "costume_master_id": 421
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 203,
+    "costume_master_id": 421
+   },
+   {
+    "order": 4,
+    "character_base_master_id": 204,
+    "costume_master_id": 421
+   },
+   {
+    "order": 5,
+    "character_base_master_id": 205,
+    "costume_master_id": 421
+   }
+  ],
+  "delay_seconds": 1.2000000476837158,
+  "movie_delay_seconds": 1.2000000476837158,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 400
+ },
+ {
+  "id": 2007,
+  "music_master_id": 21,
+  "member_amount": 5,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 301,
+    "costume_master_id": 431
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 302,
+    "costume_master_id": 431
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 303,
+    "costume_master_id": 431
+   },
+   {
+    "order": 4,
+    "character_base_master_id": 304,
+    "costume_master_id": 431
+   },
+   {
+    "order": 5,
+    "character_base_master_id": 305,
+    "costume_master_id": 431
+   }
+  ],
+  "delay_seconds": 0.800000011920929,
+  "movie_delay_seconds": 0.800000011920929,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 300
+ },
+ {
+  "id": 2008,
+  "music_master_id": 23,
+  "member_amount": 5,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 401,
+    "costume_master_id": 441
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 402,
+    "costume_master_id": 441
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 403,
+    "costume_master_id": 441
+   },
+   {
+    "order": 4,
+    "character_base_master_id": 404,
+    "costume_master_id": 441
+   },
+   {
+    "order": 5,
+    "character_base_master_id": 405,
+    "costume_master_id": 441
+   }
+  ],
+  "delay_seconds": 1.2000000476837158,
+  "movie_delay_seconds": 1.350000023841858,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 200
+ },
+ {
+  "id": 2009,
+  "music_master_id": 5,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 302,
+    "costume_master_id": 10311
+   }
+  ],
+  "delay_seconds": 1.399999976158142,
+  "movie_delay_seconds": 1.399999976158142,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2010,
+  "music_master_id": 15,
+  "member_amount": 1,
+  "display_start_at": "2023-07-29T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 103,
+    "costume_master_id": 13111
+   }
+  ],
+  "delay_seconds": 2.4000000953674316,
+  "movie_delay_seconds": 2.200000047683716,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2011,
+  "music_master_id": 45,
+  "member_amount": 1,
+  "display_start_at": "2023-07-31T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 202,
+    "costume_master_id": 90011
+   }
+  ],
+  "delay_seconds": 1.0,
+  "movie_delay_seconds": 1.0,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2012,
+  "music_master_id": 51,
+  "member_amount": 2,
+  "display_start_at": "2023-08-31T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 303,
+    "costume_master_id": 1201
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 304,
+    "costume_master_id": 1201
+   }
+  ],
+  "delay_seconds": 2.0999999046325684,
+  "movie_delay_seconds": 2.0299999713897705,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2013,
+  "music_master_id": 59,
+  "member_amount": 2,
+  "display_start_at": "2023-09-30T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 201,
+    "costume_master_id": 90021
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 301,
+    "costume_master_id": 1341
+   }
+  ],
+  "delay_seconds": 1.600000023841858,
+  "movie_delay_seconds": 1.5499999523162842,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2014,
+  "music_master_id": 64,
+  "member_amount": 5,
+  "display_start_at": "2023-10-20T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 401,
+    "costume_master_id": 1421
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 402,
+    "costume_master_id": 1431
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 403,
+    "costume_master_id": 1441
+   },
+   {
+    "order": 4,
+    "character_base_master_id": 404,
+    "costume_master_id": 1451
+   },
+   {
+    "order": 5,
+    "character_base_master_id": 405,
+    "costume_master_id": 1461
+   }
+  ],
+  "delay_seconds": 1.0099999904632568,
+  "movie_delay_seconds": 1.0,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2015,
+  "music_master_id": 70,
+  "member_amount": 2,
+  "display_start_at": "2023-11-30T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 204,
+    "costume_master_id": 1531
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 202,
+    "costume_master_id": 90031
+   }
+  ],
+  "delay_seconds": 1.9299999475479126,
+  "movie_delay_seconds": 2.049999952316284,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2016,
+  "music_master_id": 77,
+  "member_amount": 2,
+  "display_start_at": "2023-12-20T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 302,
+    "costume_master_id": 1591
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 304,
+    "costume_master_id": 1591
+   }
+  ],
+  "delay_seconds": 0.10000000149011612,
+  "movie_delay_seconds": 0.10000000149011612,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2017,
+  "music_master_id": 79,
+  "member_amount": 3,
+  "display_start_at": "2024-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 101,
+    "costume_master_id": 1681
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 102,
+    "costume_master_id": 1681
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 103,
+    "costume_master_id": 1681
+   }
+  ],
+  "delay_seconds": 1.600000023841858,
+  "movie_delay_seconds": 1.600000023841858,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2018,
+  "music_master_id": 14,
+  "member_amount": 1,
+  "display_start_at": "2024-01-21T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 205,
+    "costume_master_id": 12241
+   }
+  ],
+  "delay_seconds": 0.10000000149011612,
+  "movie_delay_seconds": 0.20000000298023224,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2019,
+  "music_master_id": 73,
+  "member_amount": 2,
+  "display_start_at": "2024-01-31T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 101,
+    "costume_master_id": 181
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 102,
+    "costume_master_id": 191
+   }
+  ],
+  "delay_seconds": 1.850000023841858,
+  "movie_delay_seconds": 1.5499999523162842,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2020,
+  "music_master_id": 105,
+  "member_amount": 2,
+  "display_start_at": "2024-05-31T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 204,
+    "costume_master_id": 1991
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 203,
+    "costume_master_id": 90041
+   }
+  ],
+  "delay_seconds": 1.5,
+  "movie_delay_seconds": 1.5,
+  "music_video_default_costume_group_master_id": null,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 2021,
+  "music_master_id": 172,
+  "member_amount": 5,
+  "display_start_at": "2024-12-04T17:00:00+00:00",
+  "display_end_at": "2026-03-03T23:59:59+00:00",
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 101,
+    "costume_master_id": 2801
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 201,
+    "costume_master_id": 2811
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 102,
+    "costume_master_id": 2801
+   },
+   {
+    "order": 4,
+    "character_base_master_id": 301,
+    "costume_master_id": 2841
+   },
+   {
+    "order": 5,
+    "character_base_master_id": 401,
+    "costume_master_id": 2821
+   }
+  ],
+  "delay_seconds": -0.6499999761581421,
+  "movie_delay_seconds": -0.6499999761581421,
+  "music_video_default_costume_group_master_id": 2,
+  "is_fixed_member": false,
+  "order": 9999
+ },
+ {
+  "id": 2022,
+  "music_master_id": 10172,
+  "member_amount": 5,
+  "display_start_at": "2024-11-20T17:00:00+00:00",
+  "display_end_at": "2024-12-10T17:00:00+00:00",
+  "characters": [
+   {
+    "order": 1,
+    "character_base_master_id": 901,
+    "costume_master_id": 25411
+   },
+   {
+    "order": 2,
+    "character_base_master_id": 906,
+    "costume_master_id": 25611
+   },
+   {
+    "order": 3,
+    "character_base_master_id": 902,
+    "costume_master_id": 25511
+   },
+   {
+    "order": 4,
+    "character_base_master_id": 904,
+    "costume_master_id": 25811
+   },
+   {
+    "order": 5,
+    "character_base_master_id": 909,
+    "costume_master_id": 25711
+   }
+  ],
+  "delay_seconds": 0.550000011920929,
+  "movie_delay_seconds": 0.0,
+  "music_video_default_costume_group_master_id": 3,
+  "is_fixed_member": true,
+  "order": 10000
+ },
+ {
+  "id": 3001,
+  "music_master_id": 53,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.9000000953674316,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3002,
+  "music_master_id": 1,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 1.75,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3003,
+  "music_master_id": 2,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 1.7599999904632568,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3004,
+  "music_master_id": 26,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 0.49000000953674316,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3005,
+  "music_master_id": 68,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.5850000381469727,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3006,
+  "music_master_id": 76,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.0299999713897705,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3007,
+  "music_master_id": 10017,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": -0.800000011920929,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3008,
+  "music_master_id": 10019,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 1.2000000476837158,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3009,
+  "music_master_id": 10021,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 1.0,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3010,
+  "music_master_id": 10023,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 1.100000023841858,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3011,
+  "music_master_id": 10068,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.799999952316284,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3012,
+  "music_master_id": 10012,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 0.800000011920929,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3013,
+  "music_master_id": 48,
+  "member_amount": 1,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.1500000953674316,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3014,
+  "music_master_id": 10053,
+  "member_amount": 1,
+  "display_start_at": "2024-11-12T05:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.9000000953674316,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3015,
+  "music_master_id": 10076,
+  "member_amount": 1,
+  "display_start_at": "2024-12-25T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.4200000762939453,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3016,
+  "music_master_id": 201,
+  "member_amount": 1,
+  "display_start_at": "2025-01-25T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 1.0,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3017,
+  "music_master_id": 179,
+  "member_amount": 1,
+  "display_start_at": "2025-01-26T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 0.550000011920929,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3018,
+  "music_master_id": 10179,
+  "member_amount": 1,
+  "display_start_at": "2025-06-17T05:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 0.5,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3019,
+  "music_master_id": 10048,
+  "member_amount": 1,
+  "display_start_at": "2025-07-26T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.299999952316284,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3020,
+  "music_master_id": 236,
+  "member_amount": 1,
+  "display_start_at": "2025-08-09T17:00:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 1.340000033378601,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ },
+ {
+  "id": 3021,
+  "music_master_id": 182,
+  "member_amount": 1,
+  "display_start_at": "2026-07-03T19:15:00+00:00",
+  "display_end_at": null,
+  "characters": [],
+  "delay_seconds": 0.0,
+  "movie_delay_seconds": 2.299999952316284,
+  "music_video_default_costume_group_master_id": 1,
+  "is_fixed_member": false,
+  "order": 0
+ }
+]

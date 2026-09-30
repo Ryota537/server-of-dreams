@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "patterns": [
+   {
+    "next_level": 1,
+    "required_point": 10
+   },
+   {
+    "next_level": 2,
+    "required_point": 11
+   },
+   {
+    "next_level": 3,
+    "required_point": 12
+   },
+   {
+    "next_level": 4,
+    "required_point": 13
+   },
+   {
+    "next_level": 5,
+    "required_point": 16
+   },
+   {
+    "next_level": 6,
+    "required_point": 19
+   },
+   {
+    "next_level": 7,
+    "required_point": 23
+   },
+   {
+    "next_level": 8,
+    "required_point": 30
+   },
+   {
+    "next_level": 9,
+    "required_point": 42
+   },
+   {
+    "next_level": 10,
+    "required_point": 63
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "patterns": [
+   {
+    "next_level": 1,
+    "required_point": 20
+   },
+   {
+    "next_level": 2,
+    "required_point": 22
+   },
+   {
+    "next_level": 3,
+    "required_point": 24
+   },
+   {
+    "next_level": 4,
+    "required_point": 26
+   },
+   {
+    "next_level": 5,
+    "required_point": 31
+   },
+   {
+    "next_level": 6,
+    "required_point": 37
+   },
+   {
+    "next_level": 7,
+    "required_point": 44
+   },
+   {
+    "next_level": 8,
+    "required_point": 62
+   },
+   {
+    "next_level": 9,
+    "required_point": 99
+   },
+   {
+    "next_level": 10,
+    "required_point": 178
+   }
+  ]
+ }
+]

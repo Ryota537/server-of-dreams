@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "event_master_id": 26001,
+  "win_camp_ratio": 100,
+  "lose_camp_ratio": 80,
+  "none_camp_ratio": 0,
+  "camp1_team_name": "家で過ごす",
+  "camp2_team_name": "外で過ごす",
+  "camp_select_message": "クリスマスはどう過ごす？",
+  "bgm_path": "inst_239",
+  "character_master_id_icon_left": 142080,
+  "character_master_id_icon_right": 142070
+ },
+ {
+  "id": 2,
+  "event_master_id": 26002,
+  "win_camp_ratio": 100,
+  "lose_camp_ratio": 80,
+  "none_camp_ratio": 0,
+  "camp1_team_name": "スキー",
+  "camp2_team_name": "スケート",
+  "camp_select_message": "<size=45％>ウィンタースポーツ、挑戦するなら？</size>",
+  "bgm_path": "inst_243",
+  "character_master_id_icon_left": 142130,
+  "character_master_id_icon_right": 142140
+ },
+ {
+  "id": 3,
+  "event_master_id": 26003,
+  "win_camp_ratio": 100,
+  "lose_camp_ratio": 80,
+  "none_camp_ratio": 0,
+  "camp1_team_name": "フラメンコ",
+  "camp2_team_name": "サンバ",
+  "camp_select_message": "熱いステップを刻むなら？",
+  "bgm_path": "inst_251",
+  "character_master_id_icon_left": 142250,
+  "character_master_id_icon_right": 142260
+ },
+ {
+  "id": 4,
+  "event_master_id": 26004,
+  "win_camp_ratio": 100,
+  "lose_camp_ratio": 80,
+  "none_camp_ratio": 0,
+  "camp1_team_name": "魔物",
+  "camp2_team_name": "勇者",
+  "camp_select_message": "転生するなら？",
+  "bgm_path": "inst_257",
+  "character_master_id_icon_left": 142380,
+  "character_master_id_icon_right": 142370
+ },
+ {
+  "id": 5,
+  "event_master_id": 26005,
+  "win_camp_ratio": 100,
+  "lose_camp_ratio": 80,
+  "none_camp_ratio": 0,
+  "camp1_team_name": "甘えたい",
+  "camp2_team_name": "支えたい",
+  "camp_select_message": "大切な人の隣で、あなたはどちらでいたい？",
+  "bgm_path": "inst_260",
+  "character_master_id_icon_left": 142430,
+  "character_master_id_icon_right": 142440
+ },
+ {
+  "id": 6,
+  "event_master_id": 26006,
+  "win_camp_ratio": 100,
+  "lose_camp_ratio": 80,
+  "none_camp_ratio": 0,
+  "camp1_team_name": "幸せな思い出",
+  "camp2_team_name": "輝かしい夢",
+  "camp_select_message": "よく考えるのはどっち？",
+  "bgm_path": "inst_264",
+  "character_master_id_icon_left": 142500,
+  "character_master_id_icon_right": 142490
+ }
+]

@@ -1,0 +1,5378 @@
+[
+ {
+  "id": 110011,
+  "character_master_id": 110010,
+  "episode_master_id": 110011,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110012,
+  "character_master_id": 110010,
+  "episode_master_id": 110012,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110021,
+  "character_master_id": 110020,
+  "episode_master_id": 110021,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110022,
+  "character_master_id": 110020,
+  "episode_master_id": 110022,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110031,
+  "character_master_id": 110030,
+  "episode_master_id": 110031,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110032,
+  "character_master_id": 110030,
+  "episode_master_id": 110032,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110041,
+  "character_master_id": 110040,
+  "episode_master_id": 110041,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110042,
+  "character_master_id": 110040,
+  "episode_master_id": 110042,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110051,
+  "character_master_id": 110050,
+  "episode_master_id": 110051,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110052,
+  "character_master_id": 110050,
+  "episode_master_id": 110052,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110061,
+  "character_master_id": 110060,
+  "episode_master_id": 110061,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110062,
+  "character_master_id": 110060,
+  "episode_master_id": 110062,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110071,
+  "character_master_id": 110070,
+  "episode_master_id": 110071,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110072,
+  "character_master_id": 110070,
+  "episode_master_id": 110072,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110081,
+  "character_master_id": 110080,
+  "episode_master_id": 110081,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110082,
+  "character_master_id": 110080,
+  "episode_master_id": 110082,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110091,
+  "character_master_id": 110090,
+  "episode_master_id": 110091,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110092,
+  "character_master_id": 110090,
+  "episode_master_id": 110092,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110101,
+  "character_master_id": 110100,
+  "episode_master_id": 110101,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110102,
+  "character_master_id": 110100,
+  "episode_master_id": 110102,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110111,
+  "character_master_id": 110110,
+  "episode_master_id": 110111,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110112,
+  "character_master_id": 110110,
+  "episode_master_id": 110112,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110121,
+  "character_master_id": 110120,
+  "episode_master_id": 110121,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110122,
+  "character_master_id": 110120,
+  "episode_master_id": 110122,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110131,
+  "character_master_id": 110130,
+  "episode_master_id": 110131,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110132,
+  "character_master_id": 110130,
+  "episode_master_id": 110132,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110141,
+  "character_master_id": 110140,
+  "episode_master_id": 110141,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110142,
+  "character_master_id": 110140,
+  "episode_master_id": 110142,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110151,
+  "character_master_id": 110150,
+  "episode_master_id": 110151,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110152,
+  "character_master_id": 110150,
+  "episode_master_id": 110152,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110161,
+  "character_master_id": 110160,
+  "episode_master_id": 110161,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110162,
+  "character_master_id": 110160,
+  "episode_master_id": 110162,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110171,
+  "character_master_id": 110170,
+  "episode_master_id": 110171,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110172,
+  "character_master_id": 110170,
+  "episode_master_id": 110172,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110181,
+  "character_master_id": 110180,
+  "episode_master_id": 110181,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110182,
+  "character_master_id": 110180,
+  "episode_master_id": 110182,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110191,
+  "character_master_id": 110190,
+  "episode_master_id": 110191,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110192,
+  "character_master_id": 110190,
+  "episode_master_id": 110192,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110201,
+  "character_master_id": 110200,
+  "episode_master_id": 110201,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110202,
+  "character_master_id": 110200,
+  "episode_master_id": 110202,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 110211,
+  "character_master_id": 110210,
+  "episode_master_id": 110211,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 110212,
+  "character_master_id": 110210,
+  "episode_master_id": 110212,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120011,
+  "character_master_id": 120010,
+  "episode_master_id": 120011,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120012,
+  "character_master_id": 120010,
+  "episode_master_id": 120012,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120021,
+  "character_master_id": 120020,
+  "episode_master_id": 120021,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120022,
+  "character_master_id": 120020,
+  "episode_master_id": 120022,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120031,
+  "character_master_id": 120030,
+  "episode_master_id": 120031,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120032,
+  "character_master_id": 120030,
+  "episode_master_id": 120032,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120041,
+  "character_master_id": 120040,
+  "episode_master_id": 120041,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120042,
+  "character_master_id": 120040,
+  "episode_master_id": 120042,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120051,
+  "character_master_id": 120050,
+  "episode_master_id": 120051,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120052,
+  "character_master_id": 120050,
+  "episode_master_id": 120052,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120061,
+  "character_master_id": 120060,
+  "episode_master_id": 120061,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120062,
+  "character_master_id": 120060,
+  "episode_master_id": 120062,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120071,
+  "character_master_id": 120070,
+  "episode_master_id": 120071,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120072,
+  "character_master_id": 120070,
+  "episode_master_id": 120072,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120081,
+  "character_master_id": 120080,
+  "episode_master_id": 120081,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120082,
+  "character_master_id": 120080,
+  "episode_master_id": 120082,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120091,
+  "character_master_id": 120090,
+  "episode_master_id": 120091,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120092,
+  "character_master_id": 120090,
+  "episode_master_id": 120092,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120101,
+  "character_master_id": 120100,
+  "episode_master_id": 120101,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120102,
+  "character_master_id": 120100,
+  "episode_master_id": 120102,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120111,
+  "character_master_id": 120110,
+  "episode_master_id": 120111,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120112,
+  "character_master_id": 120110,
+  "episode_master_id": 120112,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120121,
+  "character_master_id": 120120,
+  "episode_master_id": 120121,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120122,
+  "character_master_id": 120120,
+  "episode_master_id": 120122,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120131,
+  "character_master_id": 120130,
+  "episode_master_id": 120131,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120132,
+  "character_master_id": 120130,
+  "episode_master_id": 120132,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120141,
+  "character_master_id": 120140,
+  "episode_master_id": 120141,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120142,
+  "character_master_id": 120140,
+  "episode_master_id": 120142,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120151,
+  "character_master_id": 120150,
+  "episode_master_id": 120151,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120152,
+  "character_master_id": 120150,
+  "episode_master_id": 120152,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120161,
+  "character_master_id": 120160,
+  "episode_master_id": 120161,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120162,
+  "character_master_id": 120160,
+  "episode_master_id": 120162,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120171,
+  "character_master_id": 120170,
+  "episode_master_id": 120171,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120172,
+  "character_master_id": 120170,
+  "episode_master_id": 120172,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120181,
+  "character_master_id": 120180,
+  "episode_master_id": 120181,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120182,
+  "character_master_id": 120180,
+  "episode_master_id": 120182,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120191,
+  "character_master_id": 120190,
+  "episode_master_id": 120191,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120192,
+  "character_master_id": 120190,
+  "episode_master_id": 120192,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120201,
+  "character_master_id": 120200,
+  "episode_master_id": 120201,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120202,
+  "character_master_id": 120200,
+  "episode_master_id": 120202,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 120211,
+  "character_master_id": 120210,
+  "episode_master_id": 120211,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 120212,
+  "character_master_id": 120210,
+  "episode_master_id": 120212,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130011,
+  "character_master_id": 130010,
+  "episode_master_id": 130011,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130012,
+  "character_master_id": 130010,
+  "episode_master_id": 130012,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130021,
+  "character_master_id": 130020,
+  "episode_master_id": 130021,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130022,
+  "character_master_id": 130020,
+  "episode_master_id": 130022,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130031,
+  "character_master_id": 130030,
+  "episode_master_id": 130031,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130032,
+  "character_master_id": 130030,
+  "episode_master_id": 130032,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130041,
+  "character_master_id": 130040,
+  "episode_master_id": 130041,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130042,
+  "character_master_id": 130040,
+  "episode_master_id": 130042,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130051,
+  "character_master_id": 130050,
+  "episode_master_id": 130051,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130052,
+  "character_master_id": 130050,
+  "episode_master_id": 130052,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130061,
+  "character_master_id": 130060,
+  "episode_master_id": 130061,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130062,
+  "character_master_id": 130060,
+  "episode_master_id": 130062,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130071,
+  "character_master_id": 130070,
+  "episode_master_id": 130071,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130072,
+  "character_master_id": 130070,
+  "episode_master_id": 130072,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130081,
+  "character_master_id": 130080,
+  "episode_master_id": 130081,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130082,
+  "character_master_id": 130080,
+  "episode_master_id": 130082,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130091,
+  "character_master_id": 130090,
+  "episode_master_id": 130091,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130092,
+  "character_master_id": 130090,
+  "episode_master_id": 130092,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130101,
+  "character_master_id": 130100,
+  "episode_master_id": 130101,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130102,
+  "character_master_id": 130100,
+  "episode_master_id": 130102,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130111,
+  "character_master_id": 130110,
+  "episode_master_id": 130111,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130112,
+  "character_master_id": 130110,
+  "episode_master_id": 130112,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130121,
+  "character_master_id": 130120,
+  "episode_master_id": 130121,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130122,
+  "character_master_id": 130120,
+  "episode_master_id": 130122,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130131,
+  "character_master_id": 130130,
+  "episode_master_id": 130131,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130132,
+  "character_master_id": 130130,
+  "episode_master_id": 130132,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130141,
+  "character_master_id": 130140,
+  "episode_master_id": 130141,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130142,
+  "character_master_id": 130140,
+  "episode_master_id": 130142,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130151,
+  "character_master_id": 130150,
+  "episode_master_id": 130151,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130152,
+  "character_master_id": 130150,
+  "episode_master_id": 130152,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130161,
+  "character_master_id": 130160,
+  "episode_master_id": 130161,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130162,
+  "character_master_id": 130160,
+  "episode_master_id": 130162,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130171,
+  "character_master_id": 130170,
+  "episode_master_id": 130171,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130172,
+  "character_master_id": 130170,
+  "episode_master_id": 130172,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130181,
+  "character_master_id": 130180,
+  "episode_master_id": 130181,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130182,
+  "character_master_id": 130180,
+  "episode_master_id": 130182,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130191,
+  "character_master_id": 130190,
+  "episode_master_id": 130191,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130192,
+  "character_master_id": 130190,
+  "episode_master_id": 130192,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130201,
+  "character_master_id": 130200,
+  "episode_master_id": 130201,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130202,
+  "character_master_id": 130200,
+  "episode_master_id": 130202,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130211,
+  "character_master_id": 130210,
+  "episode_master_id": 130211,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130212,
+  "character_master_id": 130210,
+  "episode_master_id": 130212,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130221,
+  "character_master_id": 130220,
+  "episode_master_id": 130221,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130222,
+  "character_master_id": 130220,
+  "episode_master_id": 130222,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130231,
+  "character_master_id": 130230,
+  "episode_master_id": 130231,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130232,
+  "character_master_id": 130230,
+  "episode_master_id": 130232,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130241,
+  "character_master_id": 130240,
+  "episode_master_id": 130241,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130242,
+  "character_master_id": 130240,
+  "episode_master_id": 130242,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130251,
+  "character_master_id": 130250,
+  "episode_master_id": 130251,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130252,
+  "character_master_id": 130250,
+  "episode_master_id": 130252,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130261,
+  "character_master_id": 130260,
+  "episode_master_id": 130261,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130262,
+  "character_master_id": 130260,
+  "episode_master_id": 130262,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130271,
+  "character_master_id": 130270,
+  "episode_master_id": 130271,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130272,
+  "character_master_id": 130270,
+  "episode_master_id": 130272,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130281,
+  "character_master_id": 130280,
+  "episode_master_id": 130281,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130282,
+  "character_master_id": 130280,
+  "episode_master_id": 130282,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130291,
+  "character_master_id": 130290,
+  "episode_master_id": 130291,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130292,
+  "character_master_id": 130290,
+  "episode_master_id": 130292,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130301,
+  "character_master_id": 130300,
+  "episode_master_id": 130301,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130302,
+  "character_master_id": 130300,
+  "episode_master_id": 130302,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130311,
+  "character_master_id": 130310,
+  "episode_master_id": 130311,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130312,
+  "character_master_id": 130310,
+  "episode_master_id": 130312,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130321,
+  "character_master_id": 130320,
+  "episode_master_id": 130321,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130322,
+  "character_master_id": 130320,
+  "episode_master_id": 130322,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130331,
+  "character_master_id": 130330,
+  "episode_master_id": 130331,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130332,
+  "character_master_id": 130330,
+  "episode_master_id": 130332,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130341,
+  "character_master_id": 130340,
+  "episode_master_id": 130341,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130342,
+  "character_master_id": 130340,
+  "episode_master_id": 130342,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130351,
+  "character_master_id": 130350,
+  "episode_master_id": 130351,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130352,
+  "character_master_id": 130350,
+  "episode_master_id": 130352,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130361,
+  "character_master_id": 130360,
+  "episode_master_id": 130361,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130362,
+  "character_master_id": 130360,
+  "episode_master_id": 130362,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130371,
+  "character_master_id": 130370,
+  "episode_master_id": 130371,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130372,
+  "character_master_id": 130370,
+  "episode_master_id": 130372,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130381,
+  "character_master_id": 130380,
+  "episode_master_id": 130381,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130382,
+  "character_master_id": 130380,
+  "episode_master_id": 130382,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130391,
+  "character_master_id": 130390,
+  "episode_master_id": 130391,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130392,
+  "character_master_id": 130390,
+  "episode_master_id": 130392,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130401,
+  "character_master_id": 130400,
+  "episode_master_id": 130401,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130402,
+  "character_master_id": 130400,
+  "episode_master_id": 130402,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130421,
+  "character_master_id": 130420,
+  "episode_master_id": 130421,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130422,
+  "character_master_id": 130420,
+  "episode_master_id": 130422,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130431,
+  "character_master_id": 130430,
+  "episode_master_id": 130431,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130432,
+  "character_master_id": 130430,
+  "episode_master_id": 130432,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130451,
+  "character_master_id": 130450,
+  "episode_master_id": 130451,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130452,
+  "character_master_id": 130450,
+  "episode_master_id": 130452,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130461,
+  "character_master_id": 130460,
+  "episode_master_id": 130461,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130462,
+  "character_master_id": 130460,
+  "episode_master_id": 130462,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130471,
+  "character_master_id": 130470,
+  "episode_master_id": 130471,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130472,
+  "character_master_id": 130470,
+  "episode_master_id": 130472,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130481,
+  "character_master_id": 130480,
+  "episode_master_id": 130481,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130482,
+  "character_master_id": 130480,
+  "episode_master_id": 130482,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130491,
+  "character_master_id": 130490,
+  "episode_master_id": 130491,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130492,
+  "character_master_id": 130490,
+  "episode_master_id": 130492,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130501,
+  "character_master_id": 130500,
+  "episode_master_id": 130501,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130502,
+  "character_master_id": 130500,
+  "episode_master_id": 130502,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130511,
+  "character_master_id": 130510,
+  "episode_master_id": 130511,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130512,
+  "character_master_id": 130510,
+  "episode_master_id": 130512,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130521,
+  "character_master_id": 130520,
+  "episode_master_id": 130521,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130522,
+  "character_master_id": 130520,
+  "episode_master_id": 130522,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130531,
+  "character_master_id": 130530,
+  "episode_master_id": 130531,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130532,
+  "character_master_id": 130530,
+  "episode_master_id": 130532,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130541,
+  "character_master_id": 130540,
+  "episode_master_id": 130541,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130542,
+  "character_master_id": 130540,
+  "episode_master_id": 130542,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130551,
+  "character_master_id": 130550,
+  "episode_master_id": 130551,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130552,
+  "character_master_id": 130550,
+  "episode_master_id": 130552,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130561,
+  "character_master_id": 130560,
+  "episode_master_id": 130561,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130562,
+  "character_master_id": 130560,
+  "episode_master_id": 130562,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130571,
+  "character_master_id": 130570,
+  "episode_master_id": 130571,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130572,
+  "character_master_id": 130570,
+  "episode_master_id": 130572,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130581,
+  "character_master_id": 130580,
+  "episode_master_id": 130581,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130582,
+  "character_master_id": 130580,
+  "episode_master_id": 130582,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130591,
+  "character_master_id": 130590,
+  "episode_master_id": 130591,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130592,
+  "character_master_id": 130590,
+  "episode_master_id": 130592,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130601,
+  "character_master_id": 130600,
+  "episode_master_id": 130601,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130602,
+  "character_master_id": 130600,
+  "episode_master_id": 130602,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130611,
+  "character_master_id": 130610,
+  "episode_master_id": 130611,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130612,
+  "character_master_id": 130610,
+  "episode_master_id": 130612,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130621,
+  "character_master_id": 130620,
+  "episode_master_id": 130621,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130622,
+  "character_master_id": 130620,
+  "episode_master_id": 130622,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130631,
+  "character_master_id": 130630,
+  "episode_master_id": 130631,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130632,
+  "character_master_id": 130630,
+  "episode_master_id": 130632,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130641,
+  "character_master_id": 130640,
+  "episode_master_id": 130641,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130642,
+  "character_master_id": 130640,
+  "episode_master_id": 130642,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130651,
+  "character_master_id": 130650,
+  "episode_master_id": 130651,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130652,
+  "character_master_id": 130650,
+  "episode_master_id": 130652,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130661,
+  "character_master_id": 130660,
+  "episode_master_id": 130661,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130662,
+  "character_master_id": 130660,
+  "episode_master_id": 130662,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130671,
+  "character_master_id": 130670,
+  "episode_master_id": 130671,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130672,
+  "character_master_id": 130670,
+  "episode_master_id": 130672,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130681,
+  "character_master_id": 130680,
+  "episode_master_id": 130681,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130682,
+  "character_master_id": 130680,
+  "episode_master_id": 130682,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130691,
+  "character_master_id": 130690,
+  "episode_master_id": 130691,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130692,
+  "character_master_id": 130690,
+  "episode_master_id": 130692,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130701,
+  "character_master_id": 130700,
+  "episode_master_id": 130701,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130702,
+  "character_master_id": 130700,
+  "episode_master_id": 130702,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130711,
+  "character_master_id": 130710,
+  "episode_master_id": 130711,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130712,
+  "character_master_id": 130710,
+  "episode_master_id": 130712,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130721,
+  "character_master_id": 130720,
+  "episode_master_id": 130721,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130722,
+  "character_master_id": 130720,
+  "episode_master_id": 130722,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130731,
+  "character_master_id": 130730,
+  "episode_master_id": 130731,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130732,
+  "character_master_id": 130730,
+  "episode_master_id": 130732,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130741,
+  "character_master_id": 130740,
+  "episode_master_id": 130741,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130742,
+  "character_master_id": 130740,
+  "episode_master_id": 130742,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130751,
+  "character_master_id": 130750,
+  "episode_master_id": 130751,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130752,
+  "character_master_id": 130750,
+  "episode_master_id": 130752,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130761,
+  "character_master_id": 130760,
+  "episode_master_id": 130761,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130762,
+  "character_master_id": 130760,
+  "episode_master_id": 130762,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130771,
+  "character_master_id": 130770,
+  "episode_master_id": 130771,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130772,
+  "character_master_id": 130770,
+  "episode_master_id": 130772,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130781,
+  "character_master_id": 130780,
+  "episode_master_id": 130781,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130782,
+  "character_master_id": 130780,
+  "episode_master_id": 130782,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130791,
+  "character_master_id": 130790,
+  "episode_master_id": 130791,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130792,
+  "character_master_id": 130790,
+  "episode_master_id": 130792,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130801,
+  "character_master_id": 130800,
+  "episode_master_id": 130801,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130802,
+  "character_master_id": 130800,
+  "episode_master_id": 130802,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130811,
+  "character_master_id": 130810,
+  "episode_master_id": 130811,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130812,
+  "character_master_id": 130810,
+  "episode_master_id": 130812,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130821,
+  "character_master_id": 130820,
+  "episode_master_id": 130821,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130822,
+  "character_master_id": 130820,
+  "episode_master_id": 130822,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130831,
+  "character_master_id": 130830,
+  "episode_master_id": 130831,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130832,
+  "character_master_id": 130830,
+  "episode_master_id": 130832,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130841,
+  "character_master_id": 130840,
+  "episode_master_id": 130841,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130842,
+  "character_master_id": 130840,
+  "episode_master_id": 130842,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130851,
+  "character_master_id": 130850,
+  "episode_master_id": 130851,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130852,
+  "character_master_id": 130850,
+  "episode_master_id": 130852,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130861,
+  "character_master_id": 130860,
+  "episode_master_id": 130861,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130862,
+  "character_master_id": 130860,
+  "episode_master_id": 130862,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130871,
+  "character_master_id": 130870,
+  "episode_master_id": 130871,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130872,
+  "character_master_id": 130870,
+  "episode_master_id": 130872,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130881,
+  "character_master_id": 130880,
+  "episode_master_id": 130881,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130882,
+  "character_master_id": 130880,
+  "episode_master_id": 130882,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130891,
+  "character_master_id": 130890,
+  "episode_master_id": 130891,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130892,
+  "character_master_id": 130890,
+  "episode_master_id": 130892,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130901,
+  "character_master_id": 130900,
+  "episode_master_id": 130901,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130902,
+  "character_master_id": 130900,
+  "episode_master_id": 130902,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130911,
+  "character_master_id": 130910,
+  "episode_master_id": 130911,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130912,
+  "character_master_id": 130910,
+  "episode_master_id": 130912,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 130921,
+  "character_master_id": 130920,
+  "episode_master_id": 130921,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 130922,
+  "character_master_id": 130920,
+  "episode_master_id": 130922,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140011,
+  "character_master_id": 140010,
+  "episode_master_id": 140011,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140012,
+  "character_master_id": 140010,
+  "episode_master_id": 140012,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140021,
+  "character_master_id": 140020,
+  "episode_master_id": 140021,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140022,
+  "character_master_id": 140020,
+  "episode_master_id": 140022,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140031,
+  "character_master_id": 140030,
+  "episode_master_id": 140031,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140032,
+  "character_master_id": 140030,
+  "episode_master_id": 140032,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140041,
+  "character_master_id": 140040,
+  "episode_master_id": 140041,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140042,
+  "character_master_id": 140040,
+  "episode_master_id": 140042,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140051,
+  "character_master_id": 140050,
+  "episode_master_id": 140051,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140052,
+  "character_master_id": 140050,
+  "episode_master_id": 140052,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140061,
+  "character_master_id": 140060,
+  "episode_master_id": 140061,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140062,
+  "character_master_id": 140060,
+  "episode_master_id": 140062,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140071,
+  "character_master_id": 140070,
+  "episode_master_id": 140071,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140072,
+  "character_master_id": 140070,
+  "episode_master_id": 140072,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140081,
+  "character_master_id": 140080,
+  "episode_master_id": 140081,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140082,
+  "character_master_id": 140080,
+  "episode_master_id": 140082,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140091,
+  "character_master_id": 140090,
+  "episode_master_id": 140091,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140092,
+  "character_master_id": 140090,
+  "episode_master_id": 140092,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140101,
+  "character_master_id": 140100,
+  "episode_master_id": 140101,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140102,
+  "character_master_id": 140100,
+  "episode_master_id": 140102,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140111,
+  "character_master_id": 140110,
+  "episode_master_id": 140111,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140112,
+  "character_master_id": 140110,
+  "episode_master_id": 140112,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140121,
+  "character_master_id": 140120,
+  "episode_master_id": 140121,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140122,
+  "character_master_id": 140120,
+  "episode_master_id": 140122,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140131,
+  "character_master_id": 140130,
+  "episode_master_id": 140131,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140132,
+  "character_master_id": 140130,
+  "episode_master_id": 140132,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140141,
+  "character_master_id": 140140,
+  "episode_master_id": 140141,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140142,
+  "character_master_id": 140140,
+  "episode_master_id": 140142,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140151,
+  "character_master_id": 140150,
+  "episode_master_id": 140151,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140152,
+  "character_master_id": 140150,
+  "episode_master_id": 140152,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140161,
+  "character_master_id": 140160,
+  "episode_master_id": 140161,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140162,
+  "character_master_id": 140160,
+  "episode_master_id": 140162,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140171,
+  "character_master_id": 140170,
+  "episode_master_id": 140171,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140172,
+  "character_master_id": 140170,
+  "episode_master_id": 140172,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140181,
+  "character_master_id": 140180,
+  "episode_master_id": 140181,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140182,
+  "character_master_id": 140180,
+  "episode_master_id": 140182,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140191,
+  "character_master_id": 140190,
+  "episode_master_id": 140191,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140192,
+  "character_master_id": 140190,
+  "episode_master_id": 140192,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140201,
+  "character_master_id": 140200,
+  "episode_master_id": 140201,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140202,
+  "character_master_id": 140200,
+  "episode_master_id": 140202,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140211,
+  "character_master_id": 140210,
+  "episode_master_id": 140211,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140212,
+  "character_master_id": 140210,
+  "episode_master_id": 140212,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140221,
+  "character_master_id": 140220,
+  "episode_master_id": 140221,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140222,
+  "character_master_id": 140220,
+  "episode_master_id": 140222,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140241,
+  "character_master_id": 140240,
+  "episode_master_id": 140241,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140242,
+  "character_master_id": 140240,
+  "episode_master_id": 140242,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140251,
+  "character_master_id": 140250,
+  "episode_master_id": 140251,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140252,
+  "character_master_id": 140250,
+  "episode_master_id": 140252,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140261,
+  "character_master_id": 140260,
+  "episode_master_id": 140261,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140262,
+  "character_master_id": 140260,
+  "episode_master_id": 140262,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140271,
+  "character_master_id": 140270,
+  "episode_master_id": 140271,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140272,
+  "character_master_id": 140270,
+  "episode_master_id": 140272,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140281,
+  "character_master_id": 140280,
+  "episode_master_id": 140281,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140282,
+  "character_master_id": 140280,
+  "episode_master_id": 140282,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140291,
+  "character_master_id": 140290,
+  "episode_master_id": 140291,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140292,
+  "character_master_id": 140290,
+  "episode_master_id": 140292,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140301,
+  "character_master_id": 140300,
+  "episode_master_id": 140301,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140302,
+  "character_master_id": 140300,
+  "episode_master_id": 140302,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140311,
+  "character_master_id": 140310,
+  "episode_master_id": 140311,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140312,
+  "character_master_id": 140310,
+  "episode_master_id": 140312,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140321,
+  "character_master_id": 140320,
+  "episode_master_id": 140321,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140322,
+  "character_master_id": 140320,
+  "episode_master_id": 140322,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140331,
+  "character_master_id": 140330,
+  "episode_master_id": 140331,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140332,
+  "character_master_id": 140330,
+  "episode_master_id": 140332,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140341,
+  "character_master_id": 140340,
+  "episode_master_id": 140341,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140342,
+  "character_master_id": 140340,
+  "episode_master_id": 140342,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140351,
+  "character_master_id": 140350,
+  "episode_master_id": 140351,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140352,
+  "character_master_id": 140350,
+  "episode_master_id": 140352,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140361,
+  "character_master_id": 140360,
+  "episode_master_id": 140361,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140362,
+  "character_master_id": 140360,
+  "episode_master_id": 140362,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140371,
+  "character_master_id": 140370,
+  "episode_master_id": 140371,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140372,
+  "character_master_id": 140370,
+  "episode_master_id": 140372,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140381,
+  "character_master_id": 140380,
+  "episode_master_id": 140381,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140382,
+  "character_master_id": 140380,
+  "episode_master_id": 140382,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140391,
+  "character_master_id": 140390,
+  "episode_master_id": 140391,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140392,
+  "character_master_id": 140390,
+  "episode_master_id": 140392,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140401,
+  "character_master_id": 140400,
+  "episode_master_id": 140401,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140402,
+  "character_master_id": 140400,
+  "episode_master_id": 140402,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140411,
+  "character_master_id": 140410,
+  "episode_master_id": 140411,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140412,
+  "character_master_id": 140410,
+  "episode_master_id": 140412,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140421,
+  "character_master_id": 140420,
+  "episode_master_id": 140421,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140422,
+  "character_master_id": 140420,
+  "episode_master_id": 140422,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140431,
+  "character_master_id": 140430,
+  "episode_master_id": 140431,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140432,
+  "character_master_id": 140430,
+  "episode_master_id": 140432,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140441,
+  "character_master_id": 140440,
+  "episode_master_id": 140441,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140442,
+  "character_master_id": 140440,
+  "episode_master_id": 140442,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140451,
+  "character_master_id": 140450,
+  "episode_master_id": 140451,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140452,
+  "character_master_id": 140450,
+  "episode_master_id": 140452,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140461,
+  "character_master_id": 140460,
+  "episode_master_id": 140461,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140462,
+  "character_master_id": 140460,
+  "episode_master_id": 140462,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140471,
+  "character_master_id": 140470,
+  "episode_master_id": 140471,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140472,
+  "character_master_id": 140470,
+  "episode_master_id": 140472,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140481,
+  "character_master_id": 140480,
+  "episode_master_id": 140481,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140482,
+  "character_master_id": 140480,
+  "episode_master_id": 140482,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140491,
+  "character_master_id": 140490,
+  "episode_master_id": 140491,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140492,
+  "character_master_id": 140490,
+  "episode_master_id": 140492,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140501,
+  "character_master_id": 140500,
+  "episode_master_id": 140501,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140502,
+  "character_master_id": 140500,
+  "episode_master_id": 140502,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140511,
+  "character_master_id": 140510,
+  "episode_master_id": 140511,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140512,
+  "character_master_id": 140510,
+  "episode_master_id": 140512,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140521,
+  "character_master_id": 140520,
+  "episode_master_id": 140521,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140522,
+  "character_master_id": 140520,
+  "episode_master_id": 140522,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140531,
+  "character_master_id": 140530,
+  "episode_master_id": 140531,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140532,
+  "character_master_id": 140530,
+  "episode_master_id": 140532,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140541,
+  "character_master_id": 140540,
+  "episode_master_id": 140541,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140542,
+  "character_master_id": 140540,
+  "episode_master_id": 140542,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140551,
+  "character_master_id": 140550,
+  "episode_master_id": 140551,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140552,
+  "character_master_id": 140550,
+  "episode_master_id": 140552,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140561,
+  "character_master_id": 140560,
+  "episode_master_id": 140561,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140562,
+  "character_master_id": 140560,
+  "episode_master_id": 140562,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140571,
+  "character_master_id": 140570,
+  "episode_master_id": 140571,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140572,
+  "character_master_id": 140570,
+  "episode_master_id": 140572,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140601,
+  "character_master_id": 140600,
+  "episode_master_id": 140601,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140602,
+  "character_master_id": 140600,
+  "episode_master_id": 140602,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140611,
+  "character_master_id": 140610,
+  "episode_master_id": 140611,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140612,
+  "character_master_id": 140610,
+  "episode_master_id": 140612,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140621,
+  "character_master_id": 140620,
+  "episode_master_id": 140621,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140622,
+  "character_master_id": 140620,
+  "episode_master_id": 140622,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140631,
+  "character_master_id": 140630,
+  "episode_master_id": 140631,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140632,
+  "character_master_id": 140630,
+  "episode_master_id": 140632,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140661,
+  "character_master_id": 140660,
+  "episode_master_id": 140661,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140662,
+  "character_master_id": 140660,
+  "episode_master_id": 140662,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140671,
+  "character_master_id": 140670,
+  "episode_master_id": 140671,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140672,
+  "character_master_id": 140670,
+  "episode_master_id": 140672,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140681,
+  "character_master_id": 140680,
+  "episode_master_id": 140681,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140682,
+  "character_master_id": 140680,
+  "episode_master_id": 140682,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140691,
+  "character_master_id": 140690,
+  "episode_master_id": 140691,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140692,
+  "character_master_id": 140690,
+  "episode_master_id": 140692,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140701,
+  "character_master_id": 140700,
+  "episode_master_id": 140701,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140702,
+  "character_master_id": 140700,
+  "episode_master_id": 140702,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140711,
+  "character_master_id": 140710,
+  "episode_master_id": 140711,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140712,
+  "character_master_id": 140710,
+  "episode_master_id": 140712,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140721,
+  "character_master_id": 140720,
+  "episode_master_id": 140721,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140722,
+  "character_master_id": 140720,
+  "episode_master_id": 140722,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140731,
+  "character_master_id": 140730,
+  "episode_master_id": 140731,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140732,
+  "character_master_id": 140730,
+  "episode_master_id": 140732,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140741,
+  "character_master_id": 140740,
+  "episode_master_id": 140741,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140742,
+  "character_master_id": 140740,
+  "episode_master_id": 140742,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140751,
+  "character_master_id": 140750,
+  "episode_master_id": 140751,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140752,
+  "character_master_id": 140750,
+  "episode_master_id": 140752,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140761,
+  "character_master_id": 140760,
+  "episode_master_id": 140761,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140762,
+  "character_master_id": 140760,
+  "episode_master_id": 140762,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140771,
+  "character_master_id": 140770,
+  "episode_master_id": 140771,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140772,
+  "character_master_id": 140770,
+  "episode_master_id": 140772,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140781,
+  "character_master_id": 140780,
+  "episode_master_id": 140781,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140782,
+  "character_master_id": 140780,
+  "episode_master_id": 140782,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140791,
+  "character_master_id": 140790,
+  "episode_master_id": 140791,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140792,
+  "character_master_id": 140790,
+  "episode_master_id": 140792,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140801,
+  "character_master_id": 140800,
+  "episode_master_id": 140801,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140802,
+  "character_master_id": 140800,
+  "episode_master_id": 140802,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140811,
+  "character_master_id": 140810,
+  "episode_master_id": 140811,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140812,
+  "character_master_id": 140810,
+  "episode_master_id": 140812,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140821,
+  "character_master_id": 140820,
+  "episode_master_id": 140821,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140822,
+  "character_master_id": 140820,
+  "episode_master_id": 140822,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140831,
+  "character_master_id": 140830,
+  "episode_master_id": 140831,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140832,
+  "character_master_id": 140830,
+  "episode_master_id": 140832,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140841,
+  "character_master_id": 140840,
+  "episode_master_id": 140841,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140842,
+  "character_master_id": 140840,
+  "episode_master_id": 140842,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140851,
+  "character_master_id": 140850,
+  "episode_master_id": 140851,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140852,
+  "character_master_id": 140850,
+  "episode_master_id": 140852,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140861,
+  "character_master_id": 140860,
+  "episode_master_id": 140861,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140862,
+  "character_master_id": 140860,
+  "episode_master_id": 140862,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140871,
+  "character_master_id": 140870,
+  "episode_master_id": 140871,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140872,
+  "character_master_id": 140870,
+  "episode_master_id": 140872,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140881,
+  "character_master_id": 140880,
+  "episode_master_id": 140881,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140882,
+  "character_master_id": 140880,
+  "episode_master_id": 140882,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140891,
+  "character_master_id": 140890,
+  "episode_master_id": 140891,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140892,
+  "character_master_id": 140890,
+  "episode_master_id": 140892,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140901,
+  "character_master_id": 140900,
+  "episode_master_id": 140901,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140902,
+  "character_master_id": 140900,
+  "episode_master_id": 140902,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140911,
+  "character_master_id": 140910,
+  "episode_master_id": 140911,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140912,
+  "character_master_id": 140910,
+  "episode_master_id": 140912,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140921,
+  "character_master_id": 140920,
+  "episode_master_id": 140921,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140922,
+  "character_master_id": 140920,
+  "episode_master_id": 140922,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140931,
+  "character_master_id": 140930,
+  "episode_master_id": 140931,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140932,
+  "character_master_id": 140930,
+  "episode_master_id": 140932,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140941,
+  "character_master_id": 140940,
+  "episode_master_id": 140941,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140942,
+  "character_master_id": 140940,
+  "episode_master_id": 140942,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140951,
+  "character_master_id": 140950,
+  "episode_master_id": 140951,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140952,
+  "character_master_id": 140950,
+  "episode_master_id": 140952,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140961,
+  "character_master_id": 140960,
+  "episode_master_id": 140961,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140962,
+  "character_master_id": 140960,
+  "episode_master_id": 140962,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140971,
+  "character_master_id": 140970,
+  "episode_master_id": 140971,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140972,
+  "character_master_id": 140970,
+  "episode_master_id": 140972,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140981,
+  "character_master_id": 140980,
+  "episode_master_id": 140981,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140982,
+  "character_master_id": 140980,
+  "episode_master_id": 140982,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 140991,
+  "character_master_id": 140990,
+  "episode_master_id": 140991,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 140992,
+  "character_master_id": 140990,
+  "episode_master_id": 140992,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141001,
+  "character_master_id": 141000,
+  "episode_master_id": 141001,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141002,
+  "character_master_id": 141000,
+  "episode_master_id": 141002,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141011,
+  "character_master_id": 141010,
+  "episode_master_id": 141011,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141012,
+  "character_master_id": 141010,
+  "episode_master_id": 141012,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141021,
+  "character_master_id": 141020,
+  "episode_master_id": 141021,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141022,
+  "character_master_id": 141020,
+  "episode_master_id": 141022,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141031,
+  "character_master_id": 141030,
+  "episode_master_id": 141031,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141032,
+  "character_master_id": 141030,
+  "episode_master_id": 141032,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141041,
+  "character_master_id": 141040,
+  "episode_master_id": 141041,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141042,
+  "character_master_id": 141040,
+  "episode_master_id": 141042,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141051,
+  "character_master_id": 141050,
+  "episode_master_id": 141051,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141052,
+  "character_master_id": 141050,
+  "episode_master_id": 141052,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141061,
+  "character_master_id": 141060,
+  "episode_master_id": 141061,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141062,
+  "character_master_id": 141060,
+  "episode_master_id": 141062,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141071,
+  "character_master_id": 141070,
+  "episode_master_id": 141071,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141072,
+  "character_master_id": 141070,
+  "episode_master_id": 141072,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141081,
+  "character_master_id": 141080,
+  "episode_master_id": 141081,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141082,
+  "character_master_id": 141080,
+  "episode_master_id": 141082,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141091,
+  "character_master_id": 141090,
+  "episode_master_id": 141091,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141092,
+  "character_master_id": 141090,
+  "episode_master_id": 141092,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141101,
+  "character_master_id": 141100,
+  "episode_master_id": 141101,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141102,
+  "character_master_id": 141100,
+  "episode_master_id": 141102,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141111,
+  "character_master_id": 141110,
+  "episode_master_id": 141111,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141112,
+  "character_master_id": 141110,
+  "episode_master_id": 141112,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141121,
+  "character_master_id": 141120,
+  "episode_master_id": 141121,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141122,
+  "character_master_id": 141120,
+  "episode_master_id": 141122,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141131,
+  "character_master_id": 141130,
+  "episode_master_id": 141131,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141132,
+  "character_master_id": 141130,
+  "episode_master_id": 141132,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141141,
+  "character_master_id": 141140,
+  "episode_master_id": 141141,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141142,
+  "character_master_id": 141140,
+  "episode_master_id": 141142,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141151,
+  "character_master_id": 141150,
+  "episode_master_id": 141151,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141152,
+  "character_master_id": 141150,
+  "episode_master_id": 141152,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141161,
+  "character_master_id": 141160,
+  "episode_master_id": 141161,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141162,
+  "character_master_id": 141160,
+  "episode_master_id": 141162,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141171,
+  "character_master_id": 141170,
+  "episode_master_id": 141171,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141172,
+  "character_master_id": 141170,
+  "episode_master_id": 141172,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141181,
+  "character_master_id": 141180,
+  "episode_master_id": 141181,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141182,
+  "character_master_id": 141180,
+  "episode_master_id": 141182,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141191,
+  "character_master_id": 141190,
+  "episode_master_id": 141191,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141192,
+  "character_master_id": 141190,
+  "episode_master_id": 141192,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141201,
+  "character_master_id": 141200,
+  "episode_master_id": 141201,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141202,
+  "character_master_id": 141200,
+  "episode_master_id": 141202,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141211,
+  "character_master_id": 141210,
+  "episode_master_id": 141211,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141212,
+  "character_master_id": 141210,
+  "episode_master_id": 141212,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141221,
+  "character_master_id": 141220,
+  "episode_master_id": 141221,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141222,
+  "character_master_id": 141220,
+  "episode_master_id": 141222,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141231,
+  "character_master_id": 141230,
+  "episode_master_id": 141231,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141232,
+  "character_master_id": 141230,
+  "episode_master_id": 141232,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141241,
+  "character_master_id": 141240,
+  "episode_master_id": 141241,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141242,
+  "character_master_id": 141240,
+  "episode_master_id": 141242,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141251,
+  "character_master_id": 141250,
+  "episode_master_id": 141251,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141252,
+  "character_master_id": 141250,
+  "episode_master_id": 141252,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141261,
+  "character_master_id": 141260,
+  "episode_master_id": 141261,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141262,
+  "character_master_id": 141260,
+  "episode_master_id": 141262,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141271,
+  "character_master_id": 141270,
+  "episode_master_id": 141271,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141272,
+  "character_master_id": 141270,
+  "episode_master_id": 141272,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141281,
+  "character_master_id": 141280,
+  "episode_master_id": 141281,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141282,
+  "character_master_id": 141280,
+  "episode_master_id": 141282,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141291,
+  "character_master_id": 141290,
+  "episode_master_id": 141291,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141292,
+  "character_master_id": 141290,
+  "episode_master_id": 141292,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141301,
+  "character_master_id": 141300,
+  "episode_master_id": 141301,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141302,
+  "character_master_id": 141300,
+  "episode_master_id": 141302,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141311,
+  "character_master_id": 141310,
+  "episode_master_id": 141311,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141312,
+  "character_master_id": 141310,
+  "episode_master_id": 141312,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141321,
+  "character_master_id": 141320,
+  "episode_master_id": 141321,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141322,
+  "character_master_id": 141320,
+  "episode_master_id": 141322,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141331,
+  "character_master_id": 141330,
+  "episode_master_id": 141331,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141332,
+  "character_master_id": 141330,
+  "episode_master_id": 141332,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141341,
+  "character_master_id": 141340,
+  "episode_master_id": 141341,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141342,
+  "character_master_id": 141340,
+  "episode_master_id": 141342,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141351,
+  "character_master_id": 141350,
+  "episode_master_id": 141351,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141352,
+  "character_master_id": 141350,
+  "episode_master_id": 141352,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141361,
+  "character_master_id": 141360,
+  "episode_master_id": 141361,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141362,
+  "character_master_id": 141360,
+  "episode_master_id": 141362,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141371,
+  "character_master_id": 141370,
+  "episode_master_id": 141371,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141372,
+  "character_master_id": 141370,
+  "episode_master_id": 141372,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141381,
+  "character_master_id": 141380,
+  "episode_master_id": 141381,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141382,
+  "character_master_id": 141380,
+  "episode_master_id": 141382,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141391,
+  "character_master_id": 141390,
+  "episode_master_id": 141391,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141392,
+  "character_master_id": 141390,
+  "episode_master_id": 141392,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141401,
+  "character_master_id": 141400,
+  "episode_master_id": 141401,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141402,
+  "character_master_id": 141400,
+  "episode_master_id": 141402,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141411,
+  "character_master_id": 141410,
+  "episode_master_id": 141411,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141412,
+  "character_master_id": 141410,
+  "episode_master_id": 141412,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141421,
+  "character_master_id": 141420,
+  "episode_master_id": 141421,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141422,
+  "character_master_id": 141420,
+  "episode_master_id": 141422,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141431,
+  "character_master_id": 141430,
+  "episode_master_id": 141431,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141432,
+  "character_master_id": 141430,
+  "episode_master_id": 141432,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141441,
+  "character_master_id": 141440,
+  "episode_master_id": 141441,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141442,
+  "character_master_id": 141440,
+  "episode_master_id": 141442,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141451,
+  "character_master_id": 141450,
+  "episode_master_id": 141451,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141452,
+  "character_master_id": 141450,
+  "episode_master_id": 141452,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141461,
+  "character_master_id": 141460,
+  "episode_master_id": 141461,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141462,
+  "character_master_id": 141460,
+  "episode_master_id": 141462,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141471,
+  "character_master_id": 141470,
+  "episode_master_id": 141471,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141472,
+  "character_master_id": 141470,
+  "episode_master_id": 141472,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141481,
+  "character_master_id": 141480,
+  "episode_master_id": 141481,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141482,
+  "character_master_id": 141480,
+  "episode_master_id": 141482,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141491,
+  "character_master_id": 141490,
+  "episode_master_id": 141491,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141492,
+  "character_master_id": 141490,
+  "episode_master_id": 141492,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141501,
+  "character_master_id": 141500,
+  "episode_master_id": 141501,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141502,
+  "character_master_id": 141500,
+  "episode_master_id": 141502,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141511,
+  "character_master_id": 141510,
+  "episode_master_id": 141511,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141512,
+  "character_master_id": 141510,
+  "episode_master_id": 141512,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141521,
+  "character_master_id": 141520,
+  "episode_master_id": 141521,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141522,
+  "character_master_id": 141520,
+  "episode_master_id": 141522,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141531,
+  "character_master_id": 141530,
+  "episode_master_id": 141531,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141532,
+  "character_master_id": 141530,
+  "episode_master_id": 141532,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141541,
+  "character_master_id": 141540,
+  "episode_master_id": 141541,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141542,
+  "character_master_id": 141540,
+  "episode_master_id": 141542,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141551,
+  "character_master_id": 141550,
+  "episode_master_id": 141551,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141552,
+  "character_master_id": 141550,
+  "episode_master_id": 141552,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141561,
+  "character_master_id": 141560,
+  "episode_master_id": 141561,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141562,
+  "character_master_id": 141560,
+  "episode_master_id": 141562,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141571,
+  "character_master_id": 141570,
+  "episode_master_id": 141571,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141572,
+  "character_master_id": 141570,
+  "episode_master_id": 141572,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141581,
+  "character_master_id": 141580,
+  "episode_master_id": 141581,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141582,
+  "character_master_id": 141580,
+  "episode_master_id": 141582,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141591,
+  "character_master_id": 141590,
+  "episode_master_id": 141591,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141592,
+  "character_master_id": 141590,
+  "episode_master_id": 141592,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141601,
+  "character_master_id": 141600,
+  "episode_master_id": 141601,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141602,
+  "character_master_id": 141600,
+  "episode_master_id": 141602,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141611,
+  "character_master_id": 141610,
+  "episode_master_id": 141611,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141612,
+  "character_master_id": 141610,
+  "episode_master_id": 141612,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141621,
+  "character_master_id": 141620,
+  "episode_master_id": 141621,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141622,
+  "character_master_id": 141620,
+  "episode_master_id": 141622,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141631,
+  "character_master_id": 141630,
+  "episode_master_id": 141631,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141632,
+  "character_master_id": 141630,
+  "episode_master_id": 141632,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141641,
+  "character_master_id": 141640,
+  "episode_master_id": 141641,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141642,
+  "character_master_id": 141640,
+  "episode_master_id": 141642,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141651,
+  "character_master_id": 141650,
+  "episode_master_id": 141651,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141652,
+  "character_master_id": 141650,
+  "episode_master_id": 141652,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141661,
+  "character_master_id": 141660,
+  "episode_master_id": 141661,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141662,
+  "character_master_id": 141660,
+  "episode_master_id": 141662,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141671,
+  "character_master_id": 141670,
+  "episode_master_id": 141671,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141672,
+  "character_master_id": 141670,
+  "episode_master_id": 141672,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141681,
+  "character_master_id": 141680,
+  "episode_master_id": 141681,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141682,
+  "character_master_id": 141680,
+  "episode_master_id": 141682,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141691,
+  "character_master_id": 141690,
+  "episode_master_id": 141691,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141692,
+  "character_master_id": 141690,
+  "episode_master_id": 141692,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141701,
+  "character_master_id": 141700,
+  "episode_master_id": 141701,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141702,
+  "character_master_id": 141700,
+  "episode_master_id": 141702,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141711,
+  "character_master_id": 141710,
+  "episode_master_id": 141711,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141712,
+  "character_master_id": 141710,
+  "episode_master_id": 141712,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141721,
+  "character_master_id": 141720,
+  "episode_master_id": 141721,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141722,
+  "character_master_id": 141720,
+  "episode_master_id": 141722,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141731,
+  "character_master_id": 141730,
+  "episode_master_id": 141731,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141732,
+  "character_master_id": 141730,
+  "episode_master_id": 141732,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141741,
+  "character_master_id": 141740,
+  "episode_master_id": 141741,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141742,
+  "character_master_id": 141740,
+  "episode_master_id": 141742,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141751,
+  "character_master_id": 141750,
+  "episode_master_id": 141751,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141752,
+  "character_master_id": 141750,
+  "episode_master_id": 141752,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141761,
+  "character_master_id": 141760,
+  "episode_master_id": 141761,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141762,
+  "character_master_id": 141760,
+  "episode_master_id": 141762,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141771,
+  "character_master_id": 141770,
+  "episode_master_id": 141771,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141772,
+  "character_master_id": 141770,
+  "episode_master_id": 141772,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141781,
+  "character_master_id": 141780,
+  "episode_master_id": 141781,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141782,
+  "character_master_id": 141780,
+  "episode_master_id": 141782,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141791,
+  "character_master_id": 141790,
+  "episode_master_id": 141791,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141792,
+  "character_master_id": 141790,
+  "episode_master_id": 141792,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141801,
+  "character_master_id": 141800,
+  "episode_master_id": 141801,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141802,
+  "character_master_id": 141800,
+  "episode_master_id": 141802,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141811,
+  "character_master_id": 141810,
+  "episode_master_id": 141811,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141812,
+  "character_master_id": 141810,
+  "episode_master_id": 141812,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141821,
+  "character_master_id": 141820,
+  "episode_master_id": 141821,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141822,
+  "character_master_id": 141820,
+  "episode_master_id": 141822,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141831,
+  "character_master_id": 141830,
+  "episode_master_id": 141831,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141832,
+  "character_master_id": 141830,
+  "episode_master_id": 141832,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141841,
+  "character_master_id": 141840,
+  "episode_master_id": 141841,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141842,
+  "character_master_id": 141840,
+  "episode_master_id": 141842,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141851,
+  "character_master_id": 141850,
+  "episode_master_id": 141851,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141852,
+  "character_master_id": 141850,
+  "episode_master_id": 141852,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141861,
+  "character_master_id": 141860,
+  "episode_master_id": 141861,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141862,
+  "character_master_id": 141860,
+  "episode_master_id": 141862,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141871,
+  "character_master_id": 141870,
+  "episode_master_id": 141871,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141872,
+  "character_master_id": 141870,
+  "episode_master_id": 141872,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141881,
+  "character_master_id": 141880,
+  "episode_master_id": 141881,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141882,
+  "character_master_id": 141880,
+  "episode_master_id": 141882,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141891,
+  "character_master_id": 141890,
+  "episode_master_id": 141891,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141892,
+  "character_master_id": 141890,
+  "episode_master_id": 141892,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141901,
+  "character_master_id": 141900,
+  "episode_master_id": 141901,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141902,
+  "character_master_id": 141900,
+  "episode_master_id": 141902,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141911,
+  "character_master_id": 141910,
+  "episode_master_id": 141911,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141912,
+  "character_master_id": 141910,
+  "episode_master_id": 141912,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141921,
+  "character_master_id": 141920,
+  "episode_master_id": 141921,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141922,
+  "character_master_id": 141920,
+  "episode_master_id": 141922,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141931,
+  "character_master_id": 141930,
+  "episode_master_id": 141931,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141932,
+  "character_master_id": 141930,
+  "episode_master_id": 141932,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141941,
+  "character_master_id": 141940,
+  "episode_master_id": 141941,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141942,
+  "character_master_id": 141940,
+  "episode_master_id": 141942,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141951,
+  "character_master_id": 141950,
+  "episode_master_id": 141951,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141952,
+  "character_master_id": 141950,
+  "episode_master_id": 141952,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141961,
+  "character_master_id": 141960,
+  "episode_master_id": 141961,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141962,
+  "character_master_id": 141960,
+  "episode_master_id": 141962,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141971,
+  "character_master_id": 141970,
+  "episode_master_id": 141971,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141972,
+  "character_master_id": 141970,
+  "episode_master_id": 141972,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141981,
+  "character_master_id": 141980,
+  "episode_master_id": 141981,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141982,
+  "character_master_id": 141980,
+  "episode_master_id": 141982,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 141991,
+  "character_master_id": 141990,
+  "episode_master_id": 141991,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 141992,
+  "character_master_id": 141990,
+  "episode_master_id": 141992,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142001,
+  "character_master_id": 142000,
+  "episode_master_id": 142001,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142002,
+  "character_master_id": 142000,
+  "episode_master_id": 142002,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142011,
+  "character_master_id": 142010,
+  "episode_master_id": 142011,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142012,
+  "character_master_id": 142010,
+  "episode_master_id": 142012,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142021,
+  "character_master_id": 142020,
+  "episode_master_id": 142021,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142022,
+  "character_master_id": 142020,
+  "episode_master_id": 142022,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142031,
+  "character_master_id": 142030,
+  "episode_master_id": 142031,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142032,
+  "character_master_id": 142030,
+  "episode_master_id": 142032,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142041,
+  "character_master_id": 142040,
+  "episode_master_id": 142041,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142042,
+  "character_master_id": 142040,
+  "episode_master_id": 142042,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142051,
+  "character_master_id": 142050,
+  "episode_master_id": 142051,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142052,
+  "character_master_id": 142050,
+  "episode_master_id": 142052,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142061,
+  "character_master_id": 142060,
+  "episode_master_id": 142061,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142062,
+  "character_master_id": 142060,
+  "episode_master_id": 142062,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142071,
+  "character_master_id": 142070,
+  "episode_master_id": 142071,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142072,
+  "character_master_id": 142070,
+  "episode_master_id": 142072,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142081,
+  "character_master_id": 142080,
+  "episode_master_id": 142081,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142082,
+  "character_master_id": 142080,
+  "episode_master_id": 142082,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142091,
+  "character_master_id": 142090,
+  "episode_master_id": 142091,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142092,
+  "character_master_id": 142090,
+  "episode_master_id": 142092,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142101,
+  "character_master_id": 142100,
+  "episode_master_id": 142101,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142102,
+  "character_master_id": 142100,
+  "episode_master_id": 142102,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142111,
+  "character_master_id": 142110,
+  "episode_master_id": 142111,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142112,
+  "character_master_id": 142110,
+  "episode_master_id": 142112,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142121,
+  "character_master_id": 142120,
+  "episode_master_id": 142121,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142122,
+  "character_master_id": 142120,
+  "episode_master_id": 142122,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142131,
+  "character_master_id": 142130,
+  "episode_master_id": 142131,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142132,
+  "character_master_id": 142130,
+  "episode_master_id": 142132,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142141,
+  "character_master_id": 142140,
+  "episode_master_id": 142141,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142142,
+  "character_master_id": 142140,
+  "episode_master_id": 142142,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142151,
+  "character_master_id": 142150,
+  "episode_master_id": 142151,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142152,
+  "character_master_id": 142150,
+  "episode_master_id": 142152,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142161,
+  "character_master_id": 142160,
+  "episode_master_id": 142161,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142162,
+  "character_master_id": 142160,
+  "episode_master_id": 142162,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142171,
+  "character_master_id": 142170,
+  "episode_master_id": 142171,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142172,
+  "character_master_id": 142170,
+  "episode_master_id": 142172,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142181,
+  "character_master_id": 142180,
+  "episode_master_id": 142181,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142182,
+  "character_master_id": 142180,
+  "episode_master_id": 142182,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142191,
+  "character_master_id": 142190,
+  "episode_master_id": 142191,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142192,
+  "character_master_id": 142190,
+  "episode_master_id": 142192,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142201,
+  "character_master_id": 142200,
+  "episode_master_id": 142201,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142202,
+  "character_master_id": 142200,
+  "episode_master_id": 142202,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142211,
+  "character_master_id": 142210,
+  "episode_master_id": 142211,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142212,
+  "character_master_id": 142210,
+  "episode_master_id": 142212,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142221,
+  "character_master_id": 142220,
+  "episode_master_id": 142221,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142222,
+  "character_master_id": 142220,
+  "episode_master_id": 142222,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142231,
+  "character_master_id": 142230,
+  "episode_master_id": 142231,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142232,
+  "character_master_id": 142230,
+  "episode_master_id": 142232,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142241,
+  "character_master_id": 142240,
+  "episode_master_id": 142241,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142242,
+  "character_master_id": 142240,
+  "episode_master_id": 142242,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142251,
+  "character_master_id": 142250,
+  "episode_master_id": 142251,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142252,
+  "character_master_id": 142250,
+  "episode_master_id": 142252,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142261,
+  "character_master_id": 142260,
+  "episode_master_id": 142261,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142262,
+  "character_master_id": 142260,
+  "episode_master_id": 142262,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142271,
+  "character_master_id": 142270,
+  "episode_master_id": 142271,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142272,
+  "character_master_id": 142270,
+  "episode_master_id": 142272,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142281,
+  "character_master_id": 142280,
+  "episode_master_id": 142281,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142282,
+  "character_master_id": 142280,
+  "episode_master_id": 142282,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142291,
+  "character_master_id": 142290,
+  "episode_master_id": 142291,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142292,
+  "character_master_id": 142290,
+  "episode_master_id": 142292,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142301,
+  "character_master_id": 142300,
+  "episode_master_id": 142301,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142302,
+  "character_master_id": 142300,
+  "episode_master_id": 142302,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142311,
+  "character_master_id": 142310,
+  "episode_master_id": 142311,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142312,
+  "character_master_id": 142310,
+  "episode_master_id": 142312,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142321,
+  "character_master_id": 142320,
+  "episode_master_id": 142321,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142322,
+  "character_master_id": 142320,
+  "episode_master_id": 142322,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142331,
+  "character_master_id": 142330,
+  "episode_master_id": 142331,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142332,
+  "character_master_id": 142330,
+  "episode_master_id": 142332,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142341,
+  "character_master_id": 142340,
+  "episode_master_id": 142341,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142342,
+  "character_master_id": 142340,
+  "episode_master_id": 142342,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142351,
+  "character_master_id": 142350,
+  "episode_master_id": 142351,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142352,
+  "character_master_id": 142350,
+  "episode_master_id": 142352,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142361,
+  "character_master_id": 142360,
+  "episode_master_id": 142361,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142362,
+  "character_master_id": 142360,
+  "episode_master_id": 142362,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142371,
+  "character_master_id": 142370,
+  "episode_master_id": 142371,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142372,
+  "character_master_id": 142370,
+  "episode_master_id": 142372,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142381,
+  "character_master_id": 142380,
+  "episode_master_id": 142381,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142382,
+  "character_master_id": 142380,
+  "episode_master_id": 142382,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142391,
+  "character_master_id": 142390,
+  "episode_master_id": 142391,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142392,
+  "character_master_id": 142390,
+  "episode_master_id": 142392,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142401,
+  "character_master_id": 142400,
+  "episode_master_id": 142401,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142402,
+  "character_master_id": 142400,
+  "episode_master_id": 142402,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142411,
+  "character_master_id": 142410,
+  "episode_master_id": 142411,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142412,
+  "character_master_id": 142410,
+  "episode_master_id": 142412,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142421,
+  "character_master_id": 142420,
+  "episode_master_id": 142421,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142422,
+  "character_master_id": 142420,
+  "episode_master_id": 142422,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142431,
+  "character_master_id": 142430,
+  "episode_master_id": 142431,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142432,
+  "character_master_id": 142430,
+  "episode_master_id": 142432,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142441,
+  "character_master_id": 142440,
+  "episode_master_id": 142441,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142442,
+  "character_master_id": 142440,
+  "episode_master_id": 142442,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142451,
+  "character_master_id": 142450,
+  "episode_master_id": 142451,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142452,
+  "character_master_id": 142450,
+  "episode_master_id": 142452,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142461,
+  "character_master_id": 142460,
+  "episode_master_id": 142461,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142462,
+  "character_master_id": 142460,
+  "episode_master_id": 142462,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142471,
+  "character_master_id": 142470,
+  "episode_master_id": 142471,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142472,
+  "character_master_id": 142470,
+  "episode_master_id": 142472,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142481,
+  "character_master_id": 142480,
+  "episode_master_id": 142481,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142482,
+  "character_master_id": 142480,
+  "episode_master_id": 142482,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142491,
+  "character_master_id": 142490,
+  "episode_master_id": 142491,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142492,
+  "character_master_id": 142490,
+  "episode_master_id": 142492,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142501,
+  "character_master_id": 142500,
+  "episode_master_id": 142501,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142502,
+  "character_master_id": 142500,
+  "episode_master_id": 142502,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142511,
+  "character_master_id": 142510,
+  "episode_master_id": 142511,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142512,
+  "character_master_id": 142510,
+  "episode_master_id": 142512,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 142521,
+  "character_master_id": 142520,
+  "episode_master_id": 142521,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 142522,
+  "character_master_id": 142520,
+  "episode_master_id": 142522,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 150011,
+  "character_master_id": 150010,
+  "episode_master_id": 150011,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 150012,
+  "character_master_id": 150010,
+  "episode_master_id": 150012,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 150021,
+  "character_master_id": 150020,
+  "episode_master_id": 150021,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 150022,
+  "character_master_id": 150020,
+  "episode_master_id": 150022,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 150031,
+  "character_master_id": 150030,
+  "episode_master_id": 150031,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 150032,
+  "character_master_id": 150030,
+  "episode_master_id": 150032,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 150041,
+  "character_master_id": 150040,
+  "episode_master_id": 150041,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 150042,
+  "character_master_id": 150040,
+  "episode_master_id": 150042,
+  "episode_order": 2,
+  "required_character_level": 25
+ },
+ {
+  "id": 150051,
+  "character_master_id": 150050,
+  "episode_master_id": 150051,
+  "episode_order": 1,
+  "required_character_level": 1
+ },
+ {
+  "id": 150052,
+  "character_master_id": 150050,
+  "episode_master_id": 150052,
+  "episode_order": 2,
+  "required_character_level": 25
+ }
+]

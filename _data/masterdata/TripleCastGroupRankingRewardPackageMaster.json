@@ -1,0 +1,786 @@
+[
+ {
+  "id": 101,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1100
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": null
+ },
+ {
+  "id": 102,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 850
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": null
+ },
+ {
+  "id": 103,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 670
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": null
+ },
+ {
+  "id": 104,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 520
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 5,
+  "max_rank": 4,
+  "reward_title": null
+ },
+ {
+  "id": 105,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 370
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 10,
+  "max_rank": 6,
+  "reward_title": null
+ },
+ {
+  "id": 106,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 250
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 30,
+  "max_rank": 11,
+  "reward_title": null
+ },
+ {
+  "id": 107,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 160
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 50,
+  "max_rank": 31,
+  "reward_title": null
+ },
+ {
+  "id": 108,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 100
+   }
+  ],
+  "class_type": 1,
+  "min_rank": 999,
+  "max_rank": 51,
+  "reward_title": null
+ },
+ {
+  "id": 201,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1350
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": null
+ },
+ {
+  "id": 202,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1100
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": null
+ },
+ {
+  "id": 203,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 850
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": null
+ },
+ {
+  "id": 204,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 670
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 5,
+  "max_rank": 4,
+  "reward_title": null
+ },
+ {
+  "id": 205,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 520
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 10,
+  "max_rank": 6,
+  "reward_title": null
+ },
+ {
+  "id": 206,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 370
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 30,
+  "max_rank": 11,
+  "reward_title": null
+ },
+ {
+  "id": 207,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 250
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 50,
+  "max_rank": 31,
+  "reward_title": null
+ },
+ {
+  "id": 208,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 160
+   }
+  ],
+  "class_type": 2,
+  "min_rank": 999,
+  "max_rank": 51,
+  "reward_title": null
+ },
+ {
+  "id": 301,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1600
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": null
+ },
+ {
+  "id": 302,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1350
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": null
+ },
+ {
+  "id": 303,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1100
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": null
+ },
+ {
+  "id": 304,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 850
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 5,
+  "max_rank": 4,
+  "reward_title": null
+ },
+ {
+  "id": 305,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 670
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 10,
+  "max_rank": 6,
+  "reward_title": null
+ },
+ {
+  "id": 306,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 520
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 30,
+  "max_rank": 11,
+  "reward_title": null
+ },
+ {
+  "id": 307,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 370
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 50,
+  "max_rank": 31,
+  "reward_title": null
+ },
+ {
+  "id": 308,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 250
+   }
+  ],
+  "class_type": 3,
+  "min_rank": 999,
+  "max_rank": 51,
+  "reward_title": null
+ },
+ {
+  "id": 401,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1850
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": null
+ },
+ {
+  "id": 402,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1600
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": null
+ },
+ {
+  "id": 403,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1350
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": null
+ },
+ {
+  "id": 404,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1100
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 5,
+  "max_rank": 4,
+  "reward_title": null
+ },
+ {
+  "id": 405,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 850
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 10,
+  "max_rank": 6,
+  "reward_title": null
+ },
+ {
+  "id": 406,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 670
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 30,
+  "max_rank": 11,
+  "reward_title": null
+ },
+ {
+  "id": 407,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 520
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 50,
+  "max_rank": 31,
+  "reward_title": null
+ },
+ {
+  "id": 408,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 370
+   }
+  ],
+  "class_type": 4,
+  "min_rank": 999,
+  "max_rank": 51,
+  "reward_title": null
+ },
+ {
+  "id": 501,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 2100
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": null
+ },
+ {
+  "id": 502,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1850
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": null
+ },
+ {
+  "id": 503,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1600
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": null
+ },
+ {
+  "id": 504,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1350
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 5,
+  "max_rank": 4,
+  "reward_title": null
+ },
+ {
+  "id": 505,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1100
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 10,
+  "max_rank": 6,
+  "reward_title": null
+ },
+ {
+  "id": 506,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 850
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 30,
+  "max_rank": 11,
+  "reward_title": null
+ },
+ {
+  "id": 507,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 670
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 50,
+  "max_rank": 31,
+  "reward_title": null
+ },
+ {
+  "id": 508,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 520
+   }
+  ],
+  "class_type": 5,
+  "min_rank": 999,
+  "max_rank": 51,
+  "reward_title": null
+ },
+ {
+  "id": 601,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 2700
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": null
+ },
+ {
+  "id": 602,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 2350
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": null
+ },
+ {
+  "id": 603,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 2100
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": null
+ },
+ {
+  "id": 604,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1850
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 5,
+  "max_rank": 4,
+  "reward_title": null
+ },
+ {
+  "id": 605,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1600
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 10,
+  "max_rank": 6,
+  "reward_title": null
+ },
+ {
+  "id": 606,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1350
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 30,
+  "max_rank": 11,
+  "reward_title": null
+ },
+ {
+  "id": 607,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1100
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 50,
+  "max_rank": 31,
+  "reward_title": null
+ },
+ {
+  "id": 608,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 850
+   }
+  ],
+  "class_type": 6,
+  "min_rank": 999,
+  "max_rank": 51,
+  "reward_title": null
+ },
+ {
+  "id": 701,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 4000
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": null
+ },
+ {
+  "id": 702,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 3500
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": null
+ },
+ {
+  "id": 703,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 3000
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": null
+ },
+ {
+  "id": 704,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 2700
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 5,
+  "max_rank": 4,
+  "reward_title": null
+ },
+ {
+  "id": 705,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 2350
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 10,
+  "max_rank": 6,
+  "reward_title": null
+ },
+ {
+  "id": 706,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 2100
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 30,
+  "max_rank": 11,
+  "reward_title": null
+ },
+ {
+  "id": 707,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1850
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 50,
+  "max_rank": 31,
+  "reward_title": null
+ },
+ {
+  "id": 708,
+  "rewards": [
+   {
+    "thing_id": 130011,
+    "thing_type": 1,
+    "thing_quantity": 1600
+   }
+  ],
+  "class_type": 7,
+  "min_rank": 999,
+  "max_rank": 51,
+  "reward_title": null
+ }
+]

@@ -1,0 +1,162 @@
+[
+ {
+  "id": 510001,
+  "item_master_id": 510001,
+  "target_character_base_master_id": null
+ },
+ {
+  "id": 510002,
+  "item_master_id": 510002,
+  "target_character_base_master_id": null
+ },
+ {
+  "id": 510003,
+  "item_master_id": 510003,
+  "target_character_base_master_id": null
+ },
+ {
+  "id": 510004,
+  "item_master_id": 510004,
+  "target_character_base_master_id": null
+ },
+ {
+  "id": 510005,
+  "item_master_id": 510005,
+  "target_character_base_master_id": null
+ },
+ {
+  "id": 510006,
+  "item_master_id": 510006,
+  "target_character_base_master_id": null
+ },
+ {
+  "id": 511101,
+  "item_master_id": 511101,
+  "target_character_base_master_id": 101
+ },
+ {
+  "id": 511102,
+  "item_master_id": 511102,
+  "target_character_base_master_id": 102
+ },
+ {
+  "id": 511103,
+  "item_master_id": 511103,
+  "target_character_base_master_id": 103
+ },
+ {
+  "id": 511104,
+  "item_master_id": 511104,
+  "target_character_base_master_id": 104
+ },
+ {
+  "id": 511105,
+  "item_master_id": 511105,
+  "target_character_base_master_id": 105
+ },
+ {
+  "id": 511106,
+  "item_master_id": 511106,
+  "target_character_base_master_id": 106
+ },
+ {
+  "id": 511201,
+  "item_master_id": 511201,
+  "target_character_base_master_id": 201
+ },
+ {
+  "id": 511202,
+  "item_master_id": 511202,
+  "target_character_base_master_id": 202
+ },
+ {
+  "id": 511203,
+  "item_master_id": 511203,
+  "target_character_base_master_id": 203
+ },
+ {
+  "id": 511204,
+  "item_master_id": 511204,
+  "target_character_base_master_id": 204
+ },
+ {
+  "id": 511205,
+  "item_master_id": 511205,
+  "target_character_base_master_id": 205
+ },
+ {
+  "id": 511301,
+  "item_master_id": 511301,
+  "target_character_base_master_id": 301
+ },
+ {
+  "id": 511302,
+  "item_master_id": 511302,
+  "target_character_base_master_id": 302
+ },
+ {
+  "id": 511303,
+  "item_master_id": 511303,
+  "target_character_base_master_id": 303
+ },
+ {
+  "id": 511304,
+  "item_master_id": 511304,
+  "target_character_base_master_id": 304
+ },
+ {
+  "id": 511305,
+  "item_master_id": 511305,
+  "target_character_base_master_id": 305
+ },
+ {
+  "id": 511401,
+  "item_master_id": 511401,
+  "target_character_base_master_id": 401
+ },
+ {
+  "id": 511402,
+  "item_master_id": 511402,
+  "target_character_base_master_id": 402
+ },
+ {
+  "id": 511403,
+  "item_master_id": 511403,
+  "target_character_base_master_id": 403
+ },
+ {
+  "id": 511404,
+  "item_master_id": 511404,
+  "target_character_base_master_id": 404
+ },
+ {
+  "id": 511405,
+  "item_master_id": 511405,
+  "target_character_base_master_id": 405
+ },
+ {
+  "id": 511901,
+  "item_master_id": 511901,
+  "target_character_base_master_id": 901
+ },
+ {
+  "id": 511902,
+  "item_master_id": 511902,
+  "target_character_base_master_id": 902
+ },
+ {
+  "id": 511904,
+  "item_master_id": 511904,
+  "target_character_base_master_id": 904
+ },
+ {
+  "id": 511906,
+  "item_master_id": 511906,
+  "target_character_base_master_id": 906
+ },
+ {
+  "id": 511909,
+  "item_master_id": 511909,
+  "target_character_base_master_id": 909
+ }
+]

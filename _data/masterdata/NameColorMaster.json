@@ -1,0 +1,164 @@
+[
+ {
+  "id": 1,
+  "name": "デフォルト",
+  "description": null,
+  "order": 1,
+  "hidden": false,
+  "is_default": true,
+  "unlock_text": null
+ },
+ {
+  "id": 101,
+  "name": "レート：200",
+  "description": null,
+  "order": 101,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「200」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 102,
+  "name": "レート：250",
+  "description": null,
+  "order": 102,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「250」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 103,
+  "name": "レート：300",
+  "description": null,
+  "order": 103,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「300」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 104,
+  "name": "レート：350",
+  "description": null,
+  "order": 104,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「350」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 105,
+  "name": "レート：400",
+  "description": null,
+  "order": 105,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「400」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 106,
+  "name": "レート：450",
+  "description": null,
+  "order": 106,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「450」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 107,
+  "name": "レート：500",
+  "description": null,
+  "order": 107,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「500」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 108,
+  "name": "レート：550",
+  "description": null,
+  "order": 108,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「550」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 109,
+  "name": "レート：600",
+  "description": null,
+  "order": 109,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「600」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 110,
+  "name": "レート：650",
+  "description": null,
+  "order": 110,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「650」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 111,
+  "name": "レート：700",
+  "description": null,
+  "order": 111,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「700」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 112,
+  "name": "レート：750",
+  "description": null,
+  "order": 112,
+  "hidden": false,
+  "is_default": false,
+  "unlock_text": "プレイヤーレートを「750」以上にし、ジュエルショップから入手"
+ },
+ {
+  "id": 113,
+  "name": "レート：800",
+  "description": null,
+  "order": 113,
+  "hidden": true,
+  "is_default": false,
+  "unlock_text": null
+ },
+ {
+  "id": 114,
+  "name": "レート：850",
+  "description": null,
+  "order": 114,
+  "hidden": true,
+  "is_default": false,
+  "unlock_text": null
+ },
+ {
+  "id": 115,
+  "name": "レート：900",
+  "description": null,
+  "order": 115,
+  "hidden": true,
+  "is_default": false,
+  "unlock_text": null
+ },
+ {
+  "id": 116,
+  "name": "レート：950",
+  "description": null,
+  "order": 116,
+  "hidden": true,
+  "is_default": false,
+  "unlock_text": null
+ },
+ {
+  "id": 117,
+  "name": "レート：1000",
+  "description": null,
+  "order": 117,
+  "hidden": true,
+  "is_default": false,
+  "unlock_text": null
+ }
+]

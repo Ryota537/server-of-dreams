@@ -1,0 +1,1549 @@
+[
+ {
+  "id": 10101,
+  "spine_id": 10101,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10102,
+  "spine_id": 10102,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10103,
+  "spine_id": 10103,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10104,
+  "spine_id": 10104,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10105,
+  "spine_id": 10105,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10107,
+  "spine_id": 10107,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10109,
+  "spine_id": 10109,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10110,
+  "spine_id": 10110,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10111,
+  "spine_id": 10111,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10113,
+  "spine_id": 10113,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10120,
+  "spine_id": 10120,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10121,
+  "spine_id": 10121,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10122,
+  "spine_id": 10122,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10123,
+  "spine_id": 10123,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10134,
+  "spine_id": 10134,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2026-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10136,
+  "spine_id": 10136,
+  "character_base_master_id": 101,
+  "target_value": 101,
+  "release_date": "2026-01-20T00:00:00+00:00"
+ },
+ {
+  "id": 10201,
+  "spine_id": 10201,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10203,
+  "spine_id": 10203,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10204,
+  "spine_id": 10204,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10209,
+  "spine_id": 10209,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10220,
+  "spine_id": 10220,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10222,
+  "spine_id": 10222,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10234,
+  "spine_id": 10234,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2026-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10236,
+  "spine_id": 10236,
+  "character_base_master_id": 102,
+  "target_value": 102,
+  "release_date": "2026-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10301,
+  "spine_id": 10301,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10302,
+  "spine_id": 10302,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10303,
+  "spine_id": 10303,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10304,
+  "spine_id": 10304,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10305,
+  "spine_id": 10305,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10307,
+  "spine_id": 10307,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10309,
+  "spine_id": 10309,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10313,
+  "spine_id": 10313,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10323,
+  "spine_id": 10323,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10324,
+  "spine_id": 10324,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10334,
+  "spine_id": 10334,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10336,
+  "spine_id": 10336,
+  "character_base_master_id": 103,
+  "target_value": 103,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10401,
+  "spine_id": 10401,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10403,
+  "spine_id": 10403,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10404,
+  "spine_id": 10404,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10407,
+  "spine_id": 10407,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10410,
+  "spine_id": 10410,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10411,
+  "spine_id": 10411,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10417,
+  "spine_id": 10417,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2026-05-31T17:00:00+00:00"
+ },
+ {
+  "id": 10418,
+  "spine_id": 10418,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10419,
+  "spine_id": 10419,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10422,
+  "spine_id": 10422,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10434,
+  "spine_id": 10434,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2026-01-26T00:00:00+00:00"
+ },
+ {
+  "id": 10436,
+  "spine_id": 10436,
+  "character_base_master_id": 104,
+  "target_value": 104,
+  "release_date": "2026-04-09T00:00:00+00:00"
+ },
+ {
+  "id": 10501,
+  "spine_id": 10501,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10502,
+  "spine_id": 10502,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10503,
+  "spine_id": 10503,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10504,
+  "spine_id": 10504,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10505,
+  "spine_id": 10505,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10518,
+  "spine_id": 10518,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10520,
+  "spine_id": 10520,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10521,
+  "spine_id": 10521,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10536,
+  "spine_id": 10536,
+  "character_base_master_id": 105,
+  "target_value": 105,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10601,
+  "spine_id": 10601,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10602,
+  "spine_id": 10602,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10603,
+  "spine_id": 10603,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10604,
+  "spine_id": 10604,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10605,
+  "spine_id": 10605,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10611,
+  "spine_id": 10611,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10618,
+  "spine_id": 10618,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10620,
+  "spine_id": 10620,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 10636,
+  "spine_id": 10636,
+  "character_base_master_id": 106,
+  "target_value": 106,
+  "release_date": "2026-03-20T00:00:00+00:00"
+ },
+ {
+  "id": 20101,
+  "spine_id": 20101,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20103,
+  "spine_id": 20103,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20115,
+  "spine_id": 20115,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20116,
+  "spine_id": 20116,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20117,
+  "spine_id": 20117,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20120,
+  "spine_id": 20120,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20127,
+  "spine_id": 20127,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20133,
+  "spine_id": 20133,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20134,
+  "spine_id": 20134,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2026-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20136,
+  "spine_id": 20136,
+  "character_base_master_id": 201,
+  "target_value": 201,
+  "release_date": "2026-05-30T00:00:00+00:00"
+ },
+ {
+  "id": 20201,
+  "spine_id": 20201,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20202,
+  "spine_id": 20202,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20203,
+  "spine_id": 20203,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20205,
+  "spine_id": 20205,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20206,
+  "spine_id": 20206,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20216,
+  "spine_id": 20216,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20217,
+  "spine_id": 20217,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20221,
+  "spine_id": 20221,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20236,
+  "spine_id": 20236,
+  "character_base_master_id": 202,
+  "target_value": 202,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20301,
+  "spine_id": 20301,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20302,
+  "spine_id": 20302,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20303,
+  "spine_id": 20303,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20307,
+  "spine_id": 20307,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20315,
+  "spine_id": 20315,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20317,
+  "spine_id": 20317,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20321,
+  "spine_id": 20321,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20323,
+  "spine_id": 20323,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20327,
+  "spine_id": 20327,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20336,
+  "spine_id": 20336,
+  "character_base_master_id": 203,
+  "target_value": 203,
+  "release_date": "2026-06-01T00:00:00+00:00"
+ },
+ {
+  "id": 20401,
+  "spine_id": 20401,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20402,
+  "spine_id": 20402,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20403,
+  "spine_id": 20403,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20407,
+  "spine_id": 20407,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20417,
+  "spine_id": 20417,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20423,
+  "spine_id": 20423,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20427,
+  "spine_id": 20427,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20434,
+  "spine_id": 20434,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2026-01-26T00:00:00+00:00"
+ },
+ {
+  "id": 20436,
+  "spine_id": 20436,
+  "character_base_master_id": 204,
+  "target_value": 204,
+  "release_date": "2026-02-26T00:00:00+00:00"
+ },
+ {
+  "id": 20501,
+  "spine_id": 20501,
+  "character_base_master_id": 205,
+  "target_value": 205,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20503,
+  "spine_id": 20503,
+  "character_base_master_id": 205,
+  "target_value": 205,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20507,
+  "spine_id": 20507,
+  "character_base_master_id": 205,
+  "target_value": 205,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20517,
+  "spine_id": 20517,
+  "character_base_master_id": 205,
+  "target_value": 205,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20521,
+  "spine_id": 20521,
+  "character_base_master_id": 205,
+  "target_value": 205,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 20534,
+  "spine_id": 20534,
+  "character_base_master_id": 205,
+  "target_value": 205,
+  "release_date": "2025-10-26T17:00:00+00:00"
+ },
+ {
+  "id": 20536,
+  "spine_id": 20536,
+  "character_base_master_id": 205,
+  "target_value": 205,
+  "release_date": "2025-11-06T00:00:00+00:00"
+ },
+ {
+  "id": 30101,
+  "spine_id": 30101,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30102,
+  "spine_id": 30102,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30103,
+  "spine_id": 30103,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30105,
+  "spine_id": 30105,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30106,
+  "spine_id": 30106,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30109,
+  "spine_id": 30109,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30112,
+  "spine_id": 30112,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30118,
+  "spine_id": 30118,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30119,
+  "spine_id": 30119,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30128,
+  "spine_id": 30128,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30134,
+  "spine_id": 30134,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2026-04-26T17:00:00+00:00"
+ },
+ {
+  "id": 30136,
+  "spine_id": 30136,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30201,
+  "spine_id": 30201,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30202,
+  "spine_id": 30202,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30203,
+  "spine_id": 30203,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30204,
+  "spine_id": 30204,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30205,
+  "spine_id": 30205,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30206,
+  "spine_id": 30206,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30209,
+  "spine_id": 30209,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30212,
+  "spine_id": 30212,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30218,
+  "spine_id": 30218,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30234,
+  "spine_id": 30234,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30236,
+  "spine_id": 30236,
+  "character_base_master_id": 302,
+  "target_value": 302,
+  "release_date": "2026-05-23T00:00:00+00:00"
+ },
+ {
+  "id": 30301,
+  "spine_id": 30301,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30302,
+  "spine_id": 30302,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30303,
+  "spine_id": 30303,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30305,
+  "spine_id": 30305,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30306,
+  "spine_id": 30306,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30312,
+  "spine_id": 30312,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30318,
+  "spine_id": 30318,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30319,
+  "spine_id": 30319,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30322,
+  "spine_id": 30322,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30326,
+  "spine_id": 30326,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30336,
+  "spine_id": 30336,
+  "character_base_master_id": 303,
+  "target_value": 303,
+  "release_date": "2026-06-19T00:00:00+00:00"
+ },
+ {
+  "id": 30401,
+  "spine_id": 30401,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30402,
+  "spine_id": 30402,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30403,
+  "spine_id": 30403,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30404,
+  "spine_id": 30404,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30405,
+  "spine_id": 30405,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30412,
+  "spine_id": 30412,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30418,
+  "spine_id": 30418,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30421,
+  "spine_id": 30421,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30422,
+  "spine_id": 30422,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30428,
+  "spine_id": 30428,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30436,
+  "spine_id": 30436,
+  "character_base_master_id": 304,
+  "target_value": 304,
+  "release_date": "2026-02-03T00:00:00+00:00"
+ },
+ {
+  "id": 30501,
+  "spine_id": 30501,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30502,
+  "spine_id": 30502,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30503,
+  "spine_id": 30503,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30505,
+  "spine_id": 30505,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30512,
+  "spine_id": 30512,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30518,
+  "spine_id": 30518,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30521,
+  "spine_id": 30521,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30536,
+  "spine_id": 30536,
+  "character_base_master_id": 305,
+  "target_value": 305,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 30603,
+  "spine_id": 30603,
+  "character_base_master_id": 301,
+  "target_value": 301,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40101,
+  "spine_id": 40101,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40102,
+  "spine_id": 40102,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40103,
+  "spine_id": 40103,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40106,
+  "spine_id": 40106,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40108,
+  "spine_id": 40108,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40110,
+  "spine_id": 40110,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40114,
+  "spine_id": 40114,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40117,
+  "spine_id": 40117,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40134,
+  "spine_id": 40134,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2026-04-26T17:00:00+00:00"
+ },
+ {
+  "id": 40136,
+  "spine_id": 40136,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2025-11-30T00:00:00+00:00"
+ },
+ {
+  "id": 40201,
+  "spine_id": 40201,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40202,
+  "spine_id": 40202,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40203,
+  "spine_id": 40203,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40206,
+  "spine_id": 40206,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40208,
+  "spine_id": 40208,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40210,
+  "spine_id": 40210,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40214,
+  "spine_id": 40214,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40217,
+  "spine_id": 40217,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40219,
+  "spine_id": 40219,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40226,
+  "spine_id": 40226,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40231,
+  "spine_id": 40231,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40235,
+  "spine_id": 40235,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40236,
+  "spine_id": 40236,
+  "character_base_master_id": 402,
+  "target_value": 402,
+  "release_date": "2026-05-05T00:00:00+00:00"
+ },
+ {
+  "id": 40301,
+  "spine_id": 40301,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40302,
+  "spine_id": 40302,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40303,
+  "spine_id": 40303,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40308,
+  "spine_id": 40308,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40310,
+  "spine_id": 40310,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40317,
+  "spine_id": 40317,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40321,
+  "spine_id": 40321,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40329,
+  "spine_id": 40329,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40336,
+  "spine_id": 40336,
+  "character_base_master_id": 403,
+  "target_value": 403,
+  "release_date": "2025-12-12T00:00:00+00:00"
+ },
+ {
+  "id": 40401,
+  "spine_id": 40401,
+  "character_base_master_id": 404,
+  "target_value": 404,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40402,
+  "spine_id": 40402,
+  "character_base_master_id": 404,
+  "target_value": 404,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40403,
+  "spine_id": 40403,
+  "character_base_master_id": 404,
+  "target_value": 404,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40406,
+  "spine_id": 40406,
+  "character_base_master_id": 404,
+  "target_value": 404,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40410,
+  "spine_id": 40410,
+  "character_base_master_id": 404,
+  "target_value": 404,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40417,
+  "spine_id": 40417,
+  "character_base_master_id": 404,
+  "target_value": 404,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40436,
+  "spine_id": 40436,
+  "character_base_master_id": 404,
+  "target_value": 404,
+  "release_date": "2025-12-25T00:00:00+00:00"
+ },
+ {
+  "id": 40501,
+  "spine_id": 40501,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40503,
+  "spine_id": 40503,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40507,
+  "spine_id": 40507,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40508,
+  "spine_id": 40508,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40510,
+  "spine_id": 40510,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40517,
+  "spine_id": 40517,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40525,
+  "spine_id": 40525,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40531,
+  "spine_id": 40531,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40534,
+  "spine_id": 40534,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2025-10-26T17:00:00+00:00"
+ },
+ {
+  "id": 40536,
+  "spine_id": 40536,
+  "character_base_master_id": 405,
+  "target_value": 405,
+  "release_date": "2025-07-17T00:00:00+00:00"
+ },
+ {
+  "id": 40801,
+  "spine_id": 40801,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 40903,
+  "spine_id": 40903,
+  "character_base_master_id": 401,
+  "target_value": 401,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 90102,
+  "spine_id": 90102,
+  "character_base_master_id": 901,
+  "target_value": 901,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 90202,
+  "spine_id": 90202,
+  "character_base_master_id": 902,
+  "target_value": 902,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 90402,
+  "spine_id": 90402,
+  "character_base_master_id": 904,
+  "target_value": 904,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 90602,
+  "spine_id": 90602,
+  "character_base_master_id": 906,
+  "target_value": 906,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 90902,
+  "spine_id": 90902,
+  "character_base_master_id": 909,
+  "target_value": 909,
+  "release_date": "2023-07-26T00:00:00+00:00"
+ }
+]

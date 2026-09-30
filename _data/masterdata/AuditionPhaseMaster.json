@@ -1,0 +1,4952 @@
+[
+ {
+  "id": 1001,
+  "auditionaster_id": 1,
+  "phase": 1,
+  "recommended_player_rank": 1,
+  "clear_score": 5000,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 1
+ },
+ {
+  "id": 1002,
+  "auditionaster_id": 1,
+  "phase": 2,
+  "recommended_player_rank": 41,
+  "clear_score": 1340388,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 2001,
+  "auditionaster_id": 2,
+  "phase": 1,
+  "recommended_player_rank": 3,
+  "clear_score": 15390,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 2
+ },
+ {
+  "id": 2002,
+  "auditionaster_id": 2,
+  "phase": 2,
+  "recommended_player_rank": 43,
+  "clear_score": 1537704,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 3001,
+  "auditionaster_id": 3,
+  "phase": 1,
+  "recommended_player_rank": 5,
+  "clear_score": 26260,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 3
+ },
+ {
+  "id": 3002,
+  "auditionaster_id": 3,
+  "phase": 2,
+  "recommended_player_rank": 45,
+  "clear_score": 2193720,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 4001,
+  "auditionaster_id": 4,
+  "phase": 1,
+  "recommended_player_rank": 7,
+  "clear_score": 27945,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 4
+ },
+ {
+  "id": 4002,
+  "auditionaster_id": 4,
+  "phase": 2,
+  "recommended_player_rank": 47,
+  "clear_score": 2010096,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 5001,
+  "auditionaster_id": 5,
+  "phase": 1,
+  "recommended_player_rank": 9,
+  "clear_score": 75240,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 5
+ },
+ {
+  "id": 5002,
+  "auditionaster_id": 5,
+  "phase": 2,
+  "recommended_player_rank": 49,
+  "clear_score": 6045705,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 12
+ },
+ {
+  "id": 5003,
+  "auditionaster_id": 5,
+  "phase": 3,
+  "recommended_player_rank": 90,
+  "clear_score": 39519842,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 6001,
+  "auditionaster_id": 6,
+  "phase": 1,
+  "recommended_player_rank": 11,
+  "clear_score": 50505,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 1
+ },
+ {
+  "id": 6002,
+  "auditionaster_id": 6,
+  "phase": 2,
+  "recommended_player_rank": 51,
+  "clear_score": 2799888,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 7001,
+  "auditionaster_id": 7,
+  "phase": 1,
+  "recommended_player_rank": 13,
+  "clear_score": 62335,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 2
+ },
+ {
+  "id": 7002,
+  "auditionaster_id": 7,
+  "phase": 2,
+  "recommended_player_rank": 52,
+  "clear_score": 2854488,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 8001,
+  "auditionaster_id": 8,
+  "phase": 1,
+  "recommended_player_rank": 15,
+  "clear_score": 51240,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 3
+ },
+ {
+  "id": 8002,
+  "auditionaster_id": 8,
+  "phase": 2,
+  "recommended_player_rank": 53,
+  "clear_score": 1950048,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 9001,
+  "auditionaster_id": 9,
+  "phase": 1,
+  "recommended_player_rank": 17,
+  "clear_score": 72420,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 4
+ },
+ {
+  "id": 9002,
+  "auditionaster_id": 9,
+  "phase": 2,
+  "recommended_player_rank": 54,
+  "clear_score": 2313180,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 10001,
+  "auditionaster_id": 10,
+  "phase": 1,
+  "recommended_player_rank": 19,
+  "clear_score": 148830,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 5
+ },
+ {
+  "id": 10002,
+  "auditionaster_id": 10,
+  "phase": 2,
+  "recommended_player_rank": 55,
+  "clear_score": 5018475,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 13
+ },
+ {
+  "id": 10003,
+  "auditionaster_id": 10,
+  "phase": 3,
+  "recommended_player_rank": 95,
+  "clear_score": 28199572,
+  "star_act_count": 3,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 11001,
+  "auditionaster_id": 11,
+  "phase": 1,
+  "recommended_player_rank": 21,
+  "clear_score": 148470,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 1
+ },
+ {
+  "id": 11002,
+  "auditionaster_id": 11,
+  "phase": 2,
+  "recommended_player_rank": 56,
+  "clear_score": 3411780,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 12001,
+  "auditionaster_id": 12,
+  "phase": 1,
+  "recommended_player_rank": 23,
+  "clear_score": 211750,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 2
+ },
+ {
+  "id": 12002,
+  "auditionaster_id": 12,
+  "phase": 2,
+  "recommended_player_rank": 57,
+  "clear_score": 4159980,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 13001,
+  "auditionaster_id": 13,
+  "phase": 1,
+  "recommended_player_rank": 25,
+  "clear_score": 209070,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 3
+ },
+ {
+  "id": 13002,
+  "auditionaster_id": 13,
+  "phase": 2,
+  "recommended_player_rank": 58,
+  "clear_score": 3534192,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 14001,
+  "auditionaster_id": 14,
+  "phase": 1,
+  "recommended_player_rank": 27,
+  "clear_score": 172885,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 4
+ },
+ {
+  "id": 14002,
+  "auditionaster_id": 14,
+  "phase": 2,
+  "recommended_player_rank": 59,
+  "clear_score": 2527032,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 15001,
+  "auditionaster_id": 15,
+  "phase": 1,
+  "recommended_player_rank": 29,
+  "clear_score": 431105,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 5
+ },
+ {
+  "id": 15002,
+  "auditionaster_id": 15,
+  "phase": 2,
+  "recommended_player_rank": 60,
+  "clear_score": 5474040,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 12
+ },
+ {
+  "id": 15003,
+  "auditionaster_id": 15,
+  "phase": 3,
+  "recommended_player_rank": 100,
+  "clear_score": 30634255,
+  "star_act_count": 3,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 16001,
+  "auditionaster_id": 16,
+  "phase": 1,
+  "recommended_player_rank": 31,
+  "clear_score": 270135,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 1
+ },
+ {
+  "id": 16002,
+  "auditionaster_id": 16,
+  "phase": 2,
+  "recommended_player_rank": 61,
+  "clear_score": 2981124,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 17001,
+  "auditionaster_id": 17,
+  "phase": 1,
+  "recommended_player_rank": 33,
+  "clear_score": 314280,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 2
+ },
+ {
+  "id": 17002,
+  "auditionaster_id": 17,
+  "phase": 2,
+  "recommended_player_rank": 62,
+  "clear_score": 3029724,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 18001,
+  "auditionaster_id": 18,
+  "phase": 1,
+  "recommended_player_rank": 35,
+  "clear_score": 364095,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 3
+ },
+ {
+  "id": 18002,
+  "auditionaster_id": 18,
+  "phase": 2,
+  "recommended_player_rank": 63,
+  "clear_score": 3078324,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 19001,
+  "auditionaster_id": 19,
+  "phase": 1,
+  "recommended_player_rank": 37,
+  "clear_score": 317200,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 4
+ },
+ {
+  "id": 19002,
+  "auditionaster_id": 19,
+  "phase": 2,
+  "recommended_player_rank": 64,
+  "clear_score": 2354844,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 20001,
+  "auditionaster_id": 20,
+  "phase": 1,
+  "recommended_player_rank": 39,
+  "clear_score": 1025145,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 5
+ },
+ {
+  "id": 20002,
+  "auditionaster_id": 20,
+  "phase": 2,
+  "recommended_player_rank": 65,
+  "clear_score": 8382420,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 13
+ },
+ {
+  "id": 20003,
+  "auditionaster_id": 20,
+  "phase": 3,
+  "recommended_player_rank": 105,
+  "clear_score": 42683951,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 21001,
+  "auditionaster_id": 21,
+  "phase": 1,
+  "recommended_player_rank": 41,
+  "clear_score": 489545,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 21002,
+  "auditionaster_id": 21,
+  "phase": 2,
+  "recommended_player_rank": 66,
+  "clear_score": 2826936,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 22001,
+  "auditionaster_id": 22,
+  "phase": 1,
+  "recommended_player_rank": 42,
+  "clear_score": 598185,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 22002,
+  "auditionaster_id": 22,
+  "phase": 2,
+  "recommended_player_rank": 67,
+  "clear_score": 3273696,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 23001,
+  "auditionaster_id": 23,
+  "phase": 1,
+  "recommended_player_rank": 43,
+  "clear_score": 878010,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 23002,
+  "auditionaster_id": 23,
+  "phase": 2,
+  "recommended_player_rank": 68,
+  "clear_score": 4554108,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 24001,
+  "auditionaster_id": 24,
+  "phase": 1,
+  "recommended_player_rank": 44,
+  "clear_score": 516060,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 24002,
+  "auditionaster_id": 24,
+  "phase": 2,
+  "recommended_player_rank": 69,
+  "clear_score": 2539308,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 25001,
+  "auditionaster_id": 25,
+  "phase": 1,
+  "recommended_player_rank": 45,
+  "clear_score": 1004550,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 25002,
+  "auditionaster_id": 25,
+  "phase": 2,
+  "recommended_player_rank": 70,
+  "clear_score": 5859135,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 25003,
+  "auditionaster_id": 25,
+  "phase": 3,
+  "recommended_player_rank": 110,
+  "clear_score": 33685092,
+  "star_act_count": 3,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 26001,
+  "auditionaster_id": 26,
+  "phase": 1,
+  "recommended_player_rank": 46,
+  "clear_score": 1170675,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 26002,
+  "auditionaster_id": 26,
+  "phase": 2,
+  "recommended_player_rank": 71,
+  "clear_score": 5182188,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 27001,
+  "auditionaster_id": 27,
+  "phase": 1,
+  "recommended_player_rank": 47,
+  "clear_score": 527340,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 27002,
+  "auditionaster_id": 27,
+  "phase": 2,
+  "recommended_player_rank": 72,
+  "clear_score": 2215440,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 28001,
+  "auditionaster_id": 28,
+  "phase": 1,
+  "recommended_player_rank": 48,
+  "clear_score": 1004640,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 28002,
+  "auditionaster_id": 28,
+  "phase": 2,
+  "recommended_player_rank": 73,
+  "clear_score": 4007640,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 29001,
+  "auditionaster_id": 29,
+  "phase": 1,
+  "recommended_player_rank": 49,
+  "clear_score": 1661685,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 29002,
+  "auditionaster_id": 29,
+  "phase": 2,
+  "recommended_player_rank": 74,
+  "clear_score": 6294240,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 30001,
+  "auditionaster_id": 30,
+  "phase": 1,
+  "recommended_player_rank": 50,
+  "clear_score": 2023770,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 30002,
+  "auditionaster_id": 30,
+  "phase": 2,
+  "recommended_player_rank": 75,
+  "clear_score": 9106965,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 30003,
+  "auditionaster_id": 30,
+  "phase": 3,
+  "recommended_player_rank": 115,
+  "clear_score": 44974480,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 31001,
+  "auditionaster_id": 31,
+  "phase": 1,
+  "recommended_player_rank": 51,
+  "clear_score": 1807620,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 31002,
+  "auditionaster_id": 31,
+  "phase": 2,
+  "recommended_player_rank": 76,
+  "clear_score": 6465132,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 32001,
+  "auditionaster_id": 32,
+  "phase": 1,
+  "recommended_player_rank": 52,
+  "clear_score": 1320070,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 32002,
+  "auditionaster_id": 32,
+  "phase": 2,
+  "recommended_player_rank": 77,
+  "clear_score": 4691652,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 33001,
+  "auditionaster_id": 33,
+  "phase": 1,
+  "recommended_player_rank": 53,
+  "clear_score": 1345320,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 33002,
+  "auditionaster_id": 33,
+  "phase": 2,
+  "recommended_player_rank": 78,
+  "clear_score": 4752252,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 34001,
+  "auditionaster_id": 34,
+  "phase": 1,
+  "recommended_player_rank": 54,
+  "clear_score": 1235325,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 34002,
+  "auditionaster_id": 34,
+  "phase": 2,
+  "recommended_player_rank": 79,
+  "clear_score": 4337424,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 35001,
+  "auditionaster_id": 35,
+  "phase": 1,
+  "recommended_player_rank": 55,
+  "clear_score": 1672825,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 35002,
+  "auditionaster_id": 35,
+  "phase": 2,
+  "recommended_player_rank": 80,
+  "clear_score": 7299930,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 35003,
+  "auditionaster_id": 35,
+  "phase": 3,
+  "recommended_player_rank": 120,
+  "clear_score": 28151028,
+  "star_act_count": 3,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 36001,
+  "auditionaster_id": 36,
+  "phase": 1,
+  "recommended_player_rank": 56,
+  "clear_score": 1280825,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 36002,
+  "auditionaster_id": 36,
+  "phase": 2,
+  "recommended_player_rank": 81,
+  "clear_score": 4446624,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 37001,
+  "auditionaster_id": 37,
+  "phase": 1,
+  "recommended_player_rank": 57,
+  "clear_score": 2449575,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 37002,
+  "auditionaster_id": 37,
+  "phase": 2,
+  "recommended_player_rank": 82,
+  "clear_score": 8458344,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 38001,
+  "auditionaster_id": 38,
+  "phase": 1,
+  "recommended_player_rank": 58,
+  "clear_score": 1180980,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 38002,
+  "auditionaster_id": 38,
+  "phase": 2,
+  "recommended_player_rank": 83,
+  "clear_score": 4056156,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 39001,
+  "auditionaster_id": 39,
+  "phase": 1,
+  "recommended_player_rank": 59,
+  "clear_score": 1349530,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 39002,
+  "auditionaster_id": 39,
+  "phase": 2,
+  "recommended_player_rank": 84,
+  "clear_score": 4611516,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 40001,
+  "auditionaster_id": 40,
+  "phase": 1,
+  "recommended_player_rank": 60,
+  "clear_score": 1523080,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 40002,
+  "auditionaster_id": 40,
+  "phase": 2,
+  "recommended_player_rank": 85,
+  "clear_score": 6473595,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 40003,
+  "auditionaster_id": 40,
+  "phase": 3,
+  "recommended_player_rank": 125,
+  "clear_score": 35794201,
+  "star_act_count": 3,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 41001,
+  "auditionaster_id": 41,
+  "phase": 1,
+  "recommended_player_rank": 61,
+  "clear_score": 935435,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 41002,
+  "auditionaster_id": 41,
+  "phase": 2,
+  "recommended_player_rank": 86,
+  "clear_score": 3165168,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 42001,
+  "auditionaster_id": 42,
+  "phase": 1,
+  "recommended_player_rank": 62,
+  "clear_score": 1106535,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 42002,
+  "auditionaster_id": 42,
+  "phase": 2,
+  "recommended_player_rank": 87,
+  "clear_score": 3726648,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 43001,
+  "auditionaster_id": 43,
+  "phase": 1,
+  "recommended_player_rank": 63,
+  "clear_score": 1124285,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 43002,
+  "auditionaster_id": 43,
+  "phase": 2,
+  "recommended_player_rank": 88,
+  "clear_score": 3769248,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 44001,
+  "auditionaster_id": 44,
+  "phase": 1,
+  "recommended_player_rank": 64,
+  "clear_score": 659485,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 44002,
+  "auditionaster_id": 44,
+  "phase": 2,
+  "recommended_player_rank": 89,
+  "clear_score": 2201208,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 45001,
+  "auditionaster_id": 45,
+  "phase": 1,
+  "recommended_player_rank": 65,
+  "clear_score": 1486940,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 45002,
+  "auditionaster_id": 45,
+  "phase": 2,
+  "recommended_player_rank": 90,
+  "clear_score": 6176625,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 45003,
+  "auditionaster_id": 45,
+  "phase": 3,
+  "recommended_player_rank": 130,
+  "clear_score": 25553377,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 46001,
+  "auditionaster_id": 46,
+  "phase": 1,
+  "recommended_player_rank": 66,
+  "clear_score": 1343790,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 46002,
+  "auditionaster_id": 46,
+  "phase": 2,
+  "recommended_player_rank": 91,
+  "clear_score": 4446900,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 47001,
+  "auditionaster_id": 47,
+  "phase": 1,
+  "recommended_player_rank": 67,
+  "clear_score": 1195640,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 47002,
+  "auditionaster_id": 47,
+  "phase": 2,
+  "recommended_player_rank": 92,
+  "clear_score": 3940500,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 48001,
+  "auditionaster_id": 48,
+  "phase": 1,
+  "recommended_player_rank": 68,
+  "clear_score": 1555645,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 48002,
+  "auditionaster_id": 48,
+  "phase": 2,
+  "recommended_player_rank": 93,
+  "clear_score": 5106192,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 49001,
+  "auditionaster_id": 49,
+  "phase": 1,
+  "recommended_player_rank": 69,
+  "clear_score": 1058045,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 49002,
+  "auditionaster_id": 49,
+  "phase": 2,
+  "recommended_player_rank": 94,
+  "clear_score": 3459432,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 50001,
+  "auditionaster_id": 50,
+  "phase": 1,
+  "recommended_player_rank": 70,
+  "clear_score": 1777095,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 50002,
+  "auditionaster_id": 50,
+  "phase": 2,
+  "recommended_player_rank": 95,
+  "clear_score": 7235640,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 50003,
+  "auditionaster_id": 50,
+  "phase": 3,
+  "recommended_player_rank": 135,
+  "clear_score": 25323165,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 51001,
+  "auditionaster_id": 51,
+  "phase": 1,
+  "recommended_player_rank": 71,
+  "clear_score": 1520394,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 51002,
+  "auditionaster_id": 51,
+  "phase": 2,
+  "recommended_player_rank": 96,
+  "clear_score": 4934102,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 52001,
+  "auditionaster_id": 52,
+  "phase": 1,
+  "recommended_player_rank": 72,
+  "clear_score": 1759320,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 52002,
+  "auditionaster_id": 52,
+  "phase": 2,
+  "recommended_player_rank": 97,
+  "clear_score": 5688532,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 53001,
+  "auditionaster_id": 53,
+  "phase": 1,
+  "recommended_player_rank": 73,
+  "clear_score": 1563420,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 53002,
+  "auditionaster_id": 53,
+  "phase": 2,
+  "recommended_player_rank": 98,
+  "clear_score": 5037364,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 54001,
+  "auditionaster_id": 54,
+  "phase": 1,
+  "recommended_player_rank": 74,
+  "clear_score": 2031120,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 54002,
+  "auditionaster_id": 54,
+  "phase": 2,
+  "recommended_player_rank": 99,
+  "clear_score": 6521860,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 55001,
+  "auditionaster_id": 55,
+  "phase": 1,
+  "recommended_player_rank": 75,
+  "clear_score": 3416526,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 55002,
+  "auditionaster_id": 55,
+  "phase": 2,
+  "recommended_player_rank": 100,
+  "clear_score": 13210567,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 55003,
+  "auditionaster_id": 55,
+  "phase": 3,
+  "recommended_player_rank": 140,
+  "clear_score": 55676733,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 56001,
+  "auditionaster_id": 56,
+  "phase": 1,
+  "recommended_player_rank": 76,
+  "clear_score": 2086266,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 56002,
+  "auditionaster_id": 56,
+  "phase": 2,
+  "recommended_player_rank": 101,
+  "clear_score": 6654211,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 57001,
+  "auditionaster_id": 57,
+  "phase": 1,
+  "recommended_player_rank": 77,
+  "clear_score": 2345826,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 57002,
+  "auditionaster_id": 57,
+  "phase": 2,
+  "recommended_player_rank": 102,
+  "clear_score": 7458163,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 58001,
+  "auditionaster_id": 58,
+  "phase": 1,
+  "recommended_player_rank": 78,
+  "clear_score": 1199826,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 58002,
+  "auditionaster_id": 58,
+  "phase": 2,
+  "recommended_player_rank": 103,
+  "clear_score": 3802723,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 59001,
+  "auditionaster_id": 59,
+  "phase": 1,
+  "recommended_player_rank": 79,
+  "clear_score": 2407032,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 59002,
+  "auditionaster_id": 59,
+  "phase": 2,
+  "recommended_player_rank": 104,
+  "clear_score": 7605057,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 60001,
+  "auditionaster_id": 60,
+  "phase": 1,
+  "recommended_player_rank": 80,
+  "clear_score": 3402612,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 60002,
+  "auditionaster_id": 60,
+  "phase": 2,
+  "recommended_player_rank": 105,
+  "clear_score": 12951498,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 60003,
+  "auditionaster_id": 60,
+  "phase": 3,
+  "recommended_player_rank": 145,
+  "clear_score": 61605650,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 61001,
+  "auditionaster_id": 61,
+  "phase": 1,
+  "recommended_player_rank": 81,
+  "clear_score": 1734672,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 61002,
+  "auditionaster_id": 61,
+  "phase": 2,
+  "recommended_player_rank": 106,
+  "clear_score": 5448369,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 62001,
+  "auditionaster_id": 62,
+  "phase": 1,
+  "recommended_player_rank": 82,
+  "clear_score": 2003292,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 62002,
+  "auditionaster_id": 62,
+  "phase": 2,
+  "recommended_player_rank": 107,
+  "clear_score": 6274065,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 63001,
+  "auditionaster_id": 63,
+  "phase": 1,
+  "recommended_player_rank": 83,
+  "clear_score": 2028078,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 63002,
+  "auditionaster_id": 63,
+  "phase": 2,
+  "recommended_player_rank": 108,
+  "clear_score": 6333552,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 64001,
+  "auditionaster_id": 64,
+  "phase": 1,
+  "recommended_player_rank": 84,
+  "clear_score": 1545618,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 64002,
+  "auditionaster_id": 64,
+  "phase": 2,
+  "recommended_player_rank": 109,
+  "clear_score": 4813632,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 65001,
+  "auditionaster_id": 65,
+  "phase": 1,
+  "recommended_player_rank": 85,
+  "clear_score": 3102198,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 65002,
+  "auditionaster_id": 65,
+  "phase": 2,
+  "recommended_player_rank": 110,
+  "clear_score": 11642862,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 65003,
+  "auditionaster_id": 65,
+  "phase": 3,
+  "recommended_player_rank": 150,
+  "clear_score": 59709440,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 66001,
+  "auditionaster_id": 66,
+  "phase": 1,
+  "recommended_player_rank": 86,
+  "clear_score": 1582584,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 66002,
+  "auditionaster_id": 66,
+  "phase": 2,
+  "recommended_player_rank": 111,
+  "clear_score": 4902350,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 67001,
+  "auditionaster_id": 67,
+  "phase": 1,
+  "recommended_player_rank": 87,
+  "clear_score": 2125764,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 67002,
+  "auditionaster_id": 67,
+  "phase": 2,
+  "recommended_player_rank": 112,
+  "clear_score": 6567998,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 68001,
+  "auditionaster_id": 68,
+  "phase": 1,
+  "recommended_player_rank": 88,
+  "clear_score": 2415504,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 68002,
+  "auditionaster_id": 68,
+  "phase": 2,
+  "recommended_player_rank": 113,
+  "clear_score": 7444382,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 69001,
+  "auditionaster_id": 69,
+  "phase": 1,
+  "recommended_player_rank": 89,
+  "clear_score": 2711244,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 69002,
+  "auditionaster_id": 69,
+  "phase": 2,
+  "recommended_player_rank": 114,
+  "clear_score": 8335166,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 70001,
+  "auditionaster_id": 70,
+  "phase": 1,
+  "recommended_player_rank": 90,
+  "clear_score": 3556650,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 70002,
+  "auditionaster_id": 70,
+  "phase": 2,
+  "recommended_player_rank": 115,
+  "clear_score": 13179490,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 70003,
+  "auditionaster_id": 70,
+  "phase": 3,
+  "recommended_player_rank": 155,
+  "clear_score": 47361134,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 71001,
+  "auditionaster_id": 71,
+  "phase": 1,
+  "recommended_player_rank": 91,
+  "clear_score": 1674450,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 71002,
+  "auditionaster_id": 71,
+  "phase": 2,
+  "recommended_player_rank": 116,
+  "clear_score": 5122828,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 72001,
+  "auditionaster_id": 72,
+  "phase": 1,
+  "recommended_player_rank": 92,
+  "clear_score": 1970250,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 72002,
+  "auditionaster_id": 72,
+  "phase": 2,
+  "recommended_player_rank": 117,
+  "clear_score": 6013756,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 73001,
+  "auditionaster_id": 73,
+  "phase": 1,
+  "recommended_player_rank": 93,
+  "clear_score": 2272536,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 73002,
+  "auditionaster_id": 73,
+  "phase": 2,
+  "recommended_player_rank": 118,
+  "clear_score": 6920251,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 74001,
+  "auditionaster_id": 74,
+  "phase": 1,
+  "recommended_player_rank": 94,
+  "clear_score": 1446156,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 74002,
+  "auditionaster_id": 74,
+  "phase": 2,
+  "recommended_player_rank": 119,
+  "clear_score": 4393915,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 75001,
+  "auditionaster_id": 75,
+  "phase": 1,
+  "recommended_player_rank": 95,
+  "clear_score": 3180816,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 75002,
+  "auditionaster_id": 75,
+  "phase": 2,
+  "recommended_player_rank": 120,
+  "clear_score": 11652136,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 75003,
+  "auditionaster_id": 75,
+  "phase": 3,
+  "recommended_player_rank": 160,
+  "clear_score": 38391161,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 76001,
+  "auditionaster_id": 76,
+  "phase": 1,
+  "recommended_player_rank": 96,
+  "clear_score": 2345436,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 76002,
+  "auditionaster_id": 76,
+  "phase": 2,
+  "recommended_player_rank": 121,
+  "clear_score": 7095211,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 77001,
+  "auditionaster_id": 77,
+  "phase": 1,
+  "recommended_player_rank": 97,
+  "clear_score": 2077602,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 77002,
+  "auditionaster_id": 77,
+  "phase": 2,
+  "recommended_player_rank": 122,
+  "clear_score": 6271401,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 78001,
+  "auditionaster_id": 78,
+  "phase": 1,
+  "recommended_player_rank": 98,
+  "clear_score": 2098902,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 78002,
+  "auditionaster_id": 78,
+  "phase": 2,
+  "recommended_player_rank": 123,
+  "clear_score": 6322521,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 79001,
+  "auditionaster_id": 79,
+  "phase": 1,
+  "recommended_player_rank": 99,
+  "clear_score": 2717442,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 79002,
+  "auditionaster_id": 79,
+  "phase": 2,
+  "recommended_player_rank": 124,
+  "clear_score": 8169033,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 80001,
+  "auditionaster_id": 80,
+  "phase": 1,
+  "recommended_player_rank": 100,
+  "clear_score": 3348648,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 80002,
+  "auditionaster_id": 80,
+  "phase": 2,
+  "recommended_player_rank": 125,
+  "clear_score": 12138849,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 80003,
+  "auditionaster_id": 80,
+  "phase": 3,
+  "recommended_player_rank": 165,
+  "clear_score": 52618162,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 81001,
+  "auditionaster_id": 81,
+  "phase": 1,
+  "recommended_player_rank": 101,
+  "clear_score": 3077268,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 81002,
+  "auditionaster_id": 81,
+  "phase": 2,
+  "recommended_player_rank": 126,
+  "clear_score": 9213624,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 82001,
+  "auditionaster_id": 82,
+  "phase": 1,
+  "recommended_player_rank": 102,
+  "clear_score": 2184528,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 82002,
+  "auditionaster_id": 82,
+  "phase": 2,
+  "recommended_player_rank": 127,
+  "clear_score": 6528024,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 83001,
+  "auditionaster_id": 83,
+  "phase": 1,
+  "recommended_player_rank": 103,
+  "clear_score": 3759228,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 83002,
+  "auditionaster_id": 83,
+  "phase": 2,
+  "recommended_player_rank": 128,
+  "clear_score": 11212344,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 84001,
+  "auditionaster_id": 84,
+  "phase": 1,
+  "recommended_player_rank": 104,
+  "clear_score": 2541294,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 84002,
+  "auditionaster_id": 84,
+  "phase": 2,
+  "recommended_player_rank": 129,
+  "clear_score": 7565270,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 85001,
+  "auditionaster_id": 85,
+  "phase": 1,
+  "recommended_player_rank": 105,
+  "clear_score": 4782774,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 85002,
+  "auditionaster_id": 85,
+  "phase": 2,
+  "recommended_player_rank": 130,
+  "clear_score": 17172686,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 85003,
+  "auditionaster_id": 85,
+  "phase": 3,
+  "recommended_player_rank": 170,
+  "clear_score": 49677980,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 86001,
+  "auditionaster_id": 86,
+  "phase": 1,
+  "recommended_player_rank": 106,
+  "clear_score": 2270154,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 86002,
+  "auditionaster_id": 86,
+  "phase": 2,
+  "recommended_player_rank": 131,
+  "clear_score": 6733526,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 87001,
+  "auditionaster_id": 87,
+  "phase": 1,
+  "recommended_player_rank": 107,
+  "clear_score": 2614194,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 87002,
+  "auditionaster_id": 87,
+  "phase": 2,
+  "recommended_player_rank": 132,
+  "clear_score": 7740230,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 88001,
+  "auditionaster_id": 88,
+  "phase": 1,
+  "recommended_player_rank": 108,
+  "clear_score": 3290580,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 88002,
+  "auditionaster_id": 88,
+  "phase": 2,
+  "recommended_player_rank": 133,
+  "clear_score": 9725572,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 89001,
+  "auditionaster_id": 89,
+  "phase": 1,
+  "recommended_player_rank": 109,
+  "clear_score": 2992080,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 89002,
+  "auditionaster_id": 89,
+  "phase": 2,
+  "recommended_player_rank": 134,
+  "clear_score": 8828164,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 90001,
+  "auditionaster_id": 90,
+  "phase": 1,
+  "recommended_player_rank": 110,
+  "clear_score": 4346580,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 90002,
+  "auditionaster_id": 90,
+  "phase": 2,
+  "recommended_player_rank": 135,
+  "clear_score": 15470287,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 90003,
+  "auditionaster_id": 90,
+  "phase": 3,
+  "recommended_player_rank": 170,
+  "clear_score": 54865753,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 91001,
+  "auditionaster_id": 91,
+  "phase": 1,
+  "recommended_player_rank": 111,
+  "clear_score": 2712366,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 91002,
+  "auditionaster_id": 91,
+  "phase": 2,
+  "recommended_player_rank": 136,
+  "clear_score": 7975843,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 92001,
+  "auditionaster_id": 92,
+  "phase": 1,
+  "recommended_player_rank": 112,
+  "clear_score": 2060946,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 92002,
+  "auditionaster_id": 92,
+  "phase": 2,
+  "recommended_player_rank": 137,
+  "clear_score": 6050419,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 93001,
+  "auditionaster_id": 93,
+  "phase": 1,
+  "recommended_player_rank": 113,
+  "clear_score": 2079246,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 93002,
+  "auditionaster_id": 93,
+  "phase": 2,
+  "recommended_player_rank": 138,
+  "clear_score": 6094339,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 94001,
+  "auditionaster_id": 94,
+  "phase": 1,
+  "recommended_player_rank": 114,
+  "clear_score": 2097546,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 94002,
+  "auditionaster_id": 94,
+  "phase": 2,
+  "recommended_player_rank": 139,
+  "clear_score": 6138259,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 95001,
+  "auditionaster_id": 95,
+  "phase": 1,
+  "recommended_player_rank": 115,
+  "clear_score": 4891572,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 95002,
+  "auditionaster_id": 95,
+  "phase": 2,
+  "recommended_player_rank": 140,
+  "clear_score": 17269482,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 95003,
+  "auditionaster_id": 95,
+  "phase": 3,
+  "recommended_player_rank": 180,
+  "clear_score": 55053843,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 96001,
+  "auditionaster_id": 96,
+  "phase": 1,
+  "recommended_player_rank": 116,
+  "clear_score": 2134512,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 96002,
+  "auditionaster_id": 96,
+  "phase": 2,
+  "recommended_player_rank": 141,
+  "clear_score": 6226977,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 97001,
+  "auditionaster_id": 97,
+  "phase": 1,
+  "recommended_player_rank": 117,
+  "clear_score": 2152812,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 97002,
+  "auditionaster_id": 97,
+  "phase": 2,
+  "recommended_player_rank": 142,
+  "clear_score": 6270897,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 98001,
+  "auditionaster_id": 98,
+  "phase": 1,
+  "recommended_player_rank": 118,
+  "clear_score": 2527458,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 98002,
+  "auditionaster_id": 98,
+  "phase": 2,
+  "recommended_player_rank": 143,
+  "clear_score": 7351056,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 99001,
+  "auditionaster_id": 99,
+  "phase": 1,
+  "recommended_player_rank": 119,
+  "clear_score": 2189778,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 99002,
+  "auditionaster_id": 99,
+  "phase": 2,
+  "recommended_player_rank": 144,
+  "clear_score": 6359616,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 100001,
+  "auditionaster_id": 100,
+  "phase": 1,
+  "recommended_player_rank": 120,
+  "clear_score": 4741938,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 100002,
+  "auditionaster_id": 100,
+  "phase": 2,
+  "recommended_player_rank": 145,
+  "clear_score": 16616826,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 100003,
+  "auditionaster_id": 100,
+  "phase": 3,
+  "recommended_player_rank": 185,
+  "clear_score": 62744337,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 101001,
+  "auditionaster_id": 101,
+  "phase": 1,
+  "recommended_player_rank": 121,
+  "clear_score": 2226378,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 101002,
+  "auditionaster_id": 101,
+  "phase": 2,
+  "recommended_player_rank": 146,
+  "clear_score": 6447456,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 102001,
+  "auditionaster_id": 102,
+  "phase": 1,
+  "recommended_player_rank": 122,
+  "clear_score": 2245044,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 102002,
+  "auditionaster_id": 102,
+  "phase": 2,
+  "recommended_player_rank": 147,
+  "clear_score": 6492254,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 103001,
+  "auditionaster_id": 103,
+  "phase": 1,
+  "recommended_player_rank": 123,
+  "clear_score": 2634384,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 103002,
+  "auditionaster_id": 103,
+  "phase": 2,
+  "recommended_player_rank": 148,
+  "clear_score": 7607678,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 104001,
+  "auditionaster_id": 104,
+  "phase": 1,
+  "recommended_player_rank": 124,
+  "clear_score": 2655684,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 104002,
+  "auditionaster_id": 104,
+  "phase": 2,
+  "recommended_player_rank": 149,
+  "clear_score": 7658798,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 105001,
+  "auditionaster_id": 105,
+  "phase": 1,
+  "recommended_player_rank": 125,
+  "clear_score": 4562910,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 105002,
+  "auditionaster_id": 105,
+  "phase": 2,
+  "recommended_player_rank": 150,
+  "clear_score": 15878926,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 105003,
+  "auditionaster_id": 105,
+  "phase": 3,
+  "recommended_player_rank": 190,
+  "clear_score": 50418264,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 106001,
+  "auditionaster_id": 106,
+  "phase": 1,
+  "recommended_player_rank": 126,
+  "clear_score": 2318610,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 106002,
+  "auditionaster_id": 106,
+  "phase": 2,
+  "recommended_player_rank": 151,
+  "clear_score": 6668812,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 107001,
+  "auditionaster_id": 107,
+  "phase": 1,
+  "recommended_player_rank": 127,
+  "clear_score": 2336910,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 107002,
+  "auditionaster_id": 107,
+  "phase": 2,
+  "recommended_player_rank": 152,
+  "clear_score": 6712732,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 108001,
+  "auditionaster_id": 108,
+  "phase": 1,
+  "recommended_player_rank": 128,
+  "clear_score": 2355210,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 108002,
+  "auditionaster_id": 108,
+  "phase": 2,
+  "recommended_player_rank": 153,
+  "clear_score": 6756652,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 109001,
+  "auditionaster_id": 109,
+  "phase": 1,
+  "recommended_player_rank": 129,
+  "clear_score": 2373876,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 109002,
+  "auditionaster_id": 109,
+  "phase": 2,
+  "recommended_player_rank": 154,
+  "clear_score": 6801451,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 110001,
+  "auditionaster_id": 110,
+  "phase": 1,
+  "recommended_player_rank": 130,
+  "clear_score": 5137296,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 110002,
+  "auditionaster_id": 110,
+  "phase": 2,
+  "recommended_player_rank": 155,
+  "clear_score": 17763364,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 110003,
+  "auditionaster_id": 110,
+  "phase": 3,
+  "recommended_player_rank": 195,
+  "clear_score": 57663184,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 111001,
+  "auditionaster_id": 111,
+  "phase": 1,
+  "recommended_player_rank": 131,
+  "clear_score": 2410476,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 111002,
+  "auditionaster_id": 111,
+  "phase": 2,
+  "recommended_player_rank": 156,
+  "clear_score": 6889291,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 112001,
+  "auditionaster_id": 112,
+  "phase": 1,
+  "recommended_player_rank": 132,
+  "clear_score": 2428776,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 112002,
+  "auditionaster_id": 112,
+  "phase": 2,
+  "recommended_player_rank": 157,
+  "clear_score": 6933211,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 113001,
+  "auditionaster_id": 113,
+  "phase": 1,
+  "recommended_player_rank": 133,
+  "clear_score": 2447442,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 113002,
+  "auditionaster_id": 113,
+  "phase": 2,
+  "recommended_player_rank": 158,
+  "clear_score": 6978009,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 114001,
+  "auditionaster_id": 114,
+  "phase": 1,
+  "recommended_player_rank": 134,
+  "clear_score": 2869962,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 114002,
+  "auditionaster_id": 114,
+  "phase": 2,
+  "recommended_player_rank": 159,
+  "clear_score": 8173065,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 115001,
+  "auditionaster_id": 115,
+  "phase": 1,
+  "recommended_player_rank": 135,
+  "clear_score": 6149022,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 115002,
+  "auditionaster_id": 115,
+  "phase": 2,
+  "recommended_player_rank": 160,
+  "clear_score": 21134805,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 115003,
+  "auditionaster_id": 115,
+  "phase": 3,
+  "recommended_player_rank": 200,
+  "clear_score": 63100917,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 116001,
+  "auditionaster_id": 116,
+  "phase": 1,
+  "recommended_player_rank": 136,
+  "clear_score": 2912988,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 116002,
+  "auditionaster_id": 116,
+  "phase": 2,
+  "recommended_player_rank": 161,
+  "clear_score": 8276328,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 117001,
+  "auditionaster_id": 117,
+  "phase": 1,
+  "recommended_player_rank": 137,
+  "clear_score": 2934288,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 117002,
+  "auditionaster_id": 117,
+  "phase": 2,
+  "recommended_player_rank": 162,
+  "clear_score": 8327448,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 118001,
+  "auditionaster_id": 118,
+  "phase": 1,
+  "recommended_player_rank": 138,
+  "clear_score": 3788148,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 118002,
+  "auditionaster_id": 118,
+  "phase": 2,
+  "recommended_player_rank": 163,
+  "clear_score": 10738728,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 119001,
+  "auditionaster_id": 119,
+  "phase": 1,
+  "recommended_player_rank": 139,
+  "clear_score": 2976888,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 119002,
+  "auditionaster_id": 119,
+  "phase": 2,
+  "recommended_player_rank": 164,
+  "clear_score": 8429688,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 120001,
+  "auditionaster_id": 120,
+  "phase": 1,
+  "recommended_player_rank": 140,
+  "clear_score": 5532654,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 120002,
+  "auditionaster_id": 120,
+  "phase": 2,
+  "recommended_player_rank": 165,
+  "clear_score": 18909902,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 120003,
+  "auditionaster_id": 120,
+  "phase": 3,
+  "recommended_player_rank": 205,
+  "clear_score": 78872958,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 121001,
+  "auditionaster_id": 121,
+  "phase": 1,
+  "recommended_player_rank": 141,
+  "clear_score": 3019914,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 121002,
+  "auditionaster_id": 121,
+  "phase": 2,
+  "recommended_player_rank": 166,
+  "clear_score": 8532950,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 122001,
+  "auditionaster_id": 122,
+  "phase": 1,
+  "recommended_player_rank": 142,
+  "clear_score": 2612874,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 122002,
+  "auditionaster_id": 122,
+  "phase": 2,
+  "recommended_player_rank": 167,
+  "clear_score": 7375046,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 123001,
+  "auditionaster_id": 123,
+  "phase": 1,
+  "recommended_player_rank": 143,
+  "clear_score": 3062940,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 123002,
+  "auditionaster_id": 123,
+  "phase": 2,
+  "recommended_player_rank": 168,
+  "clear_score": 8636212,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 124001,
+  "auditionaster_id": 124,
+  "phase": 1,
+  "recommended_player_rank": 144,
+  "clear_score": 3084240,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 124002,
+  "auditionaster_id": 124,
+  "phase": 2,
+  "recommended_player_rank": 169,
+  "clear_score": 8687332,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 125001,
+  "auditionaster_id": 125,
+  "phase": 1,
+  "recommended_player_rank": 145,
+  "clear_score": 7042140,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 125002,
+  "auditionaster_id": 125,
+  "phase": 2,
+  "recommended_player_rank": 170,
+  "clear_score": 23943565,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 125003,
+  "auditionaster_id": 125,
+  "phase": 3,
+  "recommended_player_rank": 210,
+  "clear_score": 83427093,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 126001,
+  "auditionaster_id": 126,
+  "phase": 1,
+  "recommended_player_rank": 146,
+  "clear_score": 2686440,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 126002,
+  "auditionaster_id": 126,
+  "phase": 2,
+  "recommended_player_rank": 171,
+  "clear_score": 7551604,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 127001,
+  "auditionaster_id": 127,
+  "phase": 1,
+  "recommended_player_rank": 147,
+  "clear_score": 2705106,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 127002,
+  "auditionaster_id": 127,
+  "phase": 2,
+  "recommended_player_rank": 172,
+  "clear_score": 7596403,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 128001,
+  "auditionaster_id": 128,
+  "phase": 1,
+  "recommended_player_rank": 148,
+  "clear_score": 2723406,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 128002,
+  "auditionaster_id": 128,
+  "phase": 2,
+  "recommended_player_rank": 173,
+  "clear_score": 7640323,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 129001,
+  "auditionaster_id": 129,
+  "phase": 1,
+  "recommended_player_rank": 149,
+  "clear_score": 2741706,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 129002,
+  "auditionaster_id": 129,
+  "phase": 2,
+  "recommended_player_rank": 174,
+  "clear_score": 7684243,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 130001,
+  "auditionaster_id": 130,
+  "phase": 1,
+  "recommended_player_rank": 150,
+  "clear_score": 6380532,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 130002,
+  "auditionaster_id": 130,
+  "phase": 2,
+  "recommended_player_rank": 175,
+  "clear_score": 21587466,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 130003,
+  "auditionaster_id": 130,
+  "phase": 3,
+  "recommended_player_rank": 215,
+  "clear_score": 78766033,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 131001,
+  "auditionaster_id": 131,
+  "phase": 1,
+  "recommended_player_rank": 151,
+  "clear_score": 2778672,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 131002,
+  "auditionaster_id": 131,
+  "phase": 2,
+  "recommended_player_rank": 176,
+  "clear_score": 7772961,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 132001,
+  "auditionaster_id": 132,
+  "phase": 1,
+  "recommended_player_rank": 152,
+  "clear_score": 2796972,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 132002,
+  "auditionaster_id": 132,
+  "phase": 2,
+  "recommended_player_rank": 177,
+  "clear_score": 7816881,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 133001,
+  "auditionaster_id": 133,
+  "phase": 1,
+  "recommended_player_rank": 153,
+  "clear_score": 3276792,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 133002,
+  "auditionaster_id": 133,
+  "phase": 2,
+  "recommended_player_rank": 178,
+  "clear_score": 9149457,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 134001,
+  "auditionaster_id": 134,
+  "phase": 1,
+  "recommended_player_rank": 154,
+  "clear_score": 2833938,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 134002,
+  "auditionaster_id": 134,
+  "phase": 2,
+  "recommended_player_rank": 179,
+  "clear_score": 7905600,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 135001,
+  "auditionaster_id": 135,
+  "phase": 1,
+  "recommended_player_rank": 155,
+  "clear_score": 8463198,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 135002,
+  "auditionaster_id": 135,
+  "phase": 2,
+  "recommended_player_rank": 180,
+  "clear_score": 28502070,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 135003,
+  "auditionaster_id": 135,
+  "phase": 3,
+  "recommended_player_rank": 220,
+  "clear_score": 119493071,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 136001,
+  "auditionaster_id": 136,
+  "phase": 1,
+  "recommended_player_rank": 156,
+  "clear_score": 3811698,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 136002,
+  "auditionaster_id": 136,
+  "phase": 2,
+  "recommended_player_rank": 181,
+  "clear_score": 10614240,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 137001,
+  "auditionaster_id": 137,
+  "phase": 1,
+  "recommended_player_rank": 157,
+  "clear_score": 4309578,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 137002,
+  "auditionaster_id": 137,
+  "phase": 2,
+  "recommended_player_rank": 182,
+  "clear_score": 11990160,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 138001,
+  "auditionaster_id": 138,
+  "phase": 1,
+  "recommended_player_rank": 158,
+  "clear_score": 3860784,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 138002,
+  "auditionaster_id": 138,
+  "phase": 2,
+  "recommended_player_rank": 183,
+  "clear_score": 10732046,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 139001,
+  "auditionaster_id": 139,
+  "phase": 1,
+  "recommended_player_rank": 159,
+  "clear_score": 3885084,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 139002,
+  "auditionaster_id": 139,
+  "phase": 2,
+  "recommended_player_rank": 184,
+  "clear_score": 10790366,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 140001,
+  "auditionaster_id": 140,
+  "phase": 1,
+  "recommended_player_rank": 160,
+  "clear_score": 7770504,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 140002,
+  "auditionaster_id": 140,
+  "phase": 2,
+  "recommended_player_rank": 185,
+  "clear_score": 26055821,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 140003,
+  "auditionaster_id": 140,
+  "phase": 3,
+  "recommended_player_rank": 225,
+  "clear_score": 177453880,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 141001,
+  "auditionaster_id": 141,
+  "phase": 1,
+  "recommended_player_rank": 161,
+  "clear_score": 2962770,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 141002,
+  "auditionaster_id": 141,
+  "phase": 2,
+  "recommended_player_rank": 186,
+  "clear_score": 8214796,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 142001,
+  "auditionaster_id": 142,
+  "phase": 1,
+  "recommended_player_rank": 162,
+  "clear_score": 3469770,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 142002,
+  "auditionaster_id": 142,
+  "phase": 2,
+  "recommended_player_rank": 187,
+  "clear_score": 9612604,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 143001,
+  "auditionaster_id": 143,
+  "phase": 1,
+  "recommended_player_rank": 163,
+  "clear_score": 3491070,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 143002,
+  "auditionaster_id": 143,
+  "phase": 2,
+  "recommended_player_rank": 188,
+  "clear_score": 9663724,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 144001,
+  "auditionaster_id": 144,
+  "phase": 1,
+  "recommended_player_rank": 164,
+  "clear_score": 3512370,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 144002,
+  "auditionaster_id": 144,
+  "phase": 2,
+  "recommended_player_rank": 189,
+  "clear_score": 9714844,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 145001,
+  "auditionaster_id": 145,
+  "phase": 1,
+  "recommended_player_rank": 165,
+  "clear_score": 7516176,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 145002,
+  "auditionaster_id": 145,
+  "phase": 2,
+  "recommended_player_rank": 190,
+  "clear_score": 25099552,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 145003,
+  "auditionaster_id": 145,
+  "phase": 3,
+  "recommended_player_rank": 230,
+  "clear_score": 225943419,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 146001,
+  "auditionaster_id": 146,
+  "phase": 1,
+  "recommended_player_rank": 166,
+  "clear_score": 3054636,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 146002,
+  "auditionaster_id": 146,
+  "phase": 2,
+  "recommended_player_rank": 191,
+  "clear_score": 8435275,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 147001,
+  "auditionaster_id": 147,
+  "phase": 1,
+  "recommended_player_rank": 167,
+  "clear_score": 3072936,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 147002,
+  "auditionaster_id": 147,
+  "phase": 2,
+  "recommended_player_rank": 192,
+  "clear_score": 8479195,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 148001,
+  "auditionaster_id": 148,
+  "phase": 1,
+  "recommended_player_rank": 168,
+  "clear_score": 3091602,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 148002,
+  "auditionaster_id": 148,
+  "phase": 2,
+  "recommended_player_rank": 193,
+  "clear_score": 8523993,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 149001,
+  "auditionaster_id": 149,
+  "phase": 1,
+  "recommended_player_rank": 169,
+  "clear_score": 3619722,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 149002,
+  "auditionaster_id": 149,
+  "phase": 2,
+  "recommended_player_rank": 194,
+  "clear_score": 9972489,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 150001,
+  "auditionaster_id": 150,
+  "phase": 1,
+  "recommended_player_rank": 170,
+  "clear_score": 7743582,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 150002,
+  "auditionaster_id": 150,
+  "phase": 2,
+  "recommended_player_rank": 195,
+  "clear_score": 25759029,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 150003,
+  "auditionaster_id": 150,
+  "phase": 3,
+  "recommended_player_rank": 235,
+  "clear_score": 271078956,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 151001,
+  "auditionaster_id": 151,
+  "phase": 1,
+  "recommended_player_rank": 171,
+  "clear_score": 3146502,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 151002,
+  "auditionaster_id": 151,
+  "phase": 2,
+  "recommended_player_rank": 196,
+  "clear_score": 8655753,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 152001,
+  "auditionaster_id": 152,
+  "phase": 1,
+  "recommended_player_rank": 172,
+  "clear_score": 3165168,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 152002,
+  "auditionaster_id": 152,
+  "phase": 2,
+  "recommended_player_rank": 197,
+  "clear_score": 8700552,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 153001,
+  "auditionaster_id": 153,
+  "phase": 1,
+  "recommended_player_rank": 173,
+  "clear_score": 3705348,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 153002,
+  "auditionaster_id": 153,
+  "phase": 2,
+  "recommended_player_rank": 198,
+  "clear_score": 10177992,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 154001,
+  "auditionaster_id": 154,
+  "phase": 1,
+  "recommended_player_rank": 174,
+  "clear_score": 4776408,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 154002,
+  "auditionaster_id": 154,
+  "phase": 2,
+  "recommended_player_rank": 199,
+  "clear_score": 13110552,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 155001,
+  "auditionaster_id": 155,
+  "phase": 1,
+  "recommended_player_rank": 175,
+  "clear_score": 7971894,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 155002,
+  "auditionaster_id": 155,
+  "phase": 2,
+  "recommended_player_rank": 200,
+  "clear_score": 26421134,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 155003,
+  "auditionaster_id": 155,
+  "phase": 3,
+  "recommended_player_rank": 240,
+  "clear_score": 262759450,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 156001,
+  "auditionaster_id": 156,
+  "phase": 1,
+  "recommended_player_rank": 176,
+  "clear_score": 3238734,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 156002,
+  "auditionaster_id": 156,
+  "phase": 2,
+  "recommended_player_rank": 201,
+  "clear_score": 8877110,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 157001,
+  "auditionaster_id": 157,
+  "phase": 1,
+  "recommended_player_rank": 177,
+  "clear_score": 3257034,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 157002,
+  "auditionaster_id": 157,
+  "phase": 2,
+  "recommended_player_rank": 202,
+  "clear_score": 8921030,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 158001,
+  "auditionaster_id": 158,
+  "phase": 1,
+  "recommended_player_rank": 178,
+  "clear_score": 3275334,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 158002,
+  "auditionaster_id": 158,
+  "phase": 2,
+  "recommended_player_rank": 203,
+  "clear_score": 8964950,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 159001,
+  "auditionaster_id": 159,
+  "phase": 1,
+  "recommended_player_rank": 179,
+  "clear_score": 3834000,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 159002,
+  "auditionaster_id": 159,
+  "phase": 2,
+  "recommended_player_rank": 204,
+  "clear_score": 10486756,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 160001,
+  "auditionaster_id": 160,
+  "phase": 1,
+  "recommended_player_rank": 180,
+  "clear_score": 7656300,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 160002,
+  "auditionaster_id": 160,
+  "phase": 2,
+  "recommended_player_rank": 205,
+  "clear_score": 25287193,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 160003,
+  "auditionaster_id": 160,
+  "phase": 3,
+  "recommended_player_rank": 245,
+  "clear_score": 283641871,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 161001,
+  "auditionaster_id": 161,
+  "phase": 1,
+  "recommended_player_rank": 181,
+  "clear_score": 3608150,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 161002,
+  "auditionaster_id": 161,
+  "phase": 2,
+  "recommended_player_rank": 206,
+  "clear_score": 9855721,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 162001,
+  "auditionaster_id": 162,
+  "phase": 1,
+  "recommended_player_rank": 182,
+  "clear_score": 4222725,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 162002,
+  "auditionaster_id": 162,
+  "phase": 2,
+  "recommended_player_rank": 207,
+  "clear_score": 11526793,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 163001,
+  "auditionaster_id": 163,
+  "phase": 1,
+  "recommended_player_rank": 183,
+  "clear_score": 4246261,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 163002,
+  "auditionaster_id": 163,
+  "phase": 2,
+  "recommended_player_rank": 208,
+  "clear_score": 11583280,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 164001,
+  "auditionaster_id": 164,
+  "phase": 1,
+  "recommended_player_rank": 184,
+  "clear_score": 4870651,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 164002,
+  "auditionaster_id": 164,
+  "phase": 2,
+  "recommended_player_rank": 209,
+  "clear_score": 13277908,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 165001,
+  "auditionaster_id": 165,
+  "phase": 1,
+  "recommended_player_rank": 185,
+  "clear_score": 10338061,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 165002,
+  "auditionaster_id": 165,
+  "phase": 2,
+  "recommended_player_rank": 210,
+  "clear_score": 32497524,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 165003,
+  "auditionaster_id": 165,
+  "phase": 3,
+  "recommended_player_rank": 250,
+  "clear_score": 242801336,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 166001,
+  "auditionaster_id": 166,
+  "phase": 1,
+  "recommended_player_rank": 186,
+  "clear_score": 3708068,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 166002,
+  "auditionaster_id": 166,
+  "phase": 2,
+  "recommended_player_rank": 211,
+  "clear_score": 10095524,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 167001,
+  "auditionaster_id": 167,
+  "phase": 1,
+  "recommended_player_rank": 187,
+  "clear_score": 4339023,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 167002,
+  "auditionaster_id": 167,
+  "phase": 2,
+  "recommended_player_rank": 212,
+  "clear_score": 11805908,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 168001,
+  "auditionaster_id": 168,
+  "phase": 1,
+  "recommended_player_rank": 188,
+  "clear_score": 4362098,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 168002,
+  "auditionaster_id": 168,
+  "phase": 2,
+  "recommended_player_rank": 213,
+  "clear_score": 11861288,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 169001,
+  "auditionaster_id": 169,
+  "phase": 1,
+  "recommended_player_rank": 189,
+  "clear_score": 5002803,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 169002,
+  "auditionaster_id": 169,
+  "phase": 2,
+  "recommended_player_rank": 214,
+  "clear_score": 13595072,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 170001,
+  "auditionaster_id": 170,
+  "phase": 1,
+  "recommended_player_rank": 190,
+  "clear_score": 8755324,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 170002,
+  "auditionaster_id": 170,
+  "phase": 2,
+  "recommended_player_rank": 215,
+  "clear_score": 27435780,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 170003,
+  "auditionaster_id": 170,
+  "phase": 3,
+  "recommended_player_rank": 255,
+  "clear_score": 298947783,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 171001,
+  "auditionaster_id": 171,
+  "phase": 1,
+  "recommended_player_rank": 191,
+  "clear_score": 3807589,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 171002,
+  "auditionaster_id": 171,
+  "phase": 2,
+  "recommended_player_rank": 216,
+  "clear_score": 10334376,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 172001,
+  "auditionaster_id": 172,
+  "phase": 1,
+  "recommended_player_rank": 192,
+  "clear_score": 4454859,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 172002,
+  "auditionaster_id": 172,
+  "phase": 2,
+  "recommended_player_rank": 217,
+  "clear_score": 12083916,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 173001,
+  "auditionaster_id": 173,
+  "phase": 1,
+  "recommended_player_rank": 193,
+  "clear_score": 3847636,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 173002,
+  "auditionaster_id": 173,
+  "phase": 2,
+  "recommended_player_rank": 218,
+  "clear_score": 10430487,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 174001,
+  "auditionaster_id": 174,
+  "phase": 1,
+  "recommended_player_rank": 194,
+  "clear_score": 4501471,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 174002,
+  "auditionaster_id": 174,
+  "phase": 2,
+  "recommended_player_rank": 219,
+  "clear_score": 12195783,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 175001,
+  "auditionaster_id": 175,
+  "phase": 1,
+  "recommended_player_rank": 195,
+  "clear_score": 7710846,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 175002,
+  "auditionaster_id": 175,
+  "phase": 2,
+  "recommended_player_rank": 220,
+  "clear_score": 24090858,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 175003,
+  "auditionaster_id": 175,
+  "phase": 3,
+  "recommended_player_rank": 260,
+  "clear_score": 339981325,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 176001,
+  "auditionaster_id": 176,
+  "phase": 1,
+  "recommended_player_rank": 196,
+  "clear_score": 4197804,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 176002,
+  "auditionaster_id": 176,
+  "phase": 2,
+  "recommended_player_rank": 221,
+  "clear_score": 11359886,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 177001,
+  "auditionaster_id": 177,
+  "phase": 1,
+  "recommended_player_rank": 197,
+  "clear_score": 4813830,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 177002,
+  "auditionaster_id": 177,
+  "phase": 2,
+  "recommended_player_rank": 222,
+  "clear_score": 13019356,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 178001,
+  "auditionaster_id": 178,
+  "phase": 1,
+  "recommended_player_rank": 198,
+  "clear_score": 4838130,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 178002,
+  "auditionaster_id": 178,
+  "phase": 2,
+  "recommended_player_rank": 223,
+  "clear_score": 13077676,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 179001,
+  "auditionaster_id": 179,
+  "phase": 1,
+  "recommended_player_rank": 199,
+  "clear_score": 4262130,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 179002,
+  "auditionaster_id": 179,
+  "phase": 2,
+  "recommended_player_rank": 224,
+  "clear_score": 11514268,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 180001,
+  "auditionaster_id": 180,
+  "phase": 1,
+  "recommended_player_rank": 200,
+  "clear_score": 8507376,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 180002,
+  "auditionaster_id": 180,
+  "phase": 2,
+  "recommended_player_rank": 225,
+  "clear_score": 27755314,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 180003,
+  "auditionaster_id": 180,
+  "phase": 3,
+  "recommended_player_rank": 265,
+  "clear_score": 356626468,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 181001,
+  "auditionaster_id": 181,
+  "phase": 1,
+  "recommended_player_rank": 201,
+  "clear_score": 4305156,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 181002,
+  "auditionaster_id": 181,
+  "phase": 2,
+  "recommended_player_rank": 226,
+  "clear_score": 11617531,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 182001,
+  "auditionaster_id": 182,
+  "phase": 1,
+  "recommended_player_rank": 202,
+  "clear_score": 3717096,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 182002,
+  "auditionaster_id": 182,
+  "phase": 2,
+  "recommended_player_rank": 227,
+  "clear_score": 10025179,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 183001,
+  "auditionaster_id": 183,
+  "phase": 1,
+  "recommended_player_rank": 203,
+  "clear_score": 4347756,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 183002,
+  "auditionaster_id": 183,
+  "phase": 2,
+  "recommended_player_rank": 228,
+  "clear_score": 11719771,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 184001,
+  "auditionaster_id": 184,
+  "phase": 1,
+  "recommended_player_rank": 204,
+  "clear_score": 4369482,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 184002,
+  "auditionaster_id": 184,
+  "phase": 2,
+  "recommended_player_rank": 229,
+  "clear_score": 11771913,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 185001,
+  "auditionaster_id": 185,
+  "phase": 1,
+  "recommended_player_rank": 205,
+  "clear_score": 9338142,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 185002,
+  "auditionaster_id": 185,
+  "phase": 2,
+  "recommended_player_rank": 230,
+  "clear_score": 30383253,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 185003,
+  "auditionaster_id": 185,
+  "phase": 3,
+  "recommended_player_rank": 270,
+  "clear_score": 389721058,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 186001,
+  "auditionaster_id": 186,
+  "phase": 1,
+  "recommended_player_rank": 206,
+  "clear_score": 4412082,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 186002,
+  "auditionaster_id": 186,
+  "phase": 2,
+  "recommended_player_rank": 231,
+  "clear_score": 11874153,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 187001,
+  "auditionaster_id": 187,
+  "phase": 1,
+  "recommended_player_rank": 207,
+  "clear_score": 3808962,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 187002,
+  "auditionaster_id": 187,
+  "phase": 2,
+  "recommended_player_rank": 232,
+  "clear_score": 10245657,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 188001,
+  "auditionaster_id": 188,
+  "phase": 1,
+  "recommended_player_rank": 208,
+  "clear_score": 4455108,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 188002,
+  "auditionaster_id": 188,
+  "phase": 2,
+  "recommended_player_rank": 233,
+  "clear_score": 11977416,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 189001,
+  "auditionaster_id": 189,
+  "phase": 1,
+  "recommended_player_rank": 209,
+  "clear_score": 4476408,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 189002,
+  "auditionaster_id": 189,
+  "phase": 2,
+  "recommended_player_rank": 234,
+  "clear_score": 12028536,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 190001,
+  "auditionaster_id": 190,
+  "phase": 1,
+  "recommended_player_rank": 210,
+  "clear_score": 8932068,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 190002,
+  "auditionaster_id": 190,
+  "phase": 2,
+  "recommended_player_rank": 235,
+  "clear_score": 28986921,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 190003,
+  "auditionaster_id": 190,
+  "phase": 3,
+  "recommended_player_rank": 275,
+  "clear_score": 319075599,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 191001,
+  "auditionaster_id": 191,
+  "phase": 1,
+  "recommended_player_rank": 211,
+  "clear_score": 4519434,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 191002,
+  "auditionaster_id": 191,
+  "phase": 2,
+  "recommended_player_rank": 236,
+  "clear_score": 12131798,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 192001,
+  "auditionaster_id": 192,
+  "phase": 1,
+  "recommended_player_rank": 212,
+  "clear_score": 4540734,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 192002,
+  "auditionaster_id": 192,
+  "phase": 2,
+  "recommended_player_rank": 237,
+  "clear_score": 12182918,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 193001,
+  "auditionaster_id": 193,
+  "phase": 1,
+  "recommended_player_rank": 213,
+  "clear_score": 3919494,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 193002,
+  "auditionaster_id": 193,
+  "phase": 2,
+  "recommended_player_rank": 238,
+  "clear_score": 10510934,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 194001,
+  "auditionaster_id": 194,
+  "phase": 1,
+  "recommended_player_rank": 214,
+  "clear_score": 5228874,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 194002,
+  "auditionaster_id": 194,
+  "phase": 2,
+  "recommended_player_rank": 239,
+  "clear_score": 14015462,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 195001,
+  "auditionaster_id": 195,
+  "phase": 1,
+  "recommended_player_rank": 215,
+  "clear_score": 9793860,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 195002,
+  "auditionaster_id": 195,
+  "phase": 2,
+  "recommended_player_rank": 240,
+  "clear_score": 31704835,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 195003,
+  "auditionaster_id": 195,
+  "phase": 3,
+  "recommended_player_rank": 280,
+  "clear_score": 594172496,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 196001,
+  "auditionaster_id": 196,
+  "phase": 1,
+  "recommended_player_rank": 216,
+  "clear_score": 3974760,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 196002,
+  "auditionaster_id": 196,
+  "phase": 2,
+  "recommended_player_rank": 241,
+  "clear_score": 10643572,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 197001,
+  "auditionaster_id": 197,
+  "phase": 1,
+  "recommended_player_rank": 217,
+  "clear_score": 3993060,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 197002,
+  "auditionaster_id": 197,
+  "phase": 2,
+  "recommended_player_rank": 242,
+  "clear_score": 10687492,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 198001,
+  "auditionaster_id": 198,
+  "phase": 1,
+  "recommended_player_rank": 218,
+  "clear_score": 4669386,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 198002,
+  "auditionaster_id": 198,
+  "phase": 2,
+  "recommended_player_rank": 243,
+  "clear_score": 12491683,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 199001,
+  "auditionaster_id": 199,
+  "phase": 1,
+  "recommended_player_rank": 219,
+  "clear_score": 5351346,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 199002,
+  "auditionaster_id": 199,
+  "phase": 2,
+  "recommended_player_rank": 244,
+  "clear_score": 14309395,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 200001,
+  "auditionaster_id": 200,
+  "phase": 1,
+  "recommended_player_rank": 220,
+  "clear_score": 8693946,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 200002,
+  "auditionaster_id": 200,
+  "phase": 2,
+  "recommended_player_rank": 245,
+  "clear_score": 28077649,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 200003,
+  "auditionaster_id": 200,
+  "phase": 3,
+  "recommended_player_rank": 285,
+  "clear_score": 684317656,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 201001,
+  "auditionaster_id": 201,
+  "phase": 1,
+  "recommended_player_rank": 221,
+  "clear_score": 5399946,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 201002,
+  "auditionaster_id": 201,
+  "phase": 2,
+  "recommended_player_rank": 246,
+  "clear_score": 14426035,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 202001,
+  "auditionaster_id": 202,
+  "phase": 1,
+  "recommended_player_rank": 222,
+  "clear_score": 4755012,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 202002,
+  "auditionaster_id": 202,
+  "phase": 2,
+  "recommended_player_rank": 247,
+  "clear_score": 12697185,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 203001,
+  "auditionaster_id": 203,
+  "phase": 1,
+  "recommended_player_rank": 223,
+  "clear_score": 6121752,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 203002,
+  "auditionaster_id": 203,
+  "phase": 2,
+  "recommended_player_rank": 248,
+  "clear_score": 16339377,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 204001,
+  "auditionaster_id": 204,
+  "phase": 1,
+  "recommended_player_rank": 224,
+  "clear_score": 4797612,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 204002,
+  "auditionaster_id": 204,
+  "phase": 2,
+  "recommended_player_rank": 249,
+  "clear_score": 12799425,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 205001,
+  "auditionaster_id": 205,
+  "phase": 1,
+  "recommended_player_rank": 225,
+  "clear_score": 10249578,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 205002,
+  "auditionaster_id": 205,
+  "phase": 2,
+  "recommended_player_rank": 250,
+  "clear_score": 33026418,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 205003,
+  "auditionaster_id": 205,
+  "phase": 3,
+  "recommended_player_rank": 290,
+  "clear_score": 644519369,
+  "star_act_count": 6,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 206001,
+  "auditionaster_id": 206,
+  "phase": 1,
+  "recommended_player_rank": 226,
+  "clear_score": 4158858,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 206002,
+  "auditionaster_id": 206,
+  "phase": 2,
+  "recommended_player_rank": 251,
+  "clear_score": 11085408,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 207001,
+  "auditionaster_id": 207,
+  "phase": 1,
+  "recommended_player_rank": 227,
+  "clear_score": 4861938,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 207002,
+  "auditionaster_id": 207,
+  "phase": 2,
+  "recommended_player_rank": 252,
+  "clear_score": 12953808,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 208001,
+  "auditionaster_id": 208,
+  "phase": 1,
+  "recommended_player_rank": 228,
+  "clear_score": 4195458,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 208002,
+  "auditionaster_id": 208,
+  "phase": 2,
+  "recommended_player_rank": 253,
+  "clear_score": 11173248,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 209001,
+  "auditionaster_id": 209,
+  "phase": 1,
+  "recommended_player_rank": 229,
+  "clear_score": 5595804,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 209002,
+  "auditionaster_id": 209,
+  "phase": 2,
+  "recommended_player_rank": 254,
+  "clear_score": 14896094,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 210001,
+  "auditionaster_id": 210,
+  "phase": 1,
+  "recommended_player_rank": 230,
+  "clear_score": 9089304,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 210002,
+  "auditionaster_id": 210,
+  "phase": 2,
+  "recommended_player_rank": 255,
+  "clear_score": 29224187,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 210003,
+  "auditionaster_id": 210,
+  "phase": 3,
+  "recommended_player_rank": 295,
+  "clear_score": 611267420,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 211001,
+  "auditionaster_id": 211,
+  "phase": 1,
+  "recommended_player_rank": 231,
+  "clear_score": 4250724,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 211002,
+  "auditionaster_id": 211,
+  "phase": 2,
+  "recommended_player_rank": 256,
+  "clear_score": 11305886,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 212001,
+  "auditionaster_id": 212,
+  "phase": 1,
+  "recommended_player_rank": 232,
+  "clear_score": 4968864,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 212002,
+  "auditionaster_id": 212,
+  "phase": 2,
+  "recommended_player_rank": 257,
+  "clear_score": 13210430,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 213001,
+  "auditionaster_id": 213,
+  "phase": 1,
+  "recommended_player_rank": 233,
+  "clear_score": 4990590,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 213002,
+  "auditionaster_id": 213,
+  "phase": 2,
+  "recommended_player_rank": 258,
+  "clear_score": 13262572,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 214001,
+  "auditionaster_id": 214,
+  "phase": 1,
+  "recommended_player_rank": 234,
+  "clear_score": 4305990,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 214002,
+  "auditionaster_id": 214,
+  "phase": 2,
+  "recommended_player_rank": 259,
+  "clear_score": 11438524,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 215001,
+  "auditionaster_id": 215,
+  "phase": 1,
+  "recommended_player_rank": 235,
+  "clear_score": 13539990,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 215002,
+  "auditionaster_id": 215,
+  "phase": 2,
+  "recommended_player_rank": 260,
+  "clear_score": 43443484,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 215003,
+  "auditionaster_id": 215,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 793916209,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 216001,
+  "auditionaster_id": 216,
+  "phase": 1,
+  "recommended_player_rank": 236,
+  "clear_score": 3630996,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 216002,
+  "auditionaster_id": 216,
+  "phase": 2,
+  "recommended_player_rank": 261,
+  "clear_score": 9637531,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 217001,
+  "auditionaster_id": 217,
+  "phase": 1,
+  "recommended_player_rank": 237,
+  "clear_score": 5791176,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 217002,
+  "auditionaster_id": 217,
+  "phase": 2,
+  "recommended_player_rank": 262,
+  "clear_score": 15364987,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 218001,
+  "auditionaster_id": 218,
+  "phase": 1,
+  "recommended_player_rank": 238,
+  "clear_score": 4379556,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 218002,
+  "auditionaster_id": 218,
+  "phase": 2,
+  "recommended_player_rank": 263,
+  "clear_score": 11615083,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 219001,
+  "auditionaster_id": 219,
+  "phase": 1,
+  "recommended_player_rank": 239,
+  "clear_score": 5118816,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 219002,
+  "auditionaster_id": 219,
+  "phase": 2,
+  "recommended_player_rank": 264,
+  "clear_score": 13570315,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 220001,
+  "auditionaster_id": 220,
+  "phase": 1,
+  "recommended_player_rank": 240,
+  "clear_score": 8036622,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 220002,
+  "auditionaster_id": 220,
+  "phase": 2,
+  "recommended_player_rank": 265,
+  "clear_score": 25733973,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 220003,
+  "auditionaster_id": 220,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 1183174145,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 221001,
+  "auditionaster_id": 221,
+  "phase": 1,
+  "recommended_player_rank": 241,
+  "clear_score": 4434822,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 221002,
+  "auditionaster_id": 221,
+  "phase": 2,
+  "recommended_player_rank": 266,
+  "clear_score": 11747721,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 222001,
+  "auditionaster_id": 222,
+  "phase": 1,
+  "recommended_player_rank": 242,
+  "clear_score": 4453122,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 222002,
+  "auditionaster_id": 222,
+  "phase": 2,
+  "recommended_player_rank": 267,
+  "clear_score": 11791641,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 223001,
+  "auditionaster_id": 223,
+  "phase": 1,
+  "recommended_player_rank": 243,
+  "clear_score": 6671028,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 223002,
+  "auditionaster_id": 223,
+  "phase": 2,
+  "recommended_player_rank": 268,
+  "clear_score": 17657640,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 224001,
+  "auditionaster_id": 224,
+  "phase": 1,
+  "recommended_player_rank": 244,
+  "clear_score": 5962248,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 224002,
+  "auditionaster_id": 224,
+  "phase": 2,
+  "recommended_player_rank": 269,
+  "clear_score": 15775560,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 225001,
+  "auditionaster_id": 225,
+  "phase": 1,
+  "recommended_player_rank": 245,
+  "clear_score": 11160108,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 225002,
+  "auditionaster_id": 225,
+  "phase": 2,
+  "recommended_player_rank": 270,
+  "clear_score": 35666955,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 225003,
+  "auditionaster_id": 225,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 3475063056,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 226001,
+  "auditionaster_id": 226,
+  "phase": 1,
+  "recommended_player_rank": 246,
+  "clear_score": 5268768,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 226002,
+  "auditionaster_id": 226,
+  "phase": 2,
+  "recommended_player_rank": 271,
+  "clear_score": 13930200,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 227001,
+  "auditionaster_id": 227,
+  "phase": 1,
+  "recommended_player_rank": 247,
+  "clear_score": 5290494,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 227002,
+  "auditionaster_id": 227,
+  "phase": 2,
+  "recommended_player_rank": 272,
+  "clear_score": 13982342,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 228001,
+  "auditionaster_id": 228,
+  "phase": 1,
+  "recommended_player_rank": 248,
+  "clear_score": 4563654,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 228002,
+  "auditionaster_id": 228,
+  "phase": 2,
+  "recommended_player_rank": 273,
+  "clear_score": 12056918,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 229001,
+  "auditionaster_id": 229,
+  "phase": 1,
+  "recommended_player_rank": 249,
+  "clear_score": 4581954,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 229002,
+  "auditionaster_id": 229,
+  "phase": 2,
+  "recommended_player_rank": 274,
+  "clear_score": 12100838,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 230001,
+  "auditionaster_id": 230,
+  "phase": 1,
+  "recommended_player_rank": 250,
+  "clear_score": 15159420,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 230002,
+  "auditionaster_id": 230,
+  "phase": 2,
+  "recommended_player_rank": 275,
+  "clear_score": 48358549,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 230003,
+  "auditionaster_id": 230,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 3738541592,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 231001,
+  "auditionaster_id": 231,
+  "phase": 1,
+  "recommended_player_rank": 251,
+  "clear_score": 5376120,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 231002,
+  "auditionaster_id": 231,
+  "phase": 2,
+  "recommended_player_rank": 276,
+  "clear_score": 14187844,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 232001,
+  "auditionaster_id": 232,
+  "phase": 1,
+  "recommended_player_rank": 252,
+  "clear_score": 5397420,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 232002,
+  "auditionaster_id": 232,
+  "phase": 2,
+  "recommended_player_rank": 277,
+  "clear_score": 14238964,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 233001,
+  "auditionaster_id": 233,
+  "phase": 1,
+  "recommended_player_rank": 253,
+  "clear_score": 6181920,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 233002,
+  "auditionaster_id": 233,
+  "phase": 2,
+  "recommended_player_rank": 278,
+  "clear_score": 16302772,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 234001,
+  "auditionaster_id": 234,
+  "phase": 1,
+  "recommended_player_rank": 254,
+  "clear_score": 4674186,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 234002,
+  "auditionaster_id": 234,
+  "phase": 2,
+  "recommended_player_rank": 279,
+  "clear_score": 12322195,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 235001,
+  "auditionaster_id": 235,
+  "phase": 1,
+  "recommended_player_rank": 255,
+  "clear_score": 10077306,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 235002,
+  "auditionaster_id": 235,
+  "phase": 2,
+  "recommended_player_rank": 280,
+  "clear_score": 32089393,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 235003,
+  "auditionaster_id": 235,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 5466445392,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 236001,
+  "auditionaster_id": 236,
+  "phase": 1,
+  "recommended_player_rank": 256,
+  "clear_score": 6255306,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 236002,
+  "auditionaster_id": 236,
+  "phase": 2,
+  "recommended_player_rank": 281,
+  "clear_score": 16478899,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 237001,
+  "auditionaster_id": 237,
+  "phase": 1,
+  "recommended_player_rank": 257,
+  "clear_score": 7830126,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 237002,
+  "auditionaster_id": 237,
+  "phase": 2,
+  "recommended_player_rank": 282,
+  "clear_score": 20620483,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 238001,
+  "auditionaster_id": 238,
+  "phase": 1,
+  "recommended_player_rank": 258,
+  "clear_score": 6304392,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 238002,
+  "auditionaster_id": 238,
+  "phase": 2,
+  "recommended_player_rank": 283,
+  "clear_score": 16596705,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 239001,
+  "auditionaster_id": 239,
+  "phase": 1,
+  "recommended_player_rank": 259,
+  "clear_score": 6328692,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 239002,
+  "auditionaster_id": 239,
+  "phase": 2,
+  "recommended_player_rank": 284,
+  "clear_score": 16655025,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 240001,
+  "auditionaster_id": 240,
+  "phase": 1,
+  "recommended_player_rank": 260,
+  "clear_score": 12627552,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 240002,
+  "auditionaster_id": 240,
+  "phase": 2,
+  "recommended_player_rank": 285,
+  "clear_score": 40141260,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 240003,
+  "auditionaster_id": 240,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 5814116052,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 241001,
+  "auditionaster_id": 241,
+  "phase": 1,
+  "recommended_player_rank": 261,
+  "clear_score": 5590398,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 241002,
+  "auditionaster_id": 241,
+  "phase": 2,
+  "recommended_player_rank": 286,
+  "clear_score": 14702112,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 242001,
+  "auditionaster_id": 242,
+  "phase": 1,
+  "recommended_player_rank": 262,
+  "clear_score": 4821318,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 242002,
+  "auditionaster_id": 242,
+  "phase": 2,
+  "recommended_player_rank": 287,
+  "clear_score": 12675312,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 243001,
+  "auditionaster_id": 243,
+  "phase": 1,
+  "recommended_player_rank": 263,
+  "clear_score": 6426378,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 243002,
+  "auditionaster_id": 243,
+  "phase": 2,
+  "recommended_player_rank": 288,
+  "clear_score": 16889472,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 244001,
+  "auditionaster_id": 244,
+  "phase": 1,
+  "recommended_player_rank": 264,
+  "clear_score": 7247058,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 244002,
+  "auditionaster_id": 244,
+  "phase": 2,
+  "recommended_player_rank": 289,
+  "clear_score": 19040112,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 245001,
+  "auditionaster_id": 245,
+  "phase": 1,
+  "recommended_player_rank": 265,
+  "clear_score": 12870984,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 245002,
+  "auditionaster_id": 245,
+  "phase": 2,
+  "recommended_player_rank": 290,
+  "clear_score": 40847213,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 245003,
+  "auditionaster_id": 245,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 8325022482,
+  "star_act_count": 4,
+  "audition_reward_package_master_id": 15
+ },
+ {
+  "id": 246001,
+  "auditionaster_id": 246,
+  "phase": 1,
+  "recommended_player_rank": 266,
+  "clear_score": 8104644,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 6
+ },
+ {
+  "id": 246002,
+  "auditionaster_id": 246,
+  "phase": 2,
+  "recommended_player_rank": 291,
+  "clear_score": 21279326,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 247001,
+  "auditionaster_id": 247,
+  "phase": 1,
+  "recommended_player_rank": 267,
+  "clear_score": 9745824,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 7
+ },
+ {
+  "id": 247002,
+  "auditionaster_id": 247,
+  "phase": 2,
+  "recommended_player_rank": 292,
+  "clear_score": 25580174,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 248001,
+  "auditionaster_id": 248,
+  "phase": 1,
+  "recommended_player_rank": 268,
+  "clear_score": 9782850,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 8
+ },
+ {
+  "id": 248002,
+  "auditionaster_id": 248,
+  "phase": 2,
+  "recommended_player_rank": 293,
+  "clear_score": 25669036,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 249001,
+  "auditionaster_id": 249,
+  "phase": 1,
+  "recommended_player_rank": 269,
+  "clear_score": 9007650,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 9
+ },
+ {
+  "id": 249002,
+  "auditionaster_id": 249,
+  "phase": 2,
+  "recommended_player_rank": 294,
+  "clear_score": 23627548,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 11
+ },
+ {
+  "id": 250001,
+  "auditionaster_id": 250,
+  "phase": 1,
+  "recommended_player_rank": 270,
+  "clear_score": 15556950,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 10
+ },
+ {
+  "id": 250002,
+  "auditionaster_id": 250,
+  "phase": 2,
+  "recommended_player_rank": 295,
+  "clear_score": 49292668,
+  "star_act_count": null,
+  "audition_reward_package_master_id": 14
+ },
+ {
+  "id": 250003,
+  "auditionaster_id": 250,
+  "phase": 3,
+  "recommended_player_rank": 300,
+  "clear_score": 13504840332,
+  "star_act_count": 5,
+  "audition_reward_package_master_id": 15
+ }
+]

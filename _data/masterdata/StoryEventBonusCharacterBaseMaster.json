@@ -1,0 +1,1172 @@
+[
+ {
+  "id": 2000101,
+  "story_event_master_id": 20001,
+  "bonus_target_type": 2,
+  "bonus_target_id": 201
+ },
+ {
+  "id": 2000102,
+  "story_event_master_id": 20001,
+  "bonus_target_type": 2,
+  "bonus_target_id": 202
+ },
+ {
+  "id": 2000103,
+  "story_event_master_id": 20001,
+  "bonus_target_type": 2,
+  "bonus_target_id": 204
+ },
+ {
+  "id": 2000104,
+  "story_event_master_id": 20001,
+  "bonus_target_type": 2,
+  "bonus_target_id": 205
+ },
+ {
+  "id": 2000201,
+  "story_event_master_id": 20002,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2000301,
+  "story_event_master_id": 20003,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2000401,
+  "story_event_master_id": 20004,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2000501,
+  "story_event_master_id": 20005,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2000601,
+  "story_event_master_id": 20006,
+  "bonus_target_type": 2,
+  "bonus_target_id": 203
+ },
+ {
+  "id": 2000602,
+  "story_event_master_id": 20006,
+  "bonus_target_type": 2,
+  "bonus_target_id": 204
+ },
+ {
+  "id": 2000603,
+  "story_event_master_id": 20006,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 2000604,
+  "story_event_master_id": 20006,
+  "bonus_target_type": 2,
+  "bonus_target_id": 102
+ },
+ {
+  "id": 2000605,
+  "story_event_master_id": 20006,
+  "bonus_target_type": 2,
+  "bonus_target_id": 103
+ },
+ {
+  "id": 2000701,
+  "story_event_master_id": 20007,
+  "bonus_target_type": 2,
+  "bonus_target_id": 301
+ },
+ {
+  "id": 2000702,
+  "story_event_master_id": 20007,
+  "bonus_target_type": 2,
+  "bonus_target_id": 201
+ },
+ {
+  "id": 2000703,
+  "story_event_master_id": 20007,
+  "bonus_target_type": 2,
+  "bonus_target_id": 401
+ },
+ {
+  "id": 2000801,
+  "story_event_master_id": 20008,
+  "bonus_target_type": 2,
+  "bonus_target_id": 105
+ },
+ {
+  "id": 2000802,
+  "story_event_master_id": 20008,
+  "bonus_target_type": 2,
+  "bonus_target_id": 305
+ },
+ {
+  "id": 2000803,
+  "story_event_master_id": 20008,
+  "bonus_target_type": 2,
+  "bonus_target_id": 403
+ },
+ {
+  "id": 2000901,
+  "story_event_master_id": 20009,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2001001,
+  "story_event_master_id": 20010,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2001101,
+  "story_event_master_id": 20011,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2001201,
+  "story_event_master_id": 20012,
+  "bonus_target_type": 2,
+  "bonus_target_id": 405
+ },
+ {
+  "id": 2001202,
+  "story_event_master_id": 20012,
+  "bonus_target_type": 2,
+  "bonus_target_id": 205
+ },
+ {
+  "id": 2001203,
+  "story_event_master_id": 20012,
+  "bonus_target_type": 2,
+  "bonus_target_id": 104
+ },
+ {
+  "id": 2001301,
+  "story_event_master_id": 20013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 204
+ },
+ {
+  "id": 2001302,
+  "story_event_master_id": 20013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 202
+ },
+ {
+  "id": 2001303,
+  "story_event_master_id": 20013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 201
+ },
+ {
+  "id": 2001401,
+  "story_event_master_id": 20014,
+  "bonus_target_type": 2,
+  "bonus_target_id": 102
+ },
+ {
+  "id": 2001402,
+  "story_event_master_id": 20014,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 2001403,
+  "story_event_master_id": 20014,
+  "bonus_target_type": 2,
+  "bonus_target_id": 103
+ },
+ {
+  "id": 2001501,
+  "story_event_master_id": 20015,
+  "bonus_target_type": 2,
+  "bonus_target_id": 305
+ },
+ {
+  "id": 2001502,
+  "story_event_master_id": 20015,
+  "bonus_target_type": 2,
+  "bonus_target_id": 402
+ },
+ {
+  "id": 2001503,
+  "story_event_master_id": 20015,
+  "bonus_target_type": 2,
+  "bonus_target_id": 403
+ },
+ {
+  "id": 2001601,
+  "story_event_master_id": 20016,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2001701,
+  "story_event_master_id": 20017,
+  "bonus_target_type": 2,
+  "bonus_target_id": 103
+ },
+ {
+  "id": 2001702,
+  "story_event_master_id": 20017,
+  "bonus_target_type": 2,
+  "bonus_target_id": 302
+ },
+ {
+  "id": 2001703,
+  "story_event_master_id": 20017,
+  "bonus_target_type": 2,
+  "bonus_target_id": 102
+ },
+ {
+  "id": 2001704,
+  "story_event_master_id": 20017,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 2001705,
+  "story_event_master_id": 20017,
+  "bonus_target_type": 2,
+  "bonus_target_id": 304
+ },
+ {
+  "id": 2001801,
+  "story_event_master_id": 20018,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2001901,
+  "story_event_master_id": 20019,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2002001,
+  "story_event_master_id": 20020,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2002101,
+  "story_event_master_id": 20021,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2002201,
+  "story_event_master_id": 20022,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2002301,
+  "story_event_master_id": 20023,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2002401,
+  "story_event_master_id": 20024,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2002501,
+  "story_event_master_id": 20025,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2002601,
+  "story_event_master_id": 20026,
+  "bonus_target_type": 2,
+  "bonus_target_id": 402
+ },
+ {
+  "id": 2002602,
+  "story_event_master_id": 20026,
+  "bonus_target_type": 2,
+  "bonus_target_id": 305
+ },
+ {
+  "id": 2002603,
+  "story_event_master_id": 20026,
+  "bonus_target_type": 2,
+  "bonus_target_id": 303
+ },
+ {
+  "id": 2002701,
+  "story_event_master_id": 20027,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2002801,
+  "story_event_master_id": 20028,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2002901,
+  "story_event_master_id": 20029,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2003001,
+  "story_event_master_id": 20030,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 2003002,
+  "story_event_master_id": 20030,
+  "bonus_target_type": 2,
+  "bonus_target_id": 102
+ },
+ {
+  "id": 2003003,
+  "story_event_master_id": 20030,
+  "bonus_target_type": 2,
+  "bonus_target_id": 304
+ },
+ {
+  "id": 2003004,
+  "story_event_master_id": 20030,
+  "bonus_target_type": 2,
+  "bonus_target_id": 403
+ },
+ {
+  "id": 2003101,
+  "story_event_master_id": 20031,
+  "bonus_target_type": 2,
+  "bonus_target_id": 102
+ },
+ {
+  "id": 2003102,
+  "story_event_master_id": 20031,
+  "bonus_target_type": 2,
+  "bonus_target_id": 103
+ },
+ {
+  "id": 2003103,
+  "story_event_master_id": 20031,
+  "bonus_target_type": 2,
+  "bonus_target_id": 106
+ },
+ {
+  "id": 2003201,
+  "story_event_master_id": 20032,
+  "bonus_target_type": 2,
+  "bonus_target_id": 105
+ },
+ {
+  "id": 2003202,
+  "story_event_master_id": 20032,
+  "bonus_target_type": 2,
+  "bonus_target_id": 104
+ },
+ {
+  "id": 2003203,
+  "story_event_master_id": 20032,
+  "bonus_target_type": 2,
+  "bonus_target_id": 301
+ },
+ {
+  "id": 2003204,
+  "story_event_master_id": 20032,
+  "bonus_target_type": 2,
+  "bonus_target_id": 106
+ },
+ {
+  "id": 2003301,
+  "story_event_master_id": 20033,
+  "bonus_target_type": 2,
+  "bonus_target_id": 305
+ },
+ {
+  "id": 2003302,
+  "story_event_master_id": 20033,
+  "bonus_target_type": 2,
+  "bonus_target_id": 303
+ },
+ {
+  "id": 2003303,
+  "story_event_master_id": 20033,
+  "bonus_target_type": 2,
+  "bonus_target_id": 403
+ },
+ {
+  "id": 2003401,
+  "story_event_master_id": 20034,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2003501,
+  "story_event_master_id": 20035,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2003601,
+  "story_event_master_id": 20036,
+  "bonus_target_type": 2,
+  "bonus_target_id": 401
+ },
+ {
+  "id": 2003602,
+  "story_event_master_id": 20036,
+  "bonus_target_type": 2,
+  "bonus_target_id": 301
+ },
+ {
+  "id": 2003603,
+  "story_event_master_id": 20036,
+  "bonus_target_type": 2,
+  "bonus_target_id": 302
+ },
+ {
+  "id": 2003701,
+  "story_event_master_id": 20037,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2003801,
+  "story_event_master_id": 20038,
+  "bonus_target_type": 2,
+  "bonus_target_id": 106
+ },
+ {
+  "id": 2003802,
+  "story_event_master_id": 20038,
+  "bonus_target_type": 2,
+  "bonus_target_id": 104
+ },
+ {
+  "id": 2003803,
+  "story_event_master_id": 20038,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 2003901,
+  "story_event_master_id": 20039,
+  "bonus_target_type": 2,
+  "bonus_target_id": 302
+ },
+ {
+  "id": 2003902,
+  "story_event_master_id": 20039,
+  "bonus_target_type": 2,
+  "bonus_target_id": 305
+ },
+ {
+  "id": 2003903,
+  "story_event_master_id": 20039,
+  "bonus_target_type": 2,
+  "bonus_target_id": 303
+ },
+ {
+  "id": 2004001,
+  "story_event_master_id": 20040,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2004101,
+  "story_event_master_id": 20041,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2004201,
+  "story_event_master_id": 20042,
+  "bonus_target_type": 2,
+  "bonus_target_id": 304
+ },
+ {
+  "id": 2004202,
+  "story_event_master_id": 20042,
+  "bonus_target_type": 2,
+  "bonus_target_id": 405
+ },
+ {
+  "id": 2004203,
+  "story_event_master_id": 20042,
+  "bonus_target_type": 2,
+  "bonus_target_id": 305
+ },
+ {
+  "id": 2004301,
+  "story_event_master_id": 20043,
+  "bonus_target_type": 2,
+  "bonus_target_id": 403
+ },
+ {
+  "id": 2004302,
+  "story_event_master_id": 20043,
+  "bonus_target_type": 2,
+  "bonus_target_id": 305
+ },
+ {
+  "id": 2004303,
+  "story_event_master_id": 20043,
+  "bonus_target_type": 2,
+  "bonus_target_id": 105
+ },
+ {
+  "id": 2004304,
+  "story_event_master_id": 20043,
+  "bonus_target_type": 2,
+  "bonus_target_id": 204
+ },
+ {
+  "id": 2004401,
+  "story_event_master_id": 20044,
+  "bonus_target_type": 2,
+  "bonus_target_id": 901
+ },
+ {
+  "id": 2004402,
+  "story_event_master_id": 20044,
+  "bonus_target_type": 2,
+  "bonus_target_id": 902
+ },
+ {
+  "id": 2004403,
+  "story_event_master_id": 20044,
+  "bonus_target_type": 2,
+  "bonus_target_id": 906
+ },
+ {
+  "id": 2004404,
+  "story_event_master_id": 20044,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 2004405,
+  "story_event_master_id": 20044,
+  "bonus_target_type": 2,
+  "bonus_target_id": 201
+ },
+ {
+  "id": 2004501,
+  "story_event_master_id": 20045,
+  "bonus_target_type": 2,
+  "bonus_target_id": 901
+ },
+ {
+  "id": 2004502,
+  "story_event_master_id": 20045,
+  "bonus_target_type": 2,
+  "bonus_target_id": 904
+ },
+ {
+  "id": 2004503,
+  "story_event_master_id": 20045,
+  "bonus_target_type": 2,
+  "bonus_target_id": 909
+ },
+ {
+  "id": 2004504,
+  "story_event_master_id": 20045,
+  "bonus_target_type": 2,
+  "bonus_target_id": 401
+ },
+ {
+  "id": 2004505,
+  "story_event_master_id": 20045,
+  "bonus_target_type": 2,
+  "bonus_target_id": 301
+ },
+ {
+  "id": 2004601,
+  "story_event_master_id": 20046,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2004701,
+  "story_event_master_id": 20047,
+  "bonus_target_type": 2,
+  "bonus_target_id": 404
+ },
+ {
+  "id": 2004702,
+  "story_event_master_id": 20047,
+  "bonus_target_type": 2,
+  "bonus_target_id": 202
+ },
+ {
+  "id": 2004703,
+  "story_event_master_id": 20047,
+  "bonus_target_type": 2,
+  "bonus_target_id": 203
+ },
+ {
+  "id": 2004704,
+  "story_event_master_id": 20047,
+  "bonus_target_type": 2,
+  "bonus_target_id": 201
+ },
+ {
+  "id": 2004801,
+  "story_event_master_id": 20048,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2004901,
+  "story_event_master_id": 20049,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2005001,
+  "story_event_master_id": 20050,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2005101,
+  "story_event_master_id": 20051,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2005201,
+  "story_event_master_id": 20052,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2005301,
+  "story_event_master_id": 20053,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2005311,
+  "story_event_master_id": 20053,
+  "bonus_target_type": 3,
+  "bonus_target_id": 220710
+ },
+ {
+  "id": 2005321,
+  "story_event_master_id": 20053,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230630
+ },
+ {
+  "id": 2005401,
+  "story_event_master_id": 20054,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2005411,
+  "story_event_master_id": 20054,
+  "bonus_target_type": 3,
+  "bonus_target_id": 220730
+ },
+ {
+  "id": 2005501,
+  "story_event_master_id": 20055,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2005511,
+  "story_event_master_id": 20055,
+  "bonus_target_type": 3,
+  "bonus_target_id": 220740
+ },
+ {
+  "id": 2005521,
+  "story_event_master_id": 20055,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230650
+ },
+ {
+  "id": 2005601,
+  "story_event_master_id": 20056,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2005611,
+  "story_event_master_id": 20056,
+  "bonus_target_type": 3,
+  "bonus_target_id": 220750
+ },
+ {
+  "id": 2005701,
+  "story_event_master_id": 20057,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2005711,
+  "story_event_master_id": 20057,
+  "bonus_target_type": 3,
+  "bonus_target_id": 220760
+ },
+ {
+  "id": 2005721,
+  "story_event_master_id": 20057,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230660
+ },
+ {
+  "id": 2005801,
+  "story_event_master_id": 20058,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2005811,
+  "story_event_master_id": 20058,
+  "bonus_target_type": 3,
+  "bonus_target_id": 320180
+ },
+ {
+  "id": 2005821,
+  "story_event_master_id": 20058,
+  "bonus_target_type": 3,
+  "bonus_target_id": 330310
+ },
+ {
+  "id": 2005831,
+  "story_event_master_id": 20058,
+  "bonus_target_type": 3,
+  "bonus_target_id": 330320
+ },
+ {
+  "id": 2005901,
+  "story_event_master_id": 20059,
+  "bonus_target_type": 2,
+  "bonus_target_id": 205
+ },
+ {
+  "id": 2005902,
+  "story_event_master_id": 20059,
+  "bonus_target_type": 2,
+  "bonus_target_id": 104
+ },
+ {
+  "id": 2005903,
+  "story_event_master_id": 20059,
+  "bonus_target_type": 2,
+  "bonus_target_id": 405
+ },
+ {
+  "id": 2005904,
+  "story_event_master_id": 20059,
+  "bonus_target_type": 2,
+  "bonus_target_id": 201
+ },
+ {
+  "id": 2005911,
+  "story_event_master_id": 20059,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230670
+ },
+ {
+  "id": 2006001,
+  "story_event_master_id": 20060,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2006011,
+  "story_event_master_id": 20060,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230700
+ },
+ {
+  "id": 2006101,
+  "story_event_master_id": 20061,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 2006111,
+  "story_event_master_id": 20061,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230740
+ },
+ {
+  "id": 2006201,
+  "story_event_master_id": 20062,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2006211,
+  "story_event_master_id": 20062,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230770
+ },
+ {
+  "id": 2006301,
+  "story_event_master_id": 20063,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2006311,
+  "story_event_master_id": 20063,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230800
+ },
+ {
+  "id": 2006401,
+  "story_event_master_id": 20064,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2006411,
+  "story_event_master_id": 20064,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230830
+ },
+ {
+  "id": 2006501,
+  "story_event_master_id": 20065,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 2006502,
+  "story_event_master_id": 20065,
+  "bonus_target_type": 2,
+  "bonus_target_id": 401
+ },
+ {
+  "id": 2006503,
+  "story_event_master_id": 20065,
+  "bonus_target_type": 2,
+  "bonus_target_id": 105
+ },
+ {
+  "id": 2006504,
+  "story_event_master_id": 20065,
+  "bonus_target_type": 2,
+  "bonus_target_id": 106
+ },
+ {
+  "id": 2006505,
+  "story_event_master_id": 20065,
+  "bonus_target_type": 2,
+  "bonus_target_id": 403
+ },
+ {
+  "id": 2006511,
+  "story_event_master_id": 20065,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230860
+ },
+ {
+  "id": 2006601,
+  "story_event_master_id": 20066,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 2006611,
+  "story_event_master_id": 20066,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230890
+ },
+ {
+  "id": 2006701,
+  "story_event_master_id": 20067,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 2006711,
+  "story_event_master_id": 20067,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230920
+ },
+ {
+  "id": 2006801,
+  "story_event_master_id": 20068,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2006811,
+  "story_event_master_id": 20068,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230950
+ },
+ {
+  "id": 2006901,
+  "story_event_master_id": 20069,
+  "bonus_target_type": 2,
+  "bonus_target_id": 401
+ },
+ {
+  "id": 2006902,
+  "story_event_master_id": 20069,
+  "bonus_target_type": 2,
+  "bonus_target_id": 405
+ },
+ {
+  "id": 2006903,
+  "story_event_master_id": 20069,
+  "bonus_target_type": 2,
+  "bonus_target_id": 301
+ },
+ {
+  "id": 2006904,
+  "story_event_master_id": 20069,
+  "bonus_target_type": 2,
+  "bonus_target_id": 402
+ },
+ {
+  "id": 2006911,
+  "story_event_master_id": 20069,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230980
+ },
+ {
+  "id": 2007001,
+  "story_event_master_id": 20070,
+  "bonus_target_type": 2,
+  "bonus_target_id": 104
+ },
+ {
+  "id": 2007002,
+  "story_event_master_id": 20070,
+  "bonus_target_type": 2,
+  "bonus_target_id": 402
+ },
+ {
+  "id": 2007003,
+  "story_event_master_id": 20070,
+  "bonus_target_type": 2,
+  "bonus_target_id": 405
+ },
+ {
+  "id": 2007004,
+  "story_event_master_id": 20070,
+  "bonus_target_type": 2,
+  "bonus_target_id": 401
+ },
+ {
+  "id": 2007011,
+  "story_event_master_id": 20070,
+  "bonus_target_type": 3,
+  "bonus_target_id": 231010
+ },
+ {
+  "id": 2007101,
+  "story_event_master_id": 20071,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 2007111,
+  "story_event_master_id": 20071,
+  "bonus_target_type": 3,
+  "bonus_target_id": 231040
+ },
+ {
+  "id": 3500101,
+  "story_event_master_id": 35001,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 3500111,
+  "story_event_master_id": 35001,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230690
+ },
+ {
+  "id": 3500201,
+  "story_event_master_id": 35002,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 3500211,
+  "story_event_master_id": 35002,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230730
+ },
+ {
+  "id": 3500301,
+  "story_event_master_id": 35003,
+  "bonus_target_type": 1,
+  "bonus_target_id": 1
+ },
+ {
+  "id": 3500311,
+  "story_event_master_id": 35003,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230760
+ },
+ {
+  "id": 3500401,
+  "story_event_master_id": 35004,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 3500411,
+  "story_event_master_id": 35004,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230790
+ },
+ {
+  "id": 3500501,
+  "story_event_master_id": 35005,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 3500511,
+  "story_event_master_id": 35005,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230820
+ },
+ {
+  "id": 3500601,
+  "story_event_master_id": 35006,
+  "bonus_target_type": 1,
+  "bonus_target_id": 3
+ },
+ {
+  "id": 3500611,
+  "story_event_master_id": 35006,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230850
+ },
+ {
+  "id": 3500701,
+  "story_event_master_id": 35007,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 3500711,
+  "story_event_master_id": 35007,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230880
+ },
+ {
+  "id": 3500801,
+  "story_event_master_id": 35008,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 3500811,
+  "story_event_master_id": 35008,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230910
+ },
+ {
+  "id": 3500901,
+  "story_event_master_id": 35009,
+  "bonus_target_type": 1,
+  "bonus_target_id": 4
+ },
+ {
+  "id": 3500911,
+  "story_event_master_id": 35009,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230940
+ },
+ {
+  "id": 3501001,
+  "story_event_master_id": 35010,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 3501011,
+  "story_event_master_id": 35010,
+  "bonus_target_type": 3,
+  "bonus_target_id": 230970
+ },
+ {
+  "id": 3501101,
+  "story_event_master_id": 35011,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 3501111,
+  "story_event_master_id": 35011,
+  "bonus_target_type": 3,
+  "bonus_target_id": 231000
+ },
+ {
+  "id": 3501201,
+  "story_event_master_id": 35012,
+  "bonus_target_type": 1,
+  "bonus_target_id": 2
+ },
+ {
+  "id": 3501211,
+  "story_event_master_id": 35012,
+  "bonus_target_type": 3,
+  "bonus_target_id": 231030
+ },
+ {
+  "id": 3501301,
+  "story_event_master_id": 35013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 104
+ },
+ {
+  "id": 3501302,
+  "story_event_master_id": 35013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 301
+ },
+ {
+  "id": 3501303,
+  "story_event_master_id": 35013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 101
+ },
+ {
+  "id": 3501304,
+  "story_event_master_id": 35013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 201
+ },
+ {
+  "id": 3501305,
+  "story_event_master_id": 35013,
+  "bonus_target_type": 2,
+  "bonus_target_id": 401
+ },
+ {
+  "id": 3501311,
+  "story_event_master_id": 35013,
+  "bonus_target_type": 3,
+  "bonus_target_id": 231060
+ }
+]

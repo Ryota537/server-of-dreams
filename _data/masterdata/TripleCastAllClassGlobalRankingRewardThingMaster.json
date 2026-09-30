@@ -1,0 +1,3432 @@
+[
+ {
+  "id": 1,
+  "triple_cast_master_id": 3003,
+  "rewards": [
+   {
+    "thing_id": 260014,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260014"
+ },
+ {
+  "id": 2,
+  "triple_cast_master_id": 3003,
+  "rewards": [
+   {
+    "thing_id": 260015,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260015"
+ },
+ {
+  "id": 3,
+  "triple_cast_master_id": 3003,
+  "rewards": [
+   {
+    "thing_id": 260016,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260016"
+ },
+ {
+  "id": 4,
+  "triple_cast_master_id": 3003,
+  "rewards": [
+   {
+    "thing_id": 260017,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260017"
+ },
+ {
+  "id": 5,
+  "triple_cast_master_id": 3003,
+  "rewards": [
+   {
+    "thing_id": 260018,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260018"
+ },
+ {
+  "id": 6,
+  "triple_cast_master_id": 3003,
+  "rewards": [
+   {
+    "thing_id": 260019,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260019"
+ },
+ {
+  "id": 7,
+  "triple_cast_master_id": 3003,
+  "rewards": [
+   {
+    "thing_id": 260020,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260020"
+ },
+ {
+  "id": 8,
+  "triple_cast_master_id": 3004,
+  "rewards": [
+   {
+    "thing_id": 260021,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260021"
+ },
+ {
+  "id": 9,
+  "triple_cast_master_id": 3004,
+  "rewards": [
+   {
+    "thing_id": 260022,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260022"
+ },
+ {
+  "id": 10,
+  "triple_cast_master_id": 3004,
+  "rewards": [
+   {
+    "thing_id": 260023,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260023"
+ },
+ {
+  "id": 11,
+  "triple_cast_master_id": 3004,
+  "rewards": [
+   {
+    "thing_id": 260024,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260024"
+ },
+ {
+  "id": 12,
+  "triple_cast_master_id": 3004,
+  "rewards": [
+   {
+    "thing_id": 260025,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260025"
+ },
+ {
+  "id": 13,
+  "triple_cast_master_id": 3004,
+  "rewards": [
+   {
+    "thing_id": 260026,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260026"
+ },
+ {
+  "id": 14,
+  "triple_cast_master_id": 3004,
+  "rewards": [
+   {
+    "thing_id": 260027,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260027"
+ },
+ {
+  "id": 15,
+  "triple_cast_master_id": 3005,
+  "rewards": [
+   {
+    "thing_id": 260028,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260028"
+ },
+ {
+  "id": 16,
+  "triple_cast_master_id": 3005,
+  "rewards": [
+   {
+    "thing_id": 260029,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260029"
+ },
+ {
+  "id": 17,
+  "triple_cast_master_id": 3005,
+  "rewards": [
+   {
+    "thing_id": 260030,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260030"
+ },
+ {
+  "id": 18,
+  "triple_cast_master_id": 3005,
+  "rewards": [
+   {
+    "thing_id": 260031,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260031"
+ },
+ {
+  "id": 19,
+  "triple_cast_master_id": 3005,
+  "rewards": [
+   {
+    "thing_id": 260032,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260032"
+ },
+ {
+  "id": 20,
+  "triple_cast_master_id": 3005,
+  "rewards": [
+   {
+    "thing_id": 260033,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260033"
+ },
+ {
+  "id": 21,
+  "triple_cast_master_id": 3005,
+  "rewards": [
+   {
+    "thing_id": 260034,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260034"
+ },
+ {
+  "id": 22,
+  "triple_cast_master_id": 3006,
+  "rewards": [
+   {
+    "thing_id": 260035,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260035"
+ },
+ {
+  "id": 23,
+  "triple_cast_master_id": 3006,
+  "rewards": [
+   {
+    "thing_id": 260036,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260036"
+ },
+ {
+  "id": 24,
+  "triple_cast_master_id": 3006,
+  "rewards": [
+   {
+    "thing_id": 260037,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260037"
+ },
+ {
+  "id": 25,
+  "triple_cast_master_id": 3006,
+  "rewards": [
+   {
+    "thing_id": 260038,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260038"
+ },
+ {
+  "id": 26,
+  "triple_cast_master_id": 3006,
+  "rewards": [
+   {
+    "thing_id": 260039,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260039"
+ },
+ {
+  "id": 27,
+  "triple_cast_master_id": 3006,
+  "rewards": [
+   {
+    "thing_id": 260040,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260040"
+ },
+ {
+  "id": 28,
+  "triple_cast_master_id": 3006,
+  "rewards": [
+   {
+    "thing_id": 260041,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260041"
+ },
+ {
+  "id": 29,
+  "triple_cast_master_id": 3007,
+  "rewards": [
+   {
+    "thing_id": 260042,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260042"
+ },
+ {
+  "id": 30,
+  "triple_cast_master_id": 3007,
+  "rewards": [
+   {
+    "thing_id": 260043,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260043"
+ },
+ {
+  "id": 31,
+  "triple_cast_master_id": 3007,
+  "rewards": [
+   {
+    "thing_id": 260044,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260044"
+ },
+ {
+  "id": 32,
+  "triple_cast_master_id": 3007,
+  "rewards": [
+   {
+    "thing_id": 260045,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260045"
+ },
+ {
+  "id": 33,
+  "triple_cast_master_id": 3007,
+  "rewards": [
+   {
+    "thing_id": 260046,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260046"
+ },
+ {
+  "id": 34,
+  "triple_cast_master_id": 3007,
+  "rewards": [
+   {
+    "thing_id": 260047,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260047"
+ },
+ {
+  "id": 35,
+  "triple_cast_master_id": 3007,
+  "rewards": [
+   {
+    "thing_id": 260048,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260048"
+ },
+ {
+  "id": 36,
+  "triple_cast_master_id": 3008,
+  "rewards": [
+   {
+    "thing_id": 260049,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260049"
+ },
+ {
+  "id": 37,
+  "triple_cast_master_id": 3008,
+  "rewards": [
+   {
+    "thing_id": 260050,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260050"
+ },
+ {
+  "id": 38,
+  "triple_cast_master_id": 3008,
+  "rewards": [
+   {
+    "thing_id": 260051,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260051"
+ },
+ {
+  "id": 39,
+  "triple_cast_master_id": 3008,
+  "rewards": [
+   {
+    "thing_id": 260052,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260052"
+ },
+ {
+  "id": 40,
+  "triple_cast_master_id": 3008,
+  "rewards": [
+   {
+    "thing_id": 260053,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260053"
+ },
+ {
+  "id": 41,
+  "triple_cast_master_id": 3008,
+  "rewards": [
+   {
+    "thing_id": 260054,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260054"
+ },
+ {
+  "id": 42,
+  "triple_cast_master_id": 3008,
+  "rewards": [
+   {
+    "thing_id": 260055,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260055"
+ },
+ {
+  "id": 43,
+  "triple_cast_master_id": 3009,
+  "rewards": [
+   {
+    "thing_id": 260056,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260056"
+ },
+ {
+  "id": 44,
+  "triple_cast_master_id": 3009,
+  "rewards": [
+   {
+    "thing_id": 260057,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260057"
+ },
+ {
+  "id": 45,
+  "triple_cast_master_id": 3009,
+  "rewards": [
+   {
+    "thing_id": 260058,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260058"
+ },
+ {
+  "id": 46,
+  "triple_cast_master_id": 3009,
+  "rewards": [
+   {
+    "thing_id": 260059,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260059"
+ },
+ {
+  "id": 47,
+  "triple_cast_master_id": 3009,
+  "rewards": [
+   {
+    "thing_id": 260060,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260060"
+ },
+ {
+  "id": 48,
+  "triple_cast_master_id": 3009,
+  "rewards": [
+   {
+    "thing_id": 260061,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260061"
+ },
+ {
+  "id": 49,
+  "triple_cast_master_id": 3009,
+  "rewards": [
+   {
+    "thing_id": 260062,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260062"
+ },
+ {
+  "id": 50,
+  "triple_cast_master_id": 3010,
+  "rewards": [
+   {
+    "thing_id": 260063,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260063"
+ },
+ {
+  "id": 51,
+  "triple_cast_master_id": 3010,
+  "rewards": [
+   {
+    "thing_id": 260064,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260064"
+ },
+ {
+  "id": 52,
+  "triple_cast_master_id": 3010,
+  "rewards": [
+   {
+    "thing_id": 260065,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260065"
+ },
+ {
+  "id": 53,
+  "triple_cast_master_id": 3010,
+  "rewards": [
+   {
+    "thing_id": 260066,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260066"
+ },
+ {
+  "id": 54,
+  "triple_cast_master_id": 3010,
+  "rewards": [
+   {
+    "thing_id": 260067,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260067"
+ },
+ {
+  "id": 55,
+  "triple_cast_master_id": 3010,
+  "rewards": [
+   {
+    "thing_id": 260068,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260068"
+ },
+ {
+  "id": 56,
+  "triple_cast_master_id": 3010,
+  "rewards": [
+   {
+    "thing_id": 260069,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260069"
+ },
+ {
+  "id": 57,
+  "triple_cast_master_id": 3011,
+  "rewards": [
+   {
+    "thing_id": 260070,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260070"
+ },
+ {
+  "id": 58,
+  "triple_cast_master_id": 3011,
+  "rewards": [
+   {
+    "thing_id": 260071,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260071"
+ },
+ {
+  "id": 59,
+  "triple_cast_master_id": 3011,
+  "rewards": [
+   {
+    "thing_id": 260072,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260072"
+ },
+ {
+  "id": 60,
+  "triple_cast_master_id": 3011,
+  "rewards": [
+   {
+    "thing_id": 260073,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260073"
+ },
+ {
+  "id": 61,
+  "triple_cast_master_id": 3011,
+  "rewards": [
+   {
+    "thing_id": 260074,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260074"
+ },
+ {
+  "id": 62,
+  "triple_cast_master_id": 3011,
+  "rewards": [
+   {
+    "thing_id": 260075,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260075"
+ },
+ {
+  "id": 63,
+  "triple_cast_master_id": 3011,
+  "rewards": [
+   {
+    "thing_id": 260076,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260076"
+ },
+ {
+  "id": 64,
+  "triple_cast_master_id": 3012,
+  "rewards": [
+   {
+    "thing_id": 260077,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260077"
+ },
+ {
+  "id": 65,
+  "triple_cast_master_id": 3012,
+  "rewards": [
+   {
+    "thing_id": 260078,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260078"
+ },
+ {
+  "id": 66,
+  "triple_cast_master_id": 3012,
+  "rewards": [
+   {
+    "thing_id": 260079,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260079"
+ },
+ {
+  "id": 67,
+  "triple_cast_master_id": 3012,
+  "rewards": [
+   {
+    "thing_id": 260080,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260080"
+ },
+ {
+  "id": 68,
+  "triple_cast_master_id": 3012,
+  "rewards": [
+   {
+    "thing_id": 260081,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260081"
+ },
+ {
+  "id": 69,
+  "triple_cast_master_id": 3012,
+  "rewards": [
+   {
+    "thing_id": 260082,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260082"
+ },
+ {
+  "id": 70,
+  "triple_cast_master_id": 3012,
+  "rewards": [
+   {
+    "thing_id": 260083,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260083"
+ },
+ {
+  "id": 71,
+  "triple_cast_master_id": 3013,
+  "rewards": [
+   {
+    "thing_id": 260084,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260084"
+ },
+ {
+  "id": 72,
+  "triple_cast_master_id": 3013,
+  "rewards": [
+   {
+    "thing_id": 260085,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260085"
+ },
+ {
+  "id": 73,
+  "triple_cast_master_id": 3013,
+  "rewards": [
+   {
+    "thing_id": 260086,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260086"
+ },
+ {
+  "id": 74,
+  "triple_cast_master_id": 3013,
+  "rewards": [
+   {
+    "thing_id": 260087,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260087"
+ },
+ {
+  "id": 75,
+  "triple_cast_master_id": 3013,
+  "rewards": [
+   {
+    "thing_id": 260088,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260088"
+ },
+ {
+  "id": 76,
+  "triple_cast_master_id": 3013,
+  "rewards": [
+   {
+    "thing_id": 260089,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260089"
+ },
+ {
+  "id": 77,
+  "triple_cast_master_id": 3013,
+  "rewards": [
+   {
+    "thing_id": 260090,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260090"
+ },
+ {
+  "id": 78,
+  "triple_cast_master_id": 3014,
+  "rewards": [
+   {
+    "thing_id": 260091,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260091"
+ },
+ {
+  "id": 79,
+  "triple_cast_master_id": 3014,
+  "rewards": [
+   {
+    "thing_id": 260092,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260092"
+ },
+ {
+  "id": 80,
+  "triple_cast_master_id": 3014,
+  "rewards": [
+   {
+    "thing_id": 260093,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260093"
+ },
+ {
+  "id": 81,
+  "triple_cast_master_id": 3014,
+  "rewards": [
+   {
+    "thing_id": 260094,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260094"
+ },
+ {
+  "id": 82,
+  "triple_cast_master_id": 3014,
+  "rewards": [
+   {
+    "thing_id": 260095,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260095"
+ },
+ {
+  "id": 83,
+  "triple_cast_master_id": 3014,
+  "rewards": [
+   {
+    "thing_id": 260096,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260096"
+ },
+ {
+  "id": 84,
+  "triple_cast_master_id": 3014,
+  "rewards": [
+   {
+    "thing_id": 260097,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260097"
+ },
+ {
+  "id": 85,
+  "triple_cast_master_id": 3015,
+  "rewards": [
+   {
+    "thing_id": 260098,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260098"
+ },
+ {
+  "id": 86,
+  "triple_cast_master_id": 3015,
+  "rewards": [
+   {
+    "thing_id": 260099,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260099"
+ },
+ {
+  "id": 87,
+  "triple_cast_master_id": 3015,
+  "rewards": [
+   {
+    "thing_id": 260100,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260100"
+ },
+ {
+  "id": 88,
+  "triple_cast_master_id": 3015,
+  "rewards": [
+   {
+    "thing_id": 260101,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260101"
+ },
+ {
+  "id": 89,
+  "triple_cast_master_id": 3015,
+  "rewards": [
+   {
+    "thing_id": 260102,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260102"
+ },
+ {
+  "id": 90,
+  "triple_cast_master_id": 3015,
+  "rewards": [
+   {
+    "thing_id": 260103,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260103"
+ },
+ {
+  "id": 91,
+  "triple_cast_master_id": 3015,
+  "rewards": [
+   {
+    "thing_id": 260104,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260104"
+ },
+ {
+  "id": 92,
+  "triple_cast_master_id": 3016,
+  "rewards": [
+   {
+    "thing_id": 260105,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260105"
+ },
+ {
+  "id": 93,
+  "triple_cast_master_id": 3016,
+  "rewards": [
+   {
+    "thing_id": 260106,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260106"
+ },
+ {
+  "id": 94,
+  "triple_cast_master_id": 3016,
+  "rewards": [
+   {
+    "thing_id": 260107,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260107"
+ },
+ {
+  "id": 95,
+  "triple_cast_master_id": 3016,
+  "rewards": [
+   {
+    "thing_id": 260108,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260108"
+ },
+ {
+  "id": 96,
+  "triple_cast_master_id": 3016,
+  "rewards": [
+   {
+    "thing_id": 260109,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260109"
+ },
+ {
+  "id": 97,
+  "triple_cast_master_id": 3016,
+  "rewards": [
+   {
+    "thing_id": 260110,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260110"
+ },
+ {
+  "id": 98,
+  "triple_cast_master_id": 3016,
+  "rewards": [
+   {
+    "thing_id": 260111,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260111"
+ },
+ {
+  "id": 99,
+  "triple_cast_master_id": 3017,
+  "rewards": [
+   {
+    "thing_id": 260112,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260112"
+ },
+ {
+  "id": 100,
+  "triple_cast_master_id": 3017,
+  "rewards": [
+   {
+    "thing_id": 260113,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260113"
+ },
+ {
+  "id": 101,
+  "triple_cast_master_id": 3017,
+  "rewards": [
+   {
+    "thing_id": 260114,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260114"
+ },
+ {
+  "id": 102,
+  "triple_cast_master_id": 3017,
+  "rewards": [
+   {
+    "thing_id": 260115,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260115"
+ },
+ {
+  "id": 103,
+  "triple_cast_master_id": 3017,
+  "rewards": [
+   {
+    "thing_id": 260116,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260116"
+ },
+ {
+  "id": 104,
+  "triple_cast_master_id": 3017,
+  "rewards": [
+   {
+    "thing_id": 260117,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260117"
+ },
+ {
+  "id": 105,
+  "triple_cast_master_id": 3017,
+  "rewards": [
+   {
+    "thing_id": 260118,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260118"
+ },
+ {
+  "id": 106,
+  "triple_cast_master_id": 3018,
+  "rewards": [
+   {
+    "thing_id": 260119,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260119"
+ },
+ {
+  "id": 107,
+  "triple_cast_master_id": 3018,
+  "rewards": [
+   {
+    "thing_id": 260120,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260120"
+ },
+ {
+  "id": 108,
+  "triple_cast_master_id": 3018,
+  "rewards": [
+   {
+    "thing_id": 260121,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260121"
+ },
+ {
+  "id": 109,
+  "triple_cast_master_id": 3018,
+  "rewards": [
+   {
+    "thing_id": 260122,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260122"
+ },
+ {
+  "id": 110,
+  "triple_cast_master_id": 3018,
+  "rewards": [
+   {
+    "thing_id": 260123,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260123"
+ },
+ {
+  "id": 111,
+  "triple_cast_master_id": 3018,
+  "rewards": [
+   {
+    "thing_id": 260124,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260124"
+ },
+ {
+  "id": 112,
+  "triple_cast_master_id": 3018,
+  "rewards": [
+   {
+    "thing_id": 260125,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260125"
+ },
+ {
+  "id": 113,
+  "triple_cast_master_id": 3019,
+  "rewards": [
+   {
+    "thing_id": 260126,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260126"
+ },
+ {
+  "id": 114,
+  "triple_cast_master_id": 3019,
+  "rewards": [
+   {
+    "thing_id": 260127,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260127"
+ },
+ {
+  "id": 115,
+  "triple_cast_master_id": 3019,
+  "rewards": [
+   {
+    "thing_id": 260128,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260128"
+ },
+ {
+  "id": 116,
+  "triple_cast_master_id": 3019,
+  "rewards": [
+   {
+    "thing_id": 260129,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260129"
+ },
+ {
+  "id": 117,
+  "triple_cast_master_id": 3019,
+  "rewards": [
+   {
+    "thing_id": 260130,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260130"
+ },
+ {
+  "id": 118,
+  "triple_cast_master_id": 3019,
+  "rewards": [
+   {
+    "thing_id": 260131,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260131"
+ },
+ {
+  "id": 119,
+  "triple_cast_master_id": 3019,
+  "rewards": [
+   {
+    "thing_id": 260132,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260132"
+ },
+ {
+  "id": 120,
+  "triple_cast_master_id": 3020,
+  "rewards": [
+   {
+    "thing_id": 260133,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260133"
+ },
+ {
+  "id": 121,
+  "triple_cast_master_id": 3020,
+  "rewards": [
+   {
+    "thing_id": 260134,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260134"
+ },
+ {
+  "id": 122,
+  "triple_cast_master_id": 3020,
+  "rewards": [
+   {
+    "thing_id": 260135,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260135"
+ },
+ {
+  "id": 123,
+  "triple_cast_master_id": 3020,
+  "rewards": [
+   {
+    "thing_id": 260136,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260136"
+ },
+ {
+  "id": 124,
+  "triple_cast_master_id": 3020,
+  "rewards": [
+   {
+    "thing_id": 260137,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260137"
+ },
+ {
+  "id": 125,
+  "triple_cast_master_id": 3020,
+  "rewards": [
+   {
+    "thing_id": 260138,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260138"
+ },
+ {
+  "id": 126,
+  "triple_cast_master_id": 3020,
+  "rewards": [
+   {
+    "thing_id": 260139,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260139"
+ },
+ {
+  "id": 127,
+  "triple_cast_master_id": 3021,
+  "rewards": [
+   {
+    "thing_id": 260140,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260140"
+ },
+ {
+  "id": 128,
+  "triple_cast_master_id": 3021,
+  "rewards": [
+   {
+    "thing_id": 260141,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260141"
+ },
+ {
+  "id": 129,
+  "triple_cast_master_id": 3021,
+  "rewards": [
+   {
+    "thing_id": 260142,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260142"
+ },
+ {
+  "id": 130,
+  "triple_cast_master_id": 3021,
+  "rewards": [
+   {
+    "thing_id": 260143,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260143"
+ },
+ {
+  "id": 131,
+  "triple_cast_master_id": 3021,
+  "rewards": [
+   {
+    "thing_id": 260144,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260144"
+ },
+ {
+  "id": 132,
+  "triple_cast_master_id": 3021,
+  "rewards": [
+   {
+    "thing_id": 260145,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260145"
+ },
+ {
+  "id": 133,
+  "triple_cast_master_id": 3021,
+  "rewards": [
+   {
+    "thing_id": 260146,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260146"
+ },
+ {
+  "id": 134,
+  "triple_cast_master_id": 3022,
+  "rewards": [
+   {
+    "thing_id": 260147,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260147"
+ },
+ {
+  "id": 135,
+  "triple_cast_master_id": 3022,
+  "rewards": [
+   {
+    "thing_id": 260148,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260148"
+ },
+ {
+  "id": 136,
+  "triple_cast_master_id": 3022,
+  "rewards": [
+   {
+    "thing_id": 260149,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260149"
+ },
+ {
+  "id": 137,
+  "triple_cast_master_id": 3022,
+  "rewards": [
+   {
+    "thing_id": 260150,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260150"
+ },
+ {
+  "id": 138,
+  "triple_cast_master_id": 3022,
+  "rewards": [
+   {
+    "thing_id": 260151,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260151"
+ },
+ {
+  "id": 139,
+  "triple_cast_master_id": 3022,
+  "rewards": [
+   {
+    "thing_id": 260152,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260152"
+ },
+ {
+  "id": 140,
+  "triple_cast_master_id": 3022,
+  "rewards": [
+   {
+    "thing_id": 260153,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260153"
+ },
+ {
+  "id": 141,
+  "triple_cast_master_id": 3023,
+  "rewards": [
+   {
+    "thing_id": 260154,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260154"
+ },
+ {
+  "id": 142,
+  "triple_cast_master_id": 3023,
+  "rewards": [
+   {
+    "thing_id": 260155,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260155"
+ },
+ {
+  "id": 143,
+  "triple_cast_master_id": 3023,
+  "rewards": [
+   {
+    "thing_id": 260156,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260156"
+ },
+ {
+  "id": 144,
+  "triple_cast_master_id": 3023,
+  "rewards": [
+   {
+    "thing_id": 260157,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260157"
+ },
+ {
+  "id": 145,
+  "triple_cast_master_id": 3023,
+  "rewards": [
+   {
+    "thing_id": 260158,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260158"
+ },
+ {
+  "id": 146,
+  "triple_cast_master_id": 3023,
+  "rewards": [
+   {
+    "thing_id": 260159,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260159"
+ },
+ {
+  "id": 147,
+  "triple_cast_master_id": 3023,
+  "rewards": [
+   {
+    "thing_id": 260160,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260160"
+ },
+ {
+  "id": 148,
+  "triple_cast_master_id": 3024,
+  "rewards": [
+   {
+    "thing_id": 260161,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260161"
+ },
+ {
+  "id": 149,
+  "triple_cast_master_id": 3024,
+  "rewards": [
+   {
+    "thing_id": 260162,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260162"
+ },
+ {
+  "id": 150,
+  "triple_cast_master_id": 3024,
+  "rewards": [
+   {
+    "thing_id": 260163,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260163"
+ },
+ {
+  "id": 151,
+  "triple_cast_master_id": 3024,
+  "rewards": [
+   {
+    "thing_id": 260164,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260164"
+ },
+ {
+  "id": 152,
+  "triple_cast_master_id": 3024,
+  "rewards": [
+   {
+    "thing_id": 260165,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260165"
+ },
+ {
+  "id": 153,
+  "triple_cast_master_id": 3024,
+  "rewards": [
+   {
+    "thing_id": 260166,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260166"
+ },
+ {
+  "id": 154,
+  "triple_cast_master_id": 3024,
+  "rewards": [
+   {
+    "thing_id": 260167,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260167"
+ },
+ {
+  "id": 155,
+  "triple_cast_master_id": 3025,
+  "rewards": [
+   {
+    "thing_id": 260168,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260168"
+ },
+ {
+  "id": 156,
+  "triple_cast_master_id": 3025,
+  "rewards": [
+   {
+    "thing_id": 260169,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260169"
+ },
+ {
+  "id": 157,
+  "triple_cast_master_id": 3025,
+  "rewards": [
+   {
+    "thing_id": 260170,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260170"
+ },
+ {
+  "id": 158,
+  "triple_cast_master_id": 3025,
+  "rewards": [
+   {
+    "thing_id": 260171,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260171"
+ },
+ {
+  "id": 159,
+  "triple_cast_master_id": 3025,
+  "rewards": [
+   {
+    "thing_id": 260172,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260172"
+ },
+ {
+  "id": 160,
+  "triple_cast_master_id": 3025,
+  "rewards": [
+   {
+    "thing_id": 260173,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260173"
+ },
+ {
+  "id": 161,
+  "triple_cast_master_id": 3025,
+  "rewards": [
+   {
+    "thing_id": 260174,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260174"
+ },
+ {
+  "id": 162,
+  "triple_cast_master_id": 3026,
+  "rewards": [
+   {
+    "thing_id": 260175,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260175"
+ },
+ {
+  "id": 163,
+  "triple_cast_master_id": 3026,
+  "rewards": [
+   {
+    "thing_id": 260176,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260176"
+ },
+ {
+  "id": 164,
+  "triple_cast_master_id": 3026,
+  "rewards": [
+   {
+    "thing_id": 260177,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260177"
+ },
+ {
+  "id": 165,
+  "triple_cast_master_id": 3026,
+  "rewards": [
+   {
+    "thing_id": 260178,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260178"
+ },
+ {
+  "id": 166,
+  "triple_cast_master_id": 3026,
+  "rewards": [
+   {
+    "thing_id": 260179,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260179"
+ },
+ {
+  "id": 167,
+  "triple_cast_master_id": 3026,
+  "rewards": [
+   {
+    "thing_id": 260180,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260180"
+ },
+ {
+  "id": 168,
+  "triple_cast_master_id": 3026,
+  "rewards": [
+   {
+    "thing_id": 260181,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260181"
+ },
+ {
+  "id": 169,
+  "triple_cast_master_id": 3027,
+  "rewards": [
+   {
+    "thing_id": 260182,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260182"
+ },
+ {
+  "id": 170,
+  "triple_cast_master_id": 3027,
+  "rewards": [
+   {
+    "thing_id": 260183,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260183"
+ },
+ {
+  "id": 171,
+  "triple_cast_master_id": 3027,
+  "rewards": [
+   {
+    "thing_id": 260184,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260184"
+ },
+ {
+  "id": 172,
+  "triple_cast_master_id": 3027,
+  "rewards": [
+   {
+    "thing_id": 260185,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260185"
+ },
+ {
+  "id": 173,
+  "triple_cast_master_id": 3027,
+  "rewards": [
+   {
+    "thing_id": 260186,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260186"
+ },
+ {
+  "id": 174,
+  "triple_cast_master_id": 3027,
+  "rewards": [
+   {
+    "thing_id": 260187,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260187"
+ },
+ {
+  "id": 175,
+  "triple_cast_master_id": 3027,
+  "rewards": [
+   {
+    "thing_id": 260188,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260188"
+ },
+ {
+  "id": 176,
+  "triple_cast_master_id": 3028,
+  "rewards": [
+   {
+    "thing_id": 260189,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260189"
+ },
+ {
+  "id": 177,
+  "triple_cast_master_id": 3028,
+  "rewards": [
+   {
+    "thing_id": 260190,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260190"
+ },
+ {
+  "id": 178,
+  "triple_cast_master_id": 3028,
+  "rewards": [
+   {
+    "thing_id": 260191,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260191"
+ },
+ {
+  "id": 179,
+  "triple_cast_master_id": 3028,
+  "rewards": [
+   {
+    "thing_id": 260192,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260192"
+ },
+ {
+  "id": 180,
+  "triple_cast_master_id": 3028,
+  "rewards": [
+   {
+    "thing_id": 260193,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260193"
+ },
+ {
+  "id": 181,
+  "triple_cast_master_id": 3028,
+  "rewards": [
+   {
+    "thing_id": 260194,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260194"
+ },
+ {
+  "id": 182,
+  "triple_cast_master_id": 3028,
+  "rewards": [
+   {
+    "thing_id": 260195,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260195"
+ },
+ {
+  "id": 183,
+  "triple_cast_master_id": 3029,
+  "rewards": [
+   {
+    "thing_id": 260196,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260196"
+ },
+ {
+  "id": 184,
+  "triple_cast_master_id": 3029,
+  "rewards": [
+   {
+    "thing_id": 260197,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260197"
+ },
+ {
+  "id": 185,
+  "triple_cast_master_id": 3029,
+  "rewards": [
+   {
+    "thing_id": 260198,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260198"
+ },
+ {
+  "id": 186,
+  "triple_cast_master_id": 3029,
+  "rewards": [
+   {
+    "thing_id": 260199,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260199"
+ },
+ {
+  "id": 187,
+  "triple_cast_master_id": 3029,
+  "rewards": [
+   {
+    "thing_id": 260200,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260200"
+ },
+ {
+  "id": 188,
+  "triple_cast_master_id": 3029,
+  "rewards": [
+   {
+    "thing_id": 260201,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260201"
+ },
+ {
+  "id": 189,
+  "triple_cast_master_id": 3029,
+  "rewards": [
+   {
+    "thing_id": 260202,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260202"
+ },
+ {
+  "id": 190,
+  "triple_cast_master_id": 3030,
+  "rewards": [
+   {
+    "thing_id": 260203,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260203"
+ },
+ {
+  "id": 191,
+  "triple_cast_master_id": 3030,
+  "rewards": [
+   {
+    "thing_id": 260204,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260204"
+ },
+ {
+  "id": 192,
+  "triple_cast_master_id": 3030,
+  "rewards": [
+   {
+    "thing_id": 260205,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260205"
+ },
+ {
+  "id": 193,
+  "triple_cast_master_id": 3030,
+  "rewards": [
+   {
+    "thing_id": 260206,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260206"
+ },
+ {
+  "id": 194,
+  "triple_cast_master_id": 3030,
+  "rewards": [
+   {
+    "thing_id": 260207,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260207"
+ },
+ {
+  "id": 195,
+  "triple_cast_master_id": 3030,
+  "rewards": [
+   {
+    "thing_id": 260208,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260208"
+ },
+ {
+  "id": 196,
+  "triple_cast_master_id": 3030,
+  "rewards": [
+   {
+    "thing_id": 260209,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260209"
+ },
+ {
+  "id": 197,
+  "triple_cast_master_id": 3031,
+  "rewards": [
+   {
+    "thing_id": 260210,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260210"
+ },
+ {
+  "id": 198,
+  "triple_cast_master_id": 3031,
+  "rewards": [
+   {
+    "thing_id": 260211,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260211"
+ },
+ {
+  "id": 199,
+  "triple_cast_master_id": 3031,
+  "rewards": [
+   {
+    "thing_id": 260212,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260212"
+ },
+ {
+  "id": 200,
+  "triple_cast_master_id": 3031,
+  "rewards": [
+   {
+    "thing_id": 260213,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260213"
+ },
+ {
+  "id": 201,
+  "triple_cast_master_id": 3031,
+  "rewards": [
+   {
+    "thing_id": 260214,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260214"
+ },
+ {
+  "id": 202,
+  "triple_cast_master_id": 3031,
+  "rewards": [
+   {
+    "thing_id": 260215,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260215"
+ },
+ {
+  "id": 203,
+  "triple_cast_master_id": 3031,
+  "rewards": [
+   {
+    "thing_id": 260216,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260216"
+ },
+ {
+  "id": 204,
+  "triple_cast_master_id": 3032,
+  "rewards": [
+   {
+    "thing_id": 260217,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260217"
+ },
+ {
+  "id": 205,
+  "triple_cast_master_id": 3032,
+  "rewards": [
+   {
+    "thing_id": 260218,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260218"
+ },
+ {
+  "id": 206,
+  "triple_cast_master_id": 3032,
+  "rewards": [
+   {
+    "thing_id": 260219,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260219"
+ },
+ {
+  "id": 207,
+  "triple_cast_master_id": 3032,
+  "rewards": [
+   {
+    "thing_id": 260220,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260220"
+ },
+ {
+  "id": 208,
+  "triple_cast_master_id": 3032,
+  "rewards": [
+   {
+    "thing_id": 260221,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260221"
+ },
+ {
+  "id": 209,
+  "triple_cast_master_id": 3032,
+  "rewards": [
+   {
+    "thing_id": 260222,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260222"
+ },
+ {
+  "id": 210,
+  "triple_cast_master_id": 3032,
+  "rewards": [
+   {
+    "thing_id": 260223,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260223"
+ },
+ {
+  "id": 211,
+  "triple_cast_master_id": 3033,
+  "rewards": [
+   {
+    "thing_id": 260224,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260224"
+ },
+ {
+  "id": 212,
+  "triple_cast_master_id": 3033,
+  "rewards": [
+   {
+    "thing_id": 260225,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260225"
+ },
+ {
+  "id": 213,
+  "triple_cast_master_id": 3033,
+  "rewards": [
+   {
+    "thing_id": 260226,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260226"
+ },
+ {
+  "id": 214,
+  "triple_cast_master_id": 3033,
+  "rewards": [
+   {
+    "thing_id": 260227,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260227"
+ },
+ {
+  "id": 215,
+  "triple_cast_master_id": 3033,
+  "rewards": [
+   {
+    "thing_id": 260228,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260228"
+ },
+ {
+  "id": 216,
+  "triple_cast_master_id": 3033,
+  "rewards": [
+   {
+    "thing_id": 260229,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260229"
+ },
+ {
+  "id": 217,
+  "triple_cast_master_id": 3033,
+  "rewards": [
+   {
+    "thing_id": 260230,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260230"
+ },
+ {
+  "id": 218,
+  "triple_cast_master_id": 3034,
+  "rewards": [
+   {
+    "thing_id": 260231,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260231"
+ },
+ {
+  "id": 219,
+  "triple_cast_master_id": 3034,
+  "rewards": [
+   {
+    "thing_id": 260232,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260232"
+ },
+ {
+  "id": 220,
+  "triple_cast_master_id": 3034,
+  "rewards": [
+   {
+    "thing_id": 260233,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260233"
+ },
+ {
+  "id": 221,
+  "triple_cast_master_id": 3034,
+  "rewards": [
+   {
+    "thing_id": 260234,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260234"
+ },
+ {
+  "id": 222,
+  "triple_cast_master_id": 3034,
+  "rewards": [
+   {
+    "thing_id": 260235,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260235"
+ },
+ {
+  "id": 223,
+  "triple_cast_master_id": 3034,
+  "rewards": [
+   {
+    "thing_id": 260236,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260236"
+ },
+ {
+  "id": 224,
+  "triple_cast_master_id": 3034,
+  "rewards": [
+   {
+    "thing_id": 260237,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260237"
+ },
+ {
+  "id": 225,
+  "triple_cast_master_id": 3035,
+  "rewards": [
+   {
+    "thing_id": 260238,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260238"
+ },
+ {
+  "id": 226,
+  "triple_cast_master_id": 3035,
+  "rewards": [
+   {
+    "thing_id": 260239,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260239"
+ },
+ {
+  "id": 227,
+  "triple_cast_master_id": 3035,
+  "rewards": [
+   {
+    "thing_id": 260240,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260240"
+ },
+ {
+  "id": 228,
+  "triple_cast_master_id": 3035,
+  "rewards": [
+   {
+    "thing_id": 260241,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260241"
+ },
+ {
+  "id": 229,
+  "triple_cast_master_id": 3035,
+  "rewards": [
+   {
+    "thing_id": 260242,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260242"
+ },
+ {
+  "id": 230,
+  "triple_cast_master_id": 3035,
+  "rewards": [
+   {
+    "thing_id": 260243,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260243"
+ },
+ {
+  "id": 231,
+  "triple_cast_master_id": 3035,
+  "rewards": [
+   {
+    "thing_id": 260244,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260244"
+ },
+ {
+  "id": 232,
+  "triple_cast_master_id": 3036,
+  "rewards": [
+   {
+    "thing_id": 260245,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260245"
+ },
+ {
+  "id": 233,
+  "triple_cast_master_id": 3036,
+  "rewards": [
+   {
+    "thing_id": 260246,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260246"
+ },
+ {
+  "id": 234,
+  "triple_cast_master_id": 3036,
+  "rewards": [
+   {
+    "thing_id": 260247,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260247"
+ },
+ {
+  "id": 235,
+  "triple_cast_master_id": 3036,
+  "rewards": [
+   {
+    "thing_id": 260248,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260248"
+ },
+ {
+  "id": 236,
+  "triple_cast_master_id": 3036,
+  "rewards": [
+   {
+    "thing_id": 260249,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260249"
+ },
+ {
+  "id": 237,
+  "triple_cast_master_id": 3036,
+  "rewards": [
+   {
+    "thing_id": 260250,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260250"
+ },
+ {
+  "id": 238,
+  "triple_cast_master_id": 3036,
+  "rewards": [
+   {
+    "thing_id": 260251,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260251"
+ },
+ {
+  "id": 239,
+  "triple_cast_master_id": 3037,
+  "rewards": [
+   {
+    "thing_id": 260252,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 1,
+  "max_rank": 1,
+  "reward_title": "260252"
+ },
+ {
+  "id": 240,
+  "triple_cast_master_id": 3037,
+  "rewards": [
+   {
+    "thing_id": 260253,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 2,
+  "max_rank": 2,
+  "reward_title": "260253"
+ },
+ {
+  "id": 241,
+  "triple_cast_master_id": 3037,
+  "rewards": [
+   {
+    "thing_id": 260254,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 3,
+  "max_rank": 3,
+  "reward_title": "260254"
+ },
+ {
+  "id": 242,
+  "triple_cast_master_id": 3037,
+  "rewards": [
+   {
+    "thing_id": 260255,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 10,
+  "max_rank": 4,
+  "reward_title": "260255"
+ },
+ {
+  "id": 243,
+  "triple_cast_master_id": 3037,
+  "rewards": [
+   {
+    "thing_id": 260256,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 50,
+  "max_rank": 11,
+  "reward_title": "260256"
+ },
+ {
+  "id": 244,
+  "triple_cast_master_id": 3037,
+  "rewards": [
+   {
+    "thing_id": 260257,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 100,
+  "max_rank": 51,
+  "reward_title": "260257"
+ },
+ {
+  "id": 245,
+  "triple_cast_master_id": 3037,
+  "rewards": [
+   {
+    "thing_id": 260258,
+    "thing_type": 6,
+    "thing_quantity": 1
+   }
+  ],
+  "min_rank": 9999999,
+  "max_rank": 101,
+  "reward_title": "260258"
+ }
+]

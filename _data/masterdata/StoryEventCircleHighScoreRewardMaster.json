@@ -1,0 +1,402 @@
+[
+ {
+  "id": 2000301,
+  "story_event_master_id": 20003,
+  "score": 10000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000302,
+  "story_event_master_id": 20003,
+  "score": 20000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000303,
+  "story_event_master_id": 20003,
+  "score": 30000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000304,
+  "story_event_master_id": 20003,
+  "score": 40000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000305,
+  "story_event_master_id": 20003,
+  "score": 50000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000306,
+  "story_event_master_id": 20003,
+  "score": 70000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000307,
+  "story_event_master_id": 20003,
+  "score": 100000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000308,
+  "story_event_master_id": 20003,
+  "score": 150000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000309,
+  "story_event_master_id": 20003,
+  "score": 200000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000310,
+  "story_event_master_id": 20003,
+  "score": 250000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000311,
+  "story_event_master_id": 20003,
+  "score": 300000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000312,
+  "story_event_master_id": 20003,
+  "score": 350000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000313,
+  "story_event_master_id": 20003,
+  "score": 400000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000314,
+  "story_event_master_id": 20003,
+  "score": 450000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000315,
+  "story_event_master_id": 20003,
+  "score": 500000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000316,
+  "story_event_master_id": 20003,
+  "score": 600000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000317,
+  "story_event_master_id": 20003,
+  "score": 700000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000318,
+  "story_event_master_id": 20003,
+  "score": 800000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000319,
+  "story_event_master_id": 20003,
+  "score": 900000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000320,
+  "story_event_master_id": 20003,
+  "score": 1000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000321,
+  "story_event_master_id": 20003,
+  "score": 1200000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000322,
+  "story_event_master_id": 20003,
+  "score": 1400000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000323,
+  "story_event_master_id": 20003,
+  "score": 1600000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000324,
+  "story_event_master_id": 20003,
+  "score": 1800000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000325,
+  "story_event_master_id": 20003,
+  "score": 2000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000326,
+  "story_event_master_id": 20003,
+  "score": 2500000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000327,
+  "story_event_master_id": 20003,
+  "score": 3000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000328,
+  "story_event_master_id": 20003,
+  "score": 3500000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000329,
+  "story_event_master_id": 20003,
+  "score": 4000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000330,
+  "story_event_master_id": 20003,
+  "score": 4500000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000331,
+  "story_event_master_id": 20003,
+  "score": 5000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000332,
+  "story_event_master_id": 20003,
+  "score": 6000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000333,
+  "story_event_master_id": 20003,
+  "score": 7000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000334,
+  "story_event_master_id": 20003,
+  "score": 8000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000335,
+  "story_event_master_id": 20003,
+  "score": 9000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000336,
+  "story_event_master_id": 20003,
+  "score": 10000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000337,
+  "story_event_master_id": 20003,
+  "score": 12000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000338,
+  "story_event_master_id": 20003,
+  "score": 14000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000339,
+  "story_event_master_id": 20003,
+  "score": 16000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000340,
+  "story_event_master_id": 20003,
+  "score": 18000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000341,
+  "story_event_master_id": 20003,
+  "score": 20000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000342,
+  "story_event_master_id": 20003,
+  "score": 23000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000343,
+  "story_event_master_id": 20003,
+  "score": 26000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000344,
+  "story_event_master_id": 20003,
+  "score": 29000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000345,
+  "story_event_master_id": 20003,
+  "score": 32000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000346,
+  "story_event_master_id": 20003,
+  "score": 35000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000347,
+  "story_event_master_id": 20003,
+  "score": 38000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000348,
+  "story_event_master_id": 20003,
+  "score": 42000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000349,
+  "story_event_master_id": 20003,
+  "score": 46000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000350,
+  "story_event_master_id": 20003,
+  "score": 50000000,
+  "thing_id": 130072,
+  "thing_type": 1,
+  "thing_quantity": 1
+ }
+]

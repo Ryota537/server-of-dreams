@@ -1,0 +1,3818 @@
+[
+ {
+  "item_master_id": 141001,
+  "character_master_id": 110010,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141002,
+  "character_master_id": 110020,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141003,
+  "character_master_id": 110030,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141004,
+  "character_master_id": 110040,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141005,
+  "character_master_id": 110050,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141006,
+  "character_master_id": 110060,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141007,
+  "character_master_id": 110070,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141008,
+  "character_master_id": 110080,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141009,
+  "character_master_id": 110090,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141010,
+  "character_master_id": 110100,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141011,
+  "character_master_id": 110110,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141012,
+  "character_master_id": 110120,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141013,
+  "character_master_id": 110130,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141014,
+  "character_master_id": 110140,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141015,
+  "character_master_id": 110150,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141016,
+  "character_master_id": 110160,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141017,
+  "character_master_id": 110170,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141018,
+  "character_master_id": 110180,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141019,
+  "character_master_id": 110190,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141020,
+  "character_master_id": 110200,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 141021,
+  "character_master_id": 110210,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142001,
+  "character_master_id": 120010,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142002,
+  "character_master_id": 120020,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142003,
+  "character_master_id": 120030,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142004,
+  "character_master_id": 120040,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142005,
+  "character_master_id": 120050,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142006,
+  "character_master_id": 120060,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142007,
+  "character_master_id": 120070,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142008,
+  "character_master_id": 120080,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142009,
+  "character_master_id": 120090,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142010,
+  "character_master_id": 120100,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142011,
+  "character_master_id": 120110,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142012,
+  "character_master_id": 120120,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142013,
+  "character_master_id": 120130,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142014,
+  "character_master_id": 120140,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142015,
+  "character_master_id": 120150,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142016,
+  "character_master_id": 120160,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142017,
+  "character_master_id": 120170,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142018,
+  "character_master_id": 120180,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142019,
+  "character_master_id": 120190,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142020,
+  "character_master_id": 120200,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 142021,
+  "character_master_id": 120210,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143001,
+  "character_master_id": 130010,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143002,
+  "character_master_id": 130020,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143003,
+  "character_master_id": 130030,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143004,
+  "character_master_id": 130040,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143005,
+  "character_master_id": 130050,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143006,
+  "character_master_id": 130060,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143007,
+  "character_master_id": 130070,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143008,
+  "character_master_id": 130080,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143009,
+  "character_master_id": 130090,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143010,
+  "character_master_id": 130100,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143011,
+  "character_master_id": 130110,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143012,
+  "character_master_id": 130120,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143013,
+  "character_master_id": 130130,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143014,
+  "character_master_id": 130140,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143015,
+  "character_master_id": 130150,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143016,
+  "character_master_id": 130160,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143017,
+  "character_master_id": 130170,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143018,
+  "character_master_id": 130180,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143019,
+  "character_master_id": 130190,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143020,
+  "character_master_id": 130200,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143021,
+  "character_master_id": 130210,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143022,
+  "character_master_id": 130220,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143023,
+  "character_master_id": 130230,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143024,
+  "character_master_id": 130240,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143025,
+  "character_master_id": 130250,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143026,
+  "character_master_id": 130260,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143027,
+  "character_master_id": 130270,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143028,
+  "character_master_id": 130280,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143029,
+  "character_master_id": 130290,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143030,
+  "character_master_id": 130300,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143031,
+  "character_master_id": 130310,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143032,
+  "character_master_id": 130320,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143033,
+  "character_master_id": 130330,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143034,
+  "character_master_id": 130340,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143035,
+  "character_master_id": 130350,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143036,
+  "character_master_id": 130360,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143037,
+  "character_master_id": 130370,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143038,
+  "character_master_id": 130380,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143039,
+  "character_master_id": 130390,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143040,
+  "character_master_id": 130400,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143042,
+  "character_master_id": 130420,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143043,
+  "character_master_id": 130430,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143045,
+  "character_master_id": 130450,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143046,
+  "character_master_id": 130460,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143047,
+  "character_master_id": 130470,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143048,
+  "character_master_id": 130480,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143049,
+  "character_master_id": 130490,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143050,
+  "character_master_id": 130500,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143051,
+  "character_master_id": 130510,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143052,
+  "character_master_id": 130520,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143053,
+  "character_master_id": 130530,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143054,
+  "character_master_id": 130540,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143055,
+  "character_master_id": 130550,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143056,
+  "character_master_id": 130560,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143057,
+  "character_master_id": 130570,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143058,
+  "character_master_id": 130580,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143059,
+  "character_master_id": 130590,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143060,
+  "character_master_id": 130600,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143061,
+  "character_master_id": 130610,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143062,
+  "character_master_id": 130620,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143063,
+  "character_master_id": 130630,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143064,
+  "character_master_id": 130640,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143065,
+  "character_master_id": 130650,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143066,
+  "character_master_id": 130660,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143067,
+  "character_master_id": 130670,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143068,
+  "character_master_id": 130680,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143069,
+  "character_master_id": 130690,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143070,
+  "character_master_id": 130700,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143071,
+  "character_master_id": 130710,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143072,
+  "character_master_id": 130720,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143073,
+  "character_master_id": 130730,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143074,
+  "character_master_id": 130740,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143075,
+  "character_master_id": 130750,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143076,
+  "character_master_id": 130760,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143077,
+  "character_master_id": 130770,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143078,
+  "character_master_id": 130780,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143079,
+  "character_master_id": 130790,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143080,
+  "character_master_id": 130800,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143081,
+  "character_master_id": 130810,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143082,
+  "character_master_id": 130820,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143083,
+  "character_master_id": 130830,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143084,
+  "character_master_id": 130840,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143085,
+  "character_master_id": 130850,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143086,
+  "character_master_id": 130860,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143087,
+  "character_master_id": 130870,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143088,
+  "character_master_id": 130880,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143089,
+  "character_master_id": 130890,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143090,
+  "character_master_id": 130900,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143091,
+  "character_master_id": 130910,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 143092,
+  "character_master_id": 130920,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144001,
+  "character_master_id": 140010,
+  "dugong_required_amount": 1,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144002,
+  "character_master_id": 140020,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144003,
+  "character_master_id": 140030,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144004,
+  "character_master_id": 140040,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144005,
+  "character_master_id": 140050,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144006,
+  "character_master_id": 140060,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144007,
+  "character_master_id": 140070,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144008,
+  "character_master_id": 140080,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144009,
+  "character_master_id": 140090,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144010,
+  "character_master_id": 140100,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144011,
+  "character_master_id": 140110,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144012,
+  "character_master_id": 140120,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144013,
+  "character_master_id": 140130,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144014,
+  "character_master_id": 140140,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144015,
+  "character_master_id": 140150,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144016,
+  "character_master_id": 140160,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144017,
+  "character_master_id": 140170,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144018,
+  "character_master_id": 140180,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144019,
+  "character_master_id": 140190,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144020,
+  "character_master_id": 140200,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144021,
+  "character_master_id": 140210,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144022,
+  "character_master_id": 140220,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144024,
+  "character_master_id": 140240,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144025,
+  "character_master_id": 140250,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144026,
+  "character_master_id": 140260,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144027,
+  "character_master_id": 140270,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144028,
+  "character_master_id": 140280,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144029,
+  "character_master_id": 140290,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144030,
+  "character_master_id": 140300,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144031,
+  "character_master_id": 140310,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144032,
+  "character_master_id": 140320,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144033,
+  "character_master_id": 140330,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144034,
+  "character_master_id": 140340,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144035,
+  "character_master_id": 140350,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144036,
+  "character_master_id": 140360,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144037,
+  "character_master_id": 140370,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144038,
+  "character_master_id": 140380,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144039,
+  "character_master_id": 140390,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144040,
+  "character_master_id": 140400,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144041,
+  "character_master_id": 140410,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144042,
+  "character_master_id": 140420,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144043,
+  "character_master_id": 140430,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144044,
+  "character_master_id": 140440,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144045,
+  "character_master_id": 140450,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144046,
+  "character_master_id": 140460,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144047,
+  "character_master_id": 140470,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144048,
+  "character_master_id": 140480,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144049,
+  "character_master_id": 140490,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144050,
+  "character_master_id": 140500,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144051,
+  "character_master_id": 140510,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144052,
+  "character_master_id": 140520,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144053,
+  "character_master_id": 140530,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144054,
+  "character_master_id": 140540,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144055,
+  "character_master_id": 140550,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144056,
+  "character_master_id": 140560,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144057,
+  "character_master_id": 140570,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144060,
+  "character_master_id": 140600,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144061,
+  "character_master_id": 140610,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144062,
+  "character_master_id": 140620,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144063,
+  "character_master_id": 140630,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144066,
+  "character_master_id": 140660,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144067,
+  "character_master_id": 140670,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144068,
+  "character_master_id": 140680,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144069,
+  "character_master_id": 140690,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144070,
+  "character_master_id": 140700,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144071,
+  "character_master_id": 140710,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144072,
+  "character_master_id": 140720,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144073,
+  "character_master_id": 140730,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144074,
+  "character_master_id": 140740,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144075,
+  "character_master_id": 140750,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144076,
+  "character_master_id": 140760,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144077,
+  "character_master_id": 140770,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144078,
+  "character_master_id": 140780,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144079,
+  "character_master_id": 140790,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144080,
+  "character_master_id": 140800,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144081,
+  "character_master_id": 140810,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144082,
+  "character_master_id": 140820,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144083,
+  "character_master_id": 140830,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144084,
+  "character_master_id": 140840,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144085,
+  "character_master_id": 140850,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144086,
+  "character_master_id": 140860,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144087,
+  "character_master_id": 140870,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144088,
+  "character_master_id": 140880,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144089,
+  "character_master_id": 140890,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144090,
+  "character_master_id": 140900,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144091,
+  "character_master_id": 140910,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144092,
+  "character_master_id": 140920,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144093,
+  "character_master_id": 140930,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144094,
+  "character_master_id": 140940,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144095,
+  "character_master_id": 140950,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144096,
+  "character_master_id": 140960,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144097,
+  "character_master_id": 140970,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144098,
+  "character_master_id": 140980,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144099,
+  "character_master_id": 140990,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144100,
+  "character_master_id": 141000,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144101,
+  "character_master_id": 141010,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144102,
+  "character_master_id": 141020,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144103,
+  "character_master_id": 141030,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144104,
+  "character_master_id": 141040,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144105,
+  "character_master_id": 141050,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144106,
+  "character_master_id": 141060,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144107,
+  "character_master_id": 141070,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144108,
+  "character_master_id": 141080,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144109,
+  "character_master_id": 141090,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144110,
+  "character_master_id": 141100,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144111,
+  "character_master_id": 141110,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144112,
+  "character_master_id": 141120,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144113,
+  "character_master_id": 141130,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144114,
+  "character_master_id": 141140,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144115,
+  "character_master_id": 141150,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144116,
+  "character_master_id": 141160,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144117,
+  "character_master_id": 141170,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144118,
+  "character_master_id": 141180,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144119,
+  "character_master_id": 141190,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144120,
+  "character_master_id": 141200,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144121,
+  "character_master_id": 141210,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144122,
+  "character_master_id": 141220,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144123,
+  "character_master_id": 141230,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144124,
+  "character_master_id": 141240,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144125,
+  "character_master_id": 141250,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144126,
+  "character_master_id": 141260,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144127,
+  "character_master_id": 141270,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144128,
+  "character_master_id": 141280,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144129,
+  "character_master_id": 141290,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144130,
+  "character_master_id": 141300,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144131,
+  "character_master_id": 141310,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144132,
+  "character_master_id": 141320,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144133,
+  "character_master_id": 141330,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144134,
+  "character_master_id": 141340,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144135,
+  "character_master_id": 141350,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144136,
+  "character_master_id": 141360,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144137,
+  "character_master_id": 141370,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144138,
+  "character_master_id": 141380,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144139,
+  "character_master_id": 141390,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144140,
+  "character_master_id": 141400,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144141,
+  "character_master_id": 141410,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144142,
+  "character_master_id": 141420,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144143,
+  "character_master_id": 141430,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144144,
+  "character_master_id": 141440,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144145,
+  "character_master_id": 141450,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144146,
+  "character_master_id": 141460,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144147,
+  "character_master_id": 141470,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144148,
+  "character_master_id": 141480,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144149,
+  "character_master_id": 141490,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144150,
+  "character_master_id": 141500,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144151,
+  "character_master_id": 141510,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144152,
+  "character_master_id": 141520,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144153,
+  "character_master_id": 141530,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144154,
+  "character_master_id": 141540,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144155,
+  "character_master_id": 141550,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144156,
+  "character_master_id": 141560,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144157,
+  "character_master_id": 141570,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144158,
+  "character_master_id": 141580,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144159,
+  "character_master_id": 141590,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144160,
+  "character_master_id": 141600,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144161,
+  "character_master_id": 141610,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144162,
+  "character_master_id": 141620,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144163,
+  "character_master_id": 141630,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144164,
+  "character_master_id": 141640,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144165,
+  "character_master_id": 141650,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144166,
+  "character_master_id": 141660,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144167,
+  "character_master_id": 141670,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144168,
+  "character_master_id": 141680,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144169,
+  "character_master_id": 141690,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144170,
+  "character_master_id": 141700,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144171,
+  "character_master_id": 141710,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144172,
+  "character_master_id": 141720,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144173,
+  "character_master_id": 141730,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144174,
+  "character_master_id": 141740,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144175,
+  "character_master_id": 141750,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144176,
+  "character_master_id": 141760,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144177,
+  "character_master_id": 141770,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144178,
+  "character_master_id": 141780,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144179,
+  "character_master_id": 141790,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144180,
+  "character_master_id": 141800,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144181,
+  "character_master_id": 141810,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144182,
+  "character_master_id": 141820,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144183,
+  "character_master_id": 141830,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144184,
+  "character_master_id": 141840,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144185,
+  "character_master_id": 141850,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144186,
+  "character_master_id": 141860,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144187,
+  "character_master_id": 141870,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144188,
+  "character_master_id": 141880,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144189,
+  "character_master_id": 141890,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144190,
+  "character_master_id": 141900,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144191,
+  "character_master_id": 141910,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144192,
+  "character_master_id": 141920,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144193,
+  "character_master_id": 141930,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144194,
+  "character_master_id": 141940,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144195,
+  "character_master_id": 141950,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144196,
+  "character_master_id": 141960,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144197,
+  "character_master_id": 141970,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144198,
+  "character_master_id": 141980,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144199,
+  "character_master_id": 141990,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144200,
+  "character_master_id": 142000,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144201,
+  "character_master_id": 142010,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144202,
+  "character_master_id": 142020,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144203,
+  "character_master_id": 142030,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144204,
+  "character_master_id": 142040,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144205,
+  "character_master_id": 142050,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144206,
+  "character_master_id": 142060,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144207,
+  "character_master_id": 142070,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144208,
+  "character_master_id": 142080,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144209,
+  "character_master_id": 142090,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144210,
+  "character_master_id": 142100,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144211,
+  "character_master_id": 142110,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144212,
+  "character_master_id": 142120,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144213,
+  "character_master_id": 142130,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144214,
+  "character_master_id": 142140,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144215,
+  "character_master_id": 142150,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144216,
+  "character_master_id": 142160,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144217,
+  "character_master_id": 142170,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144218,
+  "character_master_id": 142180,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144219,
+  "character_master_id": 142190,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144220,
+  "character_master_id": 142200,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144221,
+  "character_master_id": 142210,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144222,
+  "character_master_id": 142220,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144223,
+  "character_master_id": 142230,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144224,
+  "character_master_id": 142240,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144225,
+  "character_master_id": 142250,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144226,
+  "character_master_id": 142260,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144227,
+  "character_master_id": 142270,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144228,
+  "character_master_id": 142280,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144229,
+  "character_master_id": 142290,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144230,
+  "character_master_id": 142300,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144231,
+  "character_master_id": 142310,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144232,
+  "character_master_id": 142320,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144233,
+  "character_master_id": 142330,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144234,
+  "character_master_id": 142340,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144235,
+  "character_master_id": 142350,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144236,
+  "character_master_id": 142360,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144237,
+  "character_master_id": 142370,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144238,
+  "character_master_id": 142380,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144239,
+  "character_master_id": 142390,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144240,
+  "character_master_id": 142400,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144241,
+  "character_master_id": 142410,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144242,
+  "character_master_id": 142420,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144243,
+  "character_master_id": 142430,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144244,
+  "character_master_id": 142440,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144245,
+  "character_master_id": 142450,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144246,
+  "character_master_id": 142460,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144247,
+  "character_master_id": 142470,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144248,
+  "character_master_id": 142480,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144249,
+  "character_master_id": 142490,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144250,
+  "character_master_id": 142500,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144251,
+  "character_master_id": 142510,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 144252,
+  "character_master_id": 142520,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 145001,
+  "character_master_id": 150010,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 145002,
+  "character_master_id": 150020,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 145003,
+  "character_master_id": 150030,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 145004,
+  "character_master_id": 150040,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 145005,
+  "character_master_id": 150050,
+  "dugong_required_amount": 5,
+  "talent_bloom_item_type": 1
+ },
+ {
+  "item_master_id": 154001,
+  "character_master_id": 140010,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154002,
+  "character_master_id": 140020,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154003,
+  "character_master_id": 140030,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154004,
+  "character_master_id": 140040,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154005,
+  "character_master_id": 140050,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154006,
+  "character_master_id": 140060,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154007,
+  "character_master_id": 140070,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154008,
+  "character_master_id": 140080,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154009,
+  "character_master_id": 140090,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154010,
+  "character_master_id": 140100,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154011,
+  "character_master_id": 140110,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154012,
+  "character_master_id": 140120,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154013,
+  "character_master_id": 140130,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154014,
+  "character_master_id": 140140,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154015,
+  "character_master_id": 140150,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154016,
+  "character_master_id": 140160,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154017,
+  "character_master_id": 140170,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154018,
+  "character_master_id": 140180,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154019,
+  "character_master_id": 140190,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154020,
+  "character_master_id": 140200,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154021,
+  "character_master_id": 140210,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154022,
+  "character_master_id": 140220,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154024,
+  "character_master_id": 140240,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154025,
+  "character_master_id": 140250,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154026,
+  "character_master_id": 140260,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154027,
+  "character_master_id": 140270,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154028,
+  "character_master_id": 140280,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154029,
+  "character_master_id": 140290,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154030,
+  "character_master_id": 140300,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154031,
+  "character_master_id": 140310,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154032,
+  "character_master_id": 140320,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154033,
+  "character_master_id": 140330,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154034,
+  "character_master_id": 140340,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154035,
+  "character_master_id": 140350,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154036,
+  "character_master_id": 140360,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154037,
+  "character_master_id": 140370,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154038,
+  "character_master_id": 140380,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154039,
+  "character_master_id": 140390,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154040,
+  "character_master_id": 140400,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154041,
+  "character_master_id": 140410,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154042,
+  "character_master_id": 140420,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154043,
+  "character_master_id": 140430,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154044,
+  "character_master_id": 140440,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154045,
+  "character_master_id": 140450,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154046,
+  "character_master_id": 140460,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154047,
+  "character_master_id": 140470,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154048,
+  "character_master_id": 140480,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154049,
+  "character_master_id": 140490,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154050,
+  "character_master_id": 140500,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154051,
+  "character_master_id": 140510,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154052,
+  "character_master_id": 140520,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154053,
+  "character_master_id": 140530,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154054,
+  "character_master_id": 140540,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154055,
+  "character_master_id": 140550,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154056,
+  "character_master_id": 140560,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154057,
+  "character_master_id": 140570,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154060,
+  "character_master_id": 140600,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154061,
+  "character_master_id": 140610,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154062,
+  "character_master_id": 140620,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154063,
+  "character_master_id": 140630,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154066,
+  "character_master_id": 140660,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154067,
+  "character_master_id": 140670,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154068,
+  "character_master_id": 140680,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154069,
+  "character_master_id": 140690,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154070,
+  "character_master_id": 140700,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154071,
+  "character_master_id": 140710,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154072,
+  "character_master_id": 140720,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154073,
+  "character_master_id": 140730,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154074,
+  "character_master_id": 140740,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154075,
+  "character_master_id": 140750,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154076,
+  "character_master_id": 140760,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154077,
+  "character_master_id": 140770,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154078,
+  "character_master_id": 140780,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154079,
+  "character_master_id": 140790,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154080,
+  "character_master_id": 140800,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154081,
+  "character_master_id": 140810,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154082,
+  "character_master_id": 140820,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154083,
+  "character_master_id": 140830,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154084,
+  "character_master_id": 140840,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154085,
+  "character_master_id": 140850,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154086,
+  "character_master_id": 140860,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154087,
+  "character_master_id": 140870,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154088,
+  "character_master_id": 140880,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154089,
+  "character_master_id": 140890,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154090,
+  "character_master_id": 140900,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154091,
+  "character_master_id": 140910,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154092,
+  "character_master_id": 140920,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154093,
+  "character_master_id": 140930,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154094,
+  "character_master_id": 140940,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154095,
+  "character_master_id": 140950,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154096,
+  "character_master_id": 140960,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154097,
+  "character_master_id": 140970,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154098,
+  "character_master_id": 140980,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154099,
+  "character_master_id": 140990,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154100,
+  "character_master_id": 141000,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154101,
+  "character_master_id": 141010,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154102,
+  "character_master_id": 141020,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154103,
+  "character_master_id": 141030,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154104,
+  "character_master_id": 141040,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154105,
+  "character_master_id": 141050,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154106,
+  "character_master_id": 141060,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154107,
+  "character_master_id": 141070,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154108,
+  "character_master_id": 141080,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154109,
+  "character_master_id": 141090,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154110,
+  "character_master_id": 141100,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154111,
+  "character_master_id": 141110,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154112,
+  "character_master_id": 141120,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154113,
+  "character_master_id": 141130,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154114,
+  "character_master_id": 141140,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154115,
+  "character_master_id": 141150,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154116,
+  "character_master_id": 141160,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154117,
+  "character_master_id": 141170,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154118,
+  "character_master_id": 141180,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154119,
+  "character_master_id": 141190,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154120,
+  "character_master_id": 141200,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154121,
+  "character_master_id": 141210,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154122,
+  "character_master_id": 141220,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154123,
+  "character_master_id": 141230,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154124,
+  "character_master_id": 141240,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154125,
+  "character_master_id": 141250,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154126,
+  "character_master_id": 141260,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154127,
+  "character_master_id": 141270,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154128,
+  "character_master_id": 141280,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154129,
+  "character_master_id": 141290,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154130,
+  "character_master_id": 141300,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154131,
+  "character_master_id": 141310,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154132,
+  "character_master_id": 141320,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154133,
+  "character_master_id": 141330,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154134,
+  "character_master_id": 141340,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154135,
+  "character_master_id": 141350,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154136,
+  "character_master_id": 141360,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154137,
+  "character_master_id": 141370,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154138,
+  "character_master_id": 141380,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154139,
+  "character_master_id": 141390,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154140,
+  "character_master_id": 141400,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154141,
+  "character_master_id": 141410,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154142,
+  "character_master_id": 141420,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154143,
+  "character_master_id": 141430,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154144,
+  "character_master_id": 141440,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154145,
+  "character_master_id": 141450,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154146,
+  "character_master_id": 141460,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154147,
+  "character_master_id": 141470,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154148,
+  "character_master_id": 141480,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154149,
+  "character_master_id": 141490,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154150,
+  "character_master_id": 141500,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154151,
+  "character_master_id": 141510,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154152,
+  "character_master_id": 141520,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154153,
+  "character_master_id": 141530,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154154,
+  "character_master_id": 141540,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154155,
+  "character_master_id": 141550,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154156,
+  "character_master_id": 141560,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154157,
+  "character_master_id": 141570,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154158,
+  "character_master_id": 141580,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154159,
+  "character_master_id": 141590,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154160,
+  "character_master_id": 141600,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154161,
+  "character_master_id": 141610,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154162,
+  "character_master_id": 141620,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154163,
+  "character_master_id": 141630,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154164,
+  "character_master_id": 141640,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154165,
+  "character_master_id": 141650,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154166,
+  "character_master_id": 141660,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154167,
+  "character_master_id": 141670,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154168,
+  "character_master_id": 141680,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154169,
+  "character_master_id": 141690,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154170,
+  "character_master_id": 141700,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154171,
+  "character_master_id": 141710,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154172,
+  "character_master_id": 141720,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154173,
+  "character_master_id": 141730,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154174,
+  "character_master_id": 141740,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154175,
+  "character_master_id": 141750,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154176,
+  "character_master_id": 141760,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154177,
+  "character_master_id": 141770,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154178,
+  "character_master_id": 141780,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154179,
+  "character_master_id": 141790,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154180,
+  "character_master_id": 141800,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154181,
+  "character_master_id": 141810,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154182,
+  "character_master_id": 141820,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154183,
+  "character_master_id": 141830,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154184,
+  "character_master_id": 141840,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154185,
+  "character_master_id": 141850,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154186,
+  "character_master_id": 141860,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154187,
+  "character_master_id": 141870,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154188,
+  "character_master_id": 141880,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154189,
+  "character_master_id": 141890,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154190,
+  "character_master_id": 141900,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154191,
+  "character_master_id": 141910,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154192,
+  "character_master_id": 141920,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154193,
+  "character_master_id": 141930,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154194,
+  "character_master_id": 141940,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154195,
+  "character_master_id": 141950,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154196,
+  "character_master_id": 141960,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154197,
+  "character_master_id": 141970,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154198,
+  "character_master_id": 141980,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154199,
+  "character_master_id": 141990,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154200,
+  "character_master_id": 142000,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154201,
+  "character_master_id": 142010,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154202,
+  "character_master_id": 142020,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154203,
+  "character_master_id": 142030,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154204,
+  "character_master_id": 142040,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154205,
+  "character_master_id": 142050,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154206,
+  "character_master_id": 142060,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154207,
+  "character_master_id": 142070,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154208,
+  "character_master_id": 142080,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154209,
+  "character_master_id": 142090,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154210,
+  "character_master_id": 142100,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154211,
+  "character_master_id": 142110,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154212,
+  "character_master_id": 142120,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154213,
+  "character_master_id": 142130,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154214,
+  "character_master_id": 142140,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154215,
+  "character_master_id": 142150,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154216,
+  "character_master_id": 142160,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154217,
+  "character_master_id": 142170,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154218,
+  "character_master_id": 142180,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154219,
+  "character_master_id": 142190,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154220,
+  "character_master_id": 142200,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154221,
+  "character_master_id": 142210,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154222,
+  "character_master_id": 142220,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154223,
+  "character_master_id": 142230,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154224,
+  "character_master_id": 142240,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154225,
+  "character_master_id": 142250,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154226,
+  "character_master_id": 142260,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154227,
+  "character_master_id": 142270,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154228,
+  "character_master_id": 142280,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154229,
+  "character_master_id": 142290,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154230,
+  "character_master_id": 142300,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154231,
+  "character_master_id": 142310,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154232,
+  "character_master_id": 142320,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154233,
+  "character_master_id": 142330,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154234,
+  "character_master_id": 142340,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154235,
+  "character_master_id": 142350,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154236,
+  "character_master_id": 142360,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154237,
+  "character_master_id": 142370,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154238,
+  "character_master_id": 142380,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154239,
+  "character_master_id": 142390,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154240,
+  "character_master_id": 142400,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154241,
+  "character_master_id": 142410,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154242,
+  "character_master_id": 142420,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154243,
+  "character_master_id": 142430,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154244,
+  "character_master_id": 142440,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154245,
+  "character_master_id": 142450,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154246,
+  "character_master_id": 142460,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154247,
+  "character_master_id": 142470,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154248,
+  "character_master_id": 142480,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154249,
+  "character_master_id": 142490,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154250,
+  "character_master_id": 142500,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154251,
+  "character_master_id": 142510,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 154252,
+  "character_master_id": 142520,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 155001,
+  "character_master_id": 150010,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 155002,
+  "character_master_id": 150020,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 155003,
+  "character_master_id": 150030,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 155004,
+  "character_master_id": 150040,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "item_master_id": 155005,
+  "character_master_id": 150050,
+  "dugong_required_amount": 0,
+  "talent_bloom_item_type": 2
+ }
+]

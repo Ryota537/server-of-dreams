@@ -1,0 +1,3642 @@
+[
+ {
+  "id": 2000201,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2000202,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2000203,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2000204,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2000205,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 101,
+  "story_event_high_score_buff_master": {
+   "id": 101,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80005,
+   "effect_name": "砂のお城",
+   "effect_description": "劇団電姫に所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "101"
+  }
+ },
+ {
+  "id": 2000206,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 102,
+  "story_event_high_score_buff_master": {
+   "id": 102,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80006,
+   "effect_name": "海の家",
+   "effect_description": "劇団電姫に所属するアクターのセンスのCTが[:param1]秒短縮する",
+   "icon_image_path": "102"
+  }
+ },
+ {
+  "id": 2000207,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 103,
+  "story_event_high_score_buff_master": {
+   "id": 103,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80007,
+   "effect_name": "BBQセット",
+   "effect_description": "スターアクト発動に必要な特殊の光が[:param1]個減少する（必要な光の数は1個未満にならない）　※猫足 蕾のみ対象",
+   "icon_image_path": "103"
+  }
+ },
+ {
+  "id": 2000208,
+  "story_event_high_score_master_id": 20002,
+  "story_event_high_score_buff_master_id": 104,
+  "story_event_high_score_buff_master": {
+   "id": 104,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80008,
+   "effect_name": "パラソル",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動／SP光はどの系統の光としても扱われる）※阿岐留 カミラのみ対象",
+   "icon_image_path": "104"
+  }
+ },
+ {
+  "id": 2000501,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2000502,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2000503,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2000504,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2000505,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 105,
+  "story_event_high_score_buff_master": {
+   "id": 105,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80009,
+   "effect_name": "扇子",
+   "effect_description": "<color=#ff679d>憐属性</color>のアクターの集中力が[:param1]％上昇する",
+   "icon_image_path": "105"
+  }
+ },
+ {
+  "id": 2000506,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 106,
+  "story_event_high_score_buff_master": {
+   "id": 106,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80010,
+   "effect_name": "シャンデリア",
+   "effect_description": "スターアクト発動に必要な特殊の光<color=#0000ff>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#ff679d>憐属性</color>かつ劇団電姫に所属しているアクターのみ対象",
+   "icon_image_path": "106"
+  }
+ },
+ {
+  "id": 2000507,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 107,
+  "story_event_high_score_buff_master": {
+   "id": 107,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80011,
+   "effect_name": "ドレッサー",
+   "effect_description": "<color=#ff679d>憐属性</color>かつ支配系統のアクターがセンス発動時、追加で「特殊の光<color=#0000ff>*</color>」を[:param1]個付与する（レベル5以降の時に効果発動）",
+   "icon_image_path": "107"
+  }
+ },
+ {
+  "id": 2000508,
+  "story_event_high_score_master_id": 20005,
+  "story_event_high_score_buff_master_id": 108,
+  "story_event_high_score_buff_master": {
+   "id": 108,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80012,
+   "effect_name": "ベッド",
+   "effect_description": "<color=#ff679d>憐属性</color>かつ増幅系統のアクターがセンス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動／SP光はどの系統の光としても扱われる）",
+   "icon_image_path": "108"
+  }
+ },
+ {
+  "id": 2000601,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2000602,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2000603,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2000604,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2000605,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 109,
+  "story_event_high_score_buff_master": {
+   "id": 109,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80013,
+   "effect_name": "ポンポン",
+   "effect_description": "アクターの表現力が[:param1]％上昇する　※<color=#7AC940>彩属性</color>のアクターのみ対象",
+   "icon_image_path": "111"
+  }
+ },
+ {
+  "id": 2000606,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 110,
+  "story_event_high_score_buff_master": {
+   "id": 110,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80014,
+   "effect_name": "リレーバトン",
+   "effect_description": "アクターの演技力上限値が[:param1]％上昇する　※<color=#7AC940>彩属性</color>のアクターのみ対象",
+   "icon_image_path": "112"
+  }
+ },
+ {
+  "id": 2000607,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 111,
+  "story_event_high_score_buff_master": {
+   "id": 111,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80015,
+   "effect_name": "ハチマキ",
+   "effect_description": "センスCTが[:param1]秒短縮する　※<color=#7AC940>彩属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "109"
+  }
+ },
+ {
+  "id": 2000608,
+  "story_event_high_score_master_id": 20006,
+  "story_event_high_score_buff_master_id": 112,
+  "story_event_high_score_buff_master": {
+   "id": 112,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80016,
+   "effect_name": "応援旗",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（SP光はどの系統の光としても扱われる）　※<color=#7AC940>彩属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "110"
+  }
+ },
+ {
+  "id": 2000801,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2000802,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2000803,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2000804,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2000805,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 113,
+  "story_event_high_score_buff_master": {
+   "id": 113,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80017,
+   "effect_name": "パソコン",
+   "effect_description": "アクターの演技力上限値が[:param1]％上昇する　※<color=#33B4DF>凛属性</color>のアクターのみ対象",
+   "icon_image_path": "113"
+  }
+ },
+ {
+  "id": 2000806,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 114,
+  "story_event_high_score_buff_master": {
+   "id": 114,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80018,
+   "effect_name": "手持ちカメラ",
+   "effect_description": "<color=#33B4DF>凛属性</color>のアクター1体につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "114"
+  }
+ },
+ {
+  "id": 2000807,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 115,
+  "story_event_high_score_buff_master": {
+   "id": 115,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80019,
+   "effect_name": "紅葉の木",
+   "effect_description": "<color=#33B4DF>凛属性</color>のアクター1体につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "115"
+  }
+ },
+ {
+  "id": 2000808,
+  "story_event_high_score_master_id": 20008,
+  "story_event_high_score_buff_master_id": 116,
+  "story_event_high_score_buff_master": {
+   "id": 116,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80020,
+   "effect_name": "鳥居",
+   "effect_description": "<color=#33B4DF>凛属性</color>かつ増幅系統のアクターがセンス発動時、追加で「SP光」を[:param1]個付与する（レベル5以降の時に効果発動／SP光はどの系統の光としても扱われる）",
+   "icon_image_path": "116"
+  }
+ },
+ {
+  "id": 2001201,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2001202,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2001203,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2001204,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2001205,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 117,
+  "story_event_high_score_buff_master": {
+   "id": 117,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80021,
+   "effect_name": "ランドセル",
+   "effect_description": "アクターの歌唱力が[:param1]％上昇する　※<color=#FF9314>陽属性</color>のアクターのみ対象",
+   "icon_image_path": "117"
+  }
+ },
+ {
+  "id": 2001206,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 118,
+  "story_event_high_score_buff_master": {
+   "id": 118,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80022,
+   "effect_name": "ドッジボール",
+   "effect_description": "アクターの演技力上限値が[:param1]％上昇する　※<color=#FF9314>陽属性</color>のアクターのみ対象",
+   "icon_image_path": "118"
+  }
+ },
+ {
+  "id": 2001207,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 119,
+  "story_event_high_score_buff_master": {
+   "id": 119,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80023,
+   "effect_name": "宿題の山",
+   "effect_description": "スターアクト発動に必要な支配の光<color=#ff0000>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>かつ支配系統のアクターのみ対象",
+   "icon_image_path": "119"
+  }
+ },
+ {
+  "id": 2001208,
+  "story_event_high_score_master_id": 20012,
+  "story_event_high_score_buff_master_id": 120,
+  "story_event_high_score_buff_master": {
+   "id": 120,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80024,
+   "effect_name": "体操着",
+   "effect_description": "<color=#FF9314>陽属性</color>のアクターがセンス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動／SP光はどの系統の光としても扱われる）",
+   "icon_image_path": "120"
+  }
+ },
+ {
+  "id": 2001501,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2001502,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2001503,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2001504,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2001505,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 121,
+  "story_event_high_score_buff_master": {
+   "id": 121,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80025,
+   "effect_name": "ダンスシューズ",
+   "effect_description": "アクターの演技力上限値が[:param1]％上昇する　※<color=#ff679d>憐属性</color>のアクターのみ対象",
+   "icon_image_path": "122"
+  }
+ },
+ {
+  "id": 2001506,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 122,
+  "story_event_high_score_buff_master": {
+   "id": 122,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80026,
+   "effect_name": "イルミネーションツリー",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する　※<color=#ff679d>憐属性</color>の阿岐留 カミラのみ対象",
+   "icon_image_path": "123"
+  }
+ },
+ {
+  "id": 2001507,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 123,
+  "story_event_high_score_buff_master": {
+   "id": 123,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80027,
+   "effect_name": "雪だるま",
+   "effect_description": "センスCTが[:param1]秒短縮する　※<color=#ff679d>憐属性</color>の与那国 緋花里のみ対象",
+   "icon_image_path": "121"
+  }
+ },
+ {
+  "id": 2001508,
+  "story_event_high_score_master_id": 20015,
+  "story_event_high_score_buff_master_id": 124,
+  "story_event_high_score_buff_master": {
+   "id": 124,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80028,
+   "effect_name": "コーンポタージュ",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#ff679d>憐属性</color>の与那国 緋花里のみ対象",
+   "icon_image_path": "124"
+  }
+ },
+ {
+  "id": 2001801,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2001802,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2001803,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2001804,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2001805,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 125,
+  "story_event_high_score_buff_master": {
+   "id": 125,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80029,
+   "effect_name": "吊り橋",
+   "effect_description": "アクターの集中力が[:param1]％上昇する　※<color=#33B4DF>凛属性</color>のアクターのみ対象",
+   "icon_image_path": "126"
+  }
+ },
+ {
+  "id": 2001806,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 126,
+  "story_event_high_score_buff_master": {
+   "id": 126,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80030,
+   "effect_name": "ピクニックセット",
+   "effect_description": "アクターの演技力上限値が[:param1]％上昇する　※<color=#33B4DF>凛属性</color>のアクターのみ対象",
+   "icon_image_path": "127"
+  }
+ },
+ {
+  "id": 2001807,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 127,
+  "story_event_high_score_buff_master": {
+   "id": 127,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80031,
+   "effect_name": "パフェ",
+   "effect_description": "スターアクト発動に必要な支配の光<color=#ff0000>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#33B4DF>凛属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "125"
+  }
+ },
+ {
+  "id": 2001808,
+  "story_event_high_score_master_id": 20018,
+  "story_event_high_score_buff_master_id": 128,
+  "story_event_high_score_buff_master": {
+   "id": 128,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80032,
+   "effect_name": "半分このドーナッツ",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する　※<color=#33B4DF>凛属性</color>の筆島 しぐれのみ対象",
+   "icon_image_path": "128"
+  }
+ },
+ {
+  "id": 2002101,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2002102,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2002103,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2002104,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2002105,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 129,
+  "story_event_high_score_buff_master": {
+   "id": 129,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80033,
+   "effect_name": "板チョコ",
+   "effect_description": "アクターの演技力上限値が[:param1]％上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "129"
+  }
+ },
+ {
+  "id": 2002106,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 130,
+  "story_event_high_score_buff_master": {
+   "id": 130,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80034,
+   "effect_name": "ハートのバルーン",
+   "effect_description": "Edenに所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "131"
+  }
+ },
+ {
+  "id": 2002107,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 131,
+  "story_event_high_score_buff_master": {
+   "id": 131,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80035,
+   "effect_name": "メッセージカード",
+   "effect_description": "Edenに所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "132"
+  }
+ },
+ {
+  "id": 2002108,
+  "story_event_high_score_master_id": 20021,
+  "story_event_high_score_buff_master_id": 132,
+  "story_event_high_score_buff_master": {
+   "id": 132,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80036,
+   "effect_name": "ギフトチョコ",
+   "effect_description": "スターアクト発動に必要な支援の光<color=#228b22>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#33B4DF>凛属性</color>の連尺野 初魅のみ対象",
+   "icon_image_path": "130"
+  }
+ },
+ {
+  "id": 2002301,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2002302,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2002303,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2002304,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2002305,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 157,
+  "story_event_high_score_buff_master": {
+   "id": 157,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80061,
+   "effect_name": "ゲーセンイス",
+   "effect_description": "アクターの演技力上限値が[:param1]%上昇する　※銀河座に所属するアクターのみ対象",
+   "icon_image_path": "134"
+  }
+ },
+ {
+  "id": 2002306,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 158,
+  "story_event_high_score_buff_master": {
+   "id": 158,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80062,
+   "effect_name": "ベル",
+   "effect_description": "銀河座に所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "136"
+  }
+ },
+ {
+  "id": 2002307,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 159,
+  "story_event_high_score_buff_master": {
+   "id": 159,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80063,
+   "effect_name": "カード",
+   "effect_description": "公演開始時にプリンシパルゲージの上限値が[:param1]上昇する　　※<color=#7AC940>彩属性</color>の王 雪のみ対象",
+   "icon_image_path": "135"
+  }
+ },
+ {
+  "id": 2002308,
+  "story_event_high_score_master_id": 20023,
+  "story_event_high_score_buff_master_id": 160,
+  "story_event_high_score_buff_master": {
+   "id": 160,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80064,
+   "effect_name": "オンゲキ筐体",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する　※<color=#7AC940>彩属性</color>の千寿 暦のみ対象",
+   "icon_image_path": "133"
+  }
+ },
+ {
+  "id": 2002401,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2002402,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2002403,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2002404,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2002405,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 133,
+  "story_event_high_score_buff_master": {
+   "id": 133,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80037,
+   "effect_name": "魔法のランプ",
+   "effect_description": "アクターの歌唱力が[:param1]%上昇する　※シリウスに所属するアクターのみ対象",
+   "icon_image_path": "149"
+  }
+ },
+ {
+  "id": 2002406,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 134,
+  "story_event_high_score_buff_master": {
+   "id": 134,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80038,
+   "effect_name": "ランドセル",
+   "effect_description": "スターアクト発動に必要な支配の光<color=#ff0000>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#33B4DF>凛属性</color>の新妻 八恵のみ対象",
+   "icon_image_path": "152"
+  }
+ },
+ {
+  "id": 2002407,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 135,
+  "story_event_high_score_buff_master": {
+   "id": 135,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80039,
+   "effect_name": "真っ赤なバラ",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#33B4DF>凛属性</color>の鳳 ここなのみ対象",
+   "icon_image_path": "151"
+  }
+ },
+ {
+  "id": 2002408,
+  "story_event_high_score_master_id": 20024,
+  "story_event_high_score_buff_master_id": 136,
+  "story_event_high_score_buff_master": {
+   "id": 136,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80040,
+   "effect_name": "ファントムの仮面",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の鳳 ここなのみ対象",
+   "icon_image_path": "150"
+  }
+ },
+ {
+  "id": 2002601,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2002602,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2002603,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2002604,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2002605,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 137,
+  "story_event_high_score_buff_master": {
+   "id": 137,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80041,
+   "effect_name": "調味料セット",
+   "effect_description": "アクターの表現力が[:param1]%上昇する　※<color=#7AC940>彩属性</color>のアクターのみ対象",
+   "icon_image_path": "139"
+  }
+ },
+ {
+  "id": 2002606,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 138,
+  "story_event_high_score_buff_master": {
+   "id": 138,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80042,
+   "effect_name": "ラーメン",
+   "effect_description": "アクターの演技力上限値が[:param1]%上昇する　※<color=#7AC940>彩属性</color>のアクターのみ対象",
+   "icon_image_path": "140"
+  }
+ },
+ {
+  "id": 2002607,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 139,
+  "story_event_high_score_buff_master": {
+   "id": 139,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80043,
+   "effect_name": "チャーハン",
+   "effect_description": "<color=#7AC940>彩属性</color>の与那国 緋花里が編成されているとき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "137"
+  }
+ },
+ {
+  "id": 2002608,
+  "story_event_high_score_master_id": 20026,
+  "story_event_high_score_buff_master_id": 140,
+  "story_event_high_score_buff_master": {
+   "id": 140,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80044,
+   "effect_name": "中華鍋",
+   "effect_description": "スターアクト発動に必要な増幅の光<color=#ffd700>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#7AC940>彩属性</color>の白丸 美兎のみ対象",
+   "icon_image_path": "138"
+  }
+ },
+ {
+  "id": 2002901,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2002902,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2002903,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2002904,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2002905,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 145,
+  "story_event_high_score_buff_master": {
+   "id": 145,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80049,
+   "effect_name": "装飾品",
+   "effect_description": "アクターの表現力が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "144"
+  }
+ },
+ {
+  "id": 2002906,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 146,
+  "story_event_high_score_buff_master": {
+   "id": 146,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80050,
+   "effect_name": "サロメの宝飾品",
+   "effect_description": "アクターの演技力上限値が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "142"
+  }
+ },
+ {
+  "id": 2002907,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 147,
+  "story_event_high_score_buff_master": {
+   "id": 147,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80051,
+   "effect_name": "ヨカナーンのお面",
+   "effect_description": "センス発動時、追加で「特殊の光<color=#0000ff>*</color>」を[:param1]個付与する　※<color=#FF9314>陽属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "143"
+  }
+ },
+ {
+  "id": 2002908,
+  "story_event_high_score_master_id": 20029,
+  "story_event_high_score_buff_master_id": 148,
+  "story_event_high_score_buff_master": {
+   "id": 148,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80052,
+   "effect_name": "サロメのヴェール",
+   "effect_description": "スターアクト発動に必要な特殊の光<color=#0000ff>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>の萬 容のみ対象",
+   "icon_image_path": "141"
+  }
+ },
+ {
+  "id": 2003101,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2003102,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2003103,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2003104,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2003105,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 141,
+  "story_event_high_score_buff_master": {
+   "id": 141,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80045,
+   "effect_name": "髪飾り",
+   "effect_description": "アクターの集中力が[:param1]%上昇する　※シリウスに所属するアクターのみ対象",
+   "icon_image_path": "148"
+  }
+ },
+ {
+  "id": 2003106,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 142,
+  "story_event_high_score_buff_master": {
+   "id": 142,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80046,
+   "effect_name": "ネックレス",
+   "effect_description": "シリウスに所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "146"
+  }
+ },
+ {
+  "id": 2003107,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 143,
+  "story_event_high_score_buff_master": {
+   "id": 143,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80047,
+   "effect_name": "羽帽子",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#33B4DF>凛属性</color>のカトリナ・グリーベルのみ対象",
+   "icon_image_path": "145"
+  }
+ },
+ {
+  "id": 2003108,
+  "story_event_high_score_master_id": 20031,
+  "story_event_high_score_buff_master_id": 144,
+  "story_event_high_score_buff_master": {
+   "id": 144,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80048,
+   "effect_name": "歯車",
+   "effect_description": "スターアクト発動に必要な支援の光<color=#228b22>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#33B4DF>凛属性</color>の静香のみ対象",
+   "icon_image_path": "147"
+  }
+ },
+ {
+  "id": 2003501,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2003502,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2003503,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2003504,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2003505,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 149,
+  "story_event_high_score_buff_master": {
+   "id": 149,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80053,
+   "effect_name": "玉座",
+   "effect_description": "アクターの演技力上限値が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "153"
+  }
+ },
+ {
+  "id": 2003506,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 150,
+  "story_event_high_score_buff_master": {
+   "id": 150,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80054,
+   "effect_name": "古井戸",
+   "effect_description": "Edenに所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "154"
+  }
+ },
+ {
+  "id": 2003507,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 151,
+  "story_event_high_score_buff_master": {
+   "id": 151,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80055,
+   "effect_name": "どら焼き",
+   "effect_description": "センスのCTが[:param1]秒短縮する　　※<color=#ff679d>憐属性</color>の萬 容のみ対象",
+   "icon_image_path": "155"
+  }
+ },
+ {
+  "id": 2003508,
+  "story_event_high_score_master_id": 20035,
+  "story_event_high_score_buff_master_id": 152,
+  "story_event_high_score_buff_master": {
+   "id": 152,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80056,
+   "effect_name": "土星",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する　※<color=#ff679d>憐属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "156"
+  }
+ },
+ {
+  "id": 2003801,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2003802,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2003803,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2003804,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2003805,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 153,
+  "story_event_high_score_buff_master": {
+   "id": 153,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80057,
+   "effect_name": "夏休みの宿題",
+   "effect_description": "アクターの演技力上限値が[:param1]%上昇する　※シリウスに所属するアクターのみ対象",
+   "icon_image_path": "157"
+  }
+ },
+ {
+  "id": 2003806,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 154,
+  "story_event_high_score_buff_master": {
+   "id": 154,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80058,
+   "effect_name": "線香花火",
+   "effect_description": "シリウスに所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "160"
+  }
+ },
+ {
+  "id": 2003807,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 155,
+  "story_event_high_score_buff_master": {
+   "id": 155,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80059,
+   "effect_name": "浴衣",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　　※<color=#FF9314>陽属性</color>の新妻 八恵のみ対象",
+   "icon_image_path": "158"
+  }
+ },
+ {
+  "id": 2003808,
+  "story_event_high_score_master_id": 20038,
+  "story_event_high_score_buff_master_id": 156,
+  "story_event_high_score_buff_master": {
+   "id": 156,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80060,
+   "effect_name": "流しそうめん機",
+   "effect_description": "センスのCTが[:param1]秒短縮する　　※<color=#FF9314>陽属性</color>の流石 知冴のみ対象",
+   "icon_image_path": "159"
+  }
+ },
+ {
+  "id": 2004101,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2004102,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2004103,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2004104,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2004105,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 161,
+  "story_event_high_score_buff_master": {
+   "id": 161,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80065,
+   "effect_name": "Edenの看板",
+   "effect_description": "アクターの表現力が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "162"
+  }
+ },
+ {
+  "id": 2004106,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 162,
+  "story_event_high_score_buff_master": {
+   "id": 162,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80066,
+   "effect_name": "エデンホールの鍵",
+   "effect_description": "Edenに所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "164"
+  }
+ },
+ {
+  "id": 2004107,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 163,
+  "story_event_high_score_buff_master": {
+   "id": 163,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80067,
+   "effect_name": "サンクルーガイド",
+   "effect_description": "スターアクト発動に必要な増幅の光<color=#ffd700>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#ff679d>憐属性</color>の烏森 大黒のみ対象",
+   "icon_image_path": "161"
+  }
+ },
+ {
+  "id": 2004108,
+  "story_event_high_score_master_id": 20041,
+  "story_event_high_score_buff_master_id": 164,
+  "story_event_high_score_buff_master": {
+   "id": 164,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80068,
+   "effect_name": "コーヒー",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　　※<color=#ff679d>憐属性</color>の連尺野 初魅のみ対象",
+   "icon_image_path": "163"
+  }
+ },
+ {
+  "id": 2004501,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2004502,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2004503,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2004504,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2004505,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 165,
+  "story_event_high_score_buff_master": {
+   "id": 165,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80069,
+   "effect_name": "ラブライブの優勝旗",
+   "effect_description": "ラブライブ！サンシャイン!!に所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "165"
+  }
+ },
+ {
+  "id": 2004506,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 166,
+  "story_event_high_score_buff_master": {
+   "id": 166,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80070,
+   "effect_name": "エビのぬいぐるみ",
+   "effect_description": "スターアクト発動に必要な増幅の光<color=#ffd700>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>の高海 千歌のみ対象",
+   "icon_image_path": "166"
+  }
+ },
+ {
+  "id": 2004507,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 167,
+  "story_event_high_score_buff_master": {
+   "id": 167,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80071,
+   "effect_name": "Aqoursのロゴ",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#ff679d>憐属性</color>の黒澤 ダイヤのみ対象",
+   "icon_image_path": "167"
+  }
+ },
+ {
+  "id": 2004508,
+  "story_event_high_score_master_id": 20045,
+  "story_event_high_score_buff_master_id": 168,
+  "story_event_high_score_buff_master": {
+   "id": 168,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80072,
+   "effect_name": "青空Jumping Heartの衣装",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#FF9314>陽属性</color>の黒澤 ルビィのみ対象",
+   "icon_image_path": "168"
+  }
+ },
+ {
+  "id": 2004601,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2004602,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2004603,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2004604,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2004605,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 169,
+  "story_event_high_score_buff_master": {
+   "id": 169,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80073,
+   "effect_name": "サンタの帽子",
+   "effect_description": "アクターの歌唱力が[:param1]%上昇する　※シリウスに所属するアクターのみ対象",
+   "icon_image_path": "169"
+  }
+ },
+ {
+  "id": 2004606,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 170,
+  "story_event_high_score_buff_master": {
+   "id": 170,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80074,
+   "effect_name": "ソリ",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#33B4DF>凛属性</color>の鳳 ここなのみ対象",
+   "icon_image_path": "170"
+  }
+ },
+ {
+  "id": 2004607,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 171,
+  "story_event_high_score_buff_master": {
+   "id": 171,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80075,
+   "effect_name": "トナカイのカチューシャ",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の鳳 ここなのみ対象",
+   "icon_image_path": "172"
+  }
+ },
+ {
+  "id": 2004608,
+  "story_event_high_score_master_id": 20046,
+  "story_event_high_score_buff_master_id": 172,
+  "story_event_high_score_buff_master": {
+   "id": 172,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80076,
+   "effect_name": "クリスマスカード",
+   "effect_description": "アクターの集中力が[:param1]%上昇する　※<color=#33B4DF>凛属性</color>の静香のみ対象",
+   "icon_image_path": "171"
+  }
+ },
+ {
+  "id": 2004801,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2004802,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2004803,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2004804,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2004805,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 173,
+  "story_event_high_score_buff_master": {
+   "id": 173,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80077,
+   "effect_name": "高級マッサージチェア",
+   "effect_description": "アクターの集中力が[:param1]%上昇する　※銀河座に所属するアクターのみ対象",
+   "icon_image_path": "173"
+  }
+ },
+ {
+  "id": 2004806,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 174,
+  "story_event_high_score_buff_master": {
+   "id": 174,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80078,
+   "effect_name": "トランプカード",
+   "effect_description": "銀河座に所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "176"
+  }
+ },
+ {
+  "id": 2004807,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 175,
+  "story_event_high_score_buff_master": {
+   "id": 175,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80079,
+   "effect_name": "枕",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#FF9314>陽属性</color>のリリヤのみ対象",
+   "icon_image_path": "174"
+  }
+ },
+ {
+  "id": 2004808,
+  "story_event_high_score_master_id": 20048,
+  "story_event_high_score_buff_master_id": 176,
+  "story_event_high_score_buff_master": {
+   "id": 176,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80080,
+   "effect_name": "露天風呂",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#FF9314>陽属性</color>のラモーナのみ対象",
+   "icon_image_path": "175"
+  }
+ },
+ {
+  "id": 2005101,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2005102,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2005103,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2005104,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2005105,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 177,
+  "story_event_high_score_buff_master": {
+   "id": 177,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80081,
+   "effect_name": "銀河座のロゴ",
+   "effect_description": "アクターの演技力上限値が[:param1]%上昇する　※銀河座に所属するアクターのみ対象",
+   "icon_image_path": "177"
+  }
+ },
+ {
+  "id": 2005106,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 178,
+  "story_event_high_score_buff_master": {
+   "id": 178,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80082,
+   "effect_name": "フロストフラワー【凛】",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#33B4DF>凛属性</color>のリリヤのみ対象",
+   "icon_image_path": "180"
+  }
+ },
+ {
+  "id": 2005107,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 179,
+  "story_event_high_score_buff_master": {
+   "id": 179,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80083,
+   "effect_name": "ハーバリウム【凛】",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の与那国 緋花里のみ対象",
+   "icon_image_path": "179"
+  }
+ },
+ {
+  "id": 2005108,
+  "story_event_high_score_master_id": 20051,
+  "story_event_high_score_buff_master_id": 180,
+  "story_event_high_score_buff_master": {
+   "id": 180,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80084,
+   "effect_name": "キャンドルホルダー【凛】",
+   "effect_description": "公演開始時にプリンシパルゲージの上限値が[:param1]上昇する　　※<color=#33B4DF>凛属性</color>の王 雪のみ対象",
+   "icon_image_path": "178"
+  }
+ },
+ {
+  "id": 2005301,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2005302,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2005303,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2005304,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2005305,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 181,
+  "story_event_high_score_buff_master": {
+   "id": 181,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80085,
+   "effect_name": "劇団電姫のロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※劇団電姫に所属するアクターのみ対象",
+   "icon_image_path": "181"
+  }
+ },
+ {
+  "id": 2005306,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 182,
+  "story_event_high_score_buff_master": {
+   "id": 182,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80086,
+   "effect_name": "夜桜の扇子【凛】",
+   "effect_description": "アクターの表現力が[:param1]%上昇する　　※<color=#33B4DF>凛属性</color>の猫足 蕾のみ対象",
+   "icon_image_path": "183"
+  }
+ },
+ {
+  "id": 2005307,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 183,
+  "story_event_high_score_buff_master": {
+   "id": 183,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80087,
+   "effect_name": "白詰草のスワッグ【凛】",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大1個「SP光」に変換する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の白丸 美兎のみ対象",
+   "icon_image_path": "182"
+  }
+ },
+ {
+  "id": 2005308,
+  "story_event_high_score_master_id": 20053,
+  "story_event_high_score_buff_master_id": 184,
+  "story_event_high_score_buff_master": {
+   "id": 184,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80088,
+   "effect_name": "天使のオーブ【凛】",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#33B4DF>凛属性</color>の本巣 叶羽のみ対象",
+   "icon_image_path": "184"
+  }
+ },
+ {
+  "id": 2005401,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2005402,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2005403,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2005404,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2005405,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 185,
+  "story_event_high_score_buff_master": {
+   "id": 185,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80089,
+   "effect_name": "銀河座のロゴ",
+   "effect_description": "銀河座に所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "177"
+  }
+ },
+ {
+  "id": 2005406,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 186,
+  "story_event_high_score_buff_master": {
+   "id": 186,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80090,
+   "effect_name": "ハーバリウム【憐】",
+   "effect_description": "公演開始時にプリンシパルゲージの上限値が[:param1]上昇する　※<color=#ff679d>憐属性</color>の与那国 緋花里のみ対象",
+   "icon_image_path": "187"
+  }
+ },
+ {
+  "id": 2005407,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 187,
+  "story_event_high_score_buff_master": {
+   "id": 187,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80091,
+   "effect_name": "蝶のブローチ【憐】",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#ff679d>憐属性</color>の千寿 暦のみ対象",
+   "icon_image_path": "185"
+  }
+ },
+ {
+  "id": 2005408,
+  "story_event_high_score_master_id": 20054,
+  "story_event_high_score_buff_master_id": 188,
+  "story_event_high_score_buff_master": {
+   "id": 188,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80092,
+   "effect_name": "模造刀【憐】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）※<color=#ff679d>憐属性</color>のラモーナ・ウォルフのみ対象",
+   "icon_image_path": "186"
+  }
+ },
+ {
+  "id": 2005701,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2005702,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2005703,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2005704,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2005705,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 189,
+  "story_event_high_score_buff_master": {
+   "id": 189,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80093,
+   "effect_name": "Edenのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "188"
+  }
+ },
+ {
+  "id": 2005706,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 190,
+  "story_event_high_score_buff_master": {
+   "id": 190,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80094,
+   "effect_name": "Edenのカードキー",
+   "effect_description": "Edenに所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "191"
+  }
+ },
+ {
+  "id": 2005707,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 191,
+  "story_event_high_score_buff_master": {
+   "id": 191,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80095,
+   "effect_name": "スコッチウイスキー【凛】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の連尺野 初魅のみ対象",
+   "icon_image_path": "189"
+  }
+ },
+ {
+  "id": 2005708,
+  "story_event_high_score_master_id": 20057,
+  "story_event_high_score_buff_master_id": 192,
+  "story_event_high_score_buff_master": {
+   "id": 192,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80096,
+   "effect_name": "フラワーグラス【凛】",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#33B4DF>凛属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "190"
+  }
+ },
+ {
+  "id": 2005901,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2005902,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2005903,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2005904,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2005905,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 193,
+  "story_event_high_score_buff_master": {
+   "id": 193,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80097,
+   "effect_name": "Edenのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※<color=#7AC940>彩属性</color>のアクターのみ対象",
+   "icon_image_path": "188"
+  }
+ },
+ {
+  "id": 2005906,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 194,
+  "story_event_high_score_buff_master": {
+   "id": 194,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80098,
+   "effect_name": "天使のオーブ【彩】",
+   "effect_description": "<color=#7AC940>彩属性</color>のアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "194"
+  }
+ },
+ {
+  "id": 2005907,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 195,
+  "story_event_high_score_buff_master": {
+   "id": 195,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80099,
+   "effect_name": "小悪魔リボン【彩】",
+   "effect_description": "アクターの表現力が[:param1]％上昇する　※<color=#7AC940>彩属性</color>の筆島 しぐれのみ対象",
+   "icon_image_path": "193"
+  }
+ },
+ {
+  "id": 2005908,
+  "story_event_high_score_master_id": 20059,
+  "story_event_high_score_buff_master_id": 196,
+  "story_event_high_score_buff_master": {
+   "id": 196,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80100,
+   "effect_name": "音符のブローチ【彩】",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#7AC940>彩属性</color>の新妻 八恵のみ対象",
+   "icon_image_path": "192"
+  }
+ },
+ {
+  "id": 2006001,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006002,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006003,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006004,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006005,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 197,
+  "story_event_high_score_buff_master": {
+   "id": 197,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80101,
+   "effect_name": "銀河座のロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※銀河座に所属するアクターのみ対象",
+   "icon_image_path": "177"
+  }
+ },
+ {
+  "id": 2006006,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 198,
+  "story_event_high_score_buff_master": {
+   "id": 198,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80102,
+   "effect_name": "キャンドルホルダー【彩】",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#7AC940>彩属性</color>の王  雪のみ対象",
+   "icon_image_path": "200"
+  }
+ },
+ {
+  "id": 2006007,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 199,
+  "story_event_high_score_buff_master": {
+   "id": 199,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80103,
+   "effect_name": "フロストフラワー【彩】",
+   "effect_description": "公演開始前にプリンシパルゲージの上限値が[:param1]上昇する　※<color=#7AC940>彩属性</color>の リリヤ・クルトベイのみ対象",
+   "icon_image_path": "201"
+  }
+ },
+ {
+  "id": 2006008,
+  "story_event_high_score_master_id": 20060,
+  "story_event_high_score_buff_master_id": 200,
+  "story_event_high_score_buff_master": {
+   "id": 200,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80104,
+   "effect_name": "蝶のブローチ【彩】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#7AC940>彩属性</color>の千寿  暦のみ対象",
+   "icon_image_path": "198"
+  }
+ },
+ {
+  "id": 2006101,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006102,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006103,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006104,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006105,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 201,
+  "story_event_high_score_buff_master": {
+   "id": 201,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80105,
+   "effect_name": "劇団電姫のロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※劇団電姫所属するアクターのみ対象",
+   "icon_image_path": "181"
+  }
+ },
+ {
+  "id": 2006106,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 202,
+  "story_event_high_score_buff_master": {
+   "id": 202,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80106,
+   "effect_name": "アクリルリング【憐】",
+   "effect_description": "劇団電姫に所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "208"
+  }
+ },
+ {
+  "id": 2006107,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 203,
+  "story_event_high_score_buff_master": {
+   "id": 203,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80107,
+   "effect_name": "天使のオーブ【憐】",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#ff679d>憐属性</color>の本巣 叶羽のみ対象",
+   "icon_image_path": "203"
+  }
+ },
+ {
+  "id": 2006108,
+  "story_event_high_score_master_id": 20061,
+  "story_event_high_score_buff_master_id": 204,
+  "story_event_high_score_buff_master": {
+   "id": 204,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80108,
+   "effect_name": "夜桜の扇子【憐】",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#ff679d>憐属性</color>の猫足 蕾のみ対象",
+   "icon_image_path": "204"
+  }
+ },
+ {
+  "id": 2006201,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006202,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006203,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006204,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006205,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 205,
+  "story_event_high_score_buff_master": {
+   "id": 205,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80109,
+   "effect_name": "Edenのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "188"
+  }
+ },
+ {
+  "id": 2006206,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 206,
+  "story_event_high_score_buff_master": {
+   "id": 206,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80110,
+   "effect_name": "小悪魔リボン【凛】",
+   "effect_description": "Edenに所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "207"
+  }
+ },
+ {
+  "id": 2006207,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 207,
+  "story_event_high_score_buff_master": {
+   "id": 207,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80111,
+   "effect_name": "フラワーグラス【凛】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "190"
+  }
+ },
+ {
+  "id": 2006208,
+  "story_event_high_score_master_id": 20062,
+  "story_event_high_score_buff_master_id": 208,
+  "story_event_high_score_buff_master": {
+   "id": 208,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80112,
+   "effect_name": "積怨の日記【凛】",
+   "effect_description": "公演開始前にプリンシパルゲージの上限値が[:param1]上昇する　　※<color=#33B4DF>凛属性</color>の烏森 大黒のみ対象",
+   "icon_image_path": "206"
+  }
+ },
+ {
+  "id": 2006301,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006302,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006303,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006304,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006305,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 209,
+  "story_event_high_score_buff_master": {
+   "id": 209,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80113,
+   "effect_name": "シリウスのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※シリウスに所属するアクターのみ対象",
+   "icon_image_path": "195"
+  }
+ },
+ {
+  "id": 2006306,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 210,
+  "story_event_high_score_buff_master": {
+   "id": 210,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80114,
+   "effect_name": "星のペンダント【凛】",
+   "effect_description": "シリウスに所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "214"
+  }
+ },
+ {
+  "id": 2006307,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 211,
+  "story_event_high_score_buff_master": {
+   "id": 211,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80115,
+   "effect_name": "音符のブローチ【凛】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の新妻 八恵のみ対象",
+   "icon_image_path": "212"
+  }
+ },
+ {
+  "id": 2006308,
+  "story_event_high_score_master_id": 20063,
+  "story_event_high_score_buff_master_id": 212,
+  "story_event_high_score_buff_master": {
+   "id": 212,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80116,
+   "effect_name": "懐中時計【凛】",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#33B4DF>凛属性</color>のカトリナ・グリーベルのみ対象",
+   "icon_image_path": "213"
+  }
+ },
+ {
+  "id": 2006401,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006402,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006403,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006404,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006405,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 213,
+  "story_event_high_score_buff_master": {
+   "id": 213,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80117,
+   "effect_name": "Edenのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "188"
+  }
+ },
+ {
+  "id": 2006406,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 214,
+  "story_event_high_score_buff_master": {
+   "id": 214,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80118,
+   "effect_name": "積怨の日記【陽】",
+   "effect_description": "Edenに所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "211"
+  }
+ },
+ {
+  "id": 2006407,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 215,
+  "story_event_high_score_buff_master": {
+   "id": 215,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80119,
+   "effect_name": "トランプカード【陽】",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#FF9314>陽属性</color>の萬 容のみ対象",
+   "icon_image_path": "210"
+  }
+ },
+ {
+  "id": 2006408,
+  "story_event_high_score_master_id": 20064,
+  "story_event_high_score_buff_master_id": 216,
+  "story_event_high_score_buff_master": {
+   "id": 216,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80120,
+   "effect_name": "フラワーグラス【陽】",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　　※<color=#FF9314>陽属性</color>の舎人 仁花子のみ対象",
+   "icon_image_path": "209"
+  }
+ },
+ {
+  "id": 2006601,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006602,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006603,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006604,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006605,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 217,
+  "story_event_high_score_buff_master": {
+   "id": 217,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80121,
+   "effect_name": "銀河座のロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※銀河座に所属するアクターのみ対象",
+   "icon_image_path": "177"
+  }
+ },
+ {
+  "id": 2006606,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 218,
+  "story_event_high_score_buff_master": {
+   "id": 218,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80122,
+   "effect_name": "キャンドルホルダー【凛】",
+   "effect_description": "銀河座に所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "178"
+  }
+ },
+ {
+  "id": 2006607,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 219,
+  "story_event_high_score_buff_master": {
+   "id": 219,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80123,
+   "effect_name": "ハーバリウム【凛】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の与那国　緋花里のみ対象",
+   "icon_image_path": "179"
+  }
+ },
+ {
+  "id": 2006608,
+  "story_event_high_score_master_id": 20066,
+  "story_event_high_score_buff_master_id": 220,
+  "story_event_high_score_buff_master": {
+   "id": 220,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80124,
+   "effect_name": "フロストフラワー【凛】",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#33B4DF>凛属性</color>のリリヤ ・クルトベイのみ対象",
+   "icon_image_path": "180"
+  }
+ },
+ {
+  "id": 2006701,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006702,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006703,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006704,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006705,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 221,
+  "story_event_high_score_buff_master": {
+   "id": 221,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80125,
+   "effect_name": "Edenのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※Edenに所属するアクターのみ対象",
+   "icon_image_path": "188"
+  }
+ },
+ {
+  "id": 2006706,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 222,
+  "story_event_high_score_buff_master": {
+   "id": 222,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80126,
+   "effect_name": "小悪魔リボン【彩】",
+   "effect_description": "Edenに所属するアクター1人につき、プリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "193"
+  }
+ },
+ {
+  "id": 2006707,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 223,
+  "story_event_high_score_buff_master": {
+   "id": 223,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80127,
+   "effect_name": "スコッチウイスキー【彩】",
+   "effect_description": "センスのCTが[:param1]秒短縮する　※<color=#7AC940>彩属性</color>の連尺野 初魅のみ対象",
+   "icon_image_path": "218"
+  }
+ },
+ {
+  "id": 2006708,
+  "story_event_high_score_master_id": 20067,
+  "story_event_high_score_buff_master_id": 224,
+  "story_event_high_score_buff_master": {
+   "id": 224,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80128,
+   "effect_name": "トランプカード【彩】",
+   "effect_description": "公演開始時にプリンシパルゲージの上限値が[:param1]上昇する　※<color=#7AC940>彩属性</color>の萬 容のみ対象",
+   "icon_image_path": "219"
+  }
+ },
+ {
+  "id": 2006801,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006802,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006803,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006804,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006805,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 225,
+  "story_event_high_score_buff_master": {
+   "id": 225,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80129,
+   "effect_name": "シリウスのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※シリウスに所属するアクターのみ対象",
+   "icon_image_path": "195"
+  }
+ },
+ {
+  "id": 2006806,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 226,
+  "story_event_high_score_buff_master": {
+   "id": 226,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80130,
+   "effect_name": "流星のペンダント【陽】",
+   "effect_description": "シリウスに所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "222"
+  }
+ },
+ {
+  "id": 2006807,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 227,
+  "story_event_high_score_buff_master": {
+   "id": 227,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80131,
+   "effect_name": "星のペンダント【陽】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#FF9314>陽属性</color>の鳳　ここなのみ対象",
+   "icon_image_path": "221"
+  }
+ },
+ {
+  "id": 2006808,
+  "story_event_high_score_master_id": 20068,
+  "story_event_high_score_buff_master_id": 228,
+  "story_event_high_score_buff_master": {
+   "id": 228,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80132,
+   "effect_name": "サンキャッチャー【陽】",
+   "effect_description": "アクターの集中力が[:param1]%上昇する　※<color=#FF9314>陽属性</color>の柳場　ぱんだのみ対象",
+   "icon_image_path": "220"
+  }
+ },
+ {
+  "id": 2006901,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2006902,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2006903,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2006904,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2006905,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 229,
+  "story_event_high_score_buff_master": {
+   "id": 229,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80133,
+   "effect_name": "劇団電姫のロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※<color=#FF9314>陽属性</color>のアクターのみ対象",
+   "icon_image_path": "181"
+  }
+ },
+ {
+  "id": 2006906,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 230,
+  "story_event_high_score_buff_master": {
+   "id": 230,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80134,
+   "effect_name": "蝶のブローチ【陽】",
+   "effect_description": "<color=#FF9314>陽属性</color>のアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+   "icon_image_path": "228"
+  }
+ },
+ {
+  "id": 2006907,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 231,
+  "story_event_high_score_buff_master": {
+   "id": 231,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80135,
+   "effect_name": "天使のオーブ【陽】",
+   "effect_description": "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#FF9314>陽属性</color>の本巣 叶羽のみ対象",
+   "icon_image_path": "226"
+  }
+ },
+ {
+  "id": 2006908,
+  "story_event_high_score_master_id": 20069,
+  "story_event_high_score_buff_master_id": 232,
+  "story_event_high_score_buff_master": {
+   "id": 232,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80136,
+   "effect_name": "猫耳ヘッドフォン【陽】",
+   "effect_description": "スターアクト発動に必要な増幅の光が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>の陽属性のいろはのみ対象        ",
+   "icon_image_path": "225"
+  }
+ },
+ {
+  "id": 2007001,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2007002,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2007003,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2007004,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2007005,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 233,
+  "story_event_high_score_buff_master": {
+   "id": 233,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80137,
+   "effect_name": "シリウスのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※<color=#7AC940>彩属性</color>のアクターのみ対象",
+   "icon_image_path": "195"
+  }
+ },
+ {
+  "id": 2007006,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 234,
+  "story_event_high_score_buff_master": {
+   "id": 234,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80138,
+   "effect_name": "天使のオーブ【彩】",
+   "effect_description": "<color=#7AC940>彩属性</color>のアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+   "icon_image_path": "194"
+  }
+ },
+ {
+  "id": 2007007,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 235,
+  "story_event_high_score_buff_master": {
+   "id": 235,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80139,
+   "effect_name": "白詰草のスワッグ【彩】",
+   "effect_description": "公演開始時にプリンシパルゲージの上限値が[:param1]上昇する　※<color=#7AC940>彩属性</color>の白丸 美兎のみ対象",
+   "icon_image_path": "230"
+  }
+ },
+ {
+  "id": 2007008,
+  "story_event_high_score_master_id": 20070,
+  "story_event_high_score_buff_master_id": 236,
+  "story_event_high_score_buff_master": {
+   "id": 236,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80140,
+   "effect_name": "音符のブローチ【彩】",
+   "effect_description": "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#7AC940>彩属性</color>の新妻 八恵のみ対象",
+   "icon_image_path": "192"
+  }
+ },
+ {
+  "id": 2007101,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 11,
+  "story_event_high_score_buff_master": {
+   "id": 11,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80003,
+   "effect_name": "舞台照明",
+   "effect_description": "アクターの集中力が[:param1]上昇する",
+   "icon_image_path": "11"
+  }
+ },
+ {
+  "id": 2007102,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 12,
+  "story_event_high_score_buff_master": {
+   "id": 12,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80002,
+   "effect_name": "舞台スピーカー",
+   "effect_description": "アクターの表現力が[:param1]上昇する",
+   "icon_image_path": "12"
+  }
+ },
+ {
+  "id": 2007103,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 13,
+  "story_event_high_score_buff_master": {
+   "id": 13,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80001,
+   "effect_name": "舞台マイク",
+   "effect_description": "アクターの歌唱力が[:param1]上昇する",
+   "icon_image_path": "13"
+  }
+ },
+ {
+  "id": 2007104,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 14,
+  "story_event_high_score_buff_master": {
+   "id": 14,
+   "story_event_high_score_buff_pattern_group_id": 1,
+   "effect_master_id": 80004,
+   "effect_name": "舞台カーテン",
+   "effect_description": "アクターの演技力が[:param1]％上昇する",
+   "icon_image_path": "14"
+  }
+ },
+ {
+  "id": 2007105,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 237,
+  "story_event_high_score_buff_master": {
+   "id": 237,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80141,
+   "effect_name": "シリウスのロゴ",
+   "effect_description": "アクターの演技力上限が[:param1]％上昇する　※シリウスに所属するアクターのみ対象",
+   "icon_image_path": "195"
+  }
+ },
+ {
+  "id": 2007106,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 238,
+  "story_event_high_score_buff_master": {
+   "id": 238,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80142,
+   "effect_name": "音符のブローチ【凛】",
+   "effect_description": "シリウスに所属するアクターのセンスのCTが[:param1]秒短縮する",
+   "icon_image_path": "212"
+  }
+ },
+ {
+  "id": 2007107,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 239,
+  "story_event_high_score_buff_master": {
+   "id": 239,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80143,
+   "effect_name": "流星のペンダント【凛】",
+   "effect_description": "公演開始時にプリンシパルゲージの上限値が[:param1]上昇する　※<color=#33B4DF>凛属性</color>の静香のみ対象",
+   "icon_image_path": "224"
+  }
+ },
+ {
+  "id": 2007108,
+  "story_event_high_score_master_id": 20071,
+  "story_event_high_score_buff_master_id": 240,
+  "story_event_high_score_buff_master": {
+   "id": 240,
+   "story_event_high_score_buff_pattern_group_id": 2,
+   "effect_master_id": 80144,
+   "effect_name": "星のペンダント【凛】",
+   "effect_description": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の鳳　ここなのみ対象",
+   "icon_image_path": "214"
+  }
+ }
+]

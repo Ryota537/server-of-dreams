@@ -1,0 +1,4720 @@
+[
+ {
+  "id": 101,
+  "music_master_id": 1,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+  "name": "ワナビスタ！",
+  "music_time_second": 93,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 201,
+  "music_master_id": 2,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香",
+  "name": "トゥ・オブ・アス",
+  "music_time_second": 95,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 301,
+  "music_master_id": 3,
+  "vocal_version": 1,
+  "singer": "静香、鳳ここな",
+  "name": "勿忘唄",
+  "music_time_second": 119,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 302,
+  "music_master_id": 3,
+  "vocal_version": 2,
+  "singer": "千寿暦、ラモーナ・ウォルフ",
+  "name": "勿忘唄（銀河座 Ver.）",
+  "music_time_second": 119,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302
+  ]
+ },
+ {
+  "id": 401,
+  "music_master_id": 4,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "夢見月夜",
+  "music_time_second": 133,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 501,
+  "music_master_id": 5,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "悠久月華",
+  "music_time_second": 137,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 601,
+  "music_master_id": 6,
+  "vocal_version": 1,
+  "singer": "鳳ここな",
+  "name": "ダイヤモンドの誓い",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101
+  ]
+ },
+ {
+  "id": 701,
+  "music_master_id": 7,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "魔法のラストノート",
+  "music_time_second": 129,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 801,
+  "music_master_id": 8,
+  "vocal_version": 1,
+  "singer": "新妻八恵、鳳ここな",
+  "name": "New Nostalgic Friend",
+  "music_time_second": 91,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   104
+  ]
+ },
+ {
+  "id": 901,
+  "music_master_id": 9,
+  "vocal_version": 1,
+  "singer": "白丸美兎、本巣叶羽、千寿いろは",
+  "name": "Drawing World",
+  "music_time_second": 94,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   401,
+   402,
+   405
+  ]
+ },
+ {
+  "id": 902,
+  "music_master_id": 9,
+  "vocal_version": 2,
+  "singer": "白丸美兎、本巣叶羽、千寿いろは",
+  "name": "Drawing World （Long Ver）",
+  "music_time_second": 252,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402,
+   405
+  ]
+ },
+ {
+  "id": 1001,
+  "music_master_id": 10,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、流石知冴",
+  "name": "名もなき恋人よ",
+  "music_time_second": 128,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   106
+  ]
+ },
+ {
+  "id": 1101,
+  "music_master_id": 11,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "Etoile",
+  "music_time_second": 104,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 1201,
+  "music_master_id": 12,
+  "vocal_version": 1,
+  "singer": "新妻八恵、鳳ここな",
+  "name": "Masquerade",
+  "music_time_second": 103,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   101,
+   104
+  ]
+ },
+ {
+  "id": 1202,
+  "music_master_id": 12,
+  "vocal_version": 2,
+  "singer": "筆島しぐれ、連尺野初魅",
+  "name": "Masquerade（Eden Ver.）",
+  "music_time_second": 103,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   205
+  ]
+ },
+ {
+  "id": 1203,
+  "music_master_id": 12,
+  "vocal_version": 3,
+  "singer": "新妻八恵、鳳ここな",
+  "name": "Masquerade（Long Ver）",
+  "music_time_second": 233,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 1301,
+  "music_master_id": 13,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "Farewell song",
+  "music_time_second": 97,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 1401,
+  "music_master_id": 14,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "Eternity",
+  "music_time_second": 90,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 1501,
+  "music_master_id": 15,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "Decide",
+  "music_time_second": 101,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 1601,
+  "music_master_id": 16,
+  "vocal_version": 1,
+  "singer": "王雪、ラモーナ・ウォルフ",
+  "name": "ウタカタメロディ",
+  "music_time_second": 106,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302,
+   303
+  ]
+ },
+ {
+  "id": 1701,
+  "music_master_id": 17,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+  "name": "シリウスの輝きのように",
+  "music_time_second": 118,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 1702,
+  "music_master_id": 17,
+  "vocal_version": 2,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+  "name": "シリウスの輝きのように（Long Ver）",
+  "music_time_second": 254,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 1901,
+  "music_master_id": 19,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
+  "name": "Faith in Expression",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ]
+ },
+ {
+  "id": 1902,
+  "music_master_id": 19,
+  "vocal_version": 2,
+  "singer": "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
+  "name": "Faith in Expression（Long Ver）",
+  "music_time_second": 261,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ]
+ },
+ {
+  "id": 2101,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+  "name": "プラネタリウム・レヴュー",
+  "music_time_second": 96,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 2102,
+  "music_master_id": 21,
+  "vocal_version": 2,
+  "singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+  "name": "プラネタリウム・レヴュー（Long Ver）",
+  "music_time_second": 219,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 2301,
+  "music_master_id": 23,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "デアエ・エクス・マキナ！",
+  "music_time_second": 93,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 2302,
+  "music_master_id": 23,
+  "vocal_version": 2,
+  "singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "デアエ・エクス・マキナ！（Long Ver）",
+  "music_time_second": 211,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 2501,
+  "music_master_id": 25,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香",
+  "name": "Binary Star",
+  "music_time_second": 111,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 2502,
+  "music_master_id": 25,
+  "vocal_version": 2,
+  "singer": "鳳ここな、静香",
+  "name": "Binary Star（Long Ver）",
+  "music_time_second": 252,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 2503,
+  "music_master_id": 25,
+  "vocal_version": 3,
+  "singer": "鳳ここな、静香",
+  "name": "Binary Star",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 2601,
+  "music_master_id": 26,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル、ラモーナ・ウォルフ",
+  "name": "暁星アストレーション",
+  "music_time_second": 113,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   103,
+   302
+  ]
+ },
+ {
+  "id": 2701,
+  "music_master_id": 27,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ",
+  "name": "情熱リベレイション",
+  "music_time_second": 112,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302
+  ]
+ },
+ {
+  "id": 2702,
+  "music_master_id": 27,
+  "vocal_version": 2,
+  "singer": "千寿暦、ラモーナ・ウォルフ",
+  "name": "情熱リベレイション（Long Ver）",
+  "music_time_second": 227,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302
+  ]
+ },
+ {
+  "id": 2801,
+  "music_master_id": 28,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎",
+  "name": "プレイ・マイ・フェイバリット!!",
+  "music_time_second": 153,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402
+  ]
+ },
+ {
+  "id": 2901,
+  "music_master_id": 29,
+  "vocal_version": 1,
+  "singer": "流石知冴、柊望有",
+  "name": "幾億の星の空で",
+  "music_time_second": 101,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 3001,
+  "music_master_id": 30,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、舎人仁花子",
+  "name": "純粋と奔放",
+  "music_time_second": 137,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   203
+  ]
+ },
+ {
+  "id": 3002,
+  "music_master_id": 30,
+  "vocal_version": 2,
+  "singer": "連尺野初魅、舎人仁花子",
+  "name": "純粋と奔放（Long Ver）",
+  "music_time_second": 276,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   203
+  ]
+ },
+ {
+  "id": 3101,
+  "music_master_id": 31,
+  "vocal_version": 1,
+  "singer": "千寿暦",
+  "name": "心という名の不可解",
+  "music_time_second": 128,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301
+  ]
+ },
+ {
+  "id": 3301,
+  "music_master_id": 33,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+  "name": "Snow halation",
+  "music_time_second": 173,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 3401,
+  "music_master_id": 34,
+  "vocal_version": 1,
+  "singer": "舎人仁花子",
+  "name": "フォニイ",
+  "music_time_second": 124,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203
+  ]
+ },
+ {
+  "id": 3501,
+  "music_master_id": 35,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ、ラモーナ・ウォルフ",
+  "name": "チューリングラブ",
+  "music_time_second": 122,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302,
+   304
+  ]
+ },
+ {
+  "id": 3701,
+  "music_master_id": 37,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、萬容、舎人仁花子",
+  "name": "Shiny Smily Story",
+  "music_time_second": 191,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103,
+   203,
+   204
+  ]
+ },
+ {
+  "id": 3801,
+  "music_master_id": 38,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "変わらないもの",
+  "music_time_second": 132,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 3901,
+  "music_master_id": 39,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ",
+  "name": "Realize",
+  "music_time_second": 169,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105
+  ]
+ },
+ {
+  "id": 4001,
+  "music_master_id": 40,
+  "vocal_version": 1,
+  "singer": "本巣叶羽",
+  "name": "魔法少女とチョコレゐト",
+  "music_time_second": 135,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   405
+  ]
+ },
+ {
+  "id": 4101,
+  "music_master_id": 41,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "怪物",
+  "music_time_second": 114,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 4201,
+  "music_master_id": 42,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "六兆年と一夜物語",
+  "music_time_second": 145,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 4301,
+  "music_master_id": 43,
+  "vocal_version": 1,
+  "singer": "猫足蕾",
+  "name": "名前のない怪物",
+  "music_time_second": 152,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   404
+  ]
+ },
+ {
+  "id": 4401,
+  "music_master_id": 44,
+  "vocal_version": 1,
+  "singer": "本巣叶羽",
+  "name": "アタシのアシタはアタシがキメル",
+  "music_time_second": 129,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   405
+  ]
+ },
+ {
+  "id": 4501,
+  "music_master_id": 45,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "Blondie Revenge Tragedy",
+  "music_time_second": 113,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 4502,
+  "music_master_id": 45,
+  "vocal_version": 2,
+  "singer": "烏森大黒",
+  "name": "Blondie Revenge Tragedy（Long Ver）",
+  "music_time_second": 205,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 4601,
+  "music_master_id": 46,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "Fernweh",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 4701,
+  "music_master_id": 47,
+  "vocal_version": 1,
+  "singer": "猫足蕾、阿岐留カミラ",
+  "name": "サマーバカンス☆アクトレス！",
+  "music_time_second": 119,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403,
+   404
+  ]
+ },
+ {
+  "id": 4702,
+  "music_master_id": 47,
+  "vocal_version": 2,
+  "singer": "猫足蕾、阿岐留カミラ",
+  "name": "サマーバカンス☆アクトレス！（Long Ver）",
+  "music_time_second": 230,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403,
+   404
+  ]
+ },
+ {
+  "id": 4801,
+  "music_master_id": 48,
+  "vocal_version": 1,
+  "singer": "静香",
+  "name": "I Wanna",
+  "music_time_second": 155,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   102
+  ]
+ },
+ {
+  "id": 4901,
+  "music_master_id": 49,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "パーティー・ジョーク・シンデレラ",
+  "music_time_second": 116,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 5001,
+  "music_master_id": 50,
+  "vocal_version": 1,
+  "singer": "与那国緋花里",
+  "name": "てぃだんちゅ MEETS てぃんがーら！",
+  "music_time_second": 105,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   305
+  ]
+ },
+ {
+  "id": 5101,
+  "music_master_id": 51,
+  "vocal_version": 1,
+  "singer": "王雪、リリヤ・クルトベイ",
+  "name": "夏の夜空に光る雪",
+  "music_time_second": 114,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   303,
+   304
+  ]
+ },
+ {
+  "id": 5102,
+  "music_master_id": 51,
+  "vocal_version": 2,
+  "singer": "王雪、リリヤ・クルトベイ",
+  "name": "夏の夜空に光る雪（Long Ver）",
+  "music_time_second": 240,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303,
+   304
+  ]
+ },
+ {
+  "id": 5301,
+  "music_master_id": 53,
+  "vocal_version": 1,
+  "singer": "猫足蕾、阿岐留カミラ",
+  "name": "電脳スペクタクル",
+  "music_time_second": 107,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   403,
+   404
+  ]
+ },
+ {
+  "id": 5401,
+  "music_master_id": 54,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "ひとりの夜のフィルモグラフィー",
+  "music_time_second": 142,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 5501,
+  "music_master_id": 55,
+  "vocal_version": 1,
+  "singer": "舎人仁花子",
+  "name": "ANIMA",
+  "music_time_second": 166,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203
+  ]
+ },
+ {
+  "id": 5601,
+  "music_master_id": 56,
+  "vocal_version": 1,
+  "singer": "舎人仁花子、萬容",
+  "name": "フレーフレー・ファンファーレ！",
+  "music_time_second": 124,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203,
+   204
+  ]
+ },
+ {
+  "id": 5701,
+  "music_master_id": 57,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "Black Diary",
+  "music_time_second": 130,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 5801,
+  "music_master_id": 58,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ",
+  "name": "Pandastic Stage!",
+  "music_time_second": 109,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105
+  ]
+ },
+ {
+  "id": 5901,
+  "music_master_id": 59,
+  "vocal_version": 1,
+  "singer": "千寿暦、連尺野初魅",
+  "name": "血を着飾る栄華のために",
+  "music_time_second": 122,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   201,
+   301
+  ]
+ },
+ {
+  "id": 6001,
+  "music_master_id": 60,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ、与那国緋花里",
+  "name": "シル・ヴ・プレジデント",
+  "music_time_second": 129,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   305,
+   403
+  ]
+ },
+ {
+  "id": 6101,
+  "music_master_id": 61,
+  "vocal_version": 1,
+  "singer": "千寿暦",
+  "name": "巡る暦の花のように",
+  "music_time_second": 110,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301
+  ]
+ },
+ {
+  "id": 6201,
+  "music_master_id": 62,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、与那国緋花里",
+  "name": "革命ダンス",
+  "music_time_second": 124,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   305
+  ]
+ },
+ {
+  "id": 6301,
+  "music_master_id": 63,
+  "vocal_version": 1,
+  "singer": "鳳ここな",
+  "name": "マイ・ピクチャー・ストーリー",
+  "music_time_second": 110,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101
+  ]
+ },
+ {
+  "id": 6401,
+  "music_master_id": 64,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "きらり！マジカリュー・スマイル！",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 6501,
+  "music_master_id": 65,
+  "vocal_version": 1,
+  "singer": "新妻八恵、本巣叶羽",
+  "name": "adrenaline!!!",
+  "music_time_second": 117,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104,
+   405
+  ]
+ },
+ {
+  "id": 6601,
+  "music_master_id": 66,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "Forbidden Fruit Addiction",
+  "music_time_second": 108,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 6701,
+  "music_master_id": 67,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "So long, Say Goodbye",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 6801,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴、連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ、千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里、千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "夢のステラリウム",
+  "music_time_second": 103,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 6901,
+  "music_master_id": 69,
+  "vocal_version": 1,
+  "singer": "新妻八恵、筆島しぐれ、本巣叶羽",
+  "name": "トゥインクル・トゥインクル・スクールデイズ！",
+  "music_time_second": 116,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104,
+   205,
+   405
+  ]
+ },
+ {
+  "id": 7001,
+  "music_master_id": 70,
+  "vocal_version": 1,
+  "singer": "萬容、烏森大黒",
+  "name": "ちいさないのちのさけるばしょ",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   202,
+   204
+  ]
+ },
+ {
+  "id": 7101,
+  "music_master_id": 71,
+  "vocal_version": 1,
+  "singer": "千寿いろは",
+  "name": "いろはうたBLOOMING",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401
+  ]
+ },
+ {
+  "id": 7201,
+  "music_master_id": 72,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "DAYBREAK FRONTLINE",
+  "music_time_second": 154,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 7301,
+  "music_master_id": 73,
+  "vocal_version": 1,
+  "singer": "静香、鳳ここな",
+  "name": "フタリノスタルジア",
+  "music_time_second": 148,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 7401,
+  "music_master_id": 74,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ",
+  "name": "Get to Act Life♡",
+  "music_time_second": 113,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403
+  ]
+ },
+ {
+  "id": 7501,
+  "music_master_id": 75,
+  "vocal_version": 1,
+  "singer": "与那国緋花里、阿岐留カミラ",
+  "name": "こんなに素晴らしい世界で",
+  "music_time_second": 123,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   305,
+   403
+  ]
+ },
+ {
+  "id": 7601,
+  "music_master_id": 76,
+  "vocal_version": 1,
+  "singer": "猫足蕾",
+  "name": "不可逆的運命ディストピア",
+  "music_time_second": 123,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   404
+  ]
+ },
+ {
+  "id": 7701,
+  "music_master_id": 77,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ、ラモーナ・ウォルフ",
+  "name": "小さな奇跡の降る夜に",
+  "music_time_second": 106,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   302,
+   304
+  ]
+ },
+ {
+  "id": 7801,
+  "music_master_id": 78,
+  "vocal_version": 1,
+  "singer": "萬容",
+  "name": "トウキョウ・シャンディ・ランデヴ",
+  "music_time_second": 126,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204
+  ]
+ },
+ {
+  "id": 7901,
+  "music_master_id": 79,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル、鳳ここな、静香",
+  "name": "HAPPY NEW SHOW TIME!",
+  "music_time_second": 116,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   101,
+   102,
+   103
+  ]
+ },
+ {
+  "id": 8101,
+  "music_master_id": 81,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "アンプレザント・ライン",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 8201,
+  "music_master_id": 82,
+  "vocal_version": 1,
+  "singer": "鳳ここな",
+  "name": "アイ・ウィル！",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101
+  ]
+ },
+ {
+  "id": 8301,
+  "music_master_id": 83,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "Rolling Stone",
+  "music_time_second": 90,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 8401,
+  "music_master_id": 84,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "かくれんぼ",
+  "music_time_second": 135,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 8501,
+  "music_master_id": 85,
+  "vocal_version": 1,
+  "singer": "王雪、与那国緋花里",
+  "name": "Surges",
+  "music_time_second": 123,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303,
+   305
+  ]
+ },
+ {
+  "id": 8601,
+  "music_master_id": 86,
+  "vocal_version": 1,
+  "singer": "猫足蕾",
+  "name": "アスノヨゾラ哨戒班",
+  "music_time_second": 128,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   404
+  ]
+ },
+ {
+  "id": 8701,
+  "music_master_id": 87,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ",
+  "name": "可愛くてごめん",
+  "music_time_second": 140,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403
+  ]
+ },
+ {
+  "id": 8801,
+  "music_master_id": 88,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "幻日ミステリウム",
+  "music_time_second": 157,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 8901,
+  "music_master_id": 89,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "ウタカタララバイ",
+  "music_time_second": 132,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 9001,
+  "music_master_id": 90,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+  "name": "NEO SKY, NEO MAP!",
+  "music_time_second": 122,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 9101,
+  "music_master_id": 91,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ",
+  "name": "ミックス・アップ・インタレスト！",
+  "music_time_second": 97,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403
+  ]
+ },
+ {
+  "id": 9201,
+  "music_master_id": 92,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ",
+  "name": "Crystal Bell",
+  "music_time_second": 114,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   304
+  ]
+ },
+ {
+  "id": 9301,
+  "music_master_id": 93,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "St. Bitter Sweet",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 9401,
+  "music_master_id": 94,
+  "vocal_version": 1,
+  "singer": "萬容",
+  "name": "賭世遊戯",
+  "music_time_second": 124,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204
+  ]
+ },
+ {
+  "id": 9501,
+  "music_master_id": 95,
+  "vocal_version": 1,
+  "singer": "猫足蕾、阿岐留カミラ",
+  "name": "ふぁうすと・いんぷれっしょん！！",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403,
+   404
+  ]
+ },
+ {
+  "id": 9601,
+  "music_master_id": 96,
+  "vocal_version": 1,
+  "singer": "王雪",
+  "name": "ハチメンロッピング！",
+  "music_time_second": 113,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303
+  ]
+ },
+ {
+  "id": 9701,
+  "music_master_id": 97,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "To B-eat, or not to B-eat!",
+  "music_time_second": 105,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 9801,
+  "music_master_id": 98,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "MY FIRST ACT！",
+  "music_time_second": 115,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 9901,
+  "music_master_id": 99,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "深度異症候群-Shindoi Syndrome-",
+  "music_time_second": 101,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 10001,
+  "music_master_id": 100,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "Singin' little blue bird",
+  "music_time_second": 103,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 10101,
+  "music_master_id": 101,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "ハートフル・レシピ",
+  "music_time_second": 97,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 10201,
+  "music_master_id": 102,
+  "vocal_version": 1,
+  "singer": "鳳ここな、カトリナ・グリーベル",
+  "name": "Friends Per Second",
+  "music_time_second": 113,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   103
+  ]
+ },
+ {
+  "id": 10301,
+  "music_master_id": 103,
+  "vocal_version": 1,
+  "singer": "千寿暦",
+  "name": "眩しい朝日に照らされて",
+  "music_time_second": 118,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301
+  ]
+ },
+ {
+  "id": 10401,
+  "music_master_id": 104,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "夕焼け色は始まりの色",
+  "music_time_second": 126,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 10501,
+  "music_master_id": 105,
+  "vocal_version": 1,
+  "singer": "萬容、舎人仁花子",
+  "name": "銀月照らす美しき罪",
+  "music_time_second": 111,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   203,
+   204
+  ]
+ },
+ {
+  "id": 10601,
+  "music_master_id": 106,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "アクト・レゾナンス",
+  "music_time_second": 112,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 10801,
+  "music_master_id": 108,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "Thirsty Soul",
+  "music_time_second": 95,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 10901,
+  "music_master_id": 109,
+  "vocal_version": 1,
+  "singer": "静香",
+  "name": "Wish upon a star",
+  "music_time_second": 107,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102
+  ]
+ },
+ {
+  "id": 11001,
+  "music_master_id": 110,
+  "vocal_version": 1,
+  "singer": "舎人仁花子",
+  "name": "ワンダフル・フラワー・ガーデン！",
+  "music_time_second": 94,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203
+  ]
+ },
+ {
+  "id": 11101,
+  "music_master_id": 111,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ",
+  "name": "リアルタイム・リプライ！",
+  "music_time_second": 106,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105
+  ]
+ },
+ {
+  "id": 11201,
+  "music_master_id": 112,
+  "vocal_version": 1,
+  "singer": "王雪",
+  "name": "マン・ハン・チュエンシー!!",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303
+  ]
+ },
+ {
+  "id": 11301,
+  "music_master_id": 113,
+  "vocal_version": 1,
+  "singer": "与那国緋花里、王雪",
+  "name": "雪は春に、そして花束を",
+  "music_time_second": 127,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303,
+   305
+  ]
+ },
+ {
+  "id": 11501,
+  "music_master_id": 115,
+  "vocal_version": 1,
+  "singer": "舎人仁花子",
+  "name": "惑う星達のダンスホール",
+  "music_time_second": 120,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203
+  ]
+ },
+ {
+  "id": 11601,
+  "music_master_id": 116,
+  "vocal_version": 1,
+  "singer": "千寿いろは、千寿暦",
+  "name": "Like Blooming Flowers",
+  "music_time_second": 106,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   401
+  ]
+ },
+ {
+  "id": 11701,
+  "music_master_id": 117,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "水際PARTY、水着でFUNNY",
+  "music_time_second": 110,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 11801,
+  "music_master_id": 118,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "あの夏が飽和する。",
+  "music_time_second": 129,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 11901,
+  "music_master_id": 119,
+  "vocal_version": 1,
+  "singer": "静香",
+  "name": "Stellar Stellar",
+  "music_time_second": 127,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102
+  ]
+ },
+ {
+  "id": 12001,
+  "music_master_id": 120,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ、白丸美兎",
+  "name": "Nameless Story",
+  "music_time_second": 96,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402,
+   403
+  ]
+ },
+ {
+  "id": 12101,
+  "music_master_id": 121,
+  "vocal_version": 1,
+  "singer": "本巣叶羽",
+  "name": "Another colony",
+  "music_time_second": 93,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   405
+  ]
+ },
+ {
+  "id": 12201,
+  "music_master_id": 122,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "ただ声一つ",
+  "music_time_second": 134,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 12301,
+  "music_master_id": 123,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "ヴァンパイア",
+  "music_time_second": 112,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 12401,
+  "music_master_id": 124,
+  "vocal_version": 1,
+  "singer": "千寿暦",
+  "name": "エジソン",
+  "music_time_second": 127,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301
+  ]
+ },
+ {
+  "id": 12501,
+  "music_master_id": 125,
+  "vocal_version": 1,
+  "singer": "本巣叶羽",
+  "name": "強風オールバック",
+  "music_time_second": 137,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   405
+  ]
+ },
+ {
+  "id": 12801,
+  "music_master_id": 128,
+  "vocal_version": 1,
+  "singer": "萬容、舎人仁花子",
+  "name": "オドループ",
+  "music_time_second": 121,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203,
+   204
+  ]
+ },
+ {
+  "id": 12901,
+  "music_master_id": 129,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ",
+  "name": "忘れじの言の葉",
+  "music_time_second": 132,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   304
+  ]
+ },
+ {
+  "id": 13001,
+  "music_master_id": 130,
+  "vocal_version": 1,
+  "singer": "鳳ここな、連尺野初魅、千寿暦、千寿いろは",
+  "name": "Virtual to LIVE",
+  "music_time_second": 131,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   201,
+   301,
+   401
+  ]
+ },
+ {
+  "id": 13201,
+  "music_master_id": 132,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+  "name": "檄!帝国華撃団",
+  "music_time_second": 136,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 13501,
+  "music_master_id": 135,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "INTERNET YAMERO",
+  "music_time_second": 154,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 13601,
+  "music_master_id": 136,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎",
+  "name": "TOMORROW",
+  "music_time_second": 106,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402
+  ]
+ },
+ {
+  "id": 13701,
+  "music_master_id": 137,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "インフェルノ",
+  "music_time_second": 137,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 14001,
+  "music_master_id": 140,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "ミックスナッツ",
+  "music_time_second": 105,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 14101,
+  "music_master_id": 141,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+  "name": "Transcend Lights",
+  "music_time_second": 161,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 14201,
+  "music_master_id": 142,
+  "vocal_version": 1,
+  "singer": "鳳ここな、カトリナ・グリーベル、静香",
+  "name": "絆はずっとGrowing Up!!!",
+  "music_time_second": 160,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103
+  ]
+ },
+ {
+  "id": 14301,
+  "music_master_id": 143,
+  "vocal_version": 1,
+  "singer": "舎人仁花子、萬容",
+  "name": "give it up to you",
+  "music_time_second": 130,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203,
+   204
+  ]
+ },
+ {
+  "id": 14401,
+  "music_master_id": 144,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ、与那国緋花里、本巣叶羽",
+  "name": "Y.Y.Y.計画!!!!",
+  "music_time_second": 155,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   304,
+   305,
+   405
+  ]
+ },
+ {
+  "id": 14501,
+  "music_master_id": 145,
+  "vocal_version": 1,
+  "singer": "鳳ここな、連尺野初魅、千寿暦、千寿いろは",
+  "name": "STARTLINER",
+  "music_time_second": 158,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   201,
+   301,
+   401
+  ]
+ },
+ {
+  "id": 14601,
+  "music_master_id": 146,
+  "vocal_version": 1,
+  "singer": "本巣叶羽、新妻八恵、筆島しぐれ",
+  "name": "進め！マイウェイ！",
+  "music_time_second": 144,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104,
+   205,
+   405
+  ]
+ },
+ {
+  "id": 14701,
+  "music_master_id": 147,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ、王雪、千寿暦",
+  "name": "撩乱乙女†無双劇",
+  "music_time_second": 158,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302,
+   303
+  ]
+ },
+ {
+  "id": 14801,
+  "music_master_id": 148,
+  "vocal_version": 1,
+  "singer": "流石知冴、柳場ぱんだ",
+  "name": "めんどーい！やっほーい！ともだち！",
+  "music_time_second": 159,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   106
+  ]
+ },
+ {
+  "id": 14901,
+  "music_master_id": 149,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "GODLINESS",
+  "music_time_second": 165,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 15001,
+  "music_master_id": 150,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "粛聖!!ロリ神レクイエム☆",
+  "music_time_second": 119,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 15201,
+  "music_master_id": 152,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "シャルル",
+  "music_time_second": 103,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 15301,
+  "music_master_id": 153,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "DISCOTHEQUE",
+  "music_time_second": 114,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 15401,
+  "music_master_id": 154,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ、本巣叶羽",
+  "name": "BiSH-星が瞬く夜に-",
+  "music_time_second": 117,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205,
+   405
+  ]
+ },
+ {
+  "id": 15501,
+  "music_master_id": 155,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "リライト",
+  "music_time_second": 132,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 15601,
+  "music_master_id": 156,
+  "vocal_version": 1,
+  "singer": "本巣叶羽、白丸美兎",
+  "name": "COLORS",
+  "music_time_second": 93,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402,
+   405
+  ]
+ },
+ {
+  "id": 15701,
+  "music_master_id": 157,
+  "vocal_version": 1,
+  "singer": "千寿いろは、阿岐留カミラ、猫足蕾",
+  "name": "O2",
+  "music_time_second": 94,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   403,
+   404
+  ]
+ },
+ {
+  "id": 16001,
+  "music_master_id": 160,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "踊る魔法に観る魔法",
+  "music_time_second": 111,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 16101,
+  "music_master_id": 161,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "硝子色の欠片",
+  "music_time_second": 90,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 16201,
+  "music_master_id": 162,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "Neustart",
+  "music_time_second": 93,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 16301,
+  "music_master_id": 163,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "Original Scene",
+  "music_time_second": 97,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 16401,
+  "music_master_id": 164,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ",
+  "name": "色即是空卍Trick is Treat！",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403
+  ]
+ },
+ {
+  "id": 16501,
+  "music_master_id": 165,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香",
+  "name": "Sweet Memories",
+  "music_time_second": 120,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 16601,
+  "music_master_id": 166,
+  "vocal_version": 1,
+  "singer": "猫足蕾",
+  "name": "史上最幸NEW YEAR!",
+  "music_time_second": 95,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   404
+  ]
+ },
+ {
+  "id": 16701,
+  "music_master_id": 167,
+  "vocal_version": 1,
+  "singer": "静香、新妻八恵",
+  "name": "プリズム△▽リズム",
+  "music_time_second": 154,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102,
+   104
+  ]
+ },
+ {
+  "id": 16801,
+  "music_master_id": 168,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル",
+  "name": "ホシシズク",
+  "music_time_second": 162,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103
+  ]
+ },
+ {
+  "id": 16901,
+  "music_master_id": 169,
+  "vocal_version": 1,
+  "singer": "萬容",
+  "name": "花と、雪と、ドラムンベース。",
+  "music_time_second": 141,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204
+  ]
+ },
+ {
+  "id": 17001,
+  "music_master_id": 170,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "Starry Colors",
+  "music_time_second": 156,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 17101,
+  "music_master_id": 171,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "星めぐり、果ての君へ。",
+  "music_time_second": 151,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 17201,
+  "music_master_id": 172,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、連尺野初魅、千寿暦、千寿いろは",
+  "name": "青空Jumping Heart",
+  "music_time_second": 95,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   201,
+   301,
+   401
+  ]
+ },
+ {
+  "id": 17301,
+  "music_master_id": 173,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、与那国緋花里、阿岐留カミラ",
+  "name": "恋になりたいAQUARIUM",
+  "music_time_second": 124,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   305,
+   403
+  ]
+ },
+ {
+  "id": 17401,
+  "music_master_id": 174,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ、王雪、与那国緋花里",
+  "name": "Landing action Yeah!!",
+  "music_time_second": 123,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302,
+   303,
+   305
+  ]
+ },
+ {
+  "id": 17501,
+  "music_master_id": 175,
+  "vocal_version": 1,
+  "singer": "烏森大黒、萬容",
+  "name": "Believe again",
+  "music_time_second": 121,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202,
+   204
+  ]
+ },
+ {
+  "id": 17601,
+  "music_master_id": 176,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、王雪",
+  "name": "いーあるふぁんくらぶ",
+  "music_time_second": 109,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   303
+  ]
+ },
+ {
+  "id": 17701,
+  "music_master_id": 177,
+  "vocal_version": 1,
+  "singer": "千寿いろは",
+  "name": "おちゃめ機能",
+  "music_time_second": 127,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401
+  ]
+ },
+ {
+  "id": 17801,
+  "music_master_id": 178,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ",
+  "name": "黎明の残照の果て、新しき光の空へ",
+  "music_time_second": 120,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302
+  ]
+ },
+ {
+  "id": 17901,
+  "music_master_id": 179,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ、リリヤ・クルトベイ",
+  "name": "ヱテルナ・ガラクシア",
+  "music_time_second": 123,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   302,
+   304
+  ]
+ },
+ {
+  "id": 18001,
+  "music_master_id": 180,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、流石知冴",
+  "name": "いこうよ！ネバーランドへ",
+  "music_time_second": 118,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   106
+  ]
+ },
+ {
+  "id": 18101,
+  "music_master_id": 181,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、筆島しぐれ",
+  "name": "トーキョー・ウィンター・ミュージック",
+  "music_time_second": 118,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   205
+  ]
+ },
+ {
+  "id": 18201,
+  "music_master_id": 182,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル、新妻八恵",
+  "name": "絶対！ニーデリッヒ宣言♡",
+  "music_time_second": 120,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   103,
+   104
+  ]
+ },
+ {
+  "id": 18301,
+  "music_master_id": 183,
+  "vocal_version": 1,
+  "singer": "与那国緋花里",
+  "name": "Act on my feelings.",
+  "music_time_second": 111,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   305
+  ]
+ },
+ {
+  "id": 18401,
+  "music_master_id": 184,
+  "vocal_version": 1,
+  "singer": "鳳ここな、流石知冴",
+  "name": "蜃気楼の向こう側、君は笑ってくれるかな",
+  "music_time_second": 103,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   106
+  ]
+ },
+ {
+  "id": 18501,
+  "music_master_id": 185,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "マッピング・マイ・ワールド",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 18601,
+  "music_master_id": 186,
+  "vocal_version": 1,
+  "singer": "千寿暦",
+  "name": "いつか、薄紅の空の下で",
+  "music_time_second": 106,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301
+  ]
+ },
+ {
+  "id": 18701,
+  "music_master_id": 187,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "ティンクル・ティンクル・ティンク！",
+  "music_time_second": 125,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 18801,
+  "music_master_id": 188,
+  "vocal_version": 1,
+  "singer": "千寿暦、与那国緋花里",
+  "name": "君というメソッドへ",
+  "music_time_second": 123,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   305
+  ]
+ },
+ {
+  "id": 18901,
+  "music_master_id": 189,
+  "vocal_version": 1,
+  "singer": "猫足蕾、阿岐留カミラ",
+  "name": "想い出はリタルダンド",
+  "music_time_second": 110,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403,
+   404
+  ]
+ },
+ {
+  "id": 19001,
+  "music_master_id": 190,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "ビビデバ",
+  "music_time_second": 167,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 19101,
+  "music_master_id": 191,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、阿岐留カミラ",
+  "name": "愛包ダンスホール",
+  "music_time_second": 116,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   403
+  ]
+ },
+ {
+  "id": 19201,
+  "music_master_id": 192,
+  "vocal_version": 1,
+  "singer": "萬容",
+  "name": "カオスが極まる",
+  "music_time_second": 94,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204
+  ]
+ },
+ {
+  "id": 19301,
+  "music_master_id": 193,
+  "vocal_version": 1,
+  "singer": "萬容、阿岐留カミラ",
+  "name": "1・2・3",
+  "music_time_second": 122,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204,
+   403
+  ]
+ },
+ {
+  "id": 19401,
+  "music_master_id": 194,
+  "vocal_version": 1,
+  "singer": "王雪",
+  "name": "オーバーライド",
+  "music_time_second": 143,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303
+  ]
+ },
+ {
+  "id": 19501,
+  "music_master_id": 195,
+  "vocal_version": 1,
+  "singer": "静香",
+  "name": "シャイニングスター",
+  "music_time_second": 129,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102
+  ]
+ },
+ {
+  "id": 19601,
+  "music_master_id": 196,
+  "vocal_version": 1,
+  "singer": "鳳ここな",
+  "name": "きゅうくらりん",
+  "music_time_second": 147,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101
+  ]
+ },
+ {
+  "id": 19701,
+  "music_master_id": 197,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "春を告げる",
+  "music_time_second": 134,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 19801,
+  "music_master_id": 198,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ、猫足蕾",
+  "name": "青春サイダー",
+  "music_time_second": 109,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   304,
+   404
+  ]
+ },
+ {
+  "id": 19901,
+  "music_master_id": 199,
+  "vocal_version": 1,
+  "singer": "萬容",
+  "name": "SHINY DAYS",
+  "music_time_second": 98,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204
+  ]
+ },
+ {
+  "id": 20001,
+  "music_master_id": 200,
+  "vocal_version": 1,
+  "singer": "烏森大黒、舎人仁花子",
+  "name": "レイドバックジャーニー",
+  "music_time_second": 92,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202,
+   203
+  ]
+ },
+ {
+  "id": 20101,
+  "music_master_id": 201,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴、連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ、千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里、千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "Worlds Dye Star",
+  "music_time_second": 118,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 20201,
+  "music_master_id": 202,
+  "vocal_version": 1,
+  "singer": "鳳ここな、リリヤ・クルトベイ",
+  "name": "シャボンに浮かぶセカイであおう",
+  "music_time_second": 127,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   304
+  ]
+ },
+ {
+  "id": 20301,
+  "music_master_id": 203,
+  "vocal_version": 1,
+  "singer": "王雪",
+  "name": "ハオダー？ハオアー！-好的？好啊！-",
+  "music_time_second": 108,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303
+  ]
+ },
+ {
+  "id": 20401,
+  "music_master_id": 204,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "Dear My Eden",
+  "music_time_second": 92,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 20501,
+  "music_master_id": 205,
+  "vocal_version": 1,
+  "singer": "静香、白丸美兎",
+  "name": "Sunny day in June.",
+  "music_time_second": 119,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102,
+   402
+  ]
+ },
+ {
+  "id": 20601,
+  "music_master_id": 206,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "SECRET TRAINING!!!!",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 20701,
+  "music_master_id": 207,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ、萬容",
+  "name": "氷雨に舞う火の鳥",
+  "music_time_second": 102,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204,
+   403
+  ]
+ },
+ {
+  "id": 20801,
+  "music_master_id": 208,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "アンチ・サニーデイズ・カレンダー",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 20901,
+  "music_master_id": 209,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、千寿暦",
+  "name": "RAREFIED HEIGHTS",
+  "music_time_second": 111,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   301
+  ]
+ },
+ {
+  "id": 21001,
+  "music_master_id": 210,
+  "vocal_version": 1,
+  "singer": "鳳ここな、千寿いろは",
+  "name": "グローリー・ワンダーランド",
+  "music_time_second": 165,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   401
+  ]
+ },
+ {
+  "id": 21101,
+  "music_master_id": 211,
+  "vocal_version": 1,
+  "singer": "猫足蕾",
+  "name": "甲賀忍法帖",
+  "music_time_second": 96,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   404
+  ]
+ },
+ {
+  "id": 21201,
+  "music_master_id": 212,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ",
+  "name": "ファンサ",
+  "music_time_second": 93,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105
+  ]
+ },
+ {
+  "id": 21301,
+  "music_master_id": 213,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、烏森大黒",
+  "name": "Bling-Bang-Bang-Born",
+  "music_time_second": 92,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   202
+  ]
+ },
+ {
+  "id": 21501,
+  "music_master_id": 215,
+  "vocal_version": 1,
+  "singer": "与那国緋花里、阿岐留カミラ",
+  "name": "Invitation",
+  "music_time_second": 145,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   305,
+   403
+  ]
+ },
+ {
+  "id": 21601,
+  "music_master_id": 216,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
+  "name": "Blazing Break",
+  "music_time_second": 163,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ]
+ },
+ {
+  "id": 21701,
+  "music_master_id": 217,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "光線チューニング",
+  "music_time_second": 148,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 21801,
+  "music_master_id": 218,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "〚隔絶〛～Flame of Determination",
+  "music_time_second": 149,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 21901,
+  "music_master_id": 219,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "蜘蛛の糸",
+  "music_time_second": 143,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 22001,
+  "music_master_id": 220,
+  "vocal_version": 1,
+  "singer": "与那国緋花里",
+  "name": "ロマンスの神様",
+  "music_time_second": 98,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   305
+  ]
+ },
+ {
+  "id": 22101,
+  "music_master_id": 221,
+  "vocal_version": 1,
+  "singer": "千寿いろは",
+  "name": "DreamRiser",
+  "music_time_second": 95,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401
+  ]
+ },
+ {
+  "id": 22201,
+  "music_master_id": 222,
+  "vocal_version": 1,
+  "singer": "白丸美兎、猫足蕾",
+  "name": "Enter Enter MISSION！",
+  "music_time_second": 95,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402,
+   404
+  ]
+ },
+ {
+  "id": 22301,
+  "music_master_id": 223,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "愛に生きる喜びを",
+  "music_time_second": 126,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 22401,
+  "music_master_id": 224,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ",
+  "name": "黄昏時、夏の余韻",
+  "music_time_second": 133,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   304
+  ]
+ },
+ {
+  "id": 22501,
+  "music_master_id": 225,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、千寿いろは",
+  "name": "VIVID BIT AT HOME！",
+  "music_time_second": 105,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   401
+  ]
+ },
+ {
+  "id": 22601,
+  "music_master_id": 226,
+  "vocal_version": 1,
+  "singer": "本巣叶羽",
+  "name": "ナツのキオクのナイショのホンネ！",
+  "music_time_second": 132,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   405
+  ]
+ },
+ {
+  "id": 22701,
+  "music_master_id": 227,
+  "vocal_version": 1,
+  "singer": "静香、カトリナ・グリーベル",
+  "name": "星に出逢えた夜に歌って",
+  "music_time_second": 137,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102,
+   103
+  ]
+ },
+ {
+  "id": 22801,
+  "music_master_id": 228,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、リリヤ・クルトベイ",
+  "name": "Gazing Dialogue Play",
+  "music_time_second": 107,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   304
+  ]
+ },
+ {
+  "id": 22901,
+  "music_master_id": 229,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ、烏森大黒",
+  "name": "陰陽幻燈譚",
+  "music_time_second": 126,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202,
+   302
+  ]
+ },
+ {
+  "id": 23001,
+  "music_master_id": 230,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+  "name": "STARRY STORY！",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 23101,
+  "music_master_id": 231,
+  "vocal_version": 1,
+  "singer": "流石知冴、白丸美兎",
+  "name": "ハロー・マイ・ロケット",
+  "music_time_second": 128,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106,
+   402
+  ]
+ },
+ {
+  "id": 23201,
+  "music_master_id": 232,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ、与那国緋花里",
+  "name": "五条大橋の妖しき化生",
+  "music_time_second": 124,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302,
+   305
+  ]
+ },
+ {
+  "id": 23301,
+  "music_master_id": 233,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "Aschenputtel",
+  "music_time_second": 111,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 23601,
+  "music_master_id": 236,
+  "vocal_version": 1,
+  "singer": "烏森大黒、舎人仁花子",
+  "name": "カルペ・ディエム",
+  "music_time_second": 157,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   202,
+   203
+  ]
+ },
+ {
+  "id": 23701,
+  "music_master_id": 237,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ",
+  "name": "誰ガ為ノサダメ",
+  "music_time_second": 96,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302
+  ]
+ },
+ {
+  "id": 23801,
+  "music_master_id": 238,
+  "vocal_version": 1,
+  "singer": "舎人仁花子",
+  "name": "Vivid-day Happy-day Boost!",
+  "music_time_second": 121,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203
+  ]
+ },
+ {
+  "id": 23901,
+  "music_master_id": 239,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ、猫足蕾",
+  "name": "ヴィヴァラヰタ",
+  "music_time_second": 107,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105,
+   404
+  ]
+ },
+ {
+  "id": 24001,
+  "music_master_id": 240,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "This game",
+  "music_time_second": 122,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 24101,
+  "music_master_id": 241,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+  "name": "テアトルム・アストラーレ",
+  "music_time_second": 112,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 24201,
+  "music_master_id": 242,
+  "vocal_version": 1,
+  "singer": "鳳ここな、千寿いろは",
+  "name": "開運御礼初詣！",
+  "music_time_second": 103,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   401
+  ]
+ },
+ {
+  "id": 24301,
+  "music_master_id": 243,
+  "vocal_version": 1,
+  "singer": "静香、王雪",
+  "name": "バブリック・ビューイング！",
+  "music_time_second": 109,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102,
+   303
+  ]
+ },
+ {
+  "id": 24401,
+  "music_master_id": 244,
+  "vocal_version": 1,
+  "singer": "猫足蕾",
+  "name": "錆びついた胸に一雫の心を",
+  "music_time_second": 131,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   404
+  ]
+ },
+ {
+  "id": 24501,
+  "music_master_id": 245,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ、与那国緋花里、王雪",
+  "name": "未来への前奏曲-Prelude-",
+  "music_time_second": 137,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 24601,
+  "music_master_id": 246,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "Astral×Relation",
+  "music_time_second": 94,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 24701,
+  "music_master_id": 247,
+  "vocal_version": 1,
+  "singer": "千寿いろは、本巣叶羽",
+  "name": "空っぽのギフトボックス",
+  "music_time_second": 101,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   405
+  ]
+ },
+ {
+  "id": 24801,
+  "music_master_id": 248,
+  "vocal_version": 1,
+  "singer": "萬容",
+  "name": "八躯モ断ツ剣ノ傍デ",
+  "music_time_second": 106,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204
+  ]
+ },
+ {
+  "id": 24901,
+  "music_master_id": 249,
+  "vocal_version": 1,
+  "singer": "-",
+  "name": "Stellarium Collection Vol.1",
+  "music_time_second": 147,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": []
+ },
+ {
+  "id": 25101,
+  "music_master_id": 251,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ、与那国緋花里",
+  "name": "情熱と歓喜のCarnaval！",
+  "music_time_second": 119,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205,
+   305
+  ]
+ },
+ {
+  "id": 25201,
+  "music_master_id": 252,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "劇団電姫すいっちおん！",
+  "music_time_second": 98,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 25301,
+  "music_master_id": 253,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ",
+  "name": "FUN×FUN☆SEEKER!!",
+  "music_time_second": 111,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105
+  ]
+ },
+ {
+  "id": 25401,
+  "music_master_id": 254,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "The other side of the mirror",
+  "music_time_second": 108,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 25501,
+  "music_master_id": 255,
+  "vocal_version": 1,
+  "singer": "舎人仁花子",
+  "name": "私の愛は愛を殺す",
+  "music_time_second": 118,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203
+  ]
+ },
+ {
+  "id": 25601,
+  "music_master_id": 256,
+  "vocal_version": 1,
+  "singer": "千寿いろは、本巣叶羽",
+  "name": "Besties' Place!",
+  "music_time_second": 115,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   405
+  ]
+ },
+ {
+  "id": 25701,
+  "music_master_id": 257,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "ふろうてぃんぐ・ていすてぃ",
+  "music_time_second": 117,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 25801,
+  "music_master_id": 258,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、萬容",
+  "name": "非対称性のダンス",
+  "music_time_second": 101,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   204
+  ]
+ },
+ {
+  "id": 25901,
+  "music_master_id": 259,
+  "vocal_version": 1,
+  "singer": "新妻八恵、白丸美兎",
+  "name": "Fly to the WORLD",
+  "music_time_second": 100,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104,
+   402
+  ]
+ },
+ {
+  "id": 26001,
+  "music_master_id": 260,
+  "vocal_version": 1,
+  "singer": "萬容、王雪",
+  "name": "雨に願えば",
+  "music_time_second": 108,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204,
+   303
+  ]
+ },
+ {
+  "id": 26101,
+  "music_master_id": 261,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
+  "name": "Make New Testament",
+  "music_time_second": 105,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ]
+ },
+ {
+  "id": 26201,
+  "music_master_id": 262,
+  "vocal_version": 1,
+  "singer": "新妻八恵、流石知冴",
+  "name": "エクストラ・エキストラ！ -Extra Extra-",
+  "music_time_second": 140,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104,
+   106
+  ]
+ },
+ {
+  "id": 26301,
+  "music_master_id": 263,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香",
+  "name": "LIVE OUR STAR",
+  "music_time_second": 160,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 26401,
+  "music_master_id": 264,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、千寿いろは、千寿暦",
+  "name": "LIFE IS BEAUTIFUL STAGE",
+  "music_time_second": 119,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   301,
+   401
+  ]
+ },
+ {
+  "id": 26501,
+  "music_master_id": 265,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香",
+  "name": "ワールドダイスター！",
+  "music_time_second": 105,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 90101,
+  "music_master_id": 901,
+  "vocal_version": 1,
+  "singer": "-",
+  "name": "星の地図に軌跡を描いて",
+  "music_time_second": 139,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 90201,
+  "music_master_id": 902,
+  "vocal_version": 1,
+  "singer": "-",
+  "name": "Beyond the Truth",
+  "music_time_second": 137,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ]
+ },
+ {
+  "id": 90301,
+  "music_master_id": 903,
+  "vocal_version": 1,
+  "singer": "-",
+  "name": "ネビュラ・プレミエール",
+  "music_time_second": 150,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 90401,
+  "music_master_id": 904,
+  "vocal_version": 1,
+  "singer": "-",
+  "name": "でん☆げき《もあ》ぶーーーーーすと！！！！！",
+  "music_time_second": 155,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 999901,
+  "music_master_id": 9999,
+  "vocal_version": 1,
+  "singer": "tutorial",
+  "name": "TUTORIAL",
+  "music_time_second": 117,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 1000501,
+  "music_master_id": 10005,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "悠久月華（Long Ver.）",
+  "music_time_second": 282,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 1000901,
+  "music_master_id": 10009,
+  "vocal_version": 1,
+  "singer": "白丸美兎、本巣叶羽、千寿いろは",
+  "name": "Drawing World （Long Ver.）",
+  "music_time_second": 252,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402,
+   405
+  ]
+ },
+ {
+  "id": 1001201,
+  "music_master_id": 10012,
+  "vocal_version": 1,
+  "singer": "新妻八恵、鳳ここな",
+  "name": "Masquerade（Long Ver.）",
+  "music_time_second": 233,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   101,
+   104
+  ]
+ },
+ {
+  "id": 1001701,
+  "music_master_id": 10017,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+  "name": "シリウスの輝きのように（Long Ver.）",
+  "music_time_second": 254,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 1001901,
+  "music_master_id": 10019,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
+  "name": "Faith in Expression（Long Ver.）",
+  "music_time_second": 261,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ]
+ },
+ {
+  "id": 1002101,
+  "music_master_id": 10021,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+  "name": "プラネタリウム・レヴュー（Long Ver.）",
+  "music_time_second": 219,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 1002301,
+  "music_master_id": 10023,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "デアエ・エクス・マキナ！（Long Ver.）",
+  "music_time_second": 211,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 1002501,
+  "music_master_id": 10025,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香",
+  "name": "Binary Star（Long Ver.）",
+  "music_time_second": 252,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 1002701,
+  "music_master_id": 10027,
+  "vocal_version": 1,
+  "singer": "千寿暦、ラモーナ・ウォルフ",
+  "name": "情熱リベレイション（Long Ver.）",
+  "music_time_second": 227,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301,
+   302
+  ]
+ },
+ {
+  "id": 1002801,
+  "music_master_id": 10028,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎",
+  "name": "プレイ・マイ・フェイバリット!!（Long Ver.）",
+  "music_time_second": 222,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402
+  ]
+ },
+ {
+  "id": 1002901,
+  "music_master_id": 10029,
+  "vocal_version": 1,
+  "singer": "流石知冴、柊望有",
+  "name": "幾億の星の空で（Long Ver.）",
+  "music_time_second": 244,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 1003001,
+  "music_master_id": 10030,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、舎人仁花子",
+  "name": "純粋と奔放（Long Ver.）",
+  "music_time_second": 276,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   203
+  ]
+ },
+ {
+  "id": 1004401,
+  "music_master_id": 10044,
+  "vocal_version": 1,
+  "singer": "本巣叶羽",
+  "name": "アタシのアシタはアタシがキメル（Long Ver.）",
+  "music_time_second": 214,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   405
+  ]
+ },
+ {
+  "id": 1004501,
+  "music_master_id": 10045,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "Blondie Revenge Tragedy（Long Ver.）",
+  "music_time_second": 205,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 1004601,
+  "music_master_id": 10046,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル",
+  "name": "Fernweh（Long Ver.）",
+  "music_time_second": 234,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   103
+  ]
+ },
+ {
+  "id": 1004701,
+  "music_master_id": 10047,
+  "vocal_version": 1,
+  "singer": "猫足蕾、阿岐留カミラ",
+  "name": "サマーバカンス☆アクトレス！（Long Ver.）",
+  "music_time_second": 230,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403,
+   404
+  ]
+ },
+ {
+  "id": 1004801,
+  "music_master_id": 10048,
+  "vocal_version": 1,
+  "singer": "静香",
+  "name": "I Wanna（Long Ver.）",
+  "music_time_second": 234,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   102
+  ]
+ },
+ {
+  "id": 1005001,
+  "music_master_id": 10050,
+  "vocal_version": 1,
+  "singer": "与那国緋花里",
+  "name": "てぃだんちゅ MEETS てぃんがーら！（Long Ver.）",
+  "music_time_second": 224,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   305
+  ]
+ },
+ {
+  "id": 1005101,
+  "music_master_id": 10051,
+  "vocal_version": 1,
+  "singer": "王雪、リリヤ・クルトベイ",
+  "name": "夏の夜空に光る雪（Long Ver.）",
+  "music_time_second": 240,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303,
+   304
+  ]
+ },
+ {
+  "id": 1005301,
+  "music_master_id": 10053,
+  "vocal_version": 1,
+  "singer": "猫足蕾、阿岐留カミラ",
+  "name": "電脳スペクタクル（Long Ver.）",
+  "music_time_second": 210,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   403,
+   404
+  ]
+ },
+ {
+  "id": 1005401,
+  "music_master_id": 10054,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "ひとりの夜のフィルモグラフィー（Long Ver.）",
+  "music_time_second": 236,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 1005701,
+  "music_master_id": 10057,
+  "vocal_version": 1,
+  "singer": "烏森大黒",
+  "name": "Black Diary（Long Ver.）",
+  "music_time_second": 256,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202
+  ]
+ },
+ {
+  "id": 1005801,
+  "music_master_id": 10058,
+  "vocal_version": 1,
+  "singer": "柳場ぱんだ",
+  "name": "Pandastic Stage!（Long Ver.）",
+  "music_time_second": 233,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   105
+  ]
+ },
+ {
+  "id": 1006101,
+  "music_master_id": 10061,
+  "vocal_version": 1,
+  "singer": "千寿暦",
+  "name": "巡る暦の花のように（Long Ver.）",
+  "music_time_second": 220,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   301
+  ]
+ },
+ {
+  "id": 1006401,
+  "music_master_id": 10064,
+  "vocal_version": 1,
+  "singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "きらり！マジカリュー・スマイル！（Long Ver.）",
+  "music_time_second": 215,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 1006601,
+  "music_master_id": 10066,
+  "vocal_version": 1,
+  "singer": "筆島しぐれ",
+  "name": "Forbidden Fruit Addiction（Long Ver.）",
+  "music_time_second": 248,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   205
+  ]
+ },
+ {
+  "id": 1006801,
+  "music_master_id": 10068,
+  "vocal_version": 1,
+  "singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴、連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ、千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里、千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+  "name": "夢のステラリウム（Long Ver.）",
+  "music_time_second": 210,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 1007001,
+  "music_master_id": 10070,
+  "vocal_version": 1,
+  "singer": "萬容、烏森大黒",
+  "name": "ちいさないのちのさけるばしょ（Long Ver.）",
+  "music_time_second": 255,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   202,
+   204
+  ]
+ },
+ {
+  "id": 1007101,
+  "music_master_id": 10071,
+  "vocal_version": 1,
+  "singer": "千寿いろは",
+  "name": "いろはうたBLOOMING（Long Ver.）",
+  "music_time_second": 198,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   401
+  ]
+ },
+ {
+  "id": 1007301,
+  "music_master_id": 10073,
+  "vocal_version": 1,
+  "singer": "静香、鳳ここな",
+  "name": "フタリノスタルジア（Long Ver.）",
+  "music_time_second": 257,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 1007401,
+  "music_master_id": 10074,
+  "vocal_version": 1,
+  "singer": "阿岐留カミラ",
+  "name": "Get to Act Life♡（Long Ver.）",
+  "music_time_second": 168,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   403
+  ]
+ },
+ {
+  "id": 1007601,
+  "music_master_id": 10076,
+  "vocal_version": 1,
+  "singer": "猫足蕾",
+  "name": "不可逆的運命ディストピア（Long Ver.）",
+  "music_time_second": 244,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   404
+  ]
+ },
+ {
+  "id": 1007701,
+  "music_master_id": 10077,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ、ラモーナ・ウォルフ",
+  "name": "小さな奇跡の降る夜に（Long Ver.）",
+  "music_time_second": 232,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302,
+   304
+  ]
+ },
+ {
+  "id": 1007901,
+  "music_master_id": 10079,
+  "vocal_version": 1,
+  "singer": "カトリナ・グリーベル、鳳ここな、静香",
+  "name": "HAPPY NEW SHOW TIME!（Long Ver.）",
+  "music_time_second": 236,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101,
+   102,
+   103
+  ]
+ },
+ {
+  "id": 1008201,
+  "music_master_id": 10082,
+  "vocal_version": 1,
+  "singer": "鳳ここな",
+  "name": "アイ・ウィル！（Long Ver.）",
+  "music_time_second": 244,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   101
+  ]
+ },
+ {
+  "id": 1009201,
+  "music_master_id": 10092,
+  "vocal_version": 1,
+  "singer": "リリヤ・クルトベイ",
+  "name": "Crystal Bell（Long Ver.）",
+  "music_time_second": 250,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   304
+  ]
+ },
+ {
+  "id": 1009301,
+  "music_master_id": 10093,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "St. Bitter Sweet（Long Ver.）",
+  "music_time_second": 234,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 1009401,
+  "music_master_id": 10094,
+  "vocal_version": 1,
+  "singer": "萬容",
+  "name": "賭世遊戯（Long Ver.）",
+  "music_time_second": 196,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   204
+  ]
+ },
+ {
+  "id": 1009701,
+  "music_master_id": 10097,
+  "vocal_version": 1,
+  "singer": "流石知冴",
+  "name": "To B-eat, or not to B-eat!（Long Ver.）",
+  "music_time_second": 206,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   106
+  ]
+ },
+ {
+  "id": 1010001,
+  "music_master_id": 10100,
+  "vocal_version": 1,
+  "singer": "新妻八恵",
+  "name": "Singin' little blue bird（Long Ver.）",
+  "music_time_second": 222,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   104
+  ]
+ },
+ {
+  "id": 1010401,
+  "music_master_id": 10104,
+  "vocal_version": 1,
+  "singer": "白丸美兎",
+  "name": "夕焼け色は始まりの色（Long Ver.）",
+  "music_time_second": 256,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   402
+  ]
+ },
+ {
+  "id": 1010501,
+  "music_master_id": 10105,
+  "vocal_version": 1,
+  "singer": "萬容、舎人仁花子",
+  "name": "銀月照らす美しき罪（Long Ver.）",
+  "music_time_second": 228,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203,
+   204
+  ]
+ },
+ {
+  "id": 1010601,
+  "music_master_id": 10106,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ",
+  "name": "アクト・レゾナンス（Long Ver.）",
+  "music_time_second": 237,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   302
+  ]
+ },
+ {
+  "id": 1010801,
+  "music_master_id": 10108,
+  "vocal_version": 1,
+  "singer": "連尺野初魅",
+  "name": "Thirsty Soul（Long Ver.）",
+  "music_time_second": 208,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201
+  ]
+ },
+ {
+  "id": 1010901,
+  "music_master_id": 10109,
+  "vocal_version": 1,
+  "singer": "静香",
+  "name": "Wish upon a star（Long Ver.）",
+  "music_time_second": 238,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   102
+  ]
+ },
+ {
+  "id": 1011001,
+  "music_master_id": 10110,
+  "vocal_version": 1,
+  "singer": "舎人仁花子",
+  "name": "ワンダフル・フラワー・ガーデン！（Long Ver.）",
+  "music_time_second": 220,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   203
+  ]
+ },
+ {
+  "id": 1011201,
+  "music_master_id": 10112,
+  "vocal_version": 1,
+  "singer": "王雪",
+  "name": "マン・ハン・チュエンシー!!（Long Ver.）",
+  "music_time_second": 208,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303
+  ]
+ },
+ {
+  "id": 1011301,
+  "music_master_id": 10113,
+  "vocal_version": 1,
+  "singer": "与那国緋花里、王雪",
+  "name": "雪は春に、そして花束を（Long Ver.）",
+  "music_time_second": 252,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   303,
+   305
+  ]
+ },
+ {
+  "id": 1017201,
+  "music_master_id": 10172,
+  "vocal_version": 1,
+  "singer": "高海千歌、桜内梨子、黒澤ダイヤ、津島善子、黒澤ルビィ",
+  "name": "青空Jumping Heart",
+  "music_time_second": 97,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 1,
+  "characters": [
+   101,
+   102,
+   201,
+   301,
+   401
+  ]
+ },
+ {
+  "id": 1017901,
+  "music_master_id": 10179,
+  "vocal_version": 1,
+  "singer": "ラモーナ・ウォルフ、リリヤ・クルトベイ",
+  "name": "ヱテルナ・ガラクシア（Long Ver.）",
+  "music_time_second": 197,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 2,
+  "characters": [
+   302,
+   304
+  ]
+ },
+ {
+  "id": 1018101,
+  "music_master_id": 10181,
+  "vocal_version": 1,
+  "singer": "連尺野初魅、筆島しぐれ",
+  "name": "トーキョー・ウィンター・ミュージック（Long Ver.）",
+  "music_time_second": 161,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": [
+   201,
+   205
+  ]
+ },
+ {
+  "id": 1024901,
+  "music_master_id": 10249,
+  "vocal_version": 1,
+  "singer": "-",
+  "name": "Stellarium Collection Vol.1（Long Ver.）",
+  "music_time_second": 260,
+  "sample_start_seconds": 0.0,
+  "sample_end_seconds": 0.0,
+  "music_video_type": 0,
+  "characters": []
+ }
+]

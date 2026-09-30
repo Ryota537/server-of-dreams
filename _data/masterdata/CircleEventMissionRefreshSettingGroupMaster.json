@@ -1,0 +1,27 @@
+[
+ {
+  "id": 1,
+  "settings": [
+   {
+    "min_refresh_count": 0,
+    "max_refresh_count": 20,
+    "required_coin": 5000
+   },
+   {
+    "min_refresh_count": 21,
+    "max_refresh_count": 50,
+    "required_coin": 10000
+   },
+   {
+    "min_refresh_count": 51,
+    "max_refresh_count": 100,
+    "required_coin": 50000
+   },
+   {
+    "min_refresh_count": 100,
+    "max_refresh_count": 9999999,
+    "required_coin": 100000
+   }
+  ]
+ }
+]

@@ -1,0 +1,155 @@
+[
+ {
+  "id": 2000301,
+  "story_event_master_id": 20003,
+  "title": "スコアを獲得しよう",
+  "count_unit": "",
+  "goal_count": 10000,
+  "max_phase": 150000,
+  "give_point_at_goal": 1
+ },
+ {
+  "id": 2000302,
+  "story_event_master_id": 20003,
+  "title": "ライフを1000以上残して公演をクリアしよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 200,
+  "give_point_at_goal": 328
+ },
+ {
+  "id": 2000303,
+  "story_event_master_id": 20003,
+  "title": "FULL COMBO以上を達成しよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 100,
+  "give_point_at_goal": 611
+ },
+ {
+  "id": 2000304,
+  "story_event_master_id": 20003,
+  "title": "ALL PERFECTを達成しよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 20,
+  "give_point_at_goal": 3218
+ },
+ {
+  "id": 2000305,
+  "story_event_master_id": 20003,
+  "title": "PERFECT以上の判定を取ろう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 200000,
+  "give_point_at_goal": 1
+ },
+ {
+  "id": 2000306,
+  "story_event_master_id": 20003,
+  "title": "劇団シリウスに所属するアクターのみが歌唱している楽曲をクリアしよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 100,
+  "give_point_at_goal": 372
+ },
+ {
+  "id": 2000307,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』をクリアしよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 50,
+  "give_point_at_goal": 587
+ },
+ {
+  "id": 2000308,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』の難易度NORMALをクリアしよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 15,
+  "give_point_at_goal": 151
+ },
+ {
+  "id": 2000309,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』の難易度HARDをクリアしよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 15,
+  "give_point_at_goal": 308
+ },
+ {
+  "id": 2000310,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』の難易度EXTRAをクリアしよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 15,
+  "give_point_at_goal": 471
+ },
+ {
+  "id": 2000311,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』の難易度STELLAをクリアしよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 15,
+  "give_point_at_goal": 584
+ },
+ {
+  "id": 2000312,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』のいずれかの難易度でFULL COMBO以上を達成しよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 50,
+  "give_point_at_goal": 912
+ },
+ {
+  "id": 2000313,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』の難易度EXTRAでFULL COMBO以上を達成しよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 10,
+  "give_point_at_goal": 2823
+ },
+ {
+  "id": 2000314,
+  "story_event_master_id": 20003,
+  "title": "楽曲『パーティー・ジョーク・シンデレラ』の難易度STELLAでFULL COMBO以上を達成しよう",
+  "count_unit": "回",
+  "goal_count": 1,
+  "max_phase": 10,
+  "give_point_at_goal": 5645
+ },
+ {
+  "id": 2000315,
+  "story_event_master_id": 20003,
+  "title": "新妻 八恵のスターアクトを発動しよう",
+  "count_unit": "PT",
+  "goal_count": 1,
+  "max_phase": 100,
+  "give_point_at_goal": 394
+ },
+ {
+  "id": 2000316,
+  "story_event_master_id": 20003,
+  "title": "スタミナを消費しよう",
+  "count_unit": "PT",
+  "goal_count": 1,
+  "max_phase": 50000,
+  "give_point_at_goal": 2
+ },
+ {
+  "id": 2000317,
+  "story_event_master_id": 20003,
+  "title": "イベントポイントを獲得しよう",
+  "count_unit": "PT",
+  "goal_count": 100,
+  "max_phase": 100000,
+  "give_point_at_goal": 1
+ }
+]

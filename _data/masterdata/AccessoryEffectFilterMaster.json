@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "effect_type": 11,
+  "name": "演技力アップ",
+  "start_date": "2024-06-30T17:00:00+00:00",
+  "order": 1
+ },
+ {
+  "id": 2,
+  "effect_type": 5,
+  "name": "歌唱力アップ",
+  "start_date": "2000-01-01T00:00:00+00:00",
+  "order": 2
+ },
+ {
+  "id": 3,
+  "effect_type": 6,
+  "name": "表現力アップ",
+  "start_date": "2000-01-01T00:00:00+00:00",
+  "order": 3
+ },
+ {
+  "id": 4,
+  "effect_type": 7,
+  "name": "集中力アップ",
+  "start_date": "2000-01-01T00:00:00+00:00",
+  "order": 4
+ },
+ {
+  "id": 5,
+  "effect_type": 37,
+  "name": "初期P.ゲージ上昇",
+  "start_date": "2000-01-01T00:00:00+00:00",
+  "order": 5
+ },
+ {
+  "id": 6,
+  "effect_type": 20,
+  "name": "CTダウン",
+  "start_date": "2000-01-01T00:00:00+00:00",
+  "order": 8
+ },
+ {
+  "id": 7,
+  "effect_type": 40,
+  "name": "P.ゲージ獲得量アップ ",
+  "start_date": "2024-05-31T17:00:00+00:00",
+  "order": 6
+ },
+ {
+  "id": 8,
+  "effect_type": 41,
+  "name": "初期PG上限",
+  "start_date": "2025-06-30T17:00:00+00:00",
+  "order": 7
+ }
+]

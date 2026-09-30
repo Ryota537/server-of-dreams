@@ -1,0 +1,506 @@
+[
+ {
+  "id": 1802,
+  "gacha_master_id": 1802,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1820,
+  "gacha_master_id": 1820,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1821,
+  "gacha_master_id": 1821,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1823,
+  "gacha_master_id": 1823,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1830,
+  "gacha_master_id": 1830,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1832,
+  "gacha_master_id": 1832,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1835,
+  "gacha_master_id": 1835,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1843,
+  "gacha_master_id": 1843,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1844,
+  "gacha_master_id": 1844,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1845,
+  "gacha_master_id": 1845,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1846,
+  "gacha_master_id": 1846,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1847,
+  "gacha_master_id": 1847,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1850,
+  "gacha_master_id": 1850,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1938,
+  "gacha_master_id": 1938,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1962,
+  "gacha_master_id": 1962,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1963,
+  "gacha_master_id": 1963,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1964,
+  "gacha_master_id": 1964,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1965,
+  "gacha_master_id": 1965,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1966,
+  "gacha_master_id": 1966,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1967,
+  "gacha_master_id": 1967,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1968,
+  "gacha_master_id": 1968,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1969,
+  "gacha_master_id": 1969,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1970,
+  "gacha_master_id": 1970,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1971,
+  "gacha_master_id": 1971,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1972,
+  "gacha_master_id": 1972,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1973,
+  "gacha_master_id": 1973,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1974,
+  "gacha_master_id": 1974,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1975,
+  "gacha_master_id": 1975,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 1976,
+  "gacha_master_id": 1976,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2962,
+  "gacha_master_id": 2962,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2963,
+  "gacha_master_id": 2963,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2964,
+  "gacha_master_id": 2964,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2965,
+  "gacha_master_id": 2965,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2966,
+  "gacha_master_id": 2966,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2967,
+  "gacha_master_id": 2967,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2968,
+  "gacha_master_id": 2968,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2969,
+  "gacha_master_id": 2969,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2970,
+  "gacha_master_id": 2970,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2971,
+  "gacha_master_id": 2971,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2972,
+  "gacha_master_id": 2972,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2973,
+  "gacha_master_id": 2973,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2974,
+  "gacha_master_id": 2974,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2975,
+  "gacha_master_id": 2975,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 2976,
+  "gacha_master_id": 2976,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3002,
+  "gacha_master_id": 3002,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3003,
+  "gacha_master_id": 3003,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3005,
+  "gacha_master_id": 3005,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3007,
+  "gacha_master_id": 3007,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3008,
+  "gacha_master_id": 3008,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3009,
+  "gacha_master_id": 3009,
+  "min_select_count": 5,
+  "max_select_count": 5,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3010,
+  "gacha_master_id": 3010,
+  "min_select_count": 5,
+  "max_select_count": 5,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3011,
+  "gacha_master_id": 3011,
+  "min_select_count": 5,
+  "max_select_count": 5,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3012,
+  "gacha_master_id": 3012,
+  "min_select_count": 5,
+  "max_select_count": 5,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3013,
+  "gacha_master_id": 3013,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3014,
+  "gacha_master_id": 3014,
+  "min_select_count": 3,
+  "max_select_count": 3,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3016,
+  "gacha_master_id": 3016,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3018,
+  "gacha_master_id": 3018,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3019,
+  "gacha_master_id": 3019,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3022,
+  "gacha_master_id": 3022,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3023,
+  "gacha_master_id": 3023,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3024,
+  "gacha_master_id": 3024,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 3027,
+  "gacha_master_id": 3027,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 4026,
+  "gacha_master_id": 4026,
+  "min_select_count": 3,
+  "max_select_count": 3,
+  "fixed_prize_pickup_only": true
+ },
+ {
+  "id": 4029,
+  "gacha_master_id": 4029,
+  "min_select_count": 4,
+  "max_select_count": 4,
+  "fixed_prize_pickup_only": true
+ },
+ {
+  "id": 5000,
+  "gacha_master_id": 5000,
+  "min_select_count": 1,
+  "max_select_count": 1,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 5001,
+  "gacha_master_id": 5001,
+  "min_select_count": 1,
+  "max_select_count": 1,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 5003,
+  "gacha_master_id": 5003,
+  "min_select_count": 1,
+  "max_select_count": 1,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 5008,
+  "gacha_master_id": 5008,
+  "min_select_count": 1,
+  "max_select_count": 1,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 5009,
+  "gacha_master_id": 5009,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 5015,
+  "gacha_master_id": 5015,
+  "min_select_count": 1,
+  "max_select_count": 1,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 5022,
+  "gacha_master_id": 5022,
+  "min_select_count": 1,
+  "max_select_count": 1,
+  "fixed_prize_pickup_only": false
+ },
+ {
+  "id": 5023,
+  "gacha_master_id": 5023,
+  "min_select_count": 2,
+  "max_select_count": 2,
+  "fixed_prize_pickup_only": false
+ }
+]

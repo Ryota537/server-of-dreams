@@ -1,0 +1,131 @@
+[
+ {
+  "id": 1,
+  "accessory_effects": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118
+  ]
+ },
+ {
+  "id": 2,
+  "accessory_effects": [
+   201,
+   202,
+   203
+  ]
+ },
+ {
+  "id": 3,
+  "accessory_effects": [
+   301,
+   302,
+   303
+  ]
+ },
+ {
+  "id": 4,
+  "accessory_effects": [
+   401
+  ]
+ },
+ {
+  "id": 5,
+  "accessory_effects": [
+   501,
+   502,
+   503,
+   504,
+   505,
+   506
+  ]
+ },
+ {
+  "id": 6,
+  "accessory_effects": [
+   601
+  ]
+ },
+ {
+  "id": 7,
+  "accessory_effects": [
+   701,
+   702,
+   703,
+   704,
+   705,
+   706
+  ]
+ },
+ {
+  "id": 8,
+  "accessory_effects": [
+   801
+  ]
+ },
+ {
+  "id": 9,
+  "accessory_effects": [
+   901,
+   902,
+   903,
+   904,
+   905,
+   906
+  ]
+ },
+ {
+  "id": 10,
+  "accessory_effects": [
+   1001
+  ]
+ },
+ {
+  "id": 11,
+  "accessory_effects": [
+   1101,
+   1102,
+   1103,
+   1104,
+   1105,
+   1106
+  ]
+ },
+ {
+  "id": 12,
+  "accessory_effects": [
+   1201
+  ]
+ },
+ {
+  "id": 13,
+  "accessory_effects": [
+   1301,
+   1302,
+   1303,
+   1304,
+   1305
+  ]
+ },
+ {
+  "id": 14,
+  "accessory_effects": [
+   1401
+  ]
+ }
+]

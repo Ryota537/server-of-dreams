@@ -1,0 +1,1802 @@
+[
+ {
+  "level": 1,
+  "experience_to_level_up": 30,
+  "character_status_level": 25,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 2,
+  "experience_to_level_up": 80,
+  "character_status_level": 31,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 3,
+  "experience_to_level_up": 140,
+  "character_status_level": 38,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 4,
+  "experience_to_level_up": 220,
+  "character_status_level": 45,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 5,
+  "experience_to_level_up": 300,
+  "character_status_level": 52,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 6,
+  "experience_to_level_up": 400,
+  "character_status_level": 60,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 7,
+  "experience_to_level_up": 500,
+  "character_status_level": 69,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 8,
+  "experience_to_level_up": 610,
+  "character_status_level": 78,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 9,
+  "experience_to_level_up": 720,
+  "character_status_level": 88,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 10,
+  "experience_to_level_up": 840,
+  "character_status_level": 99,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 11,
+  "experience_to_level_up": 970,
+  "character_status_level": 111,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 12,
+  "experience_to_level_up": 1100,
+  "character_status_level": 124,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 13,
+  "experience_to_level_up": 1230,
+  "character_status_level": 137,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 14,
+  "experience_to_level_up": 1370,
+  "character_status_level": 152,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 15,
+  "experience_to_level_up": 1520,
+  "character_status_level": 168,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 16,
+  "experience_to_level_up": 1670,
+  "character_status_level": 186,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 17,
+  "experience_to_level_up": 1820,
+  "character_status_level": 204,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 18,
+  "experience_to_level_up": 1980,
+  "character_status_level": 225,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 19,
+  "experience_to_level_up": 2140,
+  "character_status_level": 246,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 20,
+  "experience_to_level_up": 2310,
+  "character_status_level": 269,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 21,
+  "experience_to_level_up": 2470,
+  "character_status_level": 294,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 22,
+  "experience_to_level_up": 2650,
+  "character_status_level": 321,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 23,
+  "experience_to_level_up": 2820,
+  "character_status_level": 350,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 24,
+  "experience_to_level_up": 3000,
+  "character_status_level": 381,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 25,
+  "experience_to_level_up": 3190,
+  "character_status_level": 414,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 26,
+  "experience_to_level_up": 3370,
+  "character_status_level": 449,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 27,
+  "experience_to_level_up": 3560,
+  "character_status_level": 487,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 28,
+  "experience_to_level_up": 3760,
+  "character_status_level": 528,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 29,
+  "experience_to_level_up": 3950,
+  "character_status_level": 571,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 30,
+  "experience_to_level_up": 4150,
+  "character_status_level": 617,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 31,
+  "experience_to_level_up": 4360,
+  "character_status_level": 667,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 32,
+  "experience_to_level_up": 4560,
+  "character_status_level": 719,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 33,
+  "experience_to_level_up": 4770,
+  "character_status_level": 776,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 34,
+  "experience_to_level_up": 4980,
+  "character_status_level": 836,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 35,
+  "experience_to_level_up": 5200,
+  "character_status_level": 899,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 36,
+  "experience_to_level_up": 5410,
+  "character_status_level": 967,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 37,
+  "experience_to_level_up": 5630,
+  "character_status_level": 1040,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 38,
+  "experience_to_level_up": 5850,
+  "character_status_level": 1117,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 39,
+  "experience_to_level_up": 6080,
+  "character_status_level": 1199,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 40,
+  "experience_to_level_up": 6310,
+  "character_status_level": 1286,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 41,
+  "experience_to_level_up": 6540,
+  "character_status_level": 1379,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 42,
+  "experience_to_level_up": 6770,
+  "character_status_level": 1477,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 43,
+  "experience_to_level_up": 7000,
+  "character_status_level": 1582,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 44,
+  "experience_to_level_up": 7240,
+  "character_status_level": 1692,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 45,
+  "experience_to_level_up": 7480,
+  "character_status_level": 1810,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 46,
+  "experience_to_level_up": 7720,
+  "character_status_level": 1935,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 47,
+  "experience_to_level_up": 7970,
+  "character_status_level": 2068,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 48,
+  "experience_to_level_up": 8220,
+  "character_status_level": 2208,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 49,
+  "experience_to_level_up": 8470,
+  "character_status_level": 2357,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 50,
+  "experience_to_level_up": 8720,
+  "character_status_level": 2514,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 51,
+  "experience_to_level_up": 8970,
+  "character_status_level": 2564,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 52,
+  "experience_to_level_up": 9230,
+  "character_status_level": 2614,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 53,
+  "experience_to_level_up": 9490,
+  "character_status_level": 2664,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 54,
+  "experience_to_level_up": 9750,
+  "character_status_level": 2715,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 55,
+  "experience_to_level_up": 10010,
+  "character_status_level": 2765,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 56,
+  "experience_to_level_up": 10280,
+  "character_status_level": 2815,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 57,
+  "experience_to_level_up": 10540,
+  "character_status_level": 2865,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 58,
+  "experience_to_level_up": 10810,
+  "character_status_level": 2916,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 59,
+  "experience_to_level_up": 11080,
+  "character_status_level": 2966,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 60,
+  "experience_to_level_up": 11360,
+  "character_status_level": 3016,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 61,
+  "experience_to_level_up": 11630,
+  "character_status_level": 3067,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 62,
+  "experience_to_level_up": 11910,
+  "character_status_level": 3117,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 63,
+  "experience_to_level_up": 12190,
+  "character_status_level": 3167,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 64,
+  "experience_to_level_up": 12470,
+  "character_status_level": 3217,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 65,
+  "experience_to_level_up": 12750,
+  "character_status_level": 3268,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 66,
+  "experience_to_level_up": 13040,
+  "character_status_level": 3318,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 67,
+  "experience_to_level_up": 13330,
+  "character_status_level": 3368,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 68,
+  "experience_to_level_up": 13620,
+  "character_status_level": 3419,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 69,
+  "experience_to_level_up": 13910,
+  "character_status_level": 3469,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 70,
+  "experience_to_level_up": 15000,
+  "character_status_level": 3519,
+  "start_date": "2023-01-01T00:00:00+00:00"
+ },
+ {
+  "level": 71,
+  "experience_to_level_up": 16000,
+  "character_status_level": 3569,
+  "start_date": "2023-08-02T17:00:00+00:00"
+ },
+ {
+  "level": 72,
+  "experience_to_level_up": 17000,
+  "character_status_level": 3620,
+  "start_date": "2023-08-02T17:00:00+00:00"
+ },
+ {
+  "level": 73,
+  "experience_to_level_up": 18000,
+  "character_status_level": 3670,
+  "start_date": "2023-08-02T17:00:00+00:00"
+ },
+ {
+  "level": 74,
+  "experience_to_level_up": 19000,
+  "character_status_level": 3720,
+  "start_date": "2023-08-02T17:00:00+00:00"
+ },
+ {
+  "level": 75,
+  "experience_to_level_up": 20000,
+  "character_status_level": 3771,
+  "start_date": "2023-08-02T17:00:00+00:00"
+ },
+ {
+  "level": 76,
+  "experience_to_level_up": 21000,
+  "character_status_level": 3821,
+  "start_date": "2023-08-09T17:00:00+00:00"
+ },
+ {
+  "level": 77,
+  "experience_to_level_up": 22000,
+  "character_status_level": 3871,
+  "start_date": "2023-08-09T17:00:00+00:00"
+ },
+ {
+  "level": 78,
+  "experience_to_level_up": 23000,
+  "character_status_level": 3921,
+  "start_date": "2023-08-09T17:00:00+00:00"
+ },
+ {
+  "level": 79,
+  "experience_to_level_up": 24000,
+  "character_status_level": 3972,
+  "start_date": "2023-08-09T17:00:00+00:00"
+ },
+ {
+  "level": 80,
+  "experience_to_level_up": 25000,
+  "character_status_level": 4022,
+  "start_date": "2023-08-09T17:00:00+00:00"
+ },
+ {
+  "level": 81,
+  "experience_to_level_up": 26000,
+  "character_status_level": 4072,
+  "start_date": "2023-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 82,
+  "experience_to_level_up": 27000,
+  "character_status_level": 4122,
+  "start_date": "2023-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 83,
+  "experience_to_level_up": 28000,
+  "character_status_level": 4173,
+  "start_date": "2023-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 84,
+  "experience_to_level_up": 29000,
+  "character_status_level": 4223,
+  "start_date": "2023-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 85,
+  "experience_to_level_up": 30000,
+  "character_status_level": 4273,
+  "start_date": "2023-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 86,
+  "experience_to_level_up": 32000,
+  "character_status_level": 4324,
+  "start_date": "2023-08-29T17:00:00+00:00"
+ },
+ {
+  "level": 87,
+  "experience_to_level_up": 34000,
+  "character_status_level": 4374,
+  "start_date": "2023-08-29T17:00:00+00:00"
+ },
+ {
+  "level": 88,
+  "experience_to_level_up": 36000,
+  "character_status_level": 4424,
+  "start_date": "2023-08-29T17:00:00+00:00"
+ },
+ {
+  "level": 89,
+  "experience_to_level_up": 38000,
+  "character_status_level": 4474,
+  "start_date": "2023-08-29T17:00:00+00:00"
+ },
+ {
+  "level": 90,
+  "experience_to_level_up": 40000,
+  "character_status_level": 4525,
+  "start_date": "2023-08-29T17:00:00+00:00"
+ },
+ {
+  "level": 91,
+  "experience_to_level_up": 43000,
+  "character_status_level": 4575,
+  "start_date": "2023-09-09T17:00:00+00:00"
+ },
+ {
+  "level": 92,
+  "experience_to_level_up": 46000,
+  "character_status_level": 4625,
+  "start_date": "2023-09-09T17:00:00+00:00"
+ },
+ {
+  "level": 93,
+  "experience_to_level_up": 49000,
+  "character_status_level": 4676,
+  "start_date": "2023-09-09T17:00:00+00:00"
+ },
+ {
+  "level": 94,
+  "experience_to_level_up": 52000,
+  "character_status_level": 4726,
+  "start_date": "2023-09-09T17:00:00+00:00"
+ },
+ {
+  "level": 95,
+  "experience_to_level_up": 55000,
+  "character_status_level": 4776,
+  "start_date": "2023-09-09T17:00:00+00:00"
+ },
+ {
+  "level": 96,
+  "experience_to_level_up": 58000,
+  "character_status_level": 4826,
+  "start_date": "2023-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 97,
+  "experience_to_level_up": 61000,
+  "character_status_level": 4877,
+  "start_date": "2023-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 98,
+  "experience_to_level_up": 64000,
+  "character_status_level": 4927,
+  "start_date": "2023-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 99,
+  "experience_to_level_up": 67000,
+  "character_status_level": 4977,
+  "start_date": "2023-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 100,
+  "experience_to_level_up": 70000,
+  "character_status_level": 5028,
+  "start_date": "2023-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 101,
+  "experience_to_level_up": 70300,
+  "character_status_level": 5078,
+  "start_date": "2023-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 102,
+  "experience_to_level_up": 70600,
+  "character_status_level": 5128,
+  "start_date": "2023-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 103,
+  "experience_to_level_up": 70900,
+  "character_status_level": 5178,
+  "start_date": "2023-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 104,
+  "experience_to_level_up": 71200,
+  "character_status_level": 5229,
+  "start_date": "2023-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 105,
+  "experience_to_level_up": 71500,
+  "character_status_level": 5279,
+  "start_date": "2023-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 106,
+  "experience_to_level_up": 71800,
+  "character_status_level": 5329,
+  "start_date": "2023-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 107,
+  "experience_to_level_up": 72100,
+  "character_status_level": 5379,
+  "start_date": "2023-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 108,
+  "experience_to_level_up": 72400,
+  "character_status_level": 5430,
+  "start_date": "2023-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 109,
+  "experience_to_level_up": 72700,
+  "character_status_level": 5480,
+  "start_date": "2023-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 110,
+  "experience_to_level_up": 73000,
+  "character_status_level": 5530,
+  "start_date": "2023-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 111,
+  "experience_to_level_up": 73300,
+  "character_status_level": 5581,
+  "start_date": "2023-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 112,
+  "experience_to_level_up": 73600,
+  "character_status_level": 5631,
+  "start_date": "2023-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 113,
+  "experience_to_level_up": 73900,
+  "character_status_level": 5681,
+  "start_date": "2023-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 114,
+  "experience_to_level_up": 74200,
+  "character_status_level": 5731,
+  "start_date": "2023-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 115,
+  "experience_to_level_up": 74500,
+  "character_status_level": 5782,
+  "start_date": "2023-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 116,
+  "experience_to_level_up": 74800,
+  "character_status_level": 5832,
+  "start_date": "2024-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 117,
+  "experience_to_level_up": 75100,
+  "character_status_level": 5882,
+  "start_date": "2024-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 118,
+  "experience_to_level_up": 75400,
+  "character_status_level": 5933,
+  "start_date": "2024-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 119,
+  "experience_to_level_up": 75700,
+  "character_status_level": 5983,
+  "start_date": "2024-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 120,
+  "experience_to_level_up": 76000,
+  "character_status_level": 6033,
+  "start_date": "2024-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 121,
+  "experience_to_level_up": 76300,
+  "character_status_level": 6083,
+  "start_date": "2024-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 122,
+  "experience_to_level_up": 76600,
+  "character_status_level": 6134,
+  "start_date": "2024-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 123,
+  "experience_to_level_up": 76900,
+  "character_status_level": 6184,
+  "start_date": "2024-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 124,
+  "experience_to_level_up": 77200,
+  "character_status_level": 6234,
+  "start_date": "2024-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 125,
+  "experience_to_level_up": 77500,
+  "character_status_level": 6285,
+  "start_date": "2024-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 126,
+  "experience_to_level_up": 77800,
+  "character_status_level": 6335,
+  "start_date": "2024-03-20T17:00:00+00:00"
+ },
+ {
+  "level": 127,
+  "experience_to_level_up": 78100,
+  "character_status_level": 6385,
+  "start_date": "2024-03-20T17:00:00+00:00"
+ },
+ {
+  "level": 128,
+  "experience_to_level_up": 78400,
+  "character_status_level": 6435,
+  "start_date": "2024-03-20T17:00:00+00:00"
+ },
+ {
+  "level": 129,
+  "experience_to_level_up": 78700,
+  "character_status_level": 6486,
+  "start_date": "2024-03-20T17:00:00+00:00"
+ },
+ {
+  "level": 130,
+  "experience_to_level_up": 79000,
+  "character_status_level": 6536,
+  "start_date": "2024-03-20T17:00:00+00:00"
+ },
+ {
+  "level": 131,
+  "experience_to_level_up": 79300,
+  "character_status_level": 6586,
+  "start_date": "2024-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 132,
+  "experience_to_level_up": 79600,
+  "character_status_level": 6636,
+  "start_date": "2024-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 133,
+  "experience_to_level_up": 79900,
+  "character_status_level": 6687,
+  "start_date": "2024-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 134,
+  "experience_to_level_up": 80200,
+  "character_status_level": 6737,
+  "start_date": "2024-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 135,
+  "experience_to_level_up": 80500,
+  "character_status_level": 6787,
+  "start_date": "2024-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 136,
+  "experience_to_level_up": 80800,
+  "character_status_level": 6838,
+  "start_date": "2024-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 137,
+  "experience_to_level_up": 81100,
+  "character_status_level": 6888,
+  "start_date": "2024-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 138,
+  "experience_to_level_up": 81400,
+  "character_status_level": 6938,
+  "start_date": "2024-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 139,
+  "experience_to_level_up": 81700,
+  "character_status_level": 6988,
+  "start_date": "2024-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 140,
+  "experience_to_level_up": 82000,
+  "character_status_level": 7039,
+  "start_date": "2024-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 141,
+  "experience_to_level_up": 82300,
+  "character_status_level": 7089,
+  "start_date": "2024-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 142,
+  "experience_to_level_up": 82600,
+  "character_status_level": 7139,
+  "start_date": "2024-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 143,
+  "experience_to_level_up": 82900,
+  "character_status_level": 7190,
+  "start_date": "2024-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 144,
+  "experience_to_level_up": 83200,
+  "character_status_level": 7240,
+  "start_date": "2024-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 145,
+  "experience_to_level_up": 83500,
+  "character_status_level": 7290,
+  "start_date": "2024-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 146,
+  "experience_to_level_up": 83800,
+  "character_status_level": 7340,
+  "start_date": "2024-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 147,
+  "experience_to_level_up": 84100,
+  "character_status_level": 7391,
+  "start_date": "2024-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 148,
+  "experience_to_level_up": 84400,
+  "character_status_level": 7441,
+  "start_date": "2024-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 149,
+  "experience_to_level_up": 84700,
+  "character_status_level": 7491,
+  "start_date": "2024-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 150,
+  "experience_to_level_up": 85000,
+  "character_status_level": 7542,
+  "start_date": "2024-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 151,
+  "experience_to_level_up": 85300,
+  "character_status_level": 7592,
+  "start_date": "2024-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 152,
+  "experience_to_level_up": 85600,
+  "character_status_level": 7642,
+  "start_date": "2024-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 153,
+  "experience_to_level_up": 85900,
+  "character_status_level": 7692,
+  "start_date": "2024-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 154,
+  "experience_to_level_up": 86200,
+  "character_status_level": 7743,
+  "start_date": "2024-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 155,
+  "experience_to_level_up": 86500,
+  "character_status_level": 7793,
+  "start_date": "2024-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 156,
+  "experience_to_level_up": 86800,
+  "character_status_level": 7843,
+  "start_date": "2024-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 157,
+  "experience_to_level_up": 87100,
+  "character_status_level": 7893,
+  "start_date": "2024-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 158,
+  "experience_to_level_up": 87400,
+  "character_status_level": 7944,
+  "start_date": "2024-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 159,
+  "experience_to_level_up": 87700,
+  "character_status_level": 7994,
+  "start_date": "2024-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 160,
+  "experience_to_level_up": 88000,
+  "character_status_level": 8044,
+  "start_date": "2024-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 161,
+  "experience_to_level_up": 88500,
+  "character_status_level": 8095,
+  "start_date": "2024-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 162,
+  "experience_to_level_up": 89000,
+  "character_status_level": 8145,
+  "start_date": "2024-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 163,
+  "experience_to_level_up": 89500,
+  "character_status_level": 8195,
+  "start_date": "2024-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 164,
+  "experience_to_level_up": 90000,
+  "character_status_level": 8245,
+  "start_date": "2024-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 165,
+  "experience_to_level_up": 90500,
+  "character_status_level": 8296,
+  "start_date": "2024-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 166,
+  "experience_to_level_up": 91000,
+  "character_status_level": 8346,
+  "start_date": "2024-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 167,
+  "experience_to_level_up": 91500,
+  "character_status_level": 8396,
+  "start_date": "2024-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 168,
+  "experience_to_level_up": 92000,
+  "character_status_level": 8447,
+  "start_date": "2024-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 169,
+  "experience_to_level_up": 92500,
+  "character_status_level": 8497,
+  "start_date": "2024-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 170,
+  "experience_to_level_up": 93000,
+  "character_status_level": 8547,
+  "start_date": "2024-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 171,
+  "experience_to_level_up": 93500,
+  "character_status_level": 8597,
+  "start_date": "2024-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 172,
+  "experience_to_level_up": 94000,
+  "character_status_level": 8648,
+  "start_date": "2024-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 173,
+  "experience_to_level_up": 94500,
+  "character_status_level": 8698,
+  "start_date": "2024-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 174,
+  "experience_to_level_up": 95000,
+  "character_status_level": 8748,
+  "start_date": "2024-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 175,
+  "experience_to_level_up": 95500,
+  "character_status_level": 8799,
+  "start_date": "2024-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 176,
+  "experience_to_level_up": 96000,
+  "character_status_level": 8849,
+  "start_date": "2025-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 177,
+  "experience_to_level_up": 96500,
+  "character_status_level": 8899,
+  "start_date": "2025-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 178,
+  "experience_to_level_up": 97000,
+  "character_status_level": 8949,
+  "start_date": "2025-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 179,
+  "experience_to_level_up": 97500,
+  "character_status_level": 9000,
+  "start_date": "2025-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 180,
+  "experience_to_level_up": 98000,
+  "character_status_level": 9050,
+  "start_date": "2025-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 181,
+  "experience_to_level_up": 99000,
+  "character_status_level": 9100,
+  "start_date": "2025-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 182,
+  "experience_to_level_up": 100000,
+  "character_status_level": 9150,
+  "start_date": "2025-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 183,
+  "experience_to_level_up": 101000,
+  "character_status_level": 9201,
+  "start_date": "2025-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 184,
+  "experience_to_level_up": 102000,
+  "character_status_level": 9251,
+  "start_date": "2025-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 185,
+  "experience_to_level_up": 103000,
+  "character_status_level": 9301,
+  "start_date": "2025-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 186,
+  "experience_to_level_up": 104000,
+  "character_status_level": 9352,
+  "start_date": "2025-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 187,
+  "experience_to_level_up": 105000,
+  "character_status_level": 9402,
+  "start_date": "2025-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 188,
+  "experience_to_level_up": 106000,
+  "character_status_level": 9452,
+  "start_date": "2025-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 189,
+  "experience_to_level_up": 107000,
+  "character_status_level": 9502,
+  "start_date": "2025-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 190,
+  "experience_to_level_up": 108000,
+  "character_status_level": 9553,
+  "start_date": "2025-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 191,
+  "experience_to_level_up": 109000,
+  "character_status_level": 9603,
+  "start_date": "2025-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 192,
+  "experience_to_level_up": 110000,
+  "character_status_level": 9653,
+  "start_date": "2025-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 193,
+  "experience_to_level_up": 111000,
+  "character_status_level": 9704,
+  "start_date": "2025-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 194,
+  "experience_to_level_up": 112000,
+  "character_status_level": 9754,
+  "start_date": "2025-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 195,
+  "experience_to_level_up": 113000,
+  "character_status_level": 9804,
+  "start_date": "2025-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 196,
+  "experience_to_level_up": 114000,
+  "character_status_level": 9854,
+  "start_date": "2025-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 197,
+  "experience_to_level_up": 115000,
+  "character_status_level": 9905,
+  "start_date": "2025-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 198,
+  "experience_to_level_up": 116000,
+  "character_status_level": 9955,
+  "start_date": "2025-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 199,
+  "experience_to_level_up": 117000,
+  "character_status_level": 10005,
+  "start_date": "2025-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 200,
+  "experience_to_level_up": 118000,
+  "character_status_level": 10056,
+  "start_date": "2025-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 201,
+  "experience_to_level_up": 120000,
+  "character_status_level": 10106,
+  "start_date": "2025-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 202,
+  "experience_to_level_up": 122000,
+  "character_status_level": 10156,
+  "start_date": "2025-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 203,
+  "experience_to_level_up": 124000,
+  "character_status_level": 10206,
+  "start_date": "2025-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 204,
+  "experience_to_level_up": 126000,
+  "character_status_level": 10257,
+  "start_date": "2025-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 205,
+  "experience_to_level_up": 128000,
+  "character_status_level": 10307,
+  "start_date": "2025-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 206,
+  "experience_to_level_up": 130000,
+  "character_status_level": 10357,
+  "start_date": "2025-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 207,
+  "experience_to_level_up": 132000,
+  "character_status_level": 10407,
+  "start_date": "2025-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 208,
+  "experience_to_level_up": 134000,
+  "character_status_level": 10458,
+  "start_date": "2025-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 209,
+  "experience_to_level_up": 136000,
+  "character_status_level": 10508,
+  "start_date": "2025-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 210,
+  "experience_to_level_up": 138000,
+  "character_status_level": 10558,
+  "start_date": "2025-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 211,
+  "experience_to_level_up": 140000,
+  "character_status_level": 10609,
+  "start_date": "2025-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 212,
+  "experience_to_level_up": 142000,
+  "character_status_level": 10659,
+  "start_date": "2025-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 213,
+  "experience_to_level_up": 144000,
+  "character_status_level": 10709,
+  "start_date": "2025-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 214,
+  "experience_to_level_up": 146000,
+  "character_status_level": 10759,
+  "start_date": "2025-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 215,
+  "experience_to_level_up": 148000,
+  "character_status_level": 10810,
+  "start_date": "2025-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 216,
+  "experience_to_level_up": 150000,
+  "character_status_level": 10860,
+  "start_date": "2025-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 217,
+  "experience_to_level_up": 152000,
+  "character_status_level": 10910,
+  "start_date": "2025-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 218,
+  "experience_to_level_up": 154000,
+  "character_status_level": 10961,
+  "start_date": "2025-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 219,
+  "experience_to_level_up": 156000,
+  "character_status_level": 11011,
+  "start_date": "2025-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 220,
+  "experience_to_level_up": 158000,
+  "character_status_level": 11061,
+  "start_date": "2025-09-19T17:00:00+00:00"
+ },
+ {
+  "level": 221,
+  "experience_to_level_up": 162000,
+  "character_status_level": 11111,
+  "start_date": "2025-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 222,
+  "experience_to_level_up": 166000,
+  "character_status_level": 11162,
+  "start_date": "2025-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 223,
+  "experience_to_level_up": 170000,
+  "character_status_level": 11212,
+  "start_date": "2025-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 224,
+  "experience_to_level_up": 174000,
+  "character_status_level": 11262,
+  "start_date": "2025-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 225,
+  "experience_to_level_up": 178000,
+  "character_status_level": 11313,
+  "start_date": "2025-10-19T17:00:00+00:00"
+ },
+ {
+  "level": 226,
+  "experience_to_level_up": 182000,
+  "character_status_level": 11363,
+  "start_date": "2025-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 227,
+  "experience_to_level_up": 186000,
+  "character_status_level": 11413,
+  "start_date": "2025-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 228,
+  "experience_to_level_up": 190000,
+  "character_status_level": 11463,
+  "start_date": "2025-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 229,
+  "experience_to_level_up": 194000,
+  "character_status_level": 11514,
+  "start_date": "2025-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 230,
+  "experience_to_level_up": 198000,
+  "character_status_level": 11564,
+  "start_date": "2025-11-19T17:00:00+00:00"
+ },
+ {
+  "level": 231,
+  "experience_to_level_up": 201000,
+  "character_status_level": 11614,
+  "start_date": "2025-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 232,
+  "experience_to_level_up": 204000,
+  "character_status_level": 11664,
+  "start_date": "2025-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 233,
+  "experience_to_level_up": 207000,
+  "character_status_level": 11715,
+  "start_date": "2025-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 234,
+  "experience_to_level_up": 210000,
+  "character_status_level": 11765,
+  "start_date": "2025-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 235,
+  "experience_to_level_up": 213000,
+  "character_status_level": 11815,
+  "start_date": "2025-12-19T17:00:00+00:00"
+ },
+ {
+  "level": 236,
+  "experience_to_level_up": 216000,
+  "character_status_level": 11866,
+  "start_date": "2026-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 237,
+  "experience_to_level_up": 219000,
+  "character_status_level": 11916,
+  "start_date": "2026-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 238,
+  "experience_to_level_up": 222000,
+  "character_status_level": 11966,
+  "start_date": "2026-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 239,
+  "experience_to_level_up": 225000,
+  "character_status_level": 12016,
+  "start_date": "2026-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 240,
+  "experience_to_level_up": 228000,
+  "character_status_level": 12067,
+  "start_date": "2026-01-19T17:00:00+00:00"
+ },
+ {
+  "level": 241,
+  "experience_to_level_up": 231000,
+  "character_status_level": 12117,
+  "start_date": "2026-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 242,
+  "experience_to_level_up": 234000,
+  "character_status_level": 12167,
+  "start_date": "2026-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 243,
+  "experience_to_level_up": 237000,
+  "character_status_level": 12218,
+  "start_date": "2026-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 244,
+  "experience_to_level_up": 240000,
+  "character_status_level": 12268,
+  "start_date": "2026-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 245,
+  "experience_to_level_up": 243000,
+  "character_status_level": 12318,
+  "start_date": "2026-02-19T17:00:00+00:00"
+ },
+ {
+  "level": 246,
+  "experience_to_level_up": 246000,
+  "character_status_level": 12368,
+  "start_date": "2026-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 247,
+  "experience_to_level_up": 249000,
+  "character_status_level": 12419,
+  "start_date": "2026-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 248,
+  "experience_to_level_up": 252000,
+  "character_status_level": 12469,
+  "start_date": "2026-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 249,
+  "experience_to_level_up": 255000,
+  "character_status_level": 12519,
+  "start_date": "2026-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 250,
+  "experience_to_level_up": 258000,
+  "character_status_level": 12570,
+  "start_date": "2026-03-19T17:00:00+00:00"
+ },
+ {
+  "level": 251,
+  "experience_to_level_up": 261000,
+  "character_status_level": 12620,
+  "start_date": "2026-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 252,
+  "experience_to_level_up": 264000,
+  "character_status_level": 12670,
+  "start_date": "2026-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 253,
+  "experience_to_level_up": 267000,
+  "character_status_level": 12720,
+  "start_date": "2026-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 254,
+  "experience_to_level_up": 270000,
+  "character_status_level": 12771,
+  "start_date": "2026-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 255,
+  "experience_to_level_up": 273000,
+  "character_status_level": 12821,
+  "start_date": "2026-04-19T17:00:00+00:00"
+ },
+ {
+  "level": 256,
+  "experience_to_level_up": 277000,
+  "character_status_level": 12871,
+  "start_date": "2026-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 257,
+  "experience_to_level_up": 281000,
+  "character_status_level": 12921,
+  "start_date": "2026-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 258,
+  "experience_to_level_up": 285000,
+  "character_status_level": 12972,
+  "start_date": "2026-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 259,
+  "experience_to_level_up": 289000,
+  "character_status_level": 13022,
+  "start_date": "2026-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 260,
+  "experience_to_level_up": 293000,
+  "character_status_level": 13072,
+  "start_date": "2026-05-19T17:00:00+00:00"
+ },
+ {
+  "level": 261,
+  "experience_to_level_up": 297000,
+  "character_status_level": 13123,
+  "start_date": "2026-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 262,
+  "experience_to_level_up": 301000,
+  "character_status_level": 13173,
+  "start_date": "2026-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 263,
+  "experience_to_level_up": 305000,
+  "character_status_level": 13223,
+  "start_date": "2026-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 264,
+  "experience_to_level_up": 309000,
+  "character_status_level": 13273,
+  "start_date": "2026-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 265,
+  "experience_to_level_up": 313000,
+  "character_status_level": 13324,
+  "start_date": "2026-06-19T17:00:00+00:00"
+ },
+ {
+  "level": 266,
+  "experience_to_level_up": 317000,
+  "character_status_level": 13374,
+  "start_date": "2026-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 267,
+  "experience_to_level_up": 321000,
+  "character_status_level": 13424,
+  "start_date": "2026-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 268,
+  "experience_to_level_up": 325000,
+  "character_status_level": 13475,
+  "start_date": "2026-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 269,
+  "experience_to_level_up": 329000,
+  "character_status_level": 13525,
+  "start_date": "2026-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 270,
+  "experience_to_level_up": 333000,
+  "character_status_level": 13575,
+  "start_date": "2026-07-19T17:00:00+00:00"
+ },
+ {
+  "level": 271,
+  "experience_to_level_up": 337000,
+  "character_status_level": 13625,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 272,
+  "experience_to_level_up": 341000,
+  "character_status_level": 13676,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 273,
+  "experience_to_level_up": 345000,
+  "character_status_level": 13726,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 274,
+  "experience_to_level_up": 349000,
+  "character_status_level": 13776,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 275,
+  "experience_to_level_up": 353000,
+  "character_status_level": 13827,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 276,
+  "experience_to_level_up": 357000,
+  "character_status_level": 13877,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 277,
+  "experience_to_level_up": 361000,
+  "character_status_level": 13927,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 278,
+  "experience_to_level_up": 365000,
+  "character_status_level": 13977,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 279,
+  "experience_to_level_up": 369000,
+  "character_status_level": 14028,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 280,
+  "experience_to_level_up": 373000,
+  "character_status_level": 14078,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 281,
+  "experience_to_level_up": 378000,
+  "character_status_level": 14128,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 282,
+  "experience_to_level_up": 383000,
+  "character_status_level": 14178,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 283,
+  "experience_to_level_up": 388000,
+  "character_status_level": 14229,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 284,
+  "experience_to_level_up": 393000,
+  "character_status_level": 14279,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 285,
+  "experience_to_level_up": 398000,
+  "character_status_level": 14329,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 286,
+  "experience_to_level_up": 403000,
+  "character_status_level": 14380,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 287,
+  "experience_to_level_up": 408000,
+  "character_status_level": 14430,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 288,
+  "experience_to_level_up": 413000,
+  "character_status_level": 14480,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 289,
+  "experience_to_level_up": 418000,
+  "character_status_level": 14530,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 290,
+  "experience_to_level_up": 423000,
+  "character_status_level": 14581,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 291,
+  "experience_to_level_up": 428000,
+  "character_status_level": 14631,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 292,
+  "experience_to_level_up": 433000,
+  "character_status_level": 14681,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 293,
+  "experience_to_level_up": 438000,
+  "character_status_level": 14732,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 294,
+  "experience_to_level_up": 443000,
+  "character_status_level": 14782,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 295,
+  "experience_to_level_up": 448000,
+  "character_status_level": 14832,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 296,
+  "experience_to_level_up": 453000,
+  "character_status_level": 14882,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 297,
+  "experience_to_level_up": 458000,
+  "character_status_level": 14933,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 298,
+  "experience_to_level_up": 463000,
+  "character_status_level": 14983,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 299,
+  "experience_to_level_up": 468000,
+  "character_status_level": 15033,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ },
+ {
+  "level": 300,
+  "experience_to_level_up": 473000,
+  "character_status_level": 15084,
+  "start_date": "2026-08-19T17:00:00+00:00"
+ }
+]

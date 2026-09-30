@@ -1,0 +1,3173 @@
+[
+ {
+  "id": 3012201,
+  "trial_party_event_master_id": 30122,
+  "music_master_id": 162,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100214,
+  "clear_score": 835000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 1400,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・ポスターを活用して<color=#ee5f5f>プリンシパルゲージ</color>を獲得しよう！/n/n・<color=#ee5f5f>アクターの属性</color>には注意！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n静香、カトリナ・グリーベル/n/n<color=#ee5f5f>* ポスター配置固定</color>/n囚われの白雪姫",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110373,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 300,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012202,
+  "trial_party_event_master_id": 30122,
+  "music_master_id": 187,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100215,
+  "clear_score": 16000000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動して高スコアを狙おう！",
+  "hint": "・リーダーに設定されたカトリナの<color=#ee5f5f>センス効果</color>に注意！/n/n・<color=#ee5f5f>アクセサリー</color>をアクターにつけてスコアを獲得しよう！",
+  "restriction_info": "リーダー：2枠目固定",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 301,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012203,
+  "trial_party_event_master_id": 30122,
+  "music_master_id": 46,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100216,
+  "clear_score": 23000000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・八恵の<color=#ee5f5f>センス発動タイミング</color>に注意！/n/n・<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>を活用して/nより高いスコアを獲得しよう！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定・アクターカード変更不可</color>/n流石知冴/n/n<color=#ee5f5f>* ポスター配置固定</color>/nEchoes of Ash",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 302,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012301,
+  "trial_party_event_master_id": 30123,
+  "music_master_id": 183,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100217,
+  "clear_score": 0,
+  "clear_sense_count": 9,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130573,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 303,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012302,
+  "trial_party_event_master_id": 30123,
+  "music_master_id": 113,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100218,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 1154,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センス効果でプリンシパルゲージをより多く獲得で/n　きるアクターカードが他にあるかも？/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう！/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n王雪/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿暦/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n王雪/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿暦/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n王雪",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 304,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012303,
+  "trial_party_event_master_id": 30123,
+  "music_master_id": 50,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100219,
+  "clear_score": 24658004,
+  "clear_sense_count": 12,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティを持つポスター/n　を活用しよう/n/n・ポスターとアクセサリーのアビリティの発動条件に/n　注意しよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ/n/n<color=#ee5f5f>* ポスター変更不可</color>/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 305,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012401,
+  "trial_party_event_master_id": 30124,
+  "music_master_id": 180,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100220,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！\t",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n静香/n新妻八恵/n柳場ぱんだ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n静香/n新妻八恵/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110573,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 306,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012402,
+  "trial_party_event_master_id": 30124,
+  "music_master_id": 212,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100221,
+  "clear_score": 0,
+  "clear_sense_count": 11,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えと並べ替えをしよう/n/n・ポスターのアビリティの発動条件に注意しよう/n/n・アクターのCTはある<color=#ee5f5f>アクセサリー</color>で少しだけ短縮/n　できそう……？",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n鳳ここな/n柳場ぱんだ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n新妻八恵/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/nカトリナ・グリーベル/n新妻八恵/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 307,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012403,
+  "trial_party_event_master_id": 30124,
+  "music_master_id": 58,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100222,
+  "clear_score": 14027420,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 675,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えと並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n静香/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n静香/n新妻八恵/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n静香/n新妻八恵",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 308,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012501,
+  "trial_party_event_master_id": 30125,
+  "music_master_id": 99,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100223,
+  "clear_score": 0,
+  "clear_sense_count": 10,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 948,
+  "title": "プリンシパルゲージを貯めよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・センス発動時にプリンシパルゲージを獲得できる/n　アクターカードがないか確認してみよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120273,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 309,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012502,
+  "trial_party_event_master_id": 30125,
+  "music_master_id": 219,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100224,
+  "clear_score": 19835179,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　並べ替えよう/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n烏森大黒/n萬容/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n萬容/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 310,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012503,
+  "trial_party_event_master_id": 30125,
+  "music_master_id": 57,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100225,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！",
+  "hint": "・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・センス発動時に2種類の光を獲得できるアクターが/n　いるかも？",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n烏森大黒/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n舎人仁花子/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 311,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012601,
+  "trial_party_event_master_id": 30126,
+  "music_master_id": 186,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100244,
+  "clear_score": 0,
+  "clear_sense_count": 10,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・<color=#ee5f5f>センス発動時に光を付与</color>するポスターを活用しよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/n王雪/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130173,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 312,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012602,
+  "trial_party_event_master_id": 30126,
+  "music_master_id": 124,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100245,
+  "clear_score": 0,
+  "clear_sense_count": 14,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1455,
+  "title": "プリンシパルゲージを貯めよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　並べ替えよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 313,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012603,
+  "trial_party_event_master_id": 30126,
+  "music_master_id": 61,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100246,
+  "clear_score": 29377708,
+  "clear_sense_count": 13,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティを持つポスター/n　を活用しよう/n/n・ポスターとアクセサリーのアビリティの発動条件に/n　注意しよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nラモーナ・ウォルフ/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n王雪/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/nラモーナ・ウォルフ/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 314,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012701,
+  "trial_party_event_master_id": 30127,
+  "music_master_id": 206,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100247,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 1018,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・センス発動直後にプリンシパルゲージを獲得できる/n　アビリティを持つポスターを活用しよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120573,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 315,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012702,
+  "trial_party_event_master_id": 30127,
+  "music_master_id": 123,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100248,
+  "clear_score": 0,
+  "clear_sense_count": 8,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！",
+  "hint": "・センス発動時に2種類の光を獲得できるアクターが/n　いるかも？/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>で/n　短縮できるかも？/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n烏森大黒/n舎人仁花子/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n萬容",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 316,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012703,
+  "trial_party_event_master_id": 30127,
+  "music_master_id": 66,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100249,
+  "clear_score": 32329187,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1160,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・センス発動時に2種類の光を獲得できるアクターが/n　いるかも？/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n舎人仁花子/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n烏森大黒/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n萬容",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 317,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012801,
+  "trial_party_event_master_id": 30128,
+  "music_master_id": 225,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100269,
+  "clear_score": 0,
+  "clear_sense_count": 4,
+  "clear_star_act_count": 1,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n阿岐留カミラ/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n白丸美兎/n阿岐留カミラ/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140173,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 318,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012802,
+  "trial_party_event_master_id": 30128,
+  "music_master_id": 221,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100270,
+  "clear_score": 11949070,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1104,
+  "title": "プリンシパルゲージを貯めよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・センス効果でプリンシパルゲージをより多く獲得で/n　きるアクターカードが他にあるかも？/n/n・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターを活用しよう/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するアクセサリーを活用しよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿いろは/n白丸美兎/n猫足蕾/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n白丸美兎/n阿岐留カミラ/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 319,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012803,
+  "trial_party_event_master_id": 30128,
+  "music_master_id": 71,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100271,
+  "clear_score": 23535848,
+  "clear_sense_count": 10,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・センス効果でCTを短縮できるアクターカードがある/n　かも？/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポスタ/n　ーを活用しよう！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n阿岐留カミラ/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n白丸美兎/n阿岐留カミラ/n猫足蕾/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n猫足蕾",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 320,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012901,
+  "trial_party_event_master_id": 30129,
+  "music_master_id": 189,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100272,
+  "clear_score": 0,
+  "clear_sense_count": 12,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　並べ替えよう/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n白丸美兎/n阿岐留カミラ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n白丸美兎/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n白丸美兎/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140373,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 321,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012902,
+  "trial_party_event_master_id": 30129,
+  "music_master_id": 87,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100273,
+  "clear_score": 14173550,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 950,
+  "title": "プリンシパルゲージを貯めよう！",
+  "hint": "・センス効果でプリンシパルゲージをより多く獲得で/n　きるアクターカードが他にあるかも？/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n白丸美兎/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 322,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3012903,
+  "trial_party_event_master_id": 30129,
+  "music_master_id": 74,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100274,
+  "clear_score": 13038939,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 858,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　並べ替えよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n阿岐留カミラ/n猫足蕾/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n阿岐留カミラ/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n白丸美兎/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n猫足蕾",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 323,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013001,
+  "trial_party_event_master_id": 30130,
+  "music_master_id": 166,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100275,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！",
+  "hint": "・センスを発動できるようにアクターカードを並べ替/n　えよう/n/n・センス発動時に光を2個獲得できるアクターカード/n　があるかも……？/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・アクターのCTはあるアクセサリーで少しだけ短縮/n　できるかも……？",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n阿岐留カミラ/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140473,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 324,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013002,
+  "trial_party_event_master_id": 30130,
+  "music_master_id": 211,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100276,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 959,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿いろは/n阿岐留カミラ/n猫足蕾/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n阿岐留カミラ/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 325,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013003,
+  "trial_party_event_master_id": 30130,
+  "music_master_id": 76,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100277,
+  "clear_score": 12112098,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>で/n　短縮できるかも？/n/n・ポスターのアビリティの発動条件に注意しよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n白丸美兎/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n阿岐留カミラ/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 326,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013101,
+  "trial_party_event_master_id": 30131,
+  "music_master_id": 63,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100278,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 918,
+  "title": "クリア条件を全て達成しよう！\t",
+  "hint": "・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポスタ/n　ーを活用しよう！/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n静香/n新妻八恵/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n静香/n新妻八恵/n流石知冴/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n静香/n新妻八恵/n柳場ぱんだ/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110173,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 327,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013102,
+  "trial_party_event_master_id": 30131,
+  "music_master_id": 196,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100279,
+  "clear_score": 0,
+  "clear_sense_count": 13,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポスタ/n　ーを活用しよう！/n/n・スターアクトの発動に必要な光の種類が少ないアクタ/n　ーカードがないか確認してみよう！/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n鳳ここな/nカトリナ・グリーベル/n柳場ぱんだ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n新妻八恵/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/nカトリナ・グリーベル/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 328,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013103,
+  "trial_party_event_master_id": 30131,
+  "music_master_id": 82,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100280,
+  "clear_score": 12881271,
+  "clear_sense_count": 9,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n鳳ここな/nカトリナ・グリーベル/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n静香/nカトリナ・グリーベル/n新妻八恵/n/n<color=#ee5f5f>* ポスター変更不可</color>/nカトリナ・グリーベル/n新妻八恵/n流石知冴/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n静香/nカトリナ・グリーベル/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 329,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013201,
+  "trial_party_event_master_id": 30132,
+  "music_master_id": 224,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100281,
+  "clear_score": 0,
+  "clear_sense_count": 11,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1583,
+  "title": "プリンシパルゲージを貯めよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n王雪/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nラモーナ・ウォルフ/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130473,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 330,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013202,
+  "trial_party_event_master_id": 30132,
+  "music_master_id": 179,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100282,
+  "clear_score": 0,
+  "clear_sense_count": 16,
+  "clear_star_act_count": 4,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを4回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポスタ/n　ーを活用しよう！/n/n・センス発動時に2種類の光を獲得できるアクターが/n　いるかも？/n/n・センス効果でCTを短縮できるアクターカードがある/n　かも？/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦/nリリヤ・クルトベイ/n王雪/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 331,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013203,
+  "trial_party_event_master_id": 30132,
+  "music_master_id": 92,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100283,
+  "clear_score": 14248172,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 982,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に光を2個獲得できるアクターカード/n　があるかも……？/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nリリヤ・クルトベイ/nラモーナ・ウォルフ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿暦/n王雪/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 332,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013301,
+  "trial_party_event_master_id": 30133,
+  "music_master_id": 207,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100284,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に光を2個獲得できるアクターカード/n　があるかも……？/n/n・アクターのCTはある<color=#ee5f5f>アクセサリー</color>で少しだけ短縮/n　できるかも……？",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n舎人仁花子/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120473,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 333,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013302,
+  "trial_party_event_master_id": 30133,
+  "music_master_id": 192,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100285,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 939,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポス/n　ターを活用しよう！/n/n・センス発動時に2種類の光を獲得できるアクターが/n　いるかも？/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 334,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013303,
+  "trial_party_event_master_id": 30133,
+  "music_master_id": 94,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100286,
+  "clear_score": 19791792,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 888,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・センス発動時に2種類の光を獲得できるアクターが/n　いるかも？/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n烏森大黒/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n烏森大黒/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n烏森大黒/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n烏森大黒/n舎人仁花子/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 335,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013401,
+  "trial_party_event_master_id": 30134,
+  "music_master_id": 223,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100287,
+  "clear_score": 18484576,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>で/n　短縮できるかも？",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n鳳ここな/nカトリナ・グリーベル/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/nカトリナ・グリーベル/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n鳳ここな/nカトリナ・グリーベル/n柳場ぱんだ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/nカトリナ・グリーベル/n新妻八恵/n柳場ぱんだ/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110673,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 336,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013402,
+  "trial_party_event_master_id": 30134,
+  "music_master_id": 217,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100288,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 4,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを4回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポス/n　ターを活用しよう！/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nカトリナ・グリーベル/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n柳場ぱんだ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n鳳ここな/nカトリナ・グリーベル/n柳場ぱんだ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n静香/nカトリナ・グリーベル/n柳場ぱんだ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 337,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013403,
+  "trial_party_event_master_id": 30134,
+  "music_master_id": 97,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100289,
+  "clear_score": 12379245,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 1240,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを多く獲得できるアクターカー/n　ドがないか確認してみよう！/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n静香/n新妻八恵/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n鳳ここな/n静香/n新妻八恵/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n静香/n新妻八恵/n柳場ぱんだ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 338,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013501,
+  "trial_party_event_master_id": 30135,
+  "music_master_id": 98,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100290,
+  "clear_score": 12949760,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 910,
+  "title": "プリンシパルゲージを貯めて高スコアを狙おう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n新妻八恵/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n静香/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n鳳ここな/n静香/n新妻八恵/n柳場ぱんだ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n静香/n柳場ぱんだ/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110473,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 339,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013502,
+  "trial_party_event_master_id": 30135,
+  "music_master_id": 13,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100291,
+  "clear_score": 16561477,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n静香/n新妻八恵/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n静香/nカトリナ・グリーベル/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n静香/n流石知冴/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n静香/nカトリナ・グリーベル",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 340,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013503,
+  "trial_party_event_master_id": 30135,
+  "music_master_id": 100,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100292,
+  "clear_score": 15315076,
+  "clear_sense_count": 11,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 968,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを多く獲得できるアクターカー/n　ドがないか確認してみよう！/n/n・センス発動直後にプリンシパルゲージを獲得できる/n　アビリティを持つポスターを活用しよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n静香/nカトリナ・グリーベル/n新妻八恵/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n静香/nカトリナ・グリーベル/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n鳳ここな/n静香/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n静香/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 341,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013601,
+  "trial_party_event_master_id": 30136,
+  "music_master_id": 231,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100293,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1240,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス効果でプリンシパルゲージをより多く獲得で/n　きるアクターカードが他にあるかも？/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポスタ/n　ーを活用しよう！/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n阿岐留カミラ/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140273,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 342,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013602,
+  "trial_party_event_master_id": 30136,
+  "music_master_id": 171,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100294,
+  "clear_score": 23551139,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードが他にもあるかも？/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n猫足蕾/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 343,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013603,
+  "trial_party_event_master_id": 30136,
+  "music_master_id": 104,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100295,
+  "clear_score": 19515302,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 1318,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に2種類の光を獲得できるアクターが/n　いるかも？/n/n・特定のアクターの隣に編成することでセンスを/n　同時に発動できるアクターカードがないか確認し/n　てみよう！/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿いろは/n白丸美兎/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿いろは/n本巣叶羽/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 344,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013701,
+  "trial_party_event_master_id": 30137,
+  "music_master_id": 5,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100296,
+  "clear_score": 18643087,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1000,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つアク/n　セサリーを活用しよう！/n/n・ポスターやアクセサリーが持つアビリティを/n　確認して、うまく効果が発動するアクターに装備さ/n　せよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nラモーナ・ウォルフ/n千寿暦/n王雪/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nラモーナ・ウォルフ/n千寿暦/n王雪/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/nリリヤ・クルトベイ/n千寿暦/n王雪/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130273,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 345,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013702,
+  "trial_party_event_master_id": 30137,
+  "music_master_id": 246,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100297,
+  "clear_score": 0,
+  "clear_sense_count": 11,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1574,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つアク/n　セサリーを活用しよう！/n/n・ポスターやアクセサリーが持つアビリティを/n　確認して、うまく効果が発動するアクターに装備さ/n　せよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nリリヤ・クルトベイ/nラモーナ・ウォルフ/n王雪/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nリリヤ・クルトベイ/nラモーナ・ウォルフ/n王雪/n/n<color=#ee5f5f>* ポスター変更不可</color>/nリリヤ・クルトベイ/nラモーナ・ウォルフ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/nリリヤ・クルトベイ/n千寿暦/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 346,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013703,
+  "trial_party_event_master_id": 30137,
+  "music_master_id": 106,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100298,
+  "clear_score": 28225973,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1300,
+  "title": "スターアクトを3回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nラモーナ・ウォルフ/n千寿暦/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nラモーナ・ウォルフ/n千寿暦/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/nリリヤ・クルトベイ/n王雪/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/nリリヤ・クルトベイ/nラモーナ・ウォルフ/n千寿暦/n王雪",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 347,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013801,
+  "trial_party_event_master_id": 30138,
+  "music_master_id": 204,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100299,
+  "clear_score": 10837436,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1200,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・公演開始時のプリンシパルゲージの量に気を付け/n　よう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120173,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 348,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013802,
+  "trial_party_event_master_id": 30138,
+  "music_master_id": 197,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100300,
+  "clear_score": 26137892,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを/n　入れ替えよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポス/n　ターを活用しよう！/n/n・容の<color=#ee5f5f>隣に仁花子を編成する</color>ことで/n　容もセンスを発動！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n舎人仁花子/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n萬容/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 349,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013803,
+  "trial_party_event_master_id": 30138,
+  "music_master_id": 108,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100301,
+  "clear_score": 30870971,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1120,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つアク/n　セサリーを活用しよう！/n/n・ポスターやアクセサリーが持つアビリティを/n　確認して、うまく効果が発動するアクターに装備さ/n　せよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n烏森大黒/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n萬容/n舎人仁花子",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 350,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013901,
+  "trial_party_event_master_id": 30139,
+  "music_master_id": 238,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100302,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 4,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを4回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードが他にもあるかも？/n/n・センス発動時に光を2個獲得できるアクターカード/n　があるかも？/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n烏森大黒/n萬容/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120373,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 351,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013902,
+  "trial_party_event_master_id": 30139,
+  "music_master_id": 255,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100303,
+  "clear_score": 23351842,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n烏森大黒/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n舎人仁花子/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n筆島しぐれ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n舎人仁花子/n萬容/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 352,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3013903,
+  "trial_party_event_master_id": 30139,
+  "music_master_id": 110,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100304,
+  "clear_score": 20018936,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1173,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードが他にもあるかも？/n/n・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターを活用しよう/n/n・アクターのCTはある<color=#ee5f5f>アクセサリー</color>で少しだけ短縮/n　できるかも？/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n舎人仁花子/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n筆島しぐれ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 353,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014001,
+  "trial_party_event_master_id": 30140,
+  "music_master_id": 16,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100305,
+  "clear_score": 17410052,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130373,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 354,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014002,
+  "trial_party_event_master_id": 30140,
+  "music_master_id": 176,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100306,
+  "clear_score": 0,
+  "clear_sense_count": 14,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 2239,
+  "title": "プリンシパルゲージを貯めよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス効果でCTを短縮できるアクターカードがある/n　かも？/n/n・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターを活用しよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nラモーナ・ウォルフ/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿暦/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 355,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014003,
+  "trial_party_event_master_id": 30140,
+  "music_master_id": 112,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100307,
+  "clear_score": 25455704,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1120,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードが他にもあるかも？/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>で/n　短縮できるかも？/n/n・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターを活用しよう/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n王雪/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/nラモーナ・ウォルフ/n与那国緋花里/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/nラモーナ・ウォルフ/n王雪",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 356,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014101,
+  "trial_party_event_master_id": 30141,
+  "music_master_id": 226,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100308,
+  "clear_score": 0,
+  "clear_sense_count": 12,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動しよう！\t",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードが他にもあるかも？/n/n・センス効果でCTを短縮できるアクターカードがある/n　かも？/n/n・アクターのCTはある<color=#ee5f5f>アクセサリー</color>で少しだけ短縮/n　できるかも？/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：5枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n阿岐留カミラ/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n阿岐留カミラ/n猫足蕾",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140573,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 357,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014102,
+  "trial_party_event_master_id": 30141,
+  "music_master_id": 121,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100309,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1034,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードが他にもあるかも？/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターやアクセサリーを活用しよう/n/n・アクターのCTはある<color=#ee5f5f>ポスター</color>で少しだけ短縮でき/n　そう……？/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿いろは/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n白丸美兎/n阿岐留カミラ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n白丸美兎",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 358,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014103,
+  "trial_party_event_master_id": 30141,
+  "music_master_id": 44,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100310,
+  "clear_score": 25892642,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 1484,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードが他にもあるかも？/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターを活用しよう/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n白丸美兎/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n白丸美兎/n猫足蕾/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n阿岐留カミラ/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 359,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014201,
+  "trial_party_event_master_id": 30142,
+  "music_master_id": 109,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100311,
+  "clear_score": 26319101,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・センス発動時に2種類の光を獲得できるアクター/n　カードがあるかも？/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n静香/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n静香/nカトリナ・グリーベル/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n柳場ぱんだ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110273,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 360,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014202,
+  "trial_party_event_master_id": 30142,
+  "music_master_id": 195,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100312,
+  "clear_score": 35299595,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 1460,
+  "title": "プリンシパルゲージを貯めて高スコアを狙おう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・特定のアクターの隣に編成することでセンスを/n　同時に発動できるアクターカードがないか確認し/n　てみよう！/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n鳳ここな/n静香/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n静香/nカトリナ・グリーベル/n新妻八恵/n/n<color=#ee5f5f>* ポスター変更不可</color>/n鳳ここな/nカトリナ・グリーベル/n流石知冴/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/n新妻八恵/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ],
+  "trial_party_master_id": 361,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 3014203,
+  "trial_party_event_master_id": 30142,
+  "music_master_id": 48,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100313,
+  "clear_score": 45920498,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 4,
+  "clear_principal_gauge_value": 1240,
+  "title": "クリア条件を全て達成しよう！\t",
+  "hint": "・センスの発動が失敗しないようにアクターカードの/n　入れ替えや並べ替えをしよう/n/n・アクターのセンス効果を確認して、センス発動時に/n　プリンシパルゲージを獲得できるアクターカードが/n　ないか確認してみよう！/n/n・センス発動時に光を2個獲得できるアクターカード/n　があるかも？/n/n・<color=#ee5f5f>公演開始時に光を付与</color>するポスターを活用しよう/n/n・アクターのCTはある<color=#ee5f5f>アクセサリー</color>で少しだけ短縮/n　できるかも？/n/n・ポスターやアクセサリーが持つアビリティの発動条/n　件を確認して、うまく効果が発動するアクターに装/n　備させよう",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n静香/nカトリナ・グリーベル/n新妻八恵/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳ここな/n静香/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n新妻八恵/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n鳳ここな/nカトリナ・グリーベル/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 362,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000101,
+  "trial_party_event_master_id": 60001,
+  "music_master_id": 17,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000101,
+  "clear_score": 283471,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件以上のスコアを獲得しよう！",
+  "hint": "センスの発動が失敗しないようにアクターを並べ替えよ/nう",
+  "restriction_info": "リーダー：1枠目固定/n鳳ここな：配置位置固定/n全アクター：アクターカード変更不可",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 950
+   }
+  ],
+  "trial_party_master_id": 101,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000102,
+  "trial_party_event_master_id": 60001,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000102,
+  "clear_score": 855904,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 362,
+  "title": "プリンシパルゲージを貯めて高スコアを狙おう！",
+  "hint": "・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターが有効かも……？/n/n・センス効果で<color=#ee5f5f>プリンシパルゲージを獲得できるアクター</color>/n　は、他のアクターよりセンスを多く発動させよう",
+  "restriction_info": "リーダー：2枠目固定/n全アクター：アクターカード変更不可/n千寿暦：配置位置固定/nリリヤ・クルトベイ：ポスター変更不可",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 250
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 100
+   }
+  ],
+  "trial_party_master_id": 102,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000103,
+  "trial_party_event_master_id": 60001,
+  "music_master_id": 19,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000103,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 1,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを1回発動しよう！",
+  "hint": "・センスの発動が失敗しないようにアクターカードを入/n　れ替えよう/n/n・アクターのCTはある<color=#ee5f5f>アクセサリー</color>で少しだけ短縮でき/n　そう……？",
+  "restriction_info": "リーダー：1枠目固定/n全アクター：配置位置固定/n連尺野初魅：アクターカード変更不可",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 250
+   }
+  ],
+  "trial_party_master_id": 103,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000104,
+  "trial_party_event_master_id": 60001,
+  "music_master_id": 23,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000104,
+  "clear_score": 0,
+  "clear_sense_count": 12,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "センスの発動を全て成功させよう！",
+  "hint": "・「千寿いろは」は<color=#ee5f5f>センスの発動ができない</color>ため、/n　配置位置に注意しよう/n/n・センスの発動が失敗しないように、アクターとCTの/n　組み合わせを色々試してみよう",
+  "restriction_info": "リーダー：3枠目固定/n千寿いろは：アクターカード変更不可",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 104,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000105,
+  "trial_party_event_master_id": 60001,
+  "music_master_id": 201,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000105,
+  "clear_score": 20128465,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動しよう！",
+  "hint": "・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティを持つポスターを/n　活用しよう/n/n・<color=#ee5f5f>「P.ゲージ獲得量アップ」</color>のアビリティを持つ/n　ポスターを活用しよう/n/n・センスの発動が失敗しないように、アクターとCTの/n　組み合わせを色々試してみよう/n/n・2人のアクターは<color=#ee5f5f>CTの短縮</color>が必要かも……？/n/n・ポスターとアクセサリーのアビリティの発動条件に/n　注意しよう",
+  "restriction_info": "リーダー：4枠目固定/nカトリナ・グリーベル：配置位置固定/nカトリナ・グリーベル：アクターカード変更不可",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 300
+   }
+  ],
+  "trial_party_master_id": 105,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000201,
+  "trial_party_event_master_id": 60002,
+  "music_master_id": 17,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000201,
+  "clear_score": 53000000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！【シリウス編】",
+  "hint": "・獲得した<color=#ee5f5f>プリンシパルゲージ</color>が多いほどスコアUP！/n/n・獲得するスターアクトスコアを増加するセンスの/n　発動タイミングには注意！/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>を持つポスターを活用しよう！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n鳳ここな",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130041,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130042,
+    "thing_quantity": 100
+   }
+  ],
+  "trial_party_master_id": 106,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000202,
+  "trial_party_event_master_id": 60002,
+  "music_master_id": 19,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000202,
+  "clear_score": 30000000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動して高スコアを狙おう！【Eden編】",
+  "hint": "・しぐれと容の/n<color=#ee5f5f>スターアクト効果と発動条件</color>に注意しよう！/n/n・センス発動のタイミングには注意を！/n/n・ポスターには何かヒントがあるかも？",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定・アクターカード変更不可</color>/n連尺野初魅",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130041,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130042,
+    "thing_quantity": 100
+   }
+  ],
+  "trial_party_master_id": 107,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000203,
+  "trial_party_event_master_id": 60002,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000203,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 1500,
+  "title": "スターアクトを2回発動させてプリンシパルゲージを貯めよう！【銀河座編】",
+  "hint": "・センス効果とポスターアビリティを組み合わせて/n　<color=#ee5f5f>プリンシパルゲージ</color>をより獲得しよう/n/n・ラモーナのセンス効果は/n　獲得しているプリンシパルゲージが多いほど/n　センス効果がUP！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* ポスター配置固定</color>/n白蛇伝",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130041,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130042,
+    "thing_quantity": 100
+   }
+  ],
+  "trial_party_master_id": 108,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000204,
+  "trial_party_event_master_id": 60002,
+  "music_master_id": 23,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000204,
+  "clear_score": 25000000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動して高スコアを狙おう！【劇団電姫編】",
+  "hint": "・演技力強化するセンス効果を発動してから/n　スターアクトを発動させるとスコアがさらに増えます！/n/n・公演開始時に『SP光』を/n　付与するアクセサリーを活用しよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130041,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130042,
+    "thing_quantity": 100
+   }
+  ],
+  "trial_party_master_id": 109,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000301,
+  "trial_party_event_master_id": 60003,
+  "music_master_id": 223,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000301,
+  "clear_score": 42500000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・ぱんだの<color=#ee5f5f>隣に知冴を編成する</color>ことで/n　ぱんだもセンスを発動！/n/n・ぱんだのスターアクト効果は/n　<color=#ee5f5f>シリウスアクターのセンスCT</color>を短くすることができる！/n/n・スターアクトに必要な光は/n　<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>を活用しよう！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n柳場ぱんだ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 110,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000302,
+  "trial_party_event_master_id": 60003,
+  "music_master_id": 223,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000302,
+  "clear_score": 110000000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1800,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・知冴とぱんだを<color=#ee5f5f>隣合わせ</color>にして編成しよう！/n/n・<color=#ee5f5f>プリンシパルゲージの獲得</color>には注意！/n　<color=#ee5f5f>知冴のセンス発動タイミング</color>を考えよう/n/n・ポスターには<color=#ee5f5f>強力なアビリティ</color>が付いてます！/n　<color=#ee5f5f>ポスター</color>を活用して高いスコアを出そう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 111,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000401,
+  "trial_party_event_master_id": 60004,
+  "music_master_id": 26,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000303,
+  "clear_score": 49000000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 3000,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・ステラフェスアクターの<color=#ee5f5f>センス発動タイミング</color>に注意！/n/n・<color=#ee5f5f>プリンシパルゲージの獲得</color>には注意！/n/n・各劇団と相性の良い<color=#ee5f5f>ポスター</color>を/n　うまく活用しよう！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nカトリナ・グリーベル＆/n/nラモーナ・ウォルフ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 112,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000402,
+  "trial_party_event_master_id": 60004,
+  "music_master_id": 26,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000304,
+  "clear_score": 84500000,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 3200,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・ステラフェスアクターの<color=#ee5f5f>センス発動タイミング</color>に注意！/n/n・<color=#ee5f5f>プリンシパルゲージ</color>の上限を増やして/n　より多くの<color=#ee5f5f>プリンシパルゲージ</color>を獲得しよう！/n/n・<color=#ee5f5f>静香と相性の良いポスター</color>があるかも？",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nカトリナ・グリーベル＆/n/nラモーナ・ウォルフ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 113,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000501,
+  "trial_party_event_master_id": 60005,
+  "music_master_id": 232,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000401,
+  "clear_score": 62621064,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・雪の<color=#ee5f5f>隣に緋花里を編成する</color>ことで/n　雪もセンスを発動！/n/n・雪のスターアクト効果は/n　<color=#ee5f5f>プリンシパルゲージの上限値が多いほど</color>/n　プリンシパルゲージを獲得できる！/n/n・スターアクトに必要な光は/n　<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>を活用しよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n王雪",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 114,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000502,
+  "trial_party_event_master_id": 60005,
+  "music_master_id": 232,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000402,
+  "clear_score": 80849711,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 3687,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・緋花里と雪を<color=#ee5f5f>隣合わせ</color>にして編成しよう！/n/n・<color=#ee5f5f>プリンシパルゲージの獲得量</color>には注意！/n/n・ポスターには<color=#ee5f5f>強力なアビリティ</color>が付いてます！/n　<color=#ee5f5f>ポスター</color>を活用して高いスコアを出そう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 115,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000601,
+  "trial_party_event_master_id": 60006,
+  "music_master_id": 69,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000403,
+  "clear_score": 102821670,
+  "clear_sense_count": 13,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・<color=#ee5f5f>ライフガードの回数</color>に注意！/n/n・<color=#ee5f5f>プリンシパルゲージの獲得量</color>には注意！/n/n・各劇団と相性の良い<color=#ee5f5f>ポスター</color>を/n　うまく活用しよう！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n本巣叶羽＆筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 116,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000602,
+  "trial_party_event_master_id": 60006,
+  "music_master_id": 154,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000404,
+  "clear_score": 158663417,
+  "clear_sense_count": 16,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・<color=#ee5f5f>ライフガードの回数</color>に注意！/n/n・<color=#ee5f5f>プリンシパルゲージの獲得量</color>には注意！/n/n・効果の発動条件に気を付けながら<color=#ee5f5f>ポスター</color>を/n　うまく活用しよう！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n本巣叶羽＆筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 117,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000701,
+  "trial_party_event_master_id": 60007,
+  "music_master_id": 244,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000501,
+  "clear_score": 107257602,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・カミラのスターアクトを発動させて演技力を上げ/n　よう/n・<color=#ee5f5f>アクセサリーを活用</color>して、センスを発動させよう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n阿岐留カミラ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n阿岐留カミラ",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 118,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000702,
+  "trial_party_event_master_id": 60007,
+  "music_master_id": 244,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000502,
+  "clear_score": 128867758,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 1330,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・蕾のスターアクト効果をうまく活用して高スコアを/n　狙おう！/n/n・<color=#ee5f5f>演技力を上昇させるセンス効果</color>を持つアクターを編/n　成しよう！/n/n・<color=#ee5f5f>一番最後にスターアクトが発動するタイミング</color>に、/n　スターアクトスコアUPの効果がかかるようにしよ/n　う！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n猫足蕾/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n猫足蕾",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 119,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000801,
+  "trial_party_event_master_id": 60008,
+  "music_master_id": 105,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000503,
+  "clear_score": 127018709,
+  "clear_sense_count": 15,
+  "clear_star_act_count": 4,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！\t",
+  "hint": "・<color=#ee5f5f>センスの回数</color>に注意！/n/n・<color=#ee5f5f>アクターの編成場所に注意！</color>",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n萬容＆新妻八恵/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n萬容＆新妻八恵",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 120,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000802,
+  "trial_party_event_master_id": 60008,
+  "music_master_id": 49,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000504,
+  "clear_score": 166749658,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 4,
+  "clear_principal_gauge_value": 2242,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・<color=#ee5f5f>センスの発動回数</color>に注意！/n/n・<color=#ee5f5f>プリンシパルゲージの獲得</color>には注意！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n萬容＆新妻八恵/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n萬容＆新妻八恵",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 121,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000901,
+  "trial_party_event_master_id": 60009,
+  "music_master_id": 255,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000601,
+  "clear_score": 125136589,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 2126,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・仁花子のセンスを発動させてライフガードを獲得/n　しよう/n/n・<color=#ee5f5f>アクセサリーを活用</color>して、プリンシパルゲージを/n　獲得しよう",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n烏森大黒/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n烏森大黒",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 122,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6000902,
+  "trial_party_event_master_id": 60009,
+  "music_master_id": 255,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000602,
+  "clear_score": 135023835,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 3,
+  "clear_principal_gauge_value": 2110,
+  "title": "スターアクトを3回発動して高スコアを狙おう！",
+  "hint": "・仁花子のスターアクト効果をうまく活用して/n　高スコアを狙おう！/n/n・<color=#ee5f5f>ライフガード</color>の回数に注意しよう！/n/n・ポスターには<color=#ee5f5f>強力なアビリティ</color>が付いてます！/n　<color=#ee5f5f>ポスター</color>を活用して高いスコアを出そう",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n舎人仁花子/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n舎人仁花子",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 123,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6001001,
+  "trial_party_event_master_id": 60010,
+  "music_master_id": 116,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000603,
+  "clear_score": 82035225,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 2906,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・<color=#ee5f5f>アクターの編成場所に注意！</color>/n/n・<color=#ee5f5f>一番最後にスターアクトが発動するタイミング</color>に、/n　スターアクトスコアUP効果の効果がかかるように/n　しよう！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦＆千寿いろは/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦＆千寿いろは",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 124,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6001002,
+  "trial_party_event_master_id": 60010,
+  "music_master_id": 116,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000604,
+  "clear_score": 115709110,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 3059,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・<color=#ee5f5f>プリンシパルゲージの獲得</color>には注意！/n/n・<color=#ee5f5f>一番最後にスターアクトが発動するタイミング</color>に、/n　スターアクトスコアUP効果の効果がかかるように/n　しよう！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦＆千寿いろは/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦＆千寿いろは",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 125,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6001101,
+  "trial_party_event_master_id": 60011,
+  "music_master_id": 4,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000701,
+  "clear_score": 517046004,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 4,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・八恵の<color=#ee5f5f>2つ隣までにここなを編成する</color>ことで/n　八恵もセンスを発動！/n/n・八恵のスターアクト効果は/n　<color=#ee5f5f>ライフが多いほど</color>スコアを獲得できる！/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>を活用して/n　スターアクトを発動しよう！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定・アクターカード変更不可</color>/n新妻八恵",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 126,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6001102,
+  "trial_party_event_master_id": 60011,
+  "music_master_id": 103,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000702,
+  "clear_score": 325988433,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 3274,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・<color=#ee5f5f>プリンシパルゲージの獲得</color>には注意！/n/n・暦のスターアクトを発動させて演技力を上げよう/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定・アクターカード変更不可</color>/n千寿暦",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 127,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6001201,
+  "trial_party_event_master_id": 60012,
+  "music_master_id": 73,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000703,
+  "clear_score": 584044257,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 6,
+  "clear_principal_gauge_value": 4102,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・ここな＆静香のスターアクト効果は/n　<color=#ee5f5f>ライフが多いほど</color>スコアを獲得できる！/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・<color=#ee5f5f>プリンシパルゲージの獲得</color>には注意！/n/n・<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>を活用して/n　スターアクトを発動しよう！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n鳳 ここな&静香/n新妻八恵/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n鳳 ここな&静香",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 128,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6001202,
+  "trial_party_event_master_id": 60012,
+  "music_master_id": 263,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6000704,
+  "clear_score": 1551603808,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 5,
+  "clear_principal_gauge_value": 6827,
+  "title": "クリア条件を全て達成して、高スコアを狙おう！",
+  "hint": "・ここな＆静香のスターアクト効果は/n　<color=#ee5f5f>ライフが多いほど</color>スコアを獲得できる！/n/n・ポスターが持つアビリティの発動条件を確認して、/n　うまく効果が発動するアクターに装備させよう/n/n・<color=#ee5f5f>演技力を上昇させるセンス効果</color>を持つアクターを/n　編成しよう！/n/n・<color=#ee5f5f>ポスター</color>や<color=#ee5f5f>アクセサリー</color>を活用して/n　スターアクトを発動しよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定・アクターカード変更不可</color>/n鳳 ここな&静香",
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 75
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 25
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 10
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 129,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900101,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 1,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900101,
+  "clear_score": 429245,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "演技力の高いアクターを編成してスコアを獲得しよう！",
+  "hint": "アクターは★が多いほど演技力が高く、獲得できるスコ/nアも高くなります！/n「鳳ここな」は、★の多いアクターカードが他にある/nかも？",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nカトリナ・グリーベル/n新妻八恵/n柳場ぱんだ/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 300
+   }
+  ],
+  "trial_party_master_id": 90001,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900102,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 30,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900102,
+  "clear_score": 535503,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "演技力の高いアクターを編成してスコアを獲得しよう！",
+  "hint": "2人のアクターは、より演技力の高いアクターカード/nがあるかも？",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n烏森大黒/n萬容/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130011,
+    "thing_quantity": 400
+   }
+  ],
+  "trial_party_master_id": 90002,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900103,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 27,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900103,
+  "clear_score": 0,
+  "clear_sense_count": 8,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "アクターを配置変更で並べ替えて、センスの発動を全て成功させよう！",
+  "hint": "CT（クールタイム）中に次のセンス発動タイミングが/n来てしまうと<color=#ee5f5f>センスの発動が失敗してしまう。</color>/nCT中に2回目のセンスの発動タイミングが来ないよう/nに、<color=#ee5f5f>「配置変更」</color>を使用してアクターを並べ替えよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130041,
+    "thing_quantity": 350
+   }
+  ],
+  "trial_party_master_id": 90003,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900104,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 9,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900104,
+  "clear_score": 0,
+  "clear_sense_count": 8,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "アクターカードの変更と並べ替えを行い、センスの発動を全て成功させよう！",
+  "hint": "・「白丸美兎」はCTが短いアクターカードが他にある/n　かも？/n/n・センスの発動が失敗しないようにアクターを並べ替え/n　よう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿いろは/n阿岐留カミラ/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130042,
+    "thing_quantity": 250
+   }
+  ],
+  "trial_party_master_id": 90004,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900105,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 81,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900105,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 1,
+  "clear_principal_gauge_value": 0,
+  "title": "アクターカードを並べ替えてスターアクトを1回発動しよう！",
+  "hint": "スターアクトは、<color=#ee5f5f>リーダーのアクターのみ</color>が発動できま/nす！/n<color=#ee5f5f>発動条件に合致した色・数の光を集めることで自動的/nに発動</color>し、大量のスコアを獲得することができます！/n/nリーダーのスターアクトの発動条件を確認して、光の数/nが足りるように並べ替えよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n烏森大黒/n筆島しぐれ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 100
+   }
+  ],
+  "trial_party_master_id": 90005,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900106,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 182,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900106,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 1,
+  "clear_principal_gauge_value": 0,
+  "title": "アクターカードを変更してスターアクトを1回発動しよう！",
+  "hint": "スターアクト発動に必要な光の色が足りない場合は、/n足りない色の光を付与できるアクターがいないか確認/nしてみよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/nカトリナ・グリーベル/n新妻八恵/n柳場ぱんだ/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nカトリナ・グリーベル/n新妻八恵/n柳場ぱんだ/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 300
+   }
+  ],
+  "trial_party_master_id": 90006,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900107,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 113,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900107,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "アクターカードの変更と並べ替えを行い、スターアクトを2回発動しよう！",
+  "hint": "・センスの発動に失敗しているアクターを並べ替えて、/n　<color=#ee5f5f>全員がセンス発動できるようにしよう！</color>/n/n・スターアクトの発動に必要な光の数が少ないアクター/n　カードがないか確認してみよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 20
+   }
+  ],
+  "trial_party_master_id": 90007,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900108,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 28,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900108,
+  "clear_score": 1954606,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "スターアクトを2回発動して高スコアを狙おう！",
+  "hint": "<color=#ee5f5f>ここまでのおさらいステージです！</color>/n/n・「白丸美兎」はCTが短いアクターカードが他にある/n　かも？/n/n・センスの発動に失敗しているアクターを並べ替えよう！/n/n・スターアクトの発動に必要な光の数が少ないアクター/n　カードがないか確認してみよう。",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿いろは/n白丸美兎/n阿岐留カミラ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n阿岐留カミラ/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130015,
+    "thing_quantity": 3
+   }
+  ],
+  "trial_party_master_id": 90008,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900109,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 99,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900109,
+  "clear_score": 3929202,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "ポスターを活用してスコアを獲得しよう！",
+  "hint": "ポスターを装備することで、<color=#ee5f5f>「アビリティ」</color>が発動され/nます。/nまた、リーダーの装備したポスターは<color=#ee5f5f>「リーダーアビリ/nティ」</color>が発動されます！/n/n「アビリティ」や「リーダーアビリティ」が編成中のア/nクターに合っているポスターを装備させて、より高いス/nコアを獲得しよう！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n舎人仁花子/n萬容/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 650
+   }
+  ],
+  "trial_party_master_id": 90009,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900110,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 47,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900110,
+  "clear_score": 3065968,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "アクセサリーを活用してスコアを獲得しよう！",
+  "hint": "アクセサリーは、<color=#ee5f5f>装備しているアクターの演技力をUP</color>/nさせるなど、有利な効果を発揮します！/n/nアクセサリーが持つアビリティの発動条件を確認して、/nうまく効果が発動するアクターに装備させよう！",
+  "restriction_info": "リーダー：1枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n千寿いろは/n白丸美兎/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 210001,
+    "thing_quantity": 5
+   }
+  ],
+  "trial_party_master_id": 90010,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900111,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 77,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900111,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 510,
+  "title": "アクターのセンス効果でプリンシパルゲージを貯めよう！",
+  "hint": "プリンシパルゲージを貯めることで、<color=#ee5f5f>センスやスターア/nクトを発動した際に、より高いスコアを獲得することが/nできます！</color>/n/nアクターのセンス効果を確認して、センス発動時にプリ/nンシパルゲージを獲得できるアクターカードがないか確/n認してみよう！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n千寿暦/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 150
+   }
+  ],
+  "trial_party_master_id": 90011,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900112,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 180,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900112,
+  "clear_score": 0,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 658,
+  "title": "ポスターを活用してプリンシパルゲージを貯めよう！",
+  "hint": "ポスターのアビリティの中には、センス発動時に獲得で/nきるプリンシパルゲージの量を増加させる<color=#ee5f5f>「P.ゲージ獲/n得量アップ」</color>の効果が存在します。/n/nポスターが持つアビリティの発動条件を確認して、うま/nく効果が発動するアクターに装備させよう！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n鳳ここな/nカトリナ・グリーベル/n新妻八恵/n流石知冴",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 450
+   }
+  ],
+  "trial_party_master_id": 90012,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900113,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 105,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900113,
+  "clear_score": 6308361,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 856,
+  "title": "プリンシパルゲージを貯めて高スコアを狙おう！",
+  "hint": "・ポスターが持つ<color=#ee5f5f>「P.ゲージ獲得量アップ</color>」のアビリ/n　ティの発動条件を確認して、うまく効果が発動するア/n　クターに装備させよう！/n/n・センス発動時にプリンシパルゲージを獲得できるアク/n　ターカードがないか確認してみよう！/n/n・「P.ゲージ獲得量アップ」の追加アビリティを持つア/n　クセサリーがないか確認してみよう！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n烏森大黒/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n烏森大黒/n舎人仁花子/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n連尺野初魅/n烏森大黒/n萬容/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 300
+   }
+  ],
+  "trial_party_master_id": 90013,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900114,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 188,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900114,
+  "clear_score": 0,
+  "clear_sense_count": 6,
+  "clear_star_act_count": 1,
+  "clear_principal_gauge_value": 0,
+  "title": "ポスターを活用してスターアクトを1回発動しよう！",
+  "hint": "・「千寿暦」はCTが短いアクターカードが他にあるか/n　も？/n/n・ポスターのアビリティの中には、センス発動時に獲得/n　できる光の個数を増やすことができる<color=#ee5f5f>「『光』獲得数/n　増加」</color>の効果が存在します。/n　ポスターが持つアビリティの発動条件を確認して、/n　光の獲得数を増やしたいアクターに装備させよう！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n全アクター/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nラモーナ・ウォルフ/nリリヤ・クルトベイ/n王雪/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 100
+   }
+  ],
+  "trial_party_master_id": 90014,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900115,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 64,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900115,
+  "clear_score": 0,
+  "clear_sense_count": 5,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "センスの発動を全て成功させよう！",
+  "hint": "・「千寿いろは」はセンスの発動ができない代わりに、/n　センス発動の間隔が極端に短いレーンに配置しても/n　<color=#ee5f5f>所持している光を保持してくれます！</color>/n/n・センスの発動が失敗しないようにアクターを並べ替え/n　よう！",
+  "restriction_info": "リーダー：3枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n白丸美兎/n猫足蕾/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n阿岐留カミラ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 200
+   }
+  ],
+  "trial_party_master_id": 90015,
+  "unrecommended_auto": false
+ },
+ {
+  "id": 6900116,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 73,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900116,
+  "clear_score": 8212038,
+  "clear_sense_count": 12,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 0,
+  "title": "センスの発動を全て成功させ、高スコアを狙おう！",
+  "hint": "・「鳳ここな」本人がセンスを発動してCT中である場/n　合、<color=#ee5f5f>「静香」のセンスは発動できない</color>ため、配置位/n　置に注意しよう！/n/n・「静香」のセンス効果で「鳳ここな」のセンスが発動/n　された場合は、センス発動の間隔が極端に短い場合で/n　もセンスを発動することができます！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n新妻八恵/n柳場ぱんだ/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n全アクター/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 300
+   }
+  ],
+  "trial_party_master_id": 90016,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900117,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 33,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900117,
+  "clear_score": 36426594,
+  "clear_sense_count": 17,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・<color=#ee5f5f>「鳳ここな」が編成されていない</color>場合、「静香」の/n　センスは発動されず失敗してしまいます。/n/n・「鳳ここな」本人がセンスを発動してCT中である場/n　合、<color=#ee5f5f>「静香」のセンスは発動できない</color>ため、配置位/n　置に注意しよう！/n/n・センスの発動に失敗しているアクターを並べ替えよう！",
+  "restriction_info": "リーダー：2枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n静香/n流石知冴/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n静香/nカトリナ・グリーベル/n新妻八恵/n流石知冴/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 20
+   }
+  ],
+  "trial_party_master_id": 90017,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900118,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 216,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900118,
+  "clear_score": 21204356,
+  "clear_sense_count": 0,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動に失敗しているアクターを並べ替えよ/n　う！/n/n・「舎人仁花子」はCTが短いアクターカードが他にあ/n　るかも？/n/n・<color=#ee5f5f>「『光』獲得数増加」</color>のアビリティ効果を持つポスタ/n　ーを活用しよう！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n連尺野初魅/n舎人仁花子/n萬容/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n連尺野初魅/n烏森大黒/n萬容/n筆島しぐれ/n/n<color=#ee5f5f>* ポスター変更不可</color>/n連尺野初魅/n烏森大黒/n舎人仁花子/n筆島しぐれ",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130064,
+    "thing_quantity": 50
+   }
+  ],
+  "trial_party_master_id": 90018,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900119,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 132,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900119,
+  "clear_score": 29604568,
+  "clear_sense_count": 15,
+  "clear_star_act_count": 0,
+  "clear_principal_gauge_value": 928,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・センスの発動に失敗しているアクターを並べ替えよ/n　う！/n/n・センス発動時にプリンシパルゲージを獲得できるアク/n　ターカードがないか確認してみよう！/n/n・ポスターが持つアビリティとアビリティの発動条件を/n　確認して、うまく効果が発動するアクターに装備させ/n　よう！",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n千寿暦/n王雪/n与那国緋花里/n/n<color=#ee5f5f>* アクターカード変更不可</color>/nラモーナ・ウォルフ/n王雪/nリリヤ・クルトベイ/n与那国緋花里/n/n<color=#ee5f5f>* ポスター変更不可</color>/n千寿暦/nラモーナ・ウォルフ/n王雪/n与那国緋花里",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 5
+   }
+  ],
+  "trial_party_master_id": 90019,
+  "unrecommended_auto": true
+ },
+ {
+  "id": 6900120,
+  "trial_party_event_master_id": 69001,
+  "music_master_id": 88,
+  "vocal_version": 1,
+  "sense_notation_master_id": 6900120,
+  "clear_score": 38251953,
+  "clear_sense_count": 13,
+  "clear_star_act_count": 2,
+  "clear_principal_gauge_value": 0,
+  "title": "クリア条件を全て達成しよう！",
+  "hint": "・「千寿いろは」はセンスの発動ができない代わりに、/n　センス発動の間隔が極端に短いレーンに配置しても/n　<color=#ee5f5f>所持している光を保持してくれます！</color>/n/n・センスの発動に失敗しているアクターを並べ替えよ/n　う！/n/n・「猫足蕾」は、よりCTの短いアクターカードがある/n　かも？/n/n・アクセサリーが持つアビリティの発動条件を確認し/n　て、うまく効果が発動するアクターに装備させよう！/n/n・「千寿いろは」は適したアクターカードが他にある/n　かも？",
+  "restriction_info": "リーダー：4枠目固定/n/n<color=#ee5f5f>* 配置固定</color>/n阿岐留カミラ/n猫足蕾/n本巣叶羽/n/n<color=#ee5f5f>* アクターカード変更不可</color>/n白丸美兎/n阿岐留カミラ/n本巣叶羽/n/n<color=#ee5f5f>* ポスター変更不可</color>/n全アクター/n/n<color=#ee5f5f>* アクセサリー変更不可</color>/n白丸美兎/n阿岐留カミラ/n猫足蕾/n本巣叶羽",
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 210431,
+    "thing_quantity": 1
+   }
+  ],
+  "trial_party_master_id": 90020,
+  "unrecommended_auto": true
+ }
+]

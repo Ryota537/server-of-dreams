@@ -1,0 +1,296 @@
+[
+ {
+  "id": 101,
+  "concours_master_id": 1,
+  "required_point": 1000,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220010,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 8,
+    "thing_id": 3000,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 1000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "concours_master_id": 1,
+  "required_point": 700,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220011,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 8,
+    "thing_id": 3001,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 800
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "concours_master_id": 1,
+  "required_point": 450,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220012,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 8,
+    "thing_id": 3002,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 700
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "concours_master_id": 1,
+  "required_point": 300,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220013,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 400
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 3
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "concours_master_id": 1,
+  "required_point": 200,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220013,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 300
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "concours_master_id": 1,
+  "required_point": 50,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220013,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 201,
+  "concours_master_id": 2,
+  "required_point": 1000,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220028,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 8,
+    "thing_id": 3003,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 1000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 202,
+  "concours_master_id": 2,
+  "required_point": 750,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220029,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 8,
+    "thing_id": 3004,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 800
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 203,
+  "concours_master_id": 2,
+  "required_point": 550,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220030,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 8,
+    "thing_id": 3005,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 700
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 204,
+  "concours_master_id": 2,
+  "required_point": 350,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220031,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 400
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110003,
+    "thing_quantity": 3
+   }
+  ]
+ },
+ {
+  "id": 205,
+  "concours_master_id": 2,
+  "required_point": 200,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220031,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 300
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 206,
+  "concours_master_id": 2,
+  "required_point": 50,
+  "things": [
+   {
+    "thing_type": 6,
+    "thing_id": 220031,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ }
+]

@@ -1,0 +1,324 @@
+[
+ {
+  "id": 100,
+  "description": "友達の招待コードを入力しよう",
+  "order": 100,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 100,
+    "goal_count": 1,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 500
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "description": "招待コードを1人の友達に入力してもらおう",
+  "order": 110,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 110,
+    "goal_count": 1,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "description": "招待コードを5人の友達に入力してもらおう",
+  "order": 120,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 120,
+    "goal_count": 5,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 50
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 130,
+  "description": "招待コードを10人の友達に入力してもらおう",
+  "order": 130,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 130,
+    "goal_count": 10,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "description": "招待コードを15人の友達に入力してもらおう",
+  "order": 140,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 140,
+    "goal_count": 15,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 100
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "description": "招待コードを20人の友達に入力してもらおう",
+  "order": 150,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 150,
+    "goal_count": 20,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 200
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 160,
+  "description": "招待コードを30人の友達に入力してもらおう",
+  "order": 160,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 160,
+    "goal_count": 30,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 400
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 170,
+  "description": "招待コードを30人の友達に入力してもらおう",
+  "order": 170,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 170,
+    "goal_count": 30,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 500001,
+      "thing_type": 6,
+      "thing_quantity": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 180,
+  "description": "招待した友達1人がプレイヤーランク30を達成",
+  "order": 180,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 180,
+    "goal_count": 1,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 200
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "description": "招待した友達5人がプレイヤーランク30を達成",
+  "order": 190,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 190,
+    "goal_count": 5,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 200
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 200,
+  "description": "招待した友達10人がプレイヤーランク30を達成",
+  "order": 200,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 200,
+    "goal_count": 10,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 400
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 210,
+  "description": "招待した友達15人がプレイヤーランク30を達成",
+  "order": 210,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 210,
+    "goal_count": 15,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 400
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 220,
+  "description": "招待した友達20人がプレイヤーランク30を達成",
+  "order": 220,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 220,
+    "goal_count": 20,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 400
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 230,
+  "description": "招待した友達30人がプレイヤーランク30を達成",
+  "order": 230,
+  "start_date": "2025-03-31T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "jump_type": 0,
+  "jump_target_id": null,
+  "stages": [
+   {
+    "id": 230,
+    "goal_count": 30,
+    "mission_stage_order": 1,
+    "rewards": [
+     {
+      "thing_id": 0,
+      "thing_type": 13,
+      "thing_quantity": 1000
+     }
+    ]
+   }
+  ]
+ }
+]

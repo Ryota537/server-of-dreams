@@ -1,0 +1,146 @@
+[
+ {
+  "id": 311,
+  "awakening_phase": 0,
+  "item_master_id": 130021,
+  "required_quantity": 500
+ },
+ {
+  "id": 312,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 5
+ },
+ {
+  "id": 321,
+  "awakening_phase": 0,
+  "item_master_id": 130022,
+  "required_quantity": 500
+ },
+ {
+  "id": 322,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 5
+ },
+ {
+  "id": 331,
+  "awakening_phase": 0,
+  "item_master_id": 130023,
+  "required_quantity": 500
+ },
+ {
+  "id": 332,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 5
+ },
+ {
+  "id": 341,
+  "awakening_phase": 0,
+  "item_master_id": 130024,
+  "required_quantity": 500
+ },
+ {
+  "id": 342,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 5
+ },
+ {
+  "id": 411,
+  "awakening_phase": 0,
+  "item_master_id": 130031,
+  "required_quantity": 500
+ },
+ {
+  "id": 412,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 20
+ },
+ {
+  "id": 421,
+  "awakening_phase": 0,
+  "item_master_id": 130032,
+  "required_quantity": 500
+ },
+ {
+  "id": 422,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 20
+ },
+ {
+  "id": 431,
+  "awakening_phase": 0,
+  "item_master_id": 130033,
+  "required_quantity": 500
+ },
+ {
+  "id": 432,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 20
+ },
+ {
+  "id": 441,
+  "awakening_phase": 0,
+  "item_master_id": 130034,
+  "required_quantity": 500
+ },
+ {
+  "id": 442,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 20
+ },
+ {
+  "id": 511,
+  "awakening_phase": 0,
+  "item_master_id": 130031,
+  "required_quantity": 1000
+ },
+ {
+  "id": 512,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 40
+ },
+ {
+  "id": 521,
+  "awakening_phase": 0,
+  "item_master_id": 130032,
+  "required_quantity": 1000
+ },
+ {
+  "id": 522,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 40
+ },
+ {
+  "id": 531,
+  "awakening_phase": 0,
+  "item_master_id": 130033,
+  "required_quantity": 1000
+ },
+ {
+  "id": 532,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 40
+ },
+ {
+  "id": 541,
+  "awakening_phase": 0,
+  "item_master_id": 130034,
+  "required_quantity": 1000
+ },
+ {
+  "id": 542,
+  "awakening_phase": 0,
+  "item_master_id": 130051,
+  "required_quantity": 40
+ }
+]

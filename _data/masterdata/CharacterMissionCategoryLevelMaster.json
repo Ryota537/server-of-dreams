@@ -1,0 +1,1202 @@
+[
+ {
+  "id": 101,
+  "category_type": 1,
+  "level": 1,
+  "give_star_point": 60,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 102,
+  "category_type": 2,
+  "level": 1,
+  "give_star_point": 60,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 103,
+  "category_type": 3,
+  "level": 1,
+  "give_star_point": 60,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 104,
+  "category_type": 4,
+  "level": 1,
+  "give_star_point": 60,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 105,
+  "category_type": 5,
+  "level": 1,
+  "give_star_point": 60,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 201,
+  "category_type": 1,
+  "level": 2,
+  "give_star_point": 120,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 202,
+  "category_type": 2,
+  "level": 2,
+  "give_star_point": 120,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 203,
+  "category_type": 3,
+  "level": 2,
+  "give_star_point": 120,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 204,
+  "category_type": 4,
+  "level": 2,
+  "give_star_point": 120,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 205,
+  "category_type": 5,
+  "level": 2,
+  "give_star_point": 120,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 301,
+  "category_type": 1,
+  "level": 3,
+  "give_star_point": 180,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 302,
+  "category_type": 2,
+  "level": 3,
+  "give_star_point": 180,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 303,
+  "category_type": 3,
+  "level": 3,
+  "give_star_point": 180,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 304,
+  "category_type": 4,
+  "level": 3,
+  "give_star_point": 180,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 305,
+  "category_type": 5,
+  "level": 3,
+  "give_star_point": 180,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 401,
+  "category_type": 1,
+  "level": 4,
+  "give_star_point": 240,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 402,
+  "category_type": 2,
+  "level": 4,
+  "give_star_point": 240,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 403,
+  "category_type": 3,
+  "level": 4,
+  "give_star_point": 240,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 404,
+  "category_type": 4,
+  "level": 4,
+  "give_star_point": 240,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 405,
+  "category_type": 5,
+  "level": 4,
+  "give_star_point": 240,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 501,
+  "category_type": 1,
+  "level": 5,
+  "give_star_point": 300,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 502,
+  "category_type": 2,
+  "level": 5,
+  "give_star_point": 300,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 503,
+  "category_type": 3,
+  "level": 5,
+  "give_star_point": 300,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 504,
+  "category_type": 4,
+  "level": 5,
+  "give_star_point": 300,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 505,
+  "category_type": 5,
+  "level": 5,
+  "give_star_point": 300,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 601,
+  "category_type": 1,
+  "level": 6,
+  "give_star_point": 360,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 602,
+  "category_type": 2,
+  "level": 6,
+  "give_star_point": 360,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 603,
+  "category_type": 3,
+  "level": 6,
+  "give_star_point": 360,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 604,
+  "category_type": 4,
+  "level": 6,
+  "give_star_point": 360,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 605,
+  "category_type": 5,
+  "level": 6,
+  "give_star_point": 360,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 701,
+  "category_type": 1,
+  "level": 7,
+  "give_star_point": 420,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 702,
+  "category_type": 2,
+  "level": 7,
+  "give_star_point": 420,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 703,
+  "category_type": 3,
+  "level": 7,
+  "give_star_point": 420,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 704,
+  "category_type": 4,
+  "level": 7,
+  "give_star_point": 420,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 705,
+  "category_type": 5,
+  "level": 7,
+  "give_star_point": 420,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 801,
+  "category_type": 1,
+  "level": 8,
+  "give_star_point": 480,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 802,
+  "category_type": 2,
+  "level": 8,
+  "give_star_point": 480,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 803,
+  "category_type": 3,
+  "level": 8,
+  "give_star_point": 480,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 804,
+  "category_type": 4,
+  "level": 8,
+  "give_star_point": 480,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 805,
+  "category_type": 5,
+  "level": 8,
+  "give_star_point": 480,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 901,
+  "category_type": 1,
+  "level": 9,
+  "give_star_point": 540,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 902,
+  "category_type": 2,
+  "level": 9,
+  "give_star_point": 540,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 903,
+  "category_type": 3,
+  "level": 9,
+  "give_star_point": 540,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 904,
+  "category_type": 4,
+  "level": 9,
+  "give_star_point": 540,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 905,
+  "category_type": 5,
+  "level": 9,
+  "give_star_point": 540,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1001,
+  "category_type": 1,
+  "level": 10,
+  "give_star_point": 600,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1002,
+  "category_type": 2,
+  "level": 10,
+  "give_star_point": 600,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1003,
+  "category_type": 3,
+  "level": 10,
+  "give_star_point": 600,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1004,
+  "category_type": 4,
+  "level": 10,
+  "give_star_point": 600,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1005,
+  "category_type": 5,
+  "level": 10,
+  "give_star_point": 600,
+  "start_date": "2023-01-01T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1101,
+  "category_type": 1,
+  "level": 11,
+  "give_star_point": 660,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1102,
+  "category_type": 2,
+  "level": 11,
+  "give_star_point": 660,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1103,
+  "category_type": 3,
+  "level": 11,
+  "give_star_point": 660,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1104,
+  "category_type": 4,
+  "level": 11,
+  "give_star_point": 660,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1105,
+  "category_type": 5,
+  "level": 11,
+  "give_star_point": 660,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1201,
+  "category_type": 1,
+  "level": 12,
+  "give_star_point": 720,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1202,
+  "category_type": 2,
+  "level": 12,
+  "give_star_point": 720,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1203,
+  "category_type": 3,
+  "level": 12,
+  "give_star_point": 720,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1204,
+  "category_type": 4,
+  "level": 12,
+  "give_star_point": 720,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1205,
+  "category_type": 5,
+  "level": 12,
+  "give_star_point": 720,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1301,
+  "category_type": 1,
+  "level": 13,
+  "give_star_point": 780,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1302,
+  "category_type": 2,
+  "level": 13,
+  "give_star_point": 780,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1303,
+  "category_type": 3,
+  "level": 13,
+  "give_star_point": 780,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1304,
+  "category_type": 4,
+  "level": 13,
+  "give_star_point": 780,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1305,
+  "category_type": 5,
+  "level": 13,
+  "give_star_point": 780,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1401,
+  "category_type": 1,
+  "level": 14,
+  "give_star_point": 840,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1402,
+  "category_type": 2,
+  "level": 14,
+  "give_star_point": 840,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1403,
+  "category_type": 3,
+  "level": 14,
+  "give_star_point": 840,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1404,
+  "category_type": 4,
+  "level": 14,
+  "give_star_point": 840,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1405,
+  "category_type": 5,
+  "level": 14,
+  "give_star_point": 840,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1501,
+  "category_type": 1,
+  "level": 15,
+  "give_star_point": 900,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1502,
+  "category_type": 2,
+  "level": 15,
+  "give_star_point": 900,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1503,
+  "category_type": 3,
+  "level": 15,
+  "give_star_point": 900,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1504,
+  "category_type": 4,
+  "level": 15,
+  "give_star_point": 900,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1505,
+  "category_type": 5,
+  "level": 15,
+  "give_star_point": 900,
+  "start_date": "2023-12-14T13:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1601,
+  "category_type": 1,
+  "level": 16,
+  "give_star_point": 1000,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1602,
+  "category_type": 2,
+  "level": 16,
+  "give_star_point": 1000,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1603,
+  "category_type": 3,
+  "level": 16,
+  "give_star_point": 1000,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1604,
+  "category_type": 4,
+  "level": 16,
+  "give_star_point": 1000,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1605,
+  "category_type": 5,
+  "level": 16,
+  "give_star_point": 1000,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1701,
+  "category_type": 1,
+  "level": 17,
+  "give_star_point": 1100,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1702,
+  "category_type": 2,
+  "level": 17,
+  "give_star_point": 1100,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1703,
+  "category_type": 3,
+  "level": 17,
+  "give_star_point": 1100,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1704,
+  "category_type": 4,
+  "level": 17,
+  "give_star_point": 1100,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1705,
+  "category_type": 5,
+  "level": 17,
+  "give_star_point": 1100,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1801,
+  "category_type": 1,
+  "level": 18,
+  "give_star_point": 1200,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1802,
+  "category_type": 2,
+  "level": 18,
+  "give_star_point": 1200,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1803,
+  "category_type": 3,
+  "level": 18,
+  "give_star_point": 1200,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1804,
+  "category_type": 4,
+  "level": 18,
+  "give_star_point": 1200,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1805,
+  "category_type": 5,
+  "level": 18,
+  "give_star_point": 1200,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1901,
+  "category_type": 1,
+  "level": 19,
+  "give_star_point": 1300,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1902,
+  "category_type": 2,
+  "level": 19,
+  "give_star_point": 1300,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1903,
+  "category_type": 3,
+  "level": 19,
+  "give_star_point": 1300,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1904,
+  "category_type": 4,
+  "level": 19,
+  "give_star_point": 1300,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 1905,
+  "category_type": 5,
+  "level": 19,
+  "give_star_point": 1300,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2001,
+  "category_type": 1,
+  "level": 20,
+  "give_star_point": 1400,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2002,
+  "category_type": 2,
+  "level": 20,
+  "give_star_point": 1400,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2003,
+  "category_type": 3,
+  "level": 20,
+  "give_star_point": 1400,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2004,
+  "category_type": 4,
+  "level": 20,
+  "give_star_point": 1400,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2005,
+  "category_type": 5,
+  "level": 20,
+  "give_star_point": 1400,
+  "start_date": "2024-10-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2101,
+  "category_type": 1,
+  "level": 21,
+  "give_star_point": 1550,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2102,
+  "category_type": 2,
+  "level": 21,
+  "give_star_point": 1550,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2103,
+  "category_type": 3,
+  "level": 21,
+  "give_star_point": 1550,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2104,
+  "category_type": 4,
+  "level": 21,
+  "give_star_point": 1550,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2105,
+  "category_type": 5,
+  "level": 21,
+  "give_star_point": 1550,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2201,
+  "category_type": 1,
+  "level": 22,
+  "give_star_point": 1650,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2202,
+  "category_type": 2,
+  "level": 22,
+  "give_star_point": 1650,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2203,
+  "category_type": 3,
+  "level": 22,
+  "give_star_point": 1650,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2204,
+  "category_type": 4,
+  "level": 22,
+  "give_star_point": 1650,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2205,
+  "category_type": 5,
+  "level": 22,
+  "give_star_point": 1650,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2301,
+  "category_type": 1,
+  "level": 23,
+  "give_star_point": 1750,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2302,
+  "category_type": 2,
+  "level": 23,
+  "give_star_point": 1750,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2303,
+  "category_type": 3,
+  "level": 23,
+  "give_star_point": 1750,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2304,
+  "category_type": 4,
+  "level": 23,
+  "give_star_point": 1750,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2305,
+  "category_type": 5,
+  "level": 23,
+  "give_star_point": 1750,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2401,
+  "category_type": 1,
+  "level": 24,
+  "give_star_point": 1850,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2402,
+  "category_type": 2,
+  "level": 24,
+  "give_star_point": 1850,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2403,
+  "category_type": 3,
+  "level": 24,
+  "give_star_point": 1850,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2404,
+  "category_type": 4,
+  "level": 24,
+  "give_star_point": 1850,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2405,
+  "category_type": 5,
+  "level": 24,
+  "give_star_point": 1850,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2501,
+  "category_type": 1,
+  "level": 25,
+  "give_star_point": 2000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2502,
+  "category_type": 2,
+  "level": 25,
+  "give_star_point": 2000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2503,
+  "category_type": 3,
+  "level": 25,
+  "give_star_point": 2000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2504,
+  "category_type": 4,
+  "level": 25,
+  "give_star_point": 2000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2505,
+  "category_type": 5,
+  "level": 25,
+  "give_star_point": 2000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2601,
+  "category_type": 1,
+  "level": 26,
+  "give_star_point": 2200,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2602,
+  "category_type": 2,
+  "level": 26,
+  "give_star_point": 2200,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2603,
+  "category_type": 3,
+  "level": 26,
+  "give_star_point": 2200,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2604,
+  "category_type": 4,
+  "level": 26,
+  "give_star_point": 2200,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2605,
+  "category_type": 5,
+  "level": 26,
+  "give_star_point": 2200,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2701,
+  "category_type": 1,
+  "level": 27,
+  "give_star_point": 2400,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2702,
+  "category_type": 2,
+  "level": 27,
+  "give_star_point": 2400,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2703,
+  "category_type": 3,
+  "level": 27,
+  "give_star_point": 2400,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2704,
+  "category_type": 4,
+  "level": 27,
+  "give_star_point": 2400,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2705,
+  "category_type": 5,
+  "level": 27,
+  "give_star_point": 2400,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2801,
+  "category_type": 1,
+  "level": 28,
+  "give_star_point": 2600,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2802,
+  "category_type": 2,
+  "level": 28,
+  "give_star_point": 2600,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2803,
+  "category_type": 3,
+  "level": 28,
+  "give_star_point": 2600,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2804,
+  "category_type": 4,
+  "level": 28,
+  "give_star_point": 2600,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2805,
+  "category_type": 5,
+  "level": 28,
+  "give_star_point": 2600,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2901,
+  "category_type": 1,
+  "level": 29,
+  "give_star_point": 2800,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2902,
+  "category_type": 2,
+  "level": 29,
+  "give_star_point": 2800,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2903,
+  "category_type": 3,
+  "level": 29,
+  "give_star_point": 2800,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2904,
+  "category_type": 4,
+  "level": 29,
+  "give_star_point": 2800,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 2905,
+  "category_type": 5,
+  "level": 29,
+  "give_star_point": 2800,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3001,
+  "category_type": 1,
+  "level": 30,
+  "give_star_point": 3000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3002,
+  "category_type": 2,
+  "level": 30,
+  "give_star_point": 3000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3003,
+  "category_type": 3,
+  "level": 30,
+  "give_star_point": 3000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3004,
+  "category_type": 4,
+  "level": 30,
+  "give_star_point": 3000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-02T00:00:00+00:00"
+ },
+ {
+  "id": 3005,
+  "category_type": 5,
+  "level": 30,
+  "give_star_point": 3000,
+  "start_date": "2025-04-25T14:00:00+00:00",
+  "end_date": "2100-01-03T00:00:00+00:00"
+ }
+]

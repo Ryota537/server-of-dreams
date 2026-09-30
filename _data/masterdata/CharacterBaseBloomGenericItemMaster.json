@@ -1,0 +1,128 @@
+[
+ {
+  "id": 151001,
+  "item_master_id": 151001,
+  "character_base_master_id": 101,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151002,
+  "item_master_id": 151002,
+  "character_base_master_id": 102,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151003,
+  "item_master_id": 151003,
+  "character_base_master_id": 103,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151004,
+  "item_master_id": 151004,
+  "character_base_master_id": 104,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151005,
+  "item_master_id": 151005,
+  "character_base_master_id": 105,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151006,
+  "item_master_id": 151006,
+  "character_base_master_id": 106,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151007,
+  "item_master_id": 151007,
+  "character_base_master_id": 201,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151008,
+  "item_master_id": 151008,
+  "character_base_master_id": 202,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151009,
+  "item_master_id": 151009,
+  "character_base_master_id": 203,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151010,
+  "item_master_id": 151010,
+  "character_base_master_id": 204,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151011,
+  "item_master_id": 151011,
+  "character_base_master_id": 205,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151012,
+  "item_master_id": 151012,
+  "character_base_master_id": 301,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151013,
+  "item_master_id": 151013,
+  "character_base_master_id": 302,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151014,
+  "item_master_id": 151014,
+  "character_base_master_id": 303,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151015,
+  "item_master_id": 151015,
+  "character_base_master_id": 304,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151016,
+  "item_master_id": 151016,
+  "character_base_master_id": 305,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151017,
+  "item_master_id": 151017,
+  "character_base_master_id": 401,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151018,
+  "item_master_id": 151018,
+  "character_base_master_id": 402,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151019,
+  "item_master_id": 151019,
+  "character_base_master_id": 403,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151020,
+  "item_master_id": 151020,
+  "character_base_master_id": 404,
+  "talent_bloom_item_type": 2
+ },
+ {
+  "id": 151021,
+  "item_master_id": 151021,
+  "character_base_master_id": 405,
+  "talent_bloom_item_type": 2
+ }
+]

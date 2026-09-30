@@ -1,0 +1,1829 @@
+[
+ {
+  "id": 101,
+  "effect_master_id": 200011,
+  "name": "歌唱力アップ +1",
+  "description": "自身の歌唱力が[:param1]上昇",
+  "variety": 1
+ },
+ {
+  "id": 102,
+  "effect_master_id": 200012,
+  "name": "歌唱力アップ +2",
+  "description": "自身の歌唱力が[:param1]上昇",
+  "variety": 2
+ },
+ {
+  "id": 103,
+  "effect_master_id": 200013,
+  "name": "歌唱力アップ +3",
+  "description": "自身の歌唱力が[:param1]上昇",
+  "variety": 3
+ },
+ {
+  "id": 104,
+  "effect_master_id": 200014,
+  "name": "歌唱力アップ +4",
+  "description": "自身の歌唱力が[:param1]上昇",
+  "variety": 4
+ },
+ {
+  "id": 105,
+  "effect_master_id": 200015,
+  "name": "歌唱力アップ +5",
+  "description": "自身の歌唱力が[:param1]上昇",
+  "variety": 5
+ },
+ {
+  "id": 106,
+  "effect_master_id": 200016,
+  "name": "歌唱力アップ +6",
+  "description": "自身の歌唱力が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 107,
+  "effect_master_id": 200021,
+  "name": "表現力アップ +1",
+  "description": "自身の表現力が[:param1]上昇",
+  "variety": 1
+ },
+ {
+  "id": 108,
+  "effect_master_id": 200022,
+  "name": "表現力アップ +2",
+  "description": "自身の表現力が[:param1]上昇",
+  "variety": 2
+ },
+ {
+  "id": 109,
+  "effect_master_id": 200023,
+  "name": "表現力アップ +3",
+  "description": "自身の表現力が[:param1]上昇",
+  "variety": 3
+ },
+ {
+  "id": 110,
+  "effect_master_id": 200024,
+  "name": "表現力アップ +4",
+  "description": "自身の表現力が[:param1]上昇",
+  "variety": 4
+ },
+ {
+  "id": 111,
+  "effect_master_id": 200025,
+  "name": "表現力アップ +5",
+  "description": "自身の表現力が[:param1]上昇",
+  "variety": 5
+ },
+ {
+  "id": 112,
+  "effect_master_id": 200026,
+  "name": "表現力アップ +6",
+  "description": "自身の表現力が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 113,
+  "effect_master_id": 200031,
+  "name": "集中力アップ +1",
+  "description": "自身の集中力が[:param1]上昇",
+  "variety": 1
+ },
+ {
+  "id": 114,
+  "effect_master_id": 200032,
+  "name": "集中力アップ +2",
+  "description": "自身の集中力が[:param1]上昇",
+  "variety": 2
+ },
+ {
+  "id": 115,
+  "effect_master_id": 200033,
+  "name": "集中力アップ +3",
+  "description": "自身の集中力が[:param1]上昇",
+  "variety": 3
+ },
+ {
+  "id": 116,
+  "effect_master_id": 200034,
+  "name": "集中力アップ +4",
+  "description": "自身の集中力が[:param1]上昇",
+  "variety": 4
+ },
+ {
+  "id": 117,
+  "effect_master_id": 200035,
+  "name": "集中力アップ +5",
+  "description": "自身の集中力が[:param1]上昇",
+  "variety": 5
+ },
+ {
+  "id": 118,
+  "effect_master_id": 200036,
+  "name": "集中力アップ +6",
+  "description": "自身の集中力が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 201,
+  "effect_master_id": 200016,
+  "name": "歌唱力アップ +6",
+  "description": "自身の歌唱力が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 202,
+  "effect_master_id": 200026,
+  "name": "表現力アップ +6",
+  "description": "自身の表現力が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 203,
+  "effect_master_id": 200036,
+  "name": "集中力アップ +6",
+  "description": "自身の集中力が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 301,
+  "effect_master_id": 200041,
+  "name": "CTダウン +1",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 1
+ },
+ {
+  "id": 302,
+  "effect_master_id": 200042,
+  "name": "CTダウン +2",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 2
+ },
+ {
+  "id": 303,
+  "effect_master_id": 200043,
+  "name": "CTダウン +3",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 3
+ },
+ {
+  "id": 401,
+  "effect_master_id": 200043,
+  "name": "CTダウン +3",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 3
+ },
+ {
+  "id": 501,
+  "effect_master_id": 200051,
+  "name": "初期P.ゲージ上昇 +1",
+  "description": "初期プリンシパルゲージが[:param1]上昇",
+  "variety": 1
+ },
+ {
+  "id": 502,
+  "effect_master_id": 200052,
+  "name": "初期P.ゲージ上昇 +2",
+  "description": "初期プリンシパルゲージが[:param1]上昇",
+  "variety": 2
+ },
+ {
+  "id": 503,
+  "effect_master_id": 200053,
+  "name": "初期P.ゲージ上昇 +3",
+  "description": "初期プリンシパルゲージが[:param1]上昇",
+  "variety": 3
+ },
+ {
+  "id": 504,
+  "effect_master_id": 200054,
+  "name": "初期P.ゲージ上昇 +4",
+  "description": "初期プリンシパルゲージが[:param1]上昇",
+  "variety": 4
+ },
+ {
+  "id": 505,
+  "effect_master_id": 200055,
+  "name": "初期P.ゲージ上昇 +5",
+  "description": "初期プリンシパルゲージが[:param1]上昇",
+  "variety": 5
+ },
+ {
+  "id": 506,
+  "effect_master_id": 200056,
+  "name": "初期P.ゲージ上昇 +6",
+  "description": "初期プリンシパルゲージが[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 601,
+  "effect_master_id": 200056,
+  "name": "初期P.ゲージ上昇 +6",
+  "description": "初期プリンシパルゲージが[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 701,
+  "effect_master_id": 200057,
+  "name": "P.ゲージ獲得量アップ +1",
+  "description": "センスによるP.ゲージの獲得量が[:param1]%UP",
+  "variety": 1
+ },
+ {
+  "id": 702,
+  "effect_master_id": 200058,
+  "name": "P.ゲージ獲得量アップ +2",
+  "description": "センスによるP.ゲージの獲得量が[:param1]%UP",
+  "variety": 2
+ },
+ {
+  "id": 703,
+  "effect_master_id": 200059,
+  "name": "P.ゲージ獲得量アップ +3",
+  "description": "センスによるP.ゲージの獲得量が[:param1]%UP",
+  "variety": 3
+ },
+ {
+  "id": 704,
+  "effect_master_id": 200060,
+  "name": "P.ゲージ獲得量アップ +4",
+  "description": "センスによるP.ゲージの獲得量が[:param1]%UP",
+  "variety": 4
+ },
+ {
+  "id": 705,
+  "effect_master_id": 200061,
+  "name": "P.ゲージ獲得量アップ +5",
+  "description": "センスによるP.ゲージの獲得量が[:param1]%UP",
+  "variety": 5
+ },
+ {
+  "id": 706,
+  "effect_master_id": 200062,
+  "name": "P.ゲージ獲得量アップ +6",
+  "description": "センスによるP.ゲージの獲得量が[:param1]%UP",
+  "variety": 6
+ },
+ {
+  "id": 801,
+  "effect_master_id": 200062,
+  "name": "P.ゲージ獲得量アップ +6",
+  "description": "センスによるP.ゲージの獲得量が[:param1]%UP",
+  "variety": 6
+ },
+ {
+  "id": 901,
+  "effect_master_id": 200063,
+  "name": "演技力アップ +1",
+  "description": "自身の演技力が[:param1]%上昇",
+  "variety": 1
+ },
+ {
+  "id": 902,
+  "effect_master_id": 200064,
+  "name": "演技力アップ +2",
+  "description": "自身の演技力が[:param1]%上昇",
+  "variety": 2
+ },
+ {
+  "id": 903,
+  "effect_master_id": 200065,
+  "name": "演技力アップ +3",
+  "description": "自身の演技力が[:param1]%上昇",
+  "variety": 3
+ },
+ {
+  "id": 904,
+  "effect_master_id": 200066,
+  "name": "演技力アップ +4",
+  "description": "自身の演技力が[:param1]%上昇",
+  "variety": 4
+ },
+ {
+  "id": 905,
+  "effect_master_id": 200067,
+  "name": "演技力アップ +5",
+  "description": "自身の演技力が[:param1]%上昇",
+  "variety": 5
+ },
+ {
+  "id": 906,
+  "effect_master_id": 200068,
+  "name": "演技力アップ +6",
+  "description": "自身の演技力が[:param1]%上昇",
+  "variety": 6
+ },
+ {
+  "id": 1001,
+  "effect_master_id": 200068,
+  "name": "演技力アップ +6",
+  "description": "自身の演技力が[:param1]%上昇",
+  "variety": 6
+ },
+ {
+  "id": 1101,
+  "effect_master_id": 200069,
+  "name": "初期PG上限上昇+1",
+  "description": "初期プリンシパルゲージ上限が[:param1]上昇",
+  "variety": 1
+ },
+ {
+  "id": 1102,
+  "effect_master_id": 200070,
+  "name": "初期PG上限上昇+2",
+  "description": "初期プリンシパルゲージ上限が[:param1]上昇",
+  "variety": 2
+ },
+ {
+  "id": 1103,
+  "effect_master_id": 200071,
+  "name": "初期PG上限上昇+3",
+  "description": "初期プリンシパルゲージ上限が[:param1]上昇",
+  "variety": 3
+ },
+ {
+  "id": 1104,
+  "effect_master_id": 200072,
+  "name": "初期PG上限上昇+4",
+  "description": "初期プリンシパルゲージ上限が[:param1]上昇",
+  "variety": 4
+ },
+ {
+  "id": 1105,
+  "effect_master_id": 200073,
+  "name": "初期PG上限上昇+5",
+  "description": "初期プリンシパルゲージ上限が[:param1]上昇",
+  "variety": 5
+ },
+ {
+  "id": 1106,
+  "effect_master_id": 200074,
+  "name": "初期PG上限上昇+6",
+  "description": "初期プリンシパルゲージ上限が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 1201,
+  "effect_master_id": 200074,
+  "name": "初期PG上限上昇+6",
+  "description": "初期プリンシパルゲージ上限が[:param1]上昇",
+  "variety": 6
+ },
+ {
+  "id": 1301,
+  "effect_master_id": 200041,
+  "name": "CTダウン +1",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 1
+ },
+ {
+  "id": 1302,
+  "effect_master_id": 200042,
+  "name": "CTダウン +2",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 2
+ },
+ {
+  "id": 1303,
+  "effect_master_id": 200043,
+  "name": "CTダウン +3",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 3
+ },
+ {
+  "id": 1304,
+  "effect_master_id": 200044,
+  "name": "CTダウン +4",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 4
+ },
+ {
+  "id": 1305,
+  "effect_master_id": 200045,
+  "name": "CTダウン +5",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 5
+ },
+ {
+  "id": 1401,
+  "effect_master_id": 200045,
+  "name": "CTダウン +5",
+  "description": "自身のセンスのCTが[:param1]秒短縮",
+  "variety": 5
+ },
+ {
+  "id": 310010,
+  "effect_master_id": 310010,
+  "name": "三寸の兒",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 310020,
+  "effect_master_id": 310020,
+  "name": "飢えを凌ぐ果実",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 310030,
+  "effect_master_id": 310030,
+  "name": "地上の落とし物",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 310040,
+  "effect_master_id": 310040,
+  "name": "サンドリヨン",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320010,
+  "effect_master_id": 320010,
+  "name": "路地裏に潜む闇",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320020,
+  "effect_master_id": 320020,
+  "name": "真実の愛が魅せる深紅",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320030,
+  "effect_master_id": 320030,
+  "name": "伸縮自在８トン",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320040,
+  "effect_master_id": 320040,
+  "name": "ビビディ・バビディ・ブー",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320050,
+  "effect_master_id": 320050,
+  "name": "贈り物と引き換えに望むものは",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320060,
+  "effect_master_id": 320060,
+  "name": "音楽の天使",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320070,
+  "effect_master_id": 320070,
+  "name": "胸にともる復讐の火",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320080,
+  "effect_master_id": 320080,
+  "name": "友情のはじまり",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320090,
+  "effect_master_id": 321010,
+  "name": "復讐と未来のため",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320100,
+  "effect_master_id": 321020,
+  "name": "さあ、次の戦場に行こう",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320110,
+  "effect_master_id": 321030,
+  "name": "水天一碧の航路",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320120,
+  "effect_master_id": 321040,
+  "name": "君がいれば百人力で完全無欠",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320130,
+  "effect_master_id": 321060,
+  "name": "野望と罪の証",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320140,
+  "effect_master_id": 321080,
+  "name": "善と悪を分かつとき",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320150,
+  "effect_master_id": 321050,
+  "name": "隠されし献身",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320160,
+  "effect_master_id": 321070,
+  "name": "撃てば必中！",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320170,
+  "effect_master_id": 322010,
+  "name": "わたくしのお茶はいかが？",
+  "description": "自身の歌唱力[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320180,
+  "effect_master_id": 322020,
+  "name": "仮面の下に秘めたのは",
+  "description": "自身の歌唱力[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320190,
+  "effect_master_id": 322030,
+  "name": "まとめてかかってこい！",
+  "description": "自身の歌唱力[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320200,
+  "effect_master_id": 322040,
+  "name": "特別な果実を君に",
+  "description": "自身の歌唱力[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320210,
+  "effect_master_id": 322050,
+  "name": "花咲くいばらの恋",
+  "description": "自身の表現力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320220,
+  "effect_master_id": 322060,
+  "name": "行こう、ネバーランドへ！",
+  "description": "自身の表現力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320230,
+  "effect_master_id": 322070,
+  "name": "愛の力の勝利だね",
+  "description": "自身の表現力が[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320240,
+  "effect_master_id": 322080,
+  "name": "戦乱の世で",
+  "description": "自身の表現力が[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320250,
+  "effect_master_id": 322090,
+  "name": "抑えられない知識欲",
+  "description": "自身の集中力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320260,
+  "effect_master_id": 322100,
+  "name": "恋慕を胸に秘めて",
+  "description": "自身の集中力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320270,
+  "effect_master_id": 322110,
+  "name": "なんでも冷やして凍らせて",
+  "description": "自身の集中力が[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320280,
+  "effect_master_id": 322120,
+  "name": "真実の愛を胸に",
+  "description": "自身の集中力が[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320290,
+  "effect_master_id": 321011,
+  "name": "守るための刃",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320300,
+  "effect_master_id": 321021,
+  "name": "戦記はまだ続く",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320310,
+  "effect_master_id": 320090,
+  "name": "天使の音色をここに ",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320320,
+  "effect_master_id": 320100,
+  "name": "全てを焼き払って",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320330,
+  "effect_master_id": 320110,
+  "name": "健気な恩返し",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320340,
+  "effect_master_id": 321031,
+  "name": "蒼き航路を辿って",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320350,
+  "effect_master_id": 321041,
+  "name": "仲間なんだから頼って？",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320360,
+  "effect_master_id": 321081,
+  "name": "表裏一体のふたり",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320370,
+  "effect_master_id": 331260,
+  "name": "眠れぬ夜の始まり",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320380,
+  "effect_master_id": 331250,
+  "name": "絶対に開けないでくださいね",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320390,
+  "effect_master_id": 331270,
+  "name": "戦場を駆けて",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 320400,
+  "effect_master_id": 322130,
+  "name": "あなたと過ごすてぃーたいむ",
+  "description": "自身の歌唱力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 330010,
+  "effect_master_id": 330010,
+  "name": "目指すは世界を照らす一等星",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：ここなが装備",
+  "variety": null
+ },
+ {
+  "id": 330011,
+  "effect_master_id": 330011,
+  "name": "きっと輝いてみせる",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：ここなが装備",
+  "variety": null
+ },
+ {
+  "id": 330020,
+  "effect_master_id": 330020,
+  "name": "寄り添い導く流れ星",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：静香が装備",
+  "variety": null
+ },
+ {
+  "id": 330021,
+  "effect_master_id": 330021,
+  "name": "ふたりでワールドダイスターに",
+  "description": "公演開始時、「SP光」を[:param1]付与（SP光はどの系統の光としても扱われる）　◆発動条件：静香が装備",
+  "variety": null
+ },
+ {
+  "id": 330022,
+  "effect_master_id": 330022,
+  "name": "「光」追加（SP）Ⅱ",
+  "description": "公演開始時、「SP光」を[:param1]付与（SP光はどの系統の光としても扱われる）　◆発動条件：静香が装備し、編成されてる全てのアクターの所属劇団にシリウスが含まれているとき",
+  "variety": null
+ },
+ {
+  "id": 330030,
+  "effect_master_id": 330030,
+  "name": "研ぎ澄まされる意識",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：カトリナが装備",
+  "variety": null
+ },
+ {
+  "id": 330031,
+  "effect_master_id": 330031,
+  "name": "アウゲンブリック",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：カトリナが装備",
+  "variety": null
+ },
+ {
+  "id": 330040,
+  "effect_master_id": 330040,
+  "name": "歌は星空に響いて",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：八恵が装備",
+  "variety": null
+ },
+ {
+  "id": 330041,
+  "effect_master_id": 330041,
+  "name": "想いをあなたに届けます",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：八恵が装備",
+  "variety": null
+ },
+ {
+  "id": 330050,
+  "effect_master_id": 330050,
+  "name": "きらめきは努力の証",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：ぱんだが装備",
+  "variety": null
+ },
+ {
+  "id": 330051,
+  "effect_master_id": 330051,
+  "name": "ぱんだのでばんだ！",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：ぱんだが装備",
+  "variety": null
+ },
+ {
+  "id": 330060,
+  "effect_master_id": 330060,
+  "name": "レインボーメーカー",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：知冴が装備",
+  "variety": null
+ },
+ {
+  "id": 330061,
+  "effect_master_id": 330061,
+  "name": "宇宙って……深いよね",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：知冴が装備",
+  "variety": null
+ },
+ {
+  "id": 330070,
+  "effect_master_id": 330070,
+  "name": "お前の渇きを潤してやる",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：初魅が装備",
+  "variety": null
+ },
+ {
+  "id": 330071,
+  "effect_master_id": 330071,
+  "name": "醒めぬ陶酔の渦へ",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：初魅が装備",
+  "variety": null
+ },
+ {
+  "id": 330080,
+  "effect_master_id": 330080,
+  "name": "この想いが力になるの",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：大黒が装備",
+  "variety": null
+ },
+ {
+  "id": 330081,
+  "effect_master_id": 330081,
+  "name": "許されないわ……！",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：大黒が装備",
+  "variety": null
+ },
+ {
+  "id": 330090,
+  "effect_master_id": 330090,
+  "name": "透き通る花々",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：仁花子が装備",
+  "variety": null
+ },
+ {
+  "id": 330091,
+  "effect_master_id": 330091,
+  "name": "自然をいつでもチャージ！",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：仁花子が装備",
+  "variety": null
+ },
+ {
+  "id": 330100,
+  "effect_master_id": 330100,
+  "name": "冷静で的確なリスクヘッジ",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：容が装備",
+  "variety": null
+ },
+ {
+  "id": 330101,
+  "effect_master_id": 330101,
+  "name": "ここらで一発逆転だ！",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：容が装備",
+  "variety": null
+ },
+ {
+  "id": 330110,
+  "effect_master_id": 330110,
+  "name": "しぐれの虜にしてあげる",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：しぐれが装備",
+  "variety": null
+ },
+ {
+  "id": 330111,
+  "effect_master_id": 330111,
+  "name": "魅惑のプチデビル",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：しぐれが装備",
+  "variety": null
+ },
+ {
+  "id": 330120,
+  "effect_master_id": 330120,
+  "name": "看板を背負うものの務め",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：暦が装備",
+  "variety": null
+ },
+ {
+  "id": 330121,
+  "effect_master_id": 330121,
+  "name": "伝統と期待を誇りに",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：暦が装備",
+  "variety": null
+ },
+ {
+  "id": 330130,
+  "effect_master_id": 330130,
+  "name": "繋がる星々",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：ラモーナが装備",
+  "variety": null
+ },
+ {
+  "id": 330131,
+  "effect_master_id": 330131,
+  "name": "さぁ、手を取り合おう！",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：ラモーナが装備",
+  "variety": null
+ },
+ {
+  "id": 330140,
+  "effect_master_id": 330140,
+  "name": "私の実力を分からせてやる！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：雪が装備",
+  "variety": null
+ },
+ {
+  "id": 330141,
+  "effect_master_id": 330141,
+  "name": "燃え続ける向上心",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：雪が装備",
+  "variety": null
+ },
+ {
+  "id": 330150,
+  "effect_master_id": 330150,
+  "name": "美しさには果てがなく",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：リリヤが装備",
+  "variety": null
+ },
+ {
+  "id": 330151,
+  "effect_master_id": 330151,
+  "name": "ほら、もっと見て",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：リリヤが装備",
+  "variety": null
+ },
+ {
+  "id": 330160,
+  "effect_master_id": 330160,
+  "name": "美ら海のメモリー",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：緋花里が装備",
+  "variety": null
+ },
+ {
+  "id": 330161,
+  "effect_master_id": 330161,
+  "name": "なんくるないさ",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：緋花里が装備",
+  "variety": null
+ },
+ {
+  "id": 330170,
+  "effect_master_id": 330170,
+  "name": "楽しい舞台を作りましょうっ！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：いろはが装備",
+  "variety": null
+ },
+ {
+  "id": 330171,
+  "effect_master_id": 330171,
+  "name": "たとえセンスがなくたって",
+  "description": "公演開始時、「SP光」を[:param1]付与（SP光はどの系統の光としても扱われる）　◆発動条件：いろはが装備",
+  "variety": null
+ },
+ {
+  "id": 330172,
+  "effect_master_id": 330172,
+  "name": "「光」追加（SP）Ⅱ",
+  "description": "公演開始時、「SP光」を[:param1]付与（SP光はどの系統の光としても扱われる）　◆発動条件：いろはが装備し、編成されてる全てのアクターの所属劇団に劇団電姫が含まれているとき",
+  "variety": null
+ },
+ {
+  "id": 330180,
+  "effect_master_id": 330180,
+  "name": "ほんの小さな一歩から",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：美兎が装備",
+  "variety": null
+ },
+ {
+  "id": 330181,
+  "effect_master_id": 330181,
+  "name": "こうなりたいと強く願えば",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：美兎が装備",
+  "variety": null
+ },
+ {
+  "id": 330190,
+  "effect_master_id": 330190,
+  "name": "キラキラしてるっしょ！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：カミラが装備",
+  "variety": null
+ },
+ {
+  "id": 330191,
+  "effect_master_id": 330191,
+  "name": "大胆不敵にがんばろ！",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：カミラが装備",
+  "variety": null
+ },
+ {
+  "id": 330200,
+  "effect_master_id": 330200,
+  "name": "神の啓示に従って",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：蕾が装備",
+  "variety": null
+ },
+ {
+  "id": 330201,
+  "effect_master_id": 330201,
+  "name": "悪鬼退散！　幸運招来！",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：蕾が装備",
+  "variety": null
+ },
+ {
+  "id": 330210,
+  "effect_master_id": 330210,
+  "name": "明日から本気出す",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：叶羽が装備",
+  "variety": null
+ },
+ {
+  "id": 330211,
+  "effect_master_id": 330211,
+  "name": "おやすみ～",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：叶羽が装備",
+  "variety": null
+ },
+ {
+  "id": 331010,
+  "effect_master_id": 331010,
+  "name": "やはり、きれいでした",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331020,
+  "effect_master_id": 331020,
+  "name": "２人を引き裂く運命",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331030,
+  "effect_master_id": 331030,
+  "name": "私の証明",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331040,
+  "effect_master_id": 331040,
+  "name": "魔法が解ける合図",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331050,
+  "effect_master_id": 331050,
+  "name": "願うはご主人様の幸せ",
+  "description": "自身の演技力が[:param1]%上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331060,
+  "effect_master_id": 331060,
+  "name": "純真と危うさの二面性",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331070,
+  "effect_master_id": 331070,
+  "name": "破邪鎮護の一薙ぎ",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331080,
+  "effect_master_id": 331090,
+  "name": "二人に愛を誓って",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331090,
+  "effect_master_id": 331080,
+  "name": "歪んだ愛は永遠に",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331100,
+  "effect_master_id": 331210,
+  "name": "LET'S ROCK!!!!",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331110,
+  "effect_master_id": 331220,
+  "name": "おしゃれは無限大",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331120,
+  "effect_master_id": 331230,
+  "name": "毎日遊んで暮らしたい",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331130,
+  "effect_master_id": 331240,
+  "name": "永遠の愛は湖底に",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331140,
+  "effect_master_id": 331270,
+  "name": "父の音色を受け継いで",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331150,
+  "effect_master_id": 331280,
+  "name": "おい！　寝るなーっ！",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331160,
+  "effect_master_id": 331260,
+  "name": "不思議の国へご招待",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331170,
+  "effect_master_id": 331250,
+  "name": "愛することこそ幸せだった",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331180,
+  "effect_master_id": 331290,
+  "name": "セレスティアル・ハーモニー",
+  "description": "自身の歌唱力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331190,
+  "effect_master_id": 331300,
+  "name": "トゥルー・マジカル・パワー",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331200,
+  "effect_master_id": 331300,
+  "name": "「いい子」を目指して",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331210,
+  "effect_master_id": 331310,
+  "name": "ふたりの聖女",
+  "description": "自身の集中力が[:param1]%上昇",
+  "variety": null
+ },
+ {
+  "id": 331220,
+  "effect_master_id": 331310,
+  "name": "戦場を舞う女神",
+  "description": "自身の集中力が[:param1]%上昇",
+  "variety": null
+ },
+ {
+  "id": 331230,
+  "effect_master_id": 331290,
+  "name": "愛するあなたのために",
+  "description": "自身の歌唱力が[:param1]%上昇",
+  "variety": null
+ },
+ {
+  "id": 331240,
+  "effect_master_id": 331090,
+  "name": "我らちびっこ三銃士！",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331250,
+  "effect_master_id": 331090,
+  "name": "子どもに刃物は早いので",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331260,
+  "effect_master_id": 1000030,
+  "name": "正義と父上への愛の為に",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 331270,
+  "effect_master_id": 1000020,
+  "name": "ただ一人の孝行娘",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331280,
+  "effect_master_id": 331120,
+  "name": "美味しいおうちを作らなきゃ",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331290,
+  "effect_master_id": 331130,
+  "name": "時代はきびだんごビジネス！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331300,
+  "effect_master_id": 331140,
+  "name": "幸せを探して",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331310,
+  "effect_master_id": 331150,
+  "name": "トントンカラリ",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331320,
+  "effect_master_id": 331170,
+  "name": "勝負は得意のポーカーで",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331330,
+  "effect_master_id": 331160,
+  "name": "皆の幸福を祈って",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331340,
+  "effect_master_id": 331190,
+  "name": "とってもステキなロバの耳",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331350,
+  "effect_master_id": 331190,
+  "name": "勝負には策略がなくっちゃ",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331360,
+  "effect_master_id": 331410,
+  "name": "誰も悲しまない未来のために",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331370,
+  "effect_master_id": 331510,
+  "name": "もしも人生をやり直すなら",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 331380,
+  "effect_master_id": 331180,
+  "name": "優しいこの子にあげたいの",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331390,
+  "effect_master_id": 331200,
+  "name": "いらっしゃいませ、二名様！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331400,
+  "effect_master_id": 331291,
+  "name": "取り戻す、真実の愛！",
+  "description": "自身の歌唱力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331410,
+  "effect_master_id": 331301,
+  "name": "たとえ記憶がなくとも",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331420,
+  "effect_master_id": 331311,
+  "name": "秀でた智略",
+  "description": "自身の集中力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331430,
+  "effect_master_id": 331291,
+  "name": "振るうは天才軍師",
+  "description": "自身の歌唱力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331440,
+  "effect_master_id": 331301,
+  "name": "私を選んでくれますか？",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331450,
+  "effect_master_id": 331311,
+  "name": "あたしを選ぶわよね？",
+  "description": "自身の集中力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331460,
+  "effect_master_id": 331190,
+  "name": "抱擁は潮騒と共に",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331470,
+  "effect_master_id": 331190,
+  "name": "水底、離れぬふたり",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331480,
+  "effect_master_id": 331410,
+  "name": "伝えたいこのおいしさ",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331490,
+  "effect_master_id": 331510,
+  "name": "甘いくちどけ",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 331500,
+  "effect_master_id": 331190,
+  "name": "ただ、あなたの傍に居たくて",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331510,
+  "effect_master_id": 331190,
+  "name": "蛇であっても愛しくて",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331520,
+  "effect_master_id": 331161,
+  "name": "愛と悲しみの二面性",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331530,
+  "effect_master_id": 331181,
+  "name": "破邪の一振り",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331540,
+  "effect_master_id": 331191,
+  "name": "愛を誓った二人は……",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331550,
+  "effect_master_id": 331201,
+  "name": "叶えたいその願い！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331560,
+  "effect_master_id": 331171,
+  "name": "永遠の愛を誓うわ",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331570,
+  "effect_master_id": 331211,
+  "name": "Groove Bremen!!!!",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331580,
+  "effect_master_id": 331221,
+  "name": "自由なヘアスタイルで",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331590,
+  "effect_master_id": 331231,
+  "name": "何日でものめり込んで",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331600,
+  "effect_master_id": 331241,
+  "name": "湖畔、愛の誓い",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331610,
+  "effect_master_id": 331271,
+  "name": "受け継がれし音色",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：銀河座に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331620,
+  "effect_master_id": 331281,
+  "name": "やはり私は天才だ！",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331630,
+  "effect_master_id": 331261,
+  "name": "お茶会に遅れちゃう！？",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：Edenに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331640,
+  "effect_master_id": 331251,
+  "name": "悲恋、零れる涙",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：シリウスに所属するアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331650,
+  "effect_master_id": 331292,
+  "name": "あたしひとりで守り切れる",
+  "description": "自身の歌唱力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331660,
+  "effect_master_id": 331302,
+  "name": "私たちが、この街を守るっ！",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331670,
+  "effect_master_id": 331312,
+  "name": "あなたに尽くさせて",
+  "description": "自身の集中力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331680,
+  "effect_master_id": 331292,
+  "name": "三度目の愛を",
+  "description": "自身の歌唱力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331690,
+  "effect_master_id": 331302,
+  "name": "お父様との約束",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331700,
+  "effect_master_id": 331312,
+  "name": "ずっと一緒に",
+  "description": "自身の集中力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331710,
+  "effect_master_id": 331191,
+  "name": "ワン・フォー・オール！",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331720,
+  "effect_master_id": 331191,
+  "name": "オール・フォー・ワン！",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331730,
+  "effect_master_id": 331511,
+  "name": "最も愛ある者の剣",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 331740,
+  "effect_master_id": 331411,
+  "name": "愛は多くを語らず",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 331750,
+  "effect_master_id": 331202,
+  "name": "最高の味を目指して！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 331760,
+  "effect_master_id": 331203,
+  "name": "商品開発は終わらない！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+  "variety": null
+ },
+ {
+  "id": 430010,
+  "effect_master_id": 331090,
+  "name": "観ていてね！",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430011,
+  "effect_master_id": 1000010,
+  "name": "初期ライフ上昇",
+  "description": "公演開始時、ライフが[:param1]上昇",
+  "variety": null
+ },
+ {
+  "id": 430020,
+  "effect_master_id": 1000020,
+  "name": "受け継がれる想い",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430030,
+  "effect_master_id": 1000030,
+  "name": "盛り上がってきたな！",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 430040,
+  "effect_master_id": 1000020,
+  "name": "俺はもう進むしかない",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430050,
+  "effect_master_id": 1000030,
+  "name": "少し躾が必要みたいだな",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 430060,
+  "effect_master_id": 1000040,
+  "name": "ついに念願の！",
+  "description": "自身の歌唱力が[:param1]％上昇　◆発動条件：カトリナ・ぱんだ・知冴・暦・リリヤ・緋花里が装備",
+  "variety": null
+ },
+ {
+  "id": 430061,
+  "effect_master_id": 1000050,
+  "name": "ドリーム、詰め込みました",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：カトリナ・ぱんだ・知冴・暦・リリヤ・緋花里が装備",
+  "variety": null
+ },
+ {
+  "id": 430070,
+  "effect_master_id": 1000020,
+  "name": "大人をめざしてがんばるにゃ！",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430080,
+  "effect_master_id": 331090,
+  "name": "You may stay the world!",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430081,
+  "effect_master_id": 1000010,
+  "name": "掲げた腕は星空のように",
+  "description": "公演開始時、ライフが[:param1]上昇",
+  "variety": null
+ },
+ {
+  "id": 430090,
+  "effect_master_id": 1000060,
+  "name": "世界規模で楽しんじゃおう",
+  "description": "自身の歌唱力が[:param1]％上昇　◆発動条件：カトリナ・知冴・ラモーナ・雪・リリヤが装備",
+  "variety": null
+ },
+ {
+  "id": 430091,
+  "effect_master_id": 1000070,
+  "name": "歌えば仲間、踊れば友達！",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：カトリナ・知冴・ラモーナ・雪・リリヤが装備",
+  "variety": null
+ },
+ {
+  "id": 430100,
+  "effect_master_id": 330220,
+  "name": "みんなで輝こう！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：千歌が装備",
+  "variety": null
+ },
+ {
+  "id": 430101,
+  "effect_master_id": 330221,
+  "name": "「光」獲得数増加",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：千歌が装備",
+  "variety": null
+ },
+ {
+  "id": 430110,
+  "effect_master_id": 330230,
+  "name": "今を、精いっぱい全力で！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：梨子が装備",
+  "variety": null
+ },
+ {
+  "id": 430111,
+  "effect_master_id": 330231,
+  "name": "「光」獲得数増加",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：梨子が装備",
+  "variety": null
+ },
+ {
+  "id": 430120,
+  "effect_master_id": 330240,
+  "name": "堕天使奥義を見せてあげる！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：善子が装備",
+  "variety": null
+ },
+ {
+  "id": 430121,
+  "effect_master_id": 330241,
+  "name": "「光」獲得数増加",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：善子が装備",
+  "variety": null
+ },
+ {
+  "id": 430130,
+  "effect_master_id": 330250,
+  "name": "がんばルビィ！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：ルビィが装備",
+  "variety": null
+ },
+ {
+  "id": 430131,
+  "effect_master_id": 330251,
+  "name": "「光」獲得数増加",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：ルビィが装備",
+  "variety": null
+ },
+ {
+  "id": 430140,
+  "effect_master_id": 330260,
+  "name": "貴方の力、信じましょう！",
+  "description": "自身の演技力が[:param1]％上昇　◆発動条件：ダイヤが装備",
+  "variety": null
+ },
+ {
+  "id": 430141,
+  "effect_master_id": 330261,
+  "name": "「光」獲得数増加",
+  "description": "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：ダイヤが装備",
+  "variety": null
+ },
+ {
+  "id": 430150,
+  "effect_master_id": 1000030,
+  "name": "団らんを照らす仄かな明かり",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 430160,
+  "effect_master_id": 1000030,
+  "name": "魔を刈り取る炎刃",
+  "description": "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+  "variety": null
+ },
+ {
+  "id": 430170,
+  "effect_master_id": 1000020,
+  "name": "やってやるぜ！",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430180,
+  "effect_master_id": 1000080,
+  "name": "歩んできた足跡をたどって",
+  "description": "自身の演技力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430181,
+  "effect_master_id": 1000090,
+  "name": "交わる熱狂",
+  "description": "公演開始時、ライフが[:param1]上昇",
+  "variety": null
+ },
+ {
+  "id": 430190,
+  "effect_master_id": 1000100,
+  "name": "楽園の主は奏でる",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430191,
+  "effect_master_id": 1000110,
+  "name": "我が支配の下で",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430200,
+  "effect_master_id": 1000120,
+  "name": "ドリームをもう一度",
+  "description": "自身の歌唱力が[:param1]％上昇　◆発動条件：初魅・仁花子・容・いろは・美兎・叶羽が装備",
+  "variety": null
+ },
+ {
+  "id": 430201,
+  "effect_master_id": 1000130,
+  "name": "幸運を詰め合わせて！",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：初魅・仁花子・容・いろは・美兎・叶羽が装備",
+  "variety": null
+ },
+ {
+  "id": 430210,
+  "effect_master_id": 1000140,
+  "name": "Sparkle Fanfare!",
+  "description": "自身の歌唱力が[:param1]％上昇　◆発動条件：ここな・静香・カトリナ・八恵・ぱんだ・知冴・いろは・美兎・叶羽が装備",
+  "variety": null
+ },
+ {
+  "id": 430211,
+  "effect_master_id": 1000150,
+  "name": "STARRY Ex Machina!",
+  "description": "初期プリンシパルゲージが[:param1]上昇　◆発動条件：ここな・静香・カトリナ・八恵・ぱんだ・知冴・いろは・美兎・叶羽が装備",
+  "variety": null
+ },
+ {
+  "id": 430220,
+  "effect_master_id": 1000170,
+  "name": "天上の光をこの手に",
+  "description": "センス発動時、SP光を追加で[:param1]個付与",
+  "variety": null
+ },
+ {
+  "id": 430221,
+  "effect_master_id": 1000160,
+  "name": "煌めきのその先へ",
+  "description": "自身の表現力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430230,
+  "effect_master_id": 1000180,
+  "name": "ヤネウラの扉は開かれた",
+  "description": "自身の集中力が[:param1]％上昇",
+  "variety": null
+ },
+ {
+  "id": 430231,
+  "effect_master_id": 1000190,
+  "name": "基礎スコア上昇",
+  "description": "基礎スコアが[:param1]％上昇",
+  "variety": null
+ }
+]

@@ -1,0 +1,1208 @@
+[
+ {
+  "rank": 0,
+  "next_rank_point": 10,
+  "required_lesson_score": 0,
+  "status_bonus": 0.0
+ },
+ {
+  "rank": 1,
+  "next_rank_point": 30,
+  "required_lesson_score": 0,
+  "status_bonus": 0.5
+ },
+ {
+  "rank": 2,
+  "next_rank_point": 60,
+  "required_lesson_score": 0,
+  "status_bonus": 1.0
+ },
+ {
+  "rank": 3,
+  "next_rank_point": 100,
+  "required_lesson_score": 0,
+  "status_bonus": 1.5
+ },
+ {
+  "rank": 4,
+  "next_rank_point": 140,
+  "required_lesson_score": 0,
+  "status_bonus": 2.0
+ },
+ {
+  "rank": 5,
+  "next_rank_point": 180,
+  "required_lesson_score": 0,
+  "status_bonus": 2.5
+ },
+ {
+  "rank": 6,
+  "next_rank_point": 230,
+  "required_lesson_score": 7000,
+  "status_bonus": 3.0
+ },
+ {
+  "rank": 7,
+  "next_rank_point": 280,
+  "required_lesson_score": 7000,
+  "status_bonus": 3.5
+ },
+ {
+  "rank": 8,
+  "next_rank_point": 340,
+  "required_lesson_score": 7000,
+  "status_bonus": 4.0
+ },
+ {
+  "rank": 9,
+  "next_rank_point": 400,
+  "required_lesson_score": 7000,
+  "status_bonus": 4.5
+ },
+ {
+  "rank": 10,
+  "next_rank_point": 470,
+  "required_lesson_score": 7000,
+  "status_bonus": 5.0
+ },
+ {
+  "rank": 11,
+  "next_rank_point": 540,
+  "required_lesson_score": 50000,
+  "status_bonus": 5.5
+ },
+ {
+  "rank": 12,
+  "next_rank_point": 610,
+  "required_lesson_score": 50000,
+  "status_bonus": 6.0
+ },
+ {
+  "rank": 13,
+  "next_rank_point": 690,
+  "required_lesson_score": 50000,
+  "status_bonus": 6.5
+ },
+ {
+  "rank": 14,
+  "next_rank_point": 770,
+  "required_lesson_score": 50000,
+  "status_bonus": 7.0
+ },
+ {
+  "rank": 15,
+  "next_rank_point": 850,
+  "required_lesson_score": 50000,
+  "status_bonus": 7.5
+ },
+ {
+  "rank": 16,
+  "next_rank_point": 930,
+  "required_lesson_score": 200000,
+  "status_bonus": 8.0
+ },
+ {
+  "rank": 17,
+  "next_rank_point": 1020,
+  "required_lesson_score": 200000,
+  "status_bonus": 8.5
+ },
+ {
+  "rank": 18,
+  "next_rank_point": 1120,
+  "required_lesson_score": 200000,
+  "status_bonus": 9.0
+ },
+ {
+  "rank": 19,
+  "next_rank_point": 1210,
+  "required_lesson_score": 200000,
+  "status_bonus": 9.5
+ },
+ {
+  "rank": 20,
+  "next_rank_point": 1310,
+  "required_lesson_score": 200000,
+  "status_bonus": 10.0
+ },
+ {
+  "rank": 21,
+  "next_rank_point": 1410,
+  "required_lesson_score": 600000,
+  "status_bonus": 10.5
+ },
+ {
+  "rank": 22,
+  "next_rank_point": 1510,
+  "required_lesson_score": 600000,
+  "status_bonus": 11.0
+ },
+ {
+  "rank": 23,
+  "next_rank_point": 1620,
+  "required_lesson_score": 600000,
+  "status_bonus": 11.5
+ },
+ {
+  "rank": 24,
+  "next_rank_point": 1730,
+  "required_lesson_score": 600000,
+  "status_bonus": 12.0
+ },
+ {
+  "rank": 25,
+  "next_rank_point": 1840,
+  "required_lesson_score": 600000,
+  "status_bonus": 12.5
+ },
+ {
+  "rank": 26,
+  "next_rank_point": 1950,
+  "required_lesson_score": 1000000,
+  "status_bonus": 13.0
+ },
+ {
+  "rank": 27,
+  "next_rank_point": 2070,
+  "required_lesson_score": 1000000,
+  "status_bonus": 13.5
+ },
+ {
+  "rank": 28,
+  "next_rank_point": 2190,
+  "required_lesson_score": 1000000,
+  "status_bonus": 14.0
+ },
+ {
+  "rank": 29,
+  "next_rank_point": 2310,
+  "required_lesson_score": 1000000,
+  "status_bonus": 14.5
+ },
+ {
+  "rank": 30,
+  "next_rank_point": 2440,
+  "required_lesson_score": 1000000,
+  "status_bonus": 15.0
+ },
+ {
+  "rank": 31,
+  "next_rank_point": 2560,
+  "required_lesson_score": 2500000,
+  "status_bonus": 15.5
+ },
+ {
+  "rank": 32,
+  "next_rank_point": 2690,
+  "required_lesson_score": 2500000,
+  "status_bonus": 16.0
+ },
+ {
+  "rank": 33,
+  "next_rank_point": 2820,
+  "required_lesson_score": 2500000,
+  "status_bonus": 16.5
+ },
+ {
+  "rank": 34,
+  "next_rank_point": 2960,
+  "required_lesson_score": 2500000,
+  "status_bonus": 17.0
+ },
+ {
+  "rank": 35,
+  "next_rank_point": 3090,
+  "required_lesson_score": 2500000,
+  "status_bonus": 17.5
+ },
+ {
+  "rank": 36,
+  "next_rank_point": 3230,
+  "required_lesson_score": 5000000,
+  "status_bonus": 18.0
+ },
+ {
+  "rank": 37,
+  "next_rank_point": 3370,
+  "required_lesson_score": 5000000,
+  "status_bonus": 18.5
+ },
+ {
+  "rank": 38,
+  "next_rank_point": 3520,
+  "required_lesson_score": 5000000,
+  "status_bonus": 19.0
+ },
+ {
+  "rank": 39,
+  "next_rank_point": 3660,
+  "required_lesson_score": 5000000,
+  "status_bonus": 19.5
+ },
+ {
+  "rank": 40,
+  "next_rank_point": 3810,
+  "required_lesson_score": 5000000,
+  "status_bonus": 20.0
+ },
+ {
+  "rank": 41,
+  "next_rank_point": 3960,
+  "required_lesson_score": 10000000,
+  "status_bonus": 20.5
+ },
+ {
+  "rank": 42,
+  "next_rank_point": 4110,
+  "required_lesson_score": 10000000,
+  "status_bonus": 21.0
+ },
+ {
+  "rank": 43,
+  "next_rank_point": 4270,
+  "required_lesson_score": 10000000,
+  "status_bonus": 21.5
+ },
+ {
+  "rank": 44,
+  "next_rank_point": 4420,
+  "required_lesson_score": 10000000,
+  "status_bonus": 22.0
+ },
+ {
+  "rank": 45,
+  "next_rank_point": 4580,
+  "required_lesson_score": 10000000,
+  "status_bonus": 22.5
+ },
+ {
+  "rank": 46,
+  "next_rank_point": 4740,
+  "required_lesson_score": 20000000,
+  "status_bonus": 23.0
+ },
+ {
+  "rank": 47,
+  "next_rank_point": 4900,
+  "required_lesson_score": 20000000,
+  "status_bonus": 23.5
+ },
+ {
+  "rank": 48,
+  "next_rank_point": 5070,
+  "required_lesson_score": 20000000,
+  "status_bonus": 24.0
+ },
+ {
+  "rank": 49,
+  "next_rank_point": 5230,
+  "required_lesson_score": 20000000,
+  "status_bonus": 24.5
+ },
+ {
+  "rank": 50,
+  "next_rank_point": 5400,
+  "required_lesson_score": 20000000,
+  "status_bonus": 25.0
+ },
+ {
+  "rank": 51,
+  "next_rank_point": 5580,
+  "required_lesson_score": 30000000,
+  "status_bonus": 25.5
+ },
+ {
+  "rank": 52,
+  "next_rank_point": 5760,
+  "required_lesson_score": 30000000,
+  "status_bonus": 26.0
+ },
+ {
+  "rank": 53,
+  "next_rank_point": 5940,
+  "required_lesson_score": 30000000,
+  "status_bonus": 26.5
+ },
+ {
+  "rank": 54,
+  "next_rank_point": 6120,
+  "required_lesson_score": 30000000,
+  "status_bonus": 27.0
+ },
+ {
+  "rank": 55,
+  "next_rank_point": 6300,
+  "required_lesson_score": 30000000,
+  "status_bonus": 27.5
+ },
+ {
+  "rank": 56,
+  "next_rank_point": 6490,
+  "required_lesson_score": 40000000,
+  "status_bonus": 28.0
+ },
+ {
+  "rank": 57,
+  "next_rank_point": 6680,
+  "required_lesson_score": 40000000,
+  "status_bonus": 28.5
+ },
+ {
+  "rank": 58,
+  "next_rank_point": 6870,
+  "required_lesson_score": 40000000,
+  "status_bonus": 29.0
+ },
+ {
+  "rank": 59,
+  "next_rank_point": 7060,
+  "required_lesson_score": 40000000,
+  "status_bonus": 29.5
+ },
+ {
+  "rank": 60,
+  "next_rank_point": 7250,
+  "required_lesson_score": 40000000,
+  "status_bonus": 30.0
+ },
+ {
+  "rank": 61,
+  "next_rank_point": 7450,
+  "required_lesson_score": 50000000,
+  "status_bonus": 30.5
+ },
+ {
+  "rank": 62,
+  "next_rank_point": 7650,
+  "required_lesson_score": 50000000,
+  "status_bonus": 31.0
+ },
+ {
+  "rank": 63,
+  "next_rank_point": 7850,
+  "required_lesson_score": 50000000,
+  "status_bonus": 31.5
+ },
+ {
+  "rank": 64,
+  "next_rank_point": 8050,
+  "required_lesson_score": 50000000,
+  "status_bonus": 32.0
+ },
+ {
+  "rank": 65,
+  "next_rank_point": 8250,
+  "required_lesson_score": 50000000,
+  "status_bonus": 32.5
+ },
+ {
+  "rank": 66,
+  "next_rank_point": 8460,
+  "required_lesson_score": 60000000,
+  "status_bonus": 33.0
+ },
+ {
+  "rank": 67,
+  "next_rank_point": 8670,
+  "required_lesson_score": 60000000,
+  "status_bonus": 33.5
+ },
+ {
+  "rank": 68,
+  "next_rank_point": 8880,
+  "required_lesson_score": 60000000,
+  "status_bonus": 34.0
+ },
+ {
+  "rank": 69,
+  "next_rank_point": 9090,
+  "required_lesson_score": 60000000,
+  "status_bonus": 34.5
+ },
+ {
+  "rank": 70,
+  "next_rank_point": 9300,
+  "required_lesson_score": 60000000,
+  "status_bonus": 35.0
+ },
+ {
+  "rank": 71,
+  "next_rank_point": 9520,
+  "required_lesson_score": 70000000,
+  "status_bonus": 35.5
+ },
+ {
+  "rank": 72,
+  "next_rank_point": 9740,
+  "required_lesson_score": 70000000,
+  "status_bonus": 36.0
+ },
+ {
+  "rank": 73,
+  "next_rank_point": 9960,
+  "required_lesson_score": 70000000,
+  "status_bonus": 36.5
+ },
+ {
+  "rank": 74,
+  "next_rank_point": 10180,
+  "required_lesson_score": 70000000,
+  "status_bonus": 37.0
+ },
+ {
+  "rank": 75,
+  "next_rank_point": 10400,
+  "required_lesson_score": 70000000,
+  "status_bonus": 37.5
+ },
+ {
+  "rank": 76,
+  "next_rank_point": 10630,
+  "required_lesson_score": 80000000,
+  "status_bonus": 38.0
+ },
+ {
+  "rank": 77,
+  "next_rank_point": 10860,
+  "required_lesson_score": 80000000,
+  "status_bonus": 38.5
+ },
+ {
+  "rank": 78,
+  "next_rank_point": 11090,
+  "required_lesson_score": 80000000,
+  "status_bonus": 39.0
+ },
+ {
+  "rank": 79,
+  "next_rank_point": 11320,
+  "required_lesson_score": 80000000,
+  "status_bonus": 39.5
+ },
+ {
+  "rank": 80,
+  "next_rank_point": 11550,
+  "required_lesson_score": 80000000,
+  "status_bonus": 40.0
+ },
+ {
+  "rank": 81,
+  "next_rank_point": 11790,
+  "required_lesson_score": 90000000,
+  "status_bonus": 40.5
+ },
+ {
+  "rank": 82,
+  "next_rank_point": 12030,
+  "required_lesson_score": 90000000,
+  "status_bonus": 41.0
+ },
+ {
+  "rank": 83,
+  "next_rank_point": 12270,
+  "required_lesson_score": 90000000,
+  "status_bonus": 41.5
+ },
+ {
+  "rank": 84,
+  "next_rank_point": 12510,
+  "required_lesson_score": 90000000,
+  "status_bonus": 42.0
+ },
+ {
+  "rank": 85,
+  "next_rank_point": 12750,
+  "required_lesson_score": 90000000,
+  "status_bonus": 42.5
+ },
+ {
+  "rank": 86,
+  "next_rank_point": 13000,
+  "required_lesson_score": 100000000,
+  "status_bonus": 43.0
+ },
+ {
+  "rank": 87,
+  "next_rank_point": 13250,
+  "required_lesson_score": 100000000,
+  "status_bonus": 43.5
+ },
+ {
+  "rank": 88,
+  "next_rank_point": 13500,
+  "required_lesson_score": 100000000,
+  "status_bonus": 44.0
+ },
+ {
+  "rank": 89,
+  "next_rank_point": 13750,
+  "required_lesson_score": 100000000,
+  "status_bonus": 44.5
+ },
+ {
+  "rank": 90,
+  "next_rank_point": 14000,
+  "required_lesson_score": 100000000,
+  "status_bonus": 45.0
+ },
+ {
+  "rank": 91,
+  "next_rank_point": 14260,
+  "required_lesson_score": 200000000,
+  "status_bonus": 45.5
+ },
+ {
+  "rank": 92,
+  "next_rank_point": 14520,
+  "required_lesson_score": 200000000,
+  "status_bonus": 46.0
+ },
+ {
+  "rank": 93,
+  "next_rank_point": 14780,
+  "required_lesson_score": 200000000,
+  "status_bonus": 46.5
+ },
+ {
+  "rank": 94,
+  "next_rank_point": 15040,
+  "required_lesson_score": 200000000,
+  "status_bonus": 47.0
+ },
+ {
+  "rank": 95,
+  "next_rank_point": 15300,
+  "required_lesson_score": 200000000,
+  "status_bonus": 47.5
+ },
+ {
+  "rank": 96,
+  "next_rank_point": 15570,
+  "required_lesson_score": 300000000,
+  "status_bonus": 48.0
+ },
+ {
+  "rank": 97,
+  "next_rank_point": 15840,
+  "required_lesson_score": 300000000,
+  "status_bonus": 48.5
+ },
+ {
+  "rank": 98,
+  "next_rank_point": 16110,
+  "required_lesson_score": 300000000,
+  "status_bonus": 49.0
+ },
+ {
+  "rank": 99,
+  "next_rank_point": 16380,
+  "required_lesson_score": 300000000,
+  "status_bonus": 49.5
+ },
+ {
+  "rank": 100,
+  "next_rank_point": 16650,
+  "required_lesson_score": 300000000,
+  "status_bonus": 50.0
+ },
+ {
+  "rank": 101,
+  "next_rank_point": 16930,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.099998474121094
+ },
+ {
+  "rank": 102,
+  "next_rank_point": 17210,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.20000076293945
+ },
+ {
+  "rank": 103,
+  "next_rank_point": 17490,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.29999923706055
+ },
+ {
+  "rank": 104,
+  "next_rank_point": 17770,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.400001525878906
+ },
+ {
+  "rank": 105,
+  "next_rank_point": 18050,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.5
+ },
+ {
+  "rank": 106,
+  "next_rank_point": 18340,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.599998474121094
+ },
+ {
+  "rank": 107,
+  "next_rank_point": 18630,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.70000076293945
+ },
+ {
+  "rank": 108,
+  "next_rank_point": 18920,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.79999923706055
+ },
+ {
+  "rank": 109,
+  "next_rank_point": 19210,
+  "required_lesson_score": 325000000,
+  "status_bonus": 50.900001525878906
+ },
+ {
+  "rank": 110,
+  "next_rank_point": 19500,
+  "required_lesson_score": 325000000,
+  "status_bonus": 51.0
+ },
+ {
+  "rank": 111,
+  "next_rank_point": 19800,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.099998474121094
+ },
+ {
+  "rank": 112,
+  "next_rank_point": 20100,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.20000076293945
+ },
+ {
+  "rank": 113,
+  "next_rank_point": 20400,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.29999923706055
+ },
+ {
+  "rank": 114,
+  "next_rank_point": 20700,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.400001525878906
+ },
+ {
+  "rank": 115,
+  "next_rank_point": 21000,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.5
+ },
+ {
+  "rank": 116,
+  "next_rank_point": 21310,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.599998474121094
+ },
+ {
+  "rank": 117,
+  "next_rank_point": 21620,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.70000076293945
+ },
+ {
+  "rank": 118,
+  "next_rank_point": 21930,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.79999923706055
+ },
+ {
+  "rank": 119,
+  "next_rank_point": 22240,
+  "required_lesson_score": 350000000,
+  "status_bonus": 51.900001525878906
+ },
+ {
+  "rank": 120,
+  "next_rank_point": 22550,
+  "required_lesson_score": 350000000,
+  "status_bonus": 52.0
+ },
+ {
+  "rank": 121,
+  "next_rank_point": 22870,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.099998474121094
+ },
+ {
+  "rank": 122,
+  "next_rank_point": 23190,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.20000076293945
+ },
+ {
+  "rank": 123,
+  "next_rank_point": 23510,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.29999923706055
+ },
+ {
+  "rank": 124,
+  "next_rank_point": 23830,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.400001525878906
+ },
+ {
+  "rank": 125,
+  "next_rank_point": 24150,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.5
+ },
+ {
+  "rank": 126,
+  "next_rank_point": 24480,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.599998474121094
+ },
+ {
+  "rank": 127,
+  "next_rank_point": 24810,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.70000076293945
+ },
+ {
+  "rank": 128,
+  "next_rank_point": 25140,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.79999923706055
+ },
+ {
+  "rank": 129,
+  "next_rank_point": 25470,
+  "required_lesson_score": 400000000,
+  "status_bonus": 52.900001525878906
+ },
+ {
+  "rank": 130,
+  "next_rank_point": 25800,
+  "required_lesson_score": 400000000,
+  "status_bonus": 53.0
+ },
+ {
+  "rank": 131,
+  "next_rank_point": 26140,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.099998474121094
+ },
+ {
+  "rank": 132,
+  "next_rank_point": 26480,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.20000076293945
+ },
+ {
+  "rank": 133,
+  "next_rank_point": 26820,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.29999923706055
+ },
+ {
+  "rank": 134,
+  "next_rank_point": 27160,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.400001525878906
+ },
+ {
+  "rank": 135,
+  "next_rank_point": 27500,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.5
+ },
+ {
+  "rank": 136,
+  "next_rank_point": 27850,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.599998474121094
+ },
+ {
+  "rank": 137,
+  "next_rank_point": 28200,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.70000076293945
+ },
+ {
+  "rank": 138,
+  "next_rank_point": 28550,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.79999923706055
+ },
+ {
+  "rank": 139,
+  "next_rank_point": 28900,
+  "required_lesson_score": 450000000,
+  "status_bonus": 53.900001525878906
+ },
+ {
+  "rank": 140,
+  "next_rank_point": 29250,
+  "required_lesson_score": 450000000,
+  "status_bonus": 54.0
+ },
+ {
+  "rank": 141,
+  "next_rank_point": 29610,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.099998474121094
+ },
+ {
+  "rank": 142,
+  "next_rank_point": 29970,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.20000076293945
+ },
+ {
+  "rank": 143,
+  "next_rank_point": 30330,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.29999923706055
+ },
+ {
+  "rank": 144,
+  "next_rank_point": 30690,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.400001525878906
+ },
+ {
+  "rank": 145,
+  "next_rank_point": 31050,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.5
+ },
+ {
+  "rank": 146,
+  "next_rank_point": 31420,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.599998474121094
+ },
+ {
+  "rank": 147,
+  "next_rank_point": 31790,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.70000076293945
+ },
+ {
+  "rank": 148,
+  "next_rank_point": 32160,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.79999923706055
+ },
+ {
+  "rank": 149,
+  "next_rank_point": 32530,
+  "required_lesson_score": 500000000,
+  "status_bonus": 54.900001525878906
+ },
+ {
+  "rank": 150,
+  "next_rank_point": 32900,
+  "required_lesson_score": 500000000,
+  "status_bonus": 55.0
+ },
+ {
+  "rank": 151,
+  "next_rank_point": 33280,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.099998474121094
+ },
+ {
+  "rank": 152,
+  "next_rank_point": 33660,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.20000076293945
+ },
+ {
+  "rank": 153,
+  "next_rank_point": 34040,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.29999923706055
+ },
+ {
+  "rank": 154,
+  "next_rank_point": 34420,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.400001525878906
+ },
+ {
+  "rank": 155,
+  "next_rank_point": 34800,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.5
+ },
+ {
+  "rank": 156,
+  "next_rank_point": 35190,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.599998474121094
+ },
+ {
+  "rank": 157,
+  "next_rank_point": 35580,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.70000076293945
+ },
+ {
+  "rank": 158,
+  "next_rank_point": 35970,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.79999923706055
+ },
+ {
+  "rank": 159,
+  "next_rank_point": 36360,
+  "required_lesson_score": 550000000,
+  "status_bonus": 55.900001525878906
+ },
+ {
+  "rank": 160,
+  "next_rank_point": 36750,
+  "required_lesson_score": 550000000,
+  "status_bonus": 56.0
+ },
+ {
+  "rank": 161,
+  "next_rank_point": 37150,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.099998474121094
+ },
+ {
+  "rank": 162,
+  "next_rank_point": 37550,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.20000076293945
+ },
+ {
+  "rank": 163,
+  "next_rank_point": 37950,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.29999923706055
+ },
+ {
+  "rank": 164,
+  "next_rank_point": 38350,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.400001525878906
+ },
+ {
+  "rank": 165,
+  "next_rank_point": 38750,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.5
+ },
+ {
+  "rank": 166,
+  "next_rank_point": 39160,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.599998474121094
+ },
+ {
+  "rank": 167,
+  "next_rank_point": 39570,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.70000076293945
+ },
+ {
+  "rank": 168,
+  "next_rank_point": 39980,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.79999923706055
+ },
+ {
+  "rank": 169,
+  "next_rank_point": 40390,
+  "required_lesson_score": 600000000,
+  "status_bonus": 56.900001525878906
+ },
+ {
+  "rank": 170,
+  "next_rank_point": 40800,
+  "required_lesson_score": 600000000,
+  "status_bonus": 57.0
+ },
+ {
+  "rank": 171,
+  "next_rank_point": 41220,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.099998474121094
+ },
+ {
+  "rank": 172,
+  "next_rank_point": 41640,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.20000076293945
+ },
+ {
+  "rank": 173,
+  "next_rank_point": 42060,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.29999923706055
+ },
+ {
+  "rank": 174,
+  "next_rank_point": 42480,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.400001525878906
+ },
+ {
+  "rank": 175,
+  "next_rank_point": 42900,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.5
+ },
+ {
+  "rank": 176,
+  "next_rank_point": 43330,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.599998474121094
+ },
+ {
+  "rank": 177,
+  "next_rank_point": 43760,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.70000076293945
+ },
+ {
+  "rank": 178,
+  "next_rank_point": 44190,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.79999923706055
+ },
+ {
+  "rank": 179,
+  "next_rank_point": 44620,
+  "required_lesson_score": 650000000,
+  "status_bonus": 57.900001525878906
+ },
+ {
+  "rank": 180,
+  "next_rank_point": 45050,
+  "required_lesson_score": 650000000,
+  "status_bonus": 58.0
+ },
+ {
+  "rank": 181,
+  "next_rank_point": 45490,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.099998474121094
+ },
+ {
+  "rank": 182,
+  "next_rank_point": 45930,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.20000076293945
+ },
+ {
+  "rank": 183,
+  "next_rank_point": 46370,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.29999923706055
+ },
+ {
+  "rank": 184,
+  "next_rank_point": 46810,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.400001525878906
+ },
+ {
+  "rank": 185,
+  "next_rank_point": 47250,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.5
+ },
+ {
+  "rank": 186,
+  "next_rank_point": 47700,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.599998474121094
+ },
+ {
+  "rank": 187,
+  "next_rank_point": 48150,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.70000076293945
+ },
+ {
+  "rank": 188,
+  "next_rank_point": 48600,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.79999923706055
+ },
+ {
+  "rank": 189,
+  "next_rank_point": 49050,
+  "required_lesson_score": 700000000,
+  "status_bonus": 58.900001525878906
+ },
+ {
+  "rank": 190,
+  "next_rank_point": 49500,
+  "required_lesson_score": 700000000,
+  "status_bonus": 59.0
+ },
+ {
+  "rank": 191,
+  "next_rank_point": 49960,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.099998474121094
+ },
+ {
+  "rank": 192,
+  "next_rank_point": 50420,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.20000076293945
+ },
+ {
+  "rank": 193,
+  "next_rank_point": 50880,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.29999923706055
+ },
+ {
+  "rank": 194,
+  "next_rank_point": 51340,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.400001525878906
+ },
+ {
+  "rank": 195,
+  "next_rank_point": 51800,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.5
+ },
+ {
+  "rank": 196,
+  "next_rank_point": 52270,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.599998474121094
+ },
+ {
+  "rank": 197,
+  "next_rank_point": 52740,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.70000076293945
+ },
+ {
+  "rank": 198,
+  "next_rank_point": 53210,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.79999923706055
+ },
+ {
+  "rank": 199,
+  "next_rank_point": 53680,
+  "required_lesson_score": 750000000,
+  "status_bonus": 59.900001525878906
+ },
+ {
+  "rank": 200,
+  "next_rank_point": 54150,
+  "required_lesson_score": 750000000,
+  "status_bonus": 60.0
+ }
+]

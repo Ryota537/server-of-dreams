@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "item_master_id": 130301,
+  "photo_effect_type_group_master_id": 2,
+  "required_quantity": 30
+ },
+ {
+  "id": 2,
+  "item_master_id": 130302,
+  "photo_effect_type_group_master_id": 3,
+  "required_quantity": 30
+ },
+ {
+  "id": 3,
+  "item_master_id": 130303,
+  "photo_effect_type_group_master_id": 4,
+  "required_quantity": 30
+ },
+ {
+  "id": 4,
+  "item_master_id": 130304,
+  "photo_effect_type_group_master_id": 5,
+  "required_quantity": 30
+ },
+ {
+  "id": 5,
+  "item_master_id": 130305,
+  "photo_effect_type_group_master_id": 2,
+  "required_quantity": 2
+ },
+ {
+  "id": 6,
+  "item_master_id": 130305,
+  "photo_effect_type_group_master_id": 3,
+  "required_quantity": 2
+ },
+ {
+  "id": 7,
+  "item_master_id": 130305,
+  "photo_effect_type_group_master_id": 4,
+  "required_quantity": 2
+ },
+ {
+  "id": 8,
+  "item_master_id": 130305,
+  "photo_effect_type_group_master_id": 5,
+  "required_quantity": 2
+ }
+]

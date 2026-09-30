@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1,
+  "direction_name": "head/normal"
+ },
+ {
+  "id": 2,
+  "direction_name": "head/leftward"
+ },
+ {
+  "id": 3,
+  "direction_name": "head/rightward"
+ },
+ {
+  "id": 4,
+  "direction_name": "head/downward"
+ },
+ {
+  "id": 5,
+  "direction_name": "head/upward"
+ },
+ {
+  "id": 6,
+  "direction_name": "head/tilt_left"
+ },
+ {
+  "id": 7,
+  "direction_name": "head/tilt_right"
+ }
+]

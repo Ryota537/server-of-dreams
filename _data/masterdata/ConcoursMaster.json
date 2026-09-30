@@ -1,0 +1,196 @@
+[
+ {
+  "id": 1,
+  "event_master_id": 70001,
+  "bgm_path": "inst_98",
+  "details": [
+   {
+    "id": 101,
+    "name": "Beyond Grief",
+    "start_date": "2025-05-31T17:00:00+00:00",
+    "end_date": "2025-06-08T22:00:00+00:00"
+   },
+   {
+    "id": 102,
+    "name": "第7回 演劇リーグ TRIPLE CAST",
+    "start_date": "2025-06-01T05:00:00+00:00",
+    "end_date": "2025-06-14T00:00:00+00:00"
+   },
+   {
+    "id": 103,
+    "name": "第12回 ウィークリーコース【STELLA部門】",
+    "start_date": "2025-06-02T17:00:00+00:00",
+    "end_date": "2025-06-09T00:00:00+00:00"
+   },
+   {
+    "id": 104,
+    "name": "第12回 ウィークリーコース【OLIVIER部門】",
+    "start_date": "2025-06-02T17:00:00+00:00",
+    "end_date": "2025-06-09T00:00:00+00:00"
+   },
+   {
+    "id": 105,
+    "name": "第98回 演劇リーグ",
+    "start_date": "2025-06-03T05:00:00+00:00",
+    "end_date": "2025-06-09T00:00:00+00:00"
+   },
+   {
+    "id": 106,
+    "name": "第13回 ウィークリーコース【STELLA部門】",
+    "start_date": "2025-06-09T17:00:00+00:00",
+    "end_date": "2025-06-16T00:00:00+00:00"
+   },
+   {
+    "id": 107,
+    "name": "第13回 ウィークリーコース【OLIVIER部門】",
+    "start_date": "2025-06-09T17:00:00+00:00",
+    "end_date": "2025-06-16T00:00:00+00:00"
+   },
+   {
+    "id": 108,
+    "name": "June Bridal Working!",
+    "start_date": "2025-06-10T17:00:00+00:00",
+    "end_date": "2025-06-18T22:00:00+00:00"
+   },
+   {
+    "id": 109,
+    "name": "第99回 演劇リーグ",
+    "start_date": "2025-06-10T05:00:00+00:00",
+    "end_date": "2025-06-16T00:00:00+00:00"
+   }
+  ],
+  "points": [
+   {
+    "target_highest_rank": 1,
+    "target_lowest_rank": 10,
+    "point": 200
+   },
+   {
+    "target_highest_rank": 11,
+    "target_lowest_rank": 100,
+    "point": 120
+   },
+   {
+    "target_highest_rank": 101,
+    "target_lowest_rank": 500,
+    "point": 100
+   },
+   {
+    "target_highest_rank": 501,
+    "target_lowest_rank": 1000,
+    "point": 80
+   },
+   {
+    "target_highest_rank": 1001,
+    "target_lowest_rank": 5000,
+    "point": 60
+   },
+   {
+    "target_highest_rank": 5001,
+    "target_lowest_rank": 10000,
+    "point": 50
+   },
+   {
+    "target_highest_rank": 10001,
+    "target_lowest_rank": 20000,
+    "point": 40
+   },
+   {
+    "target_highest_rank": 20001,
+    "target_lowest_rank": 999999,
+    "point": 30
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "event_master_id": 70002,
+  "bgm_path": "inst_186",
+  "details": [
+   {
+    "id": 201,
+    "name": "少女海遊メモリアル！",
+    "start_date": "2026-05-31T17:00:00+00:00",
+    "end_date": "2026-06-08T22:00:00+00:00"
+   },
+   {
+    "id": 202,
+    "name": "第30回 演劇リーグ TRIPLE CAST",
+    "start_date": "2026-06-01T05:00:00+00:00",
+    "end_date": "2026-06-14T00:00:00+00:00"
+   },
+   {
+    "id": 203,
+    "name": "第64回 ウィークリーコース【STELLA部門】",
+    "start_date": "2026-06-01T17:00:00+00:00",
+    "end_date": "2026-06-08T00:00:00+00:00"
+   },
+   {
+    "id": 204,
+    "name": "第150回 演劇リーグ",
+    "start_date": "2026-06-02T05:00:00+00:00",
+    "end_date": "2026-06-08T00:00:00+00:00"
+   },
+   {
+    "id": 205,
+    "name": "第65回 ウィークリーコース【STELLA部門】",
+    "start_date": "2026-06-08T17:00:00+00:00",
+    "end_date": "2026-06-15T00:00:00+00:00"
+   },
+   {
+    "id": 206,
+    "name": "第151回 演劇リーグ",
+    "start_date": "2026-06-09T05:00:00+00:00",
+    "end_date": "2026-06-15T00:00:00+00:00"
+   },
+   {
+    "id": 207,
+    "name": "June Bridal Heroines！",
+    "start_date": "2026-06-10T17:00:00+00:00",
+    "end_date": "2026-06-18T22:00:00+00:00"
+   }
+  ],
+  "points": [
+   {
+    "target_highest_rank": 1,
+    "target_lowest_rank": 10,
+    "point": 200
+   },
+   {
+    "target_highest_rank": 11,
+    "target_lowest_rank": 100,
+    "point": 120
+   },
+   {
+    "target_highest_rank": 101,
+    "target_lowest_rank": 500,
+    "point": 100
+   },
+   {
+    "target_highest_rank": 501,
+    "target_lowest_rank": 1000,
+    "point": 80
+   },
+   {
+    "target_highest_rank": 1001,
+    "target_lowest_rank": 5000,
+    "point": 60
+   },
+   {
+    "target_highest_rank": 5001,
+    "target_lowest_rank": 10000,
+    "point": 50
+   },
+   {
+    "target_highest_rank": 10000,
+    "target_lowest_rank": 20000,
+    "point": 40
+   },
+   {
+    "target_highest_rank": 20000,
+    "target_lowest_rank": 999999,
+    "point": 30
+   }
+  ]
+ }
+]

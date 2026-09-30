@@ -1,0 +1,146 @@
+[
+ {
+  "id": 710001,
+  "item_master_id": 710001,
+  "effect_type": 4,
+  "effect_value": 50,
+  "valid_day": 14,
+  "dialog_title": "公演の獲得EXP 50％UP",
+  "dialog_description": "公演の獲得EXPが50％UP中！"
+ },
+ {
+  "id": 710002,
+  "item_master_id": 710002,
+  "effect_type": 4,
+  "effect_value": 100,
+  "valid_day": 14,
+  "dialog_title": "公演の獲得EXP 100％UP",
+  "dialog_description": "公演の獲得EXPが100％UP中！"
+ },
+ {
+  "id": 710003,
+  "item_master_id": 710003,
+  "effect_type": 4,
+  "effect_value": 150,
+  "valid_day": 14,
+  "dialog_title": "公演の獲得EXP 150％UP",
+  "dialog_description": "公演の獲得EXPが150％UP中！"
+ },
+ {
+  "id": 710004,
+  "item_master_id": 710004,
+  "effect_type": 4,
+  "effect_value": 200,
+  "valid_day": 14,
+  "dialog_title": "公演の獲得EXP 200％UP",
+  "dialog_description": "公演の獲得EXPが200％UP中！"
+ },
+ {
+  "id": 710005,
+  "item_master_id": 710005,
+  "effect_type": 4,
+  "effect_value": 300,
+  "valid_day": 14,
+  "dialog_title": "公演の獲得EXP 300％UP",
+  "dialog_description": "公演の獲得EXPが300％UP中！"
+ },
+ {
+  "id": 710007,
+  "item_master_id": 710007,
+  "effect_type": 4,
+  "effect_value": 1000,
+  "valid_day": 1,
+  "dialog_title": "公演の獲得EXP 1000％UP",
+  "dialog_description": "公演の獲得EXPが1000％UP中！"
+ },
+ {
+  "id": 711001,
+  "item_master_id": 711001,
+  "effect_type": 1,
+  "effect_value": 50,
+  "valid_day": 14,
+  "dialog_title": "公演の報酬量 50%UP",
+  "dialog_description": "公演の報酬量が50%UP中！"
+ },
+ {
+  "id": 711002,
+  "item_master_id": 711002,
+  "effect_type": 1,
+  "effect_value": 100,
+  "valid_day": 14,
+  "dialog_title": "公演の報酬量 100%UP",
+  "dialog_description": "公演の報酬量が100%UP中！"
+ },
+ {
+  "id": 711003,
+  "item_master_id": 711003,
+  "effect_type": 0,
+  "effect_value": 150,
+  "valid_day": 14,
+  "dialog_title": "公演の報酬量 150%UP",
+  "dialog_description": "公演の報酬量が150%UP中！"
+ },
+ {
+  "id": 711004,
+  "item_master_id": 711004,
+  "effect_type": 1,
+  "effect_value": 200,
+  "valid_day": 14,
+  "dialog_title": "公演の報酬量 200%UP",
+  "dialog_description": "公演の報酬量が200%UP中！"
+ },
+ {
+  "id": 711005,
+  "item_master_id": 711005,
+  "effect_type": 1,
+  "effect_value": 300,
+  "valid_day": 14,
+  "dialog_title": "公演の報酬量 300%UP",
+  "dialog_description": "公演の報酬量が300%UP中！"
+ },
+ {
+  "id": 711901,
+  "item_master_id": 711901,
+  "effect_type": 1,
+  "effect_value": 150,
+  "valid_day": 14,
+  "dialog_title": "公演の報酬量 150%UP",
+  "dialog_description": "公演の報酬量が150%UP中！"
+ },
+ {
+  "id": 712002,
+  "item_master_id": 712002,
+  "effect_type": 3,
+  "effect_value": 100,
+  "valid_day": 14,
+  "dialog_title": "稽古の獲得SP 100％UP",
+  "dialog_description": "稽古の獲得SPが100％UP中！"
+ },
+ {
+  "id": 712004,
+  "item_master_id": 712004,
+  "effect_type": 3,
+  "effect_value": 200,
+  "valid_day": 14,
+  "dialog_title": "稽古の獲得SP 200％UP",
+  "dialog_description": "稽古の獲得SPが200％UP中！"
+ },
+ {
+  "id": 712005,
+  "item_master_id": 712005,
+  "effect_type": 3,
+  "effect_value": 300,
+  "valid_day": 14,
+  "dialog_title": "稽古の獲得SP 300％UP",
+  "dialog_description": "稽古の獲得SPが300％UP中！"
+ },
+ {
+  "id": 713001,
+  "item_master_id": 713001,
+  "effect_type": 6,
+  "effect_value": 1,
+  "valid_day": 14,
+  "dialog_title": "稽古の回数 +1回",
+  "dialog_description": "稽古を1回多くプレイ可能！"
+ }
+]

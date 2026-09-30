@@ -1,0 +1,4719 @@
+[
+ {
+  "id": 101,
+  "concert_master_id": 1,
+  "music_master_id": 1,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100001,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 8875,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 20000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 30
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "concert_master_id": 1,
+  "music_master_id": 4,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100002,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130031,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "concert_master_id": 1,
+  "music_master_id": 3,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100003,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430010,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "concert_master_id": 1,
+  "music_master_id": 7,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100004,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 24975,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 40000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "concert_master_id": 1,
+  "music_master_id": 8,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100005,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 18460,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130032,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "concert_master_id": 1,
+  "music_master_id": 10,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100006,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 33300,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430010,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "concert_master_id": 1,
+  "music_master_id": 11,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100007,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 31395,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 60000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 70
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "concert_master_id": 1,
+  "music_master_id": 13,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100008,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 31590,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130033,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "concert_master_id": 1,
+  "music_master_id": 12,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100009,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 40040,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430010,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "concert_master_id": 1,
+  "music_master_id": 2,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100010,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 35145,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 80000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "concert_master_id": 1,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100011,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 44955,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130034,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 112,
+  "concert_master_id": 1,
+  "music_master_id": 27,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100012,
+  "recommended_company": null,
+  "recommended_level": 12,
+  "clear_score": 56420,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430010,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "concert_master_id": 1,
+  "music_master_id": 23,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100013,
+  "recommended_company": null,
+  "recommended_level": 13,
+  "clear_score": 48635,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 100000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "concert_master_id": 1,
+  "music_master_id": 28,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100014,
+  "recommended_company": null,
+  "recommended_level": 14,
+  "clear_score": 99560,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "concert_master_id": 1,
+  "music_master_id": 19,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100015,
+  "recommended_company": null,
+  "recommended_level": 15,
+  "clear_score": 76440,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430010,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "concert_master_id": 1,
+  "music_master_id": 30,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100016,
+  "recommended_company": null,
+  "recommended_level": 16,
+  "clear_score": 103230,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 150000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 200
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "concert_master_id": 1,
+  "music_master_id": 17,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100017,
+  "recommended_company": null,
+  "recommended_level": 17,
+  "clear_score": 103020,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 3
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "concert_master_id": 1,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100018,
+  "recommended_company": null,
+  "recommended_level": 18,
+  "clear_score": 102375,
+  "rewards": [
+   {
+    "thing_type": 14,
+    "thing_id": 68,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 3
+   }
+  ]
+ },
+ {
+  "id": 201,
+  "concert_master_id": 2,
+  "music_master_id": 10,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100019,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 13875,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130031,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 202,
+  "concert_master_id": 2,
+  "music_master_id": 58,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100020,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 15655,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 203,
+  "concert_master_id": 2,
+  "music_master_id": 83,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100021,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 13490,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130032,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130011,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 204,
+  "concert_master_id": 2,
+  "music_master_id": 46,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100022,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 20475,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 205,
+  "concert_master_id": 2,
+  "music_master_id": 50,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100023,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 23660,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130033,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 206,
+  "concert_master_id": 2,
+  "music_master_id": 61,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100024,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 30300,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 207,
+  "concert_master_id": 2,
+  "music_master_id": 92,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100025,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 34845,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130034,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130011,
+    "thing_quantity": 200
+   }
+  ]
+ },
+ {
+  "id": 208,
+  "concert_master_id": 2,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100026,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 35490,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 200
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 2
+   },
+   {
+    "thing_type": 6,
+    "thing_id": 400004,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 301,
+  "concert_master_id": 3,
+  "music_master_id": 26,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100027,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 50000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 302,
+  "concert_master_id": 3,
+  "music_master_id": 62,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100028,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 15655,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 303,
+  "concert_master_id": 3,
+  "music_master_id": 99,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100029,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 17290,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130031,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130011,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 304,
+  "concert_master_id": 3,
+  "music_master_id": 97,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100030,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 20475,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130032,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 305,
+  "concert_master_id": 3,
+  "music_master_id": 34,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100031,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 26260,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 306,
+  "concert_master_id": 3,
+  "music_master_id": 10,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100032,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 33300,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 50000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 307,
+  "concert_master_id": 3,
+  "music_master_id": 42,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100033,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 41745,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 50
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 308,
+  "concert_master_id": 3,
+  "music_master_id": 93,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100034,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 35490,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130033,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130011,
+    "thing_quantity": 200
+   }
+  ]
+ },
+ {
+  "id": 309,
+  "concert_master_id": 3,
+  "music_master_id": 94,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100035,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 44440,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130034,
+    "thing_quantity": 100
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 310,
+  "concert_master_id": 3,
+  "music_master_id": 19,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100036,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 45045,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 50000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130051,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 311,
+  "concert_master_id": 3,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100037,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 44955,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 200
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 2
+   },
+   {
+    "thing_type": 6,
+    "thing_id": 400005,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 401,
+  "concert_master_id": 4,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100063,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 11375,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430080,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 30
+   }
+  ]
+ },
+ {
+  "id": 402,
+  "concert_master_id": 4,
+  "music_master_id": 112,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100064,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 12555,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 10000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 403,
+  "concert_master_id": 4,
+  "music_master_id": 51,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100065,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 230620,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130031,
+    "thing_quantity": 200
+   }
+  ]
+ },
+ {
+  "id": 404,
+  "concert_master_id": 4,
+  "music_master_id": 92,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100066,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 22725,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 20000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 30
+   }
+  ]
+ },
+ {
+  "id": 405,
+  "concert_master_id": 4,
+  "music_master_id": 77,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100067,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 23660,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430080,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 406,
+  "concert_master_id": 4,
+  "music_master_id": 106,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100068,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 30300,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 30000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130032,
+    "thing_quantity": 200
+   }
+  ]
+ },
+ {
+  "id": 407,
+  "concert_master_id": 4,
+  "music_master_id": 161,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100069,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 24495,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 230620,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 40
+   }
+  ]
+ },
+ {
+  "id": 408,
+  "concert_master_id": 4,
+  "music_master_id": 46,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100070,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 31590,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 40000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 409,
+  "concert_master_id": 4,
+  "music_master_id": 162,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100071,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 35640,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430080,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130033,
+    "thing_quantity": 200
+   }
+  ]
+ },
+ {
+  "id": 410,
+  "concert_master_id": 4,
+  "music_master_id": 26,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100072,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 49995,
+  "rewards": [
+   {
+    "thing_type": 12,
+    "thing_id": 0,
+    "thing_quantity": 50000
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 40
+   }
+  ]
+ },
+ {
+  "id": 411,
+  "concert_master_id": 4,
+  "music_master_id": 97,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100073,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 44955,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 230620,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 412,
+  "concert_master_id": 4,
+  "music_master_id": 160,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100074,
+  "recommended_company": null,
+  "recommended_level": 12,
+  "clear_score": 62620,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 222001,
+    "thing_quantity": 5
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130034,
+    "thing_quantity": 200
+   }
+  ]
+ },
+ {
+  "id": 413,
+  "concert_master_id": 4,
+  "music_master_id": 83,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100075,
+  "recommended_company": null,
+  "recommended_level": 13,
+  "clear_score": 48635,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430080,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 414,
+  "concert_master_id": 4,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100077,
+  "recommended_company": null,
+  "recommended_level": 14,
+  "clear_score": 68040,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 222001,
+    "thing_quantity": 5
+   },
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 415,
+  "concert_master_id": 4,
+  "music_master_id": 17,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100076,
+  "recommended_company": null,
+  "recommended_level": 15,
+  "clear_score": 84360,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 230620,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 4,
+    "thing_id": 430080,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 501,
+  "concert_master_id": 5,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100113,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 49995,
+  "rewards": [
+   {
+    "thing_type": 16,
+    "thing_id": 52,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 502,
+  "concert_master_id": 5,
+  "music_master_id": 162,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100114,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 40095,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110001,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 503,
+  "concert_master_id": 5,
+  "music_master_id": 188,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100115,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 54945,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510004,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 504,
+  "concert_master_id": 5,
+  "music_master_id": 9,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100116,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 40095,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 450
+   }
+  ]
+ },
+ {
+  "id": 505,
+  "concert_master_id": 5,
+  "music_master_id": 56,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100117,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 54945,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 506,
+  "concert_master_id": 5,
+  "music_master_id": 96,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100118,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 135845,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 507,
+  "concert_master_id": 5,
+  "music_master_id": 91,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100119,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 108945,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 508,
+  "concert_master_id": 5,
+  "music_master_id": 99,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100120,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 122395,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 509,
+  "concert_master_id": 5,
+  "music_master_id": 117,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100121,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 135845,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510006,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 510,
+  "concert_master_id": 5,
+  "music_master_id": 83,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100122,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 95495,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130064,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 511,
+  "concert_master_id": 5,
+  "music_master_id": 179,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100123,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 342435,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 512,
+  "concert_master_id": 5,
+  "music_master_id": 53,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100124,
+  "recommended_company": null,
+  "recommended_level": 12,
+  "clear_score": 311585,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 513,
+  "concert_master_id": 5,
+  "music_master_id": 25,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100125,
+  "recommended_company": null,
+  "recommended_level": 13,
+  "clear_score": 311585,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510005,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 514,
+  "concert_master_id": 5,
+  "music_master_id": 108,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100126,
+  "recommended_company": null,
+  "recommended_level": 14,
+  "clear_score": 219035,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 330230,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 6,
+    "thing_id": 400007,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 701,
+  "concert_master_id": 7,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100154,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 209070,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 400010,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 702,
+  "concert_master_id": 7,
+  "music_master_id": 71,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100155,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 188370,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 703,
+  "concert_master_id": 7,
+  "music_master_id": 104,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100156,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 1520970,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 200
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 704,
+  "concert_master_id": 7,
+  "music_master_id": 44,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100157,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 1520970,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 705,
+  "concert_master_id": 7,
+  "music_master_id": 110,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100159,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 1143870,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 400011,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 706,
+  "concert_master_id": 7,
+  "music_master_id": 94,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100160,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 1143870,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 150
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 707,
+  "concert_master_id": 7,
+  "music_master_id": 108,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100158,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 2092905,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 708,
+  "concert_master_id": 7,
+  "music_master_id": 201,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100161,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 2092905,
+  "rewards": [
+   {
+    "thing_type": 4,
+    "thing_id": 430180,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 801,
+  "concert_master_id": 8,
+  "music_master_id": 29,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100187,
+  "recommended_company": null,
+  "recommended_level": 40,
+  "clear_score": 713730,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 400012,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 16,
+    "thing_id": 291350,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 77
+   }
+  ]
+ },
+ {
+  "id": 802,
+  "concert_master_id": 8,
+  "music_master_id": 51,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100188,
+  "recommended_company": null,
+  "recommended_level": 45,
+  "clear_score": 1095050,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 140000,
+    "thing_quantity": 77
+   },
+   {
+    "thing_type": 16,
+    "thing_id": 291360,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 77
+   }
+  ]
+ },
+ {
+  "id": 803,
+  "concert_master_id": 8,
+  "music_master_id": 115,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100189,
+  "recommended_company": null,
+  "recommended_level": 50,
+  "clear_score": 1646670,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130043,
+    "thing_quantity": 77
+   },
+   {
+    "thing_type": 16,
+    "thing_id": 291370,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 77
+   }
+  ]
+ },
+ {
+  "id": 804,
+  "concert_master_id": 8,
+  "music_master_id": 171,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100190,
+  "recommended_company": null,
+  "recommended_level": 50,
+  "clear_score": 1898070,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 77
+   },
+   {
+    "thing_type": 16,
+    "thing_id": 291380,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 77
+   }
+  ]
+ },
+ {
+  "id": 805,
+  "concert_master_id": 8,
+  "music_master_id": 3,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100191,
+  "recommended_company": null,
+  "recommended_level": 50,
+  "clear_score": 1520970,
+  "rewards": [
+   {
+    "thing_type": 16,
+    "thing_id": 291340,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 16,
+    "thing_id": 291390,
+    "thing_quantity": 1
+   },
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 77
+   }
+  ]
+ },
+ {
+  "id": 901,
+  "concert_master_id": 9,
+  "music_master_id": 166,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100202,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 11375,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110001,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 902,
+  "concert_master_id": 9,
+  "music_master_id": 178,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100203,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510004,
+    "thing_quantity": 2
+   }
+  ]
+ },
+ {
+  "id": 903,
+  "concert_master_id": 9,
+  "music_master_id": 207,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100204,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 904,
+  "concert_master_id": 9,
+  "music_master_id": 44,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100205,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 27225,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130072,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 905,
+  "concert_master_id": 9,
+  "music_master_id": 206,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100206,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 26260,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 906,
+  "concert_master_id": 9,
+  "music_master_id": 203,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100207,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 30300,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 907,
+  "concert_master_id": 9,
+  "music_master_id": 182,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100208,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 38295,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 908,
+  "concert_master_id": 9,
+  "music_master_id": 48,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100209,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 54990,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510006,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 909,
+  "concert_master_id": 9,
+  "music_master_id": 9,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100210,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 40040,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130072,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 910,
+  "concert_master_id": 9,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100211,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 45045,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130064,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 911,
+  "concert_master_id": 9,
+  "music_master_id": 76,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100212,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 61605,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 912,
+  "concert_master_id": 9,
+  "music_master_id": 201,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100213,
+  "recommended_company": null,
+  "recommended_level": 12,
+  "clear_score": 68820,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510005,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1001,
+  "concert_master_id": 10,
+  "music_master_id": 112,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100226,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510003,
+    "thing_quantity": 3
+   }
+  ]
+ },
+ {
+  "id": 1002,
+  "concert_master_id": 10,
+  "music_master_id": 62,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100227,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 1003,
+  "concert_master_id": 10,
+  "music_master_id": 79,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100228,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 1004,
+  "concert_master_id": 10,
+  "music_master_id": 56,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100229,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 24975,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130072,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 1005,
+  "concert_master_id": 10,
+  "music_master_id": 106,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100230,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 26260,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110001,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 1006,
+  "concert_master_id": 10,
+  "music_master_id": 26,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100231,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 30300,
+  "rewards": [
+   {
+    "thing_type": 16,
+    "thing_id": 81214,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1007,
+  "concert_master_id": 10,
+  "music_master_id": 162,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100232,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 27945,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1008,
+  "concert_master_id": 10,
+  "music_master_id": 3,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100233,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 39390,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 1009,
+  "concert_master_id": 10,
+  "music_master_id": 109,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100234,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 40040,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510006,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1010,
+  "concert_master_id": 10,
+  "music_master_id": 48,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100235,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 74745,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 1011,
+  "concert_master_id": 10,
+  "music_master_id": 25,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100236,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 50505,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 400013,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1101,
+  "concert_master_id": 11,
+  "music_master_id": 206,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100237,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1102,
+  "concert_master_id": 11,
+  "music_master_id": 182,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100238,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130072,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 1103,
+  "concert_master_id": 11,
+  "music_master_id": 236,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100239,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 28690,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130064,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1104,
+  "concert_master_id": 11,
+  "music_master_id": 210,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100240,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 36225,
+  "rewards": [
+   {
+    "thing_type": 16,
+    "thing_id": 81215,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1105,
+  "concert_master_id": 11,
+  "music_master_id": 76,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100241,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 28860,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 150
+   }
+  ]
+ },
+ {
+  "id": 1106,
+  "concert_master_id": 11,
+  "music_master_id": 53,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100242,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 33300,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 510005,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1107,
+  "concert_master_id": 11,
+  "music_master_id": 113,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100243,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 41745,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 400014,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1201,
+  "concert_master_id": 12,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100250,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 8,
+    "thing_id": 104,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1202,
+  "concert_master_id": 12,
+  "music_master_id": 1,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100251,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 14105,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130001,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 1203,
+  "concert_master_id": 12,
+  "music_master_id": 100,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100252,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1204,
+  "concert_master_id": 12,
+  "music_master_id": 187,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100253,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 27225,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1205,
+  "concert_master_id": 12,
+  "music_master_id": 182,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100254,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 28860,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110001,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 1206,
+  "concert_master_id": 12,
+  "music_master_id": 83,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100255,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 24300,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 330370,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1207,
+  "concert_master_id": 12,
+  "music_master_id": 58,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100256,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 34845,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130061,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1208,
+  "concert_master_id": 12,
+  "music_master_id": 180,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100257,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 43290,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 70
+   }
+  ]
+ },
+ {
+  "id": 1209,
+  "concert_master_id": 12,
+  "music_master_id": 17,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100258,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 48840,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1210,
+  "concert_master_id": 12,
+  "music_master_id": 230,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100259,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 45045,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 330370,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1211,
+  "concert_master_id": 12,
+  "music_master_id": 23,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100260,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 50505,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120002,
+    "thing_quantity": 80
+   }
+  ]
+ },
+ {
+  "id": 1212,
+  "concert_master_id": 12,
+  "music_master_id": 104,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100261,
+  "recommended_company": null,
+  "recommended_level": 12,
+  "clear_score": 75020,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1213,
+  "concert_master_id": 12,
+  "music_master_id": 71,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100262,
+  "recommended_company": null,
+  "recommended_level": 13,
+  "clear_score": 50220,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 110002,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 1214,
+  "concert_master_id": 12,
+  "music_master_id": 44,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100263,
+  "recommended_company": null,
+  "recommended_level": 14,
+  "clear_score": 75020,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 120003,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1215,
+  "concert_master_id": 12,
+  "music_master_id": 82,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100264,
+  "recommended_company": null,
+  "recommended_level": 15,
+  "clear_score": 56420,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 330370,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1216,
+  "concert_master_id": 12,
+  "music_master_id": 48,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100265,
+  "recommended_company": null,
+  "recommended_level": 16,
+  "clear_score": 93620,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 222001,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 1217,
+  "concert_master_id": 12,
+  "music_master_id": 25,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100266,
+  "recommended_company": null,
+  "recommended_level": 17,
+  "clear_score": 56420,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 1218,
+  "concert_master_id": 12,
+  "music_master_id": 210,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100267,
+  "recommended_company": null,
+  "recommended_level": 18,
+  "clear_score": 99820,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 222001,
+    "thing_quantity": 5
+   }
+  ]
+ },
+ {
+  "id": 1219,
+  "concert_master_id": 12,
+  "music_master_id": 201,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100268,
+  "recommended_company": null,
+  "recommended_level": 19,
+  "clear_score": 68820,
+  "rewards": [
+   {
+    "thing_type": 3,
+    "thing_id": 330370,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1301,
+  "concert_master_id": 13,
+  "music_master_id": 68,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100314,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 11375,
+  "rewards": [
+   {
+    "thing_type": 16,
+    "thing_id": 55,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1302,
+  "concert_master_id": 13,
+  "music_master_id": 53,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100315,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 14105,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1303,
+  "concert_master_id": 13,
+  "music_master_id": 48,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100316,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 26790,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1304,
+  "concert_master_id": 13,
+  "music_master_id": 179,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100317,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 22725,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1305,
+  "concert_master_id": 13,
+  "music_master_id": 209,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100318,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 23660,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1306,
+  "concert_master_id": 13,
+  "music_master_id": 210,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100319,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 45300,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1307,
+  "concert_master_id": 13,
+  "music_master_id": 265,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100320,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 31395,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1308,
+  "concert_master_id": 13,
+  "music_master_id": 236,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100321,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 54990,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1309,
+  "concert_master_id": 13,
+  "music_master_id": 262,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100322,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 53240,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1310,
+  "concert_master_id": 13,
+  "music_master_id": 201,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100323,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 49995,
+  "rewards": [
+   {
+    "thing_type": 7,
+    "thing_id": 10170,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 1401,
+  "concert_master_id": 14,
+  "music_master_id": 1,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100324,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 11375,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1402,
+  "concert_master_id": 14,
+  "music_master_id": 17,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100325,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1403,
+  "concert_master_id": 14,
+  "music_master_id": 19,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100326,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 17290,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1404,
+  "concert_master_id": 14,
+  "music_master_id": 21,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100327,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 20475,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1405,
+  "concert_master_id": 14,
+  "music_master_id": 23,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100328,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 23660,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1406,
+  "concert_master_id": 14,
+  "music_master_id": 230,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100329,
+  "recommended_company": null,
+  "recommended_level": 6,
+  "clear_score": 27300,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1407,
+  "concert_master_id": 14,
+  "music_master_id": 241,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100330,
+  "recommended_company": null,
+  "recommended_level": 7,
+  "clear_score": 34845,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1408,
+  "concert_master_id": 14,
+  "music_master_id": 252,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100331,
+  "recommended_company": null,
+  "recommended_level": 8,
+  "clear_score": 35490,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1409,
+  "concert_master_id": 14,
+  "music_master_id": 261,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100332,
+  "recommended_company": null,
+  "recommended_level": 9,
+  "clear_score": 40040,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1410,
+  "concert_master_id": 14,
+  "music_master_id": 25,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100333,
+  "recommended_company": null,
+  "recommended_level": 10,
+  "clear_score": 94545,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1411,
+  "concert_master_id": 14,
+  "music_master_id": 73,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100334,
+  "recommended_company": null,
+  "recommended_level": 11,
+  "clear_score": 78255,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1412,
+  "concert_master_id": 14,
+  "music_master_id": 263,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100335,
+  "recommended_company": null,
+  "recommended_level": 12,
+  "clear_score": 93620,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 1413,
+  "concert_master_id": 14,
+  "music_master_id": 2,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100336,
+  "recommended_company": null,
+  "recommended_level": 13,
+  "clear_score": 62335,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10101,
+  "concert_master_id": 101,
+  "music_master_id": 26,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100038,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 13875,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10102,
+  "concert_master_id": 101,
+  "music_master_id": 15,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100039,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 15655,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10103,
+  "concert_master_id": 101,
+  "music_master_id": 79,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100040,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 21090,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10104,
+  "concert_master_id": 101,
+  "music_master_id": 142,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100041,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 31725,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10105,
+  "concert_master_id": 101,
+  "music_master_id": 10046,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100042,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 52260,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110372,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10201,
+  "concert_master_id": 102,
+  "music_master_id": 75,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100043,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10202,
+  "concert_master_id": 102,
+  "music_master_id": 144,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100044,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 20305,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10203,
+  "concert_master_id": 102,
+  "music_master_id": 113,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100045,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10204,
+  "concert_master_id": 102,
+  "music_master_id": 85,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100046,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 22725,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10205,
+  "concert_master_id": 102,
+  "music_master_id": 10050,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100047,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 54860,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130572,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10301,
+  "concert_master_id": 103,
+  "music_master_id": 10,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100048,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 13875,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10302,
+  "concert_master_id": 103,
+  "music_master_id": 62,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100049,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10303,
+  "concert_master_id": 103,
+  "music_master_id": 111,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100050,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10304,
+  "concert_master_id": 103,
+  "music_master_id": 39,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100051,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 33975,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10305,
+  "concert_master_id": 103,
+  "music_master_id": 10058,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100052,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 52260,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110572,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10401,
+  "concert_master_id": 104,
+  "music_master_id": 45,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100053,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10402,
+  "concert_master_id": 104,
+  "music_master_id": 118,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100054,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 14105,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10403,
+  "concert_master_id": 104,
+  "music_master_id": 99,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100055,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 15390,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10404,
+  "concert_master_id": 104,
+  "music_master_id": 135,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100056,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 29475,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10405,
+  "concert_master_id": 104,
+  "music_master_id": 10057,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100057,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 57460,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120272,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10501,
+  "concert_master_id": 105,
+  "music_master_id": 59,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100058,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 13875,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10502,
+  "concert_master_id": 105,
+  "music_master_id": 103,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100059,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10503,
+  "concert_master_id": 105,
+  "music_master_id": 116,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100060,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 15390,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10504,
+  "concert_master_id": 105,
+  "music_master_id": 141,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100061,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 33975,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10505,
+  "concert_master_id": 105,
+  "music_master_id": 10061,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100062,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 52260,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130172,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10601,
+  "concert_master_id": 106,
+  "music_master_id": 81,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100078,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10602,
+  "concert_master_id": 106,
+  "music_master_id": 14,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100079,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 11005,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10603,
+  "concert_master_id": 106,
+  "music_master_id": 117,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100080,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10604,
+  "concert_master_id": 106,
+  "music_master_id": 150,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100081,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 24975,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10605,
+  "concert_master_id": 106,
+  "music_master_id": 10066,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100082,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 52260,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120572,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10701,
+  "concert_master_id": 107,
+  "music_master_id": 64,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100083,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10702,
+  "concert_master_id": 107,
+  "music_master_id": 28,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100084,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 18755,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10703,
+  "concert_master_id": 107,
+  "music_master_id": 116,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100085,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 15390,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10704,
+  "concert_master_id": 107,
+  "music_master_id": 157,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100086,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 15975,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10705,
+  "concert_master_id": 107,
+  "music_master_id": 10071,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100087,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 41860,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140172,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10801,
+  "concert_master_id": 108,
+  "music_master_id": 91,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100088,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 8875,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10802,
+  "concert_master_id": 108,
+  "music_master_id": 164,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100089,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 11005,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10803,
+  "concert_master_id": 108,
+  "music_master_id": 87,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100090,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 21090,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10804,
+  "concert_master_id": 108,
+  "music_master_id": 53,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100091,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 18225,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10805,
+  "concert_master_id": 108,
+  "music_master_id": 10074,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100092,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 41860,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140372,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10901,
+  "concert_master_id": 109,
+  "music_master_id": 47,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100093,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 10902,
+  "concert_master_id": 109,
+  "music_master_id": 95,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100094,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 12555,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 10903,
+  "concert_master_id": 109,
+  "music_master_id": 86,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100095,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 10904,
+  "concert_master_id": 109,
+  "music_master_id": 53,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100096,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 18225,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 10905,
+  "concert_master_id": 109,
+  "music_master_id": 10076,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100097,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 49660,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140472,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11001,
+  "concert_master_id": 110,
+  "music_master_id": 6,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100098,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11002,
+  "concert_master_id": 110,
+  "music_master_id": 102,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100099,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 15655,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11003,
+  "concert_master_id": 110,
+  "music_master_id": 73,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100100,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 22990,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11004,
+  "concert_master_id": 110,
+  "music_master_id": 33,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100101,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 33975,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11005,
+  "concert_master_id": 110,
+  "music_master_id": 10082,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100102,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 54860,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110172,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11101,
+  "concert_master_id": 111,
+  "music_master_id": 51,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100103,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11102,
+  "concert_master_id": 111,
+  "music_master_id": 144,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100104,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 21855,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11103,
+  "concert_master_id": 111,
+  "music_master_id": 77,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100105,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 17290,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11104,
+  "concert_master_id": 111,
+  "music_master_id": 129,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100106,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 27225,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11105,
+  "concert_master_id": 111,
+  "music_master_id": 10092,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100107,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 54860,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130472,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11201,
+  "concert_master_id": 112,
+  "music_master_id": 70,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100108,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11202,
+  "concert_master_id": 112,
+  "music_master_id": 78,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100109,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11203,
+  "concert_master_id": 112,
+  "music_master_id": 105,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100110,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11204,
+  "concert_master_id": 112,
+  "music_master_id": 169,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100111,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 29475,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11205,
+  "concert_master_id": 112,
+  "music_master_id": 10094,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100112,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 47060,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120472,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11301,
+  "concert_master_id": 113,
+  "music_master_id": 10,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100144,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 13875,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11302,
+  "concert_master_id": 113,
+  "music_master_id": 83,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100145,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 11005,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11303,
+  "concert_master_id": 113,
+  "music_master_id": 160,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100146,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 17290,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11304,
+  "concert_master_id": 113,
+  "music_master_id": 152,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100147,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 20475,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11305,
+  "concert_master_id": 113,
+  "music_master_id": 10097,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100148,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 47060,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110672,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11401,
+  "concert_master_id": 114,
+  "music_master_id": 7,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100149,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 13875,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11402,
+  "concert_master_id": 114,
+  "music_master_id": 11,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100150,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 14105,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11403,
+  "concert_master_id": 114,
+  "music_master_id": 49,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100151,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11404,
+  "concert_master_id": 114,
+  "music_master_id": 146,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100152,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 27225,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11405,
+  "concert_master_id": 114,
+  "music_master_id": 10100,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100153,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 52260,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110472,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11501,
+  "concert_master_id": 115,
+  "music_master_id": 101,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100162,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11502,
+  "concert_master_id": 115,
+  "music_master_id": 185,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100163,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 12555,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11503,
+  "concert_master_id": 115,
+  "music_master_id": 54,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100164,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 21090,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11504,
+  "concert_master_id": 115,
+  "music_master_id": 122,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100165,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 22725,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11505,
+  "concert_master_id": 115,
+  "music_master_id": 10104,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100166,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 54860,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140272,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11601,
+  "concert_master_id": 116,
+  "music_master_id": 67,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100167,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 11375,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11602,
+  "concert_master_id": 116,
+  "music_master_id": 161,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100168,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 11005,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11603,
+  "concert_master_id": 116,
+  "music_master_id": 27,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100169,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 17290,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11604,
+  "concert_master_id": 116,
+  "music_master_id": 137,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100170,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 27225,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11605,
+  "concert_master_id": 116,
+  "music_master_id": 10106,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100171,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 57460,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130272,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11701,
+  "concert_master_id": 117,
+  "music_master_id": 93,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100172,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 12625,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11702,
+  "concert_master_id": 117,
+  "music_master_id": 181,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100173,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 17205,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11703,
+  "concert_master_id": 117,
+  "music_master_id": 163,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100174,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 15390,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11704,
+  "concert_master_id": 117,
+  "music_master_id": 84,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100175,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 29475,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11705,
+  "concert_master_id": 117,
+  "music_master_id": 10108,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100176,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 47060,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120172,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11801,
+  "concert_master_id": 118,
+  "music_master_id": 30,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100177,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 15125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11802,
+  "concert_master_id": 118,
+  "music_master_id": 56,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100178,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 15655,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11803,
+  "concert_master_id": 118,
+  "music_master_id": 115,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100179,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11804,
+  "concert_master_id": 118,
+  "music_master_id": 55,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100180,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 31725,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11805,
+  "concert_master_id": 118,
+  "music_master_id": 10110,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100181,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 49660,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 120372,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11901,
+  "concert_master_id": 119,
+  "music_master_id": 203,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100182,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 11375,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 11902,
+  "concert_master_id": 119,
+  "music_master_id": 51,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100183,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 15655,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 11903,
+  "concert_master_id": 119,
+  "music_master_id": 96,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100184,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 11904,
+  "concert_master_id": 119,
+  "music_master_id": 194,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100185,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 27225,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 11905,
+  "concert_master_id": 119,
+  "music_master_id": 10112,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100186,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 47060,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 130372,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 12001,
+  "concert_master_id": 120,
+  "music_master_id": 9,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100192,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 12002,
+  "concert_master_id": 120,
+  "music_master_id": 125,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100193,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 18755,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 12003,
+  "concert_master_id": 120,
+  "music_master_id": 69,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100194,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 17290,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 12004,
+  "concert_master_id": 120,
+  "music_master_id": 40,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100195,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 24975,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 12005,
+  "concert_master_id": 120,
+  "music_master_id": 10044,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100196,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 44460,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 140572,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 12101,
+  "concert_master_id": 121,
+  "music_master_id": 2,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100197,
+  "recommended_company": null,
+  "recommended_level": 1,
+  "clear_score": 10125,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130062,
+    "thing_quantity": 50
+   }
+  ]
+ },
+ {
+  "id": 12102,
+  "concert_master_id": 121,
+  "music_master_id": 165,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100198,
+  "recommended_company": null,
+  "recommended_level": 2,
+  "clear_score": 15655,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130063,
+    "thing_quantity": 10
+   }
+  ]
+ },
+ {
+  "id": 12103,
+  "concert_master_id": 121,
+  "music_master_id": 25,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100199,
+  "recommended_company": null,
+  "recommended_level": 3,
+  "clear_score": 19190,
+  "rewards": [
+   {
+    "thing_type": 1,
+    "thing_id": 130071,
+    "thing_quantity": 1
+   }
+  ]
+ },
+ {
+  "id": 12104,
+  "concert_master_id": 121,
+  "music_master_id": 119,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100200,
+  "recommended_company": null,
+  "recommended_level": 4,
+  "clear_score": 27225,
+  "rewards": [
+   {
+    "thing_type": 13,
+    "thing_id": 0,
+    "thing_quantity": 100
+   }
+  ]
+ },
+ {
+  "id": 12105,
+  "concert_master_id": 121,
+  "music_master_id": 10048,
+  "vocal_version": 1,
+  "sense_notation_master_id": 100201,
+  "recommended_company": null,
+  "recommended_level": 5,
+  "clear_score": 60060,
+  "rewards": [
+   {
+    "thing_type": 6,
+    "thing_id": 110272,
+    "thing_quantity": 1
+   }
+  ]
+ }
+]

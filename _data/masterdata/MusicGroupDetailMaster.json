@@ -1,0 +1,512 @@
+[
+ {
+  "id": 501,
+  "music_group_master_id": 5,
+  "music_master_id": 5
+ },
+ {
+  "id": 502,
+  "music_group_master_id": 5,
+  "music_master_id": 10005
+ },
+ {
+  "id": 901,
+  "music_group_master_id": 9,
+  "music_master_id": 9
+ },
+ {
+  "id": 902,
+  "music_group_master_id": 9,
+  "music_master_id": 10009
+ },
+ {
+  "id": 1201,
+  "music_group_master_id": 12,
+  "music_master_id": 12
+ },
+ {
+  "id": 1202,
+  "music_group_master_id": 12,
+  "music_master_id": 10012
+ },
+ {
+  "id": 1701,
+  "music_group_master_id": 17,
+  "music_master_id": 17
+ },
+ {
+  "id": 1702,
+  "music_group_master_id": 17,
+  "music_master_id": 10017
+ },
+ {
+  "id": 1901,
+  "music_group_master_id": 19,
+  "music_master_id": 19
+ },
+ {
+  "id": 1902,
+  "music_group_master_id": 19,
+  "music_master_id": 10019
+ },
+ {
+  "id": 2101,
+  "music_group_master_id": 21,
+  "music_master_id": 21
+ },
+ {
+  "id": 2102,
+  "music_group_master_id": 21,
+  "music_master_id": 10021
+ },
+ {
+  "id": 2301,
+  "music_group_master_id": 23,
+  "music_master_id": 23
+ },
+ {
+  "id": 2302,
+  "music_group_master_id": 23,
+  "music_master_id": 10023
+ },
+ {
+  "id": 2501,
+  "music_group_master_id": 25,
+  "music_master_id": 25
+ },
+ {
+  "id": 2502,
+  "music_group_master_id": 25,
+  "music_master_id": 10025
+ },
+ {
+  "id": 2701,
+  "music_group_master_id": 27,
+  "music_master_id": 27
+ },
+ {
+  "id": 2702,
+  "music_group_master_id": 27,
+  "music_master_id": 10027
+ },
+ {
+  "id": 2801,
+  "music_group_master_id": 28,
+  "music_master_id": 28
+ },
+ {
+  "id": 2802,
+  "music_group_master_id": 28,
+  "music_master_id": 10028
+ },
+ {
+  "id": 2901,
+  "music_group_master_id": 29,
+  "music_master_id": 29
+ },
+ {
+  "id": 2902,
+  "music_group_master_id": 29,
+  "music_master_id": 10029
+ },
+ {
+  "id": 3001,
+  "music_group_master_id": 30,
+  "music_master_id": 30
+ },
+ {
+  "id": 3002,
+  "music_group_master_id": 30,
+  "music_master_id": 10030
+ },
+ {
+  "id": 4401,
+  "music_group_master_id": 44,
+  "music_master_id": 44
+ },
+ {
+  "id": 4402,
+  "music_group_master_id": 44,
+  "music_master_id": 10044
+ },
+ {
+  "id": 4501,
+  "music_group_master_id": 45,
+  "music_master_id": 45
+ },
+ {
+  "id": 4502,
+  "music_group_master_id": 45,
+  "music_master_id": 10045
+ },
+ {
+  "id": 4601,
+  "music_group_master_id": 46,
+  "music_master_id": 46
+ },
+ {
+  "id": 4602,
+  "music_group_master_id": 46,
+  "music_master_id": 10046
+ },
+ {
+  "id": 4701,
+  "music_group_master_id": 47,
+  "music_master_id": 47
+ },
+ {
+  "id": 4702,
+  "music_group_master_id": 47,
+  "music_master_id": 10047
+ },
+ {
+  "id": 4801,
+  "music_group_master_id": 48,
+  "music_master_id": 48
+ },
+ {
+  "id": 4802,
+  "music_group_master_id": 48,
+  "music_master_id": 10048
+ },
+ {
+  "id": 5001,
+  "music_group_master_id": 50,
+  "music_master_id": 50
+ },
+ {
+  "id": 5002,
+  "music_group_master_id": 50,
+  "music_master_id": 10050
+ },
+ {
+  "id": 5101,
+  "music_group_master_id": 51,
+  "music_master_id": 51
+ },
+ {
+  "id": 5102,
+  "music_group_master_id": 51,
+  "music_master_id": 10051
+ },
+ {
+  "id": 5301,
+  "music_group_master_id": 53,
+  "music_master_id": 53
+ },
+ {
+  "id": 5302,
+  "music_group_master_id": 53,
+  "music_master_id": 10053
+ },
+ {
+  "id": 5401,
+  "music_group_master_id": 54,
+  "music_master_id": 54
+ },
+ {
+  "id": 5402,
+  "music_group_master_id": 54,
+  "music_master_id": 10054
+ },
+ {
+  "id": 5701,
+  "music_group_master_id": 57,
+  "music_master_id": 57
+ },
+ {
+  "id": 5702,
+  "music_group_master_id": 57,
+  "music_master_id": 10057
+ },
+ {
+  "id": 5801,
+  "music_group_master_id": 58,
+  "music_master_id": 58
+ },
+ {
+  "id": 5802,
+  "music_group_master_id": 58,
+  "music_master_id": 10058
+ },
+ {
+  "id": 6101,
+  "music_group_master_id": 61,
+  "music_master_id": 61
+ },
+ {
+  "id": 6102,
+  "music_group_master_id": 61,
+  "music_master_id": 10061
+ },
+ {
+  "id": 6401,
+  "music_group_master_id": 64,
+  "music_master_id": 64
+ },
+ {
+  "id": 6402,
+  "music_group_master_id": 64,
+  "music_master_id": 10064
+ },
+ {
+  "id": 6601,
+  "music_group_master_id": 66,
+  "music_master_id": 66
+ },
+ {
+  "id": 6602,
+  "music_group_master_id": 66,
+  "music_master_id": 10066
+ },
+ {
+  "id": 6801,
+  "music_group_master_id": 68,
+  "music_master_id": 68
+ },
+ {
+  "id": 6802,
+  "music_group_master_id": 68,
+  "music_master_id": 10068
+ },
+ {
+  "id": 7001,
+  "music_group_master_id": 70,
+  "music_master_id": 70
+ },
+ {
+  "id": 7002,
+  "music_group_master_id": 70,
+  "music_master_id": 10070
+ },
+ {
+  "id": 7101,
+  "music_group_master_id": 71,
+  "music_master_id": 71
+ },
+ {
+  "id": 7102,
+  "music_group_master_id": 71,
+  "music_master_id": 10071
+ },
+ {
+  "id": 7301,
+  "music_group_master_id": 73,
+  "music_master_id": 73
+ },
+ {
+  "id": 7302,
+  "music_group_master_id": 73,
+  "music_master_id": 10073
+ },
+ {
+  "id": 7401,
+  "music_group_master_id": 74,
+  "music_master_id": 74
+ },
+ {
+  "id": 7402,
+  "music_group_master_id": 74,
+  "music_master_id": 10074
+ },
+ {
+  "id": 7601,
+  "music_group_master_id": 76,
+  "music_master_id": 76
+ },
+ {
+  "id": 7602,
+  "music_group_master_id": 76,
+  "music_master_id": 10076
+ },
+ {
+  "id": 7701,
+  "music_group_master_id": 77,
+  "music_master_id": 77
+ },
+ {
+  "id": 7702,
+  "music_group_master_id": 77,
+  "music_master_id": 10077
+ },
+ {
+  "id": 7901,
+  "music_group_master_id": 79,
+  "music_master_id": 79
+ },
+ {
+  "id": 7902,
+  "music_group_master_id": 79,
+  "music_master_id": 10079
+ },
+ {
+  "id": 8201,
+  "music_group_master_id": 82,
+  "music_master_id": 82
+ },
+ {
+  "id": 8202,
+  "music_group_master_id": 82,
+  "music_master_id": 10082
+ },
+ {
+  "id": 9201,
+  "music_group_master_id": 92,
+  "music_master_id": 92
+ },
+ {
+  "id": 9202,
+  "music_group_master_id": 92,
+  "music_master_id": 10092
+ },
+ {
+  "id": 9301,
+  "music_group_master_id": 93,
+  "music_master_id": 93
+ },
+ {
+  "id": 9302,
+  "music_group_master_id": 93,
+  "music_master_id": 10093
+ },
+ {
+  "id": 9401,
+  "music_group_master_id": 94,
+  "music_master_id": 94
+ },
+ {
+  "id": 9402,
+  "music_group_master_id": 94,
+  "music_master_id": 10094
+ },
+ {
+  "id": 9701,
+  "music_group_master_id": 97,
+  "music_master_id": 97
+ },
+ {
+  "id": 9702,
+  "music_group_master_id": 97,
+  "music_master_id": 10097
+ },
+ {
+  "id": 10001,
+  "music_group_master_id": 100,
+  "music_master_id": 100
+ },
+ {
+  "id": 10002,
+  "music_group_master_id": 100,
+  "music_master_id": 10100
+ },
+ {
+  "id": 10401,
+  "music_group_master_id": 104,
+  "music_master_id": 104
+ },
+ {
+  "id": 10402,
+  "music_group_master_id": 104,
+  "music_master_id": 10104
+ },
+ {
+  "id": 10501,
+  "music_group_master_id": 105,
+  "music_master_id": 105
+ },
+ {
+  "id": 10502,
+  "music_group_master_id": 105,
+  "music_master_id": 10105
+ },
+ {
+  "id": 10601,
+  "music_group_master_id": 106,
+  "music_master_id": 106
+ },
+ {
+  "id": 10602,
+  "music_group_master_id": 106,
+  "music_master_id": 10106
+ },
+ {
+  "id": 10801,
+  "music_group_master_id": 108,
+  "music_master_id": 108
+ },
+ {
+  "id": 10802,
+  "music_group_master_id": 108,
+  "music_master_id": 10108
+ },
+ {
+  "id": 10901,
+  "music_group_master_id": 109,
+  "music_master_id": 109
+ },
+ {
+  "id": 10902,
+  "music_group_master_id": 109,
+  "music_master_id": 10109
+ },
+ {
+  "id": 11001,
+  "music_group_master_id": 110,
+  "music_master_id": 110
+ },
+ {
+  "id": 11002,
+  "music_group_master_id": 110,
+  "music_master_id": 10110
+ },
+ {
+  "id": 11201,
+  "music_group_master_id": 112,
+  "music_master_id": 112
+ },
+ {
+  "id": 11202,
+  "music_group_master_id": 112,
+  "music_master_id": 10112
+ },
+ {
+  "id": 11301,
+  "music_group_master_id": 113,
+  "music_master_id": 113
+ },
+ {
+  "id": 11302,
+  "music_group_master_id": 113,
+  "music_master_id": 10113
+ },
+ {
+  "id": 17901,
+  "music_group_master_id": 179,
+  "music_master_id": 179
+ },
+ {
+  "id": 17902,
+  "music_group_master_id": 179,
+  "music_master_id": 10179
+ },
+ {
+  "id": 18101,
+  "music_group_master_id": 181,
+  "music_master_id": 181
+ },
+ {
+  "id": 18102,
+  "music_group_master_id": 181,
+  "music_master_id": 10181
+ },
+ {
+  "id": 24901,
+  "music_group_master_id": 249,
+  "music_master_id": 249
+ },
+ {
+  "id": 24902,
+  "music_group_master_id": 249,
+  "music_master_id": 10249
+ }
+]

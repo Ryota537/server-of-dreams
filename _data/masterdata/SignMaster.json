@@ -1,0 +1,132 @@
+[
+ {
+  "id": 1011,
+  "character_base_master_id": 101,
+  "sign_image_path": "101_1"
+ },
+ {
+  "id": 1021,
+  "character_base_master_id": 102,
+  "sign_image_path": "102_1"
+ },
+ {
+  "id": 1031,
+  "character_base_master_id": 103,
+  "sign_image_path": "103_1"
+ },
+ {
+  "id": 1041,
+  "character_base_master_id": 104,
+  "sign_image_path": "104_1"
+ },
+ {
+  "id": 1051,
+  "character_base_master_id": 105,
+  "sign_image_path": "105_1"
+ },
+ {
+  "id": 1061,
+  "character_base_master_id": 106,
+  "sign_image_path": "106_1"
+ },
+ {
+  "id": 2011,
+  "character_base_master_id": 201,
+  "sign_image_path": "201_1"
+ },
+ {
+  "id": 2021,
+  "character_base_master_id": 202,
+  "sign_image_path": "202_1"
+ },
+ {
+  "id": 2031,
+  "character_base_master_id": 203,
+  "sign_image_path": "203_1"
+ },
+ {
+  "id": 2041,
+  "character_base_master_id": 204,
+  "sign_image_path": "204_1"
+ },
+ {
+  "id": 2051,
+  "character_base_master_id": 205,
+  "sign_image_path": "205_1"
+ },
+ {
+  "id": 3011,
+  "character_base_master_id": 301,
+  "sign_image_path": "301_1"
+ },
+ {
+  "id": 3021,
+  "character_base_master_id": 302,
+  "sign_image_path": "302_1"
+ },
+ {
+  "id": 3031,
+  "character_base_master_id": 303,
+  "sign_image_path": "303_1"
+ },
+ {
+  "id": 3041,
+  "character_base_master_id": 304,
+  "sign_image_path": "304_1"
+ },
+ {
+  "id": 3051,
+  "character_base_master_id": 305,
+  "sign_image_path": "305_1"
+ },
+ {
+  "id": 4011,
+  "character_base_master_id": 401,
+  "sign_image_path": "401_1"
+ },
+ {
+  "id": 4021,
+  "character_base_master_id": 402,
+  "sign_image_path": "402_1"
+ },
+ {
+  "id": 4031,
+  "character_base_master_id": 403,
+  "sign_image_path": "403_1"
+ },
+ {
+  "id": 4041,
+  "character_base_master_id": 404,
+  "sign_image_path": "404_1"
+ },
+ {
+  "id": 4051,
+  "character_base_master_id": 405,
+  "sign_image_path": "405_1"
+ },
+ {
+  "id": 9011,
+  "character_base_master_id": 901,
+  "sign_image_path": "901_1"
+ },
+ {
+  "id": 9021,
+  "character_base_master_id": 902,
+  "sign_image_path": "902_1"
+ },
+ {
+  "id": 9041,
+  "character_base_master_id": 904,
+  "sign_image_path": "904_1"
+ },
+ {
+  "id": 9061,
+  "character_base_master_id": 906,
+  "sign_image_path": "906_1"
+ },
+ {
+  "id": 9091,
+  "character_base_master_id": 909,
+  "sign_image_path": "909_1"
+ }
+]

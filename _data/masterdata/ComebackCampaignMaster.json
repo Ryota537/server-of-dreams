@@ -1,0 +1,16 @@
+[
+ {
+  "id": 1,
+  "mission_active_days": 30,
+  "jewel_shop_item_active_days": 30,
+  "login_bonus_active_days": 26,
+  "buff_campaign_active_days": 7
+ },
+ {
+  "id": 2,
+  "mission_active_days": 30,
+  "jewel_shop_item_active_days": 30,
+  "login_bonus_active_days": 26,
+  "buff_campaign_active_days": 7
+ }
+]

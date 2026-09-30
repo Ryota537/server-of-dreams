@@ -1,0 +1,4606 @@
+[
+ {
+  "id": 10101,
+  "order": 10101,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【よろしくね】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10102,
+  "order": 10102,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【みんなお疲れさま！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10103,
+  "order": 10103,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【大成功だね！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10104,
+  "order": 10104,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【ごめんなさい】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10105,
+  "order": 10105,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【すごい…！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10106,
+  "order": 10106,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【いつでもいけるよ！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10107,
+  "order": 10107,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【成功させるよ…！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10108,
+  "order": 10108,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【もう一回お願い！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10109,
+  "order": 10109,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【そんな～！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10110,
+  "order": 10110,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【えへへ…】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10111,
+  "order": 10111,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【おめでとう！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10112,
+  "order": 10112,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【きっとできるよ！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10170,
+  "order": 10199,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな＆静香【二人でワールドダイスター】",
+  "character_base_master_ids": [
+   101,
+   102
+  ]
+ },
+ {
+  "id": 10180,
+  "order": 10180,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【楽しもう！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10181,
+  "order": 10181,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【ありがとー！】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10182,
+  "order": 10182,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【もっと頑張らなきゃ】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10183,
+  "order": 10183,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【輝こう、君と】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10191,
+  "order": 10191,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【私が守るよ】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10192,
+  "order": 10192,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな【……じごくのとっくんだ。】",
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 10201,
+  "order": 10201,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【よろしく】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10202,
+  "order": 10202,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【よく頑張ったわね】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10203,
+  "order": 10203,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【私と一緒に行こう】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10204,
+  "order": 10204,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【私たちならできる】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10205,
+  "order": 10205,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【ごくり…】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10206,
+  "order": 10206,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【応援してるよ】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10207,
+  "order": 10207,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【やればできるじゃん】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10208,
+  "order": 10208,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【さよなら】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10209,
+  "order": 10209,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【あっ…】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10210,
+  "order": 10210,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【いい調子ね】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10211,
+  "order": 10211,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【いいわね…】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10212,
+  "order": 10212,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【まだまだ上に行くわよ】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10280,
+  "order": 10280,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【嫌いじゃないよ】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10281,
+  "order": 10281,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【私に合わせて！】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10282,
+  "order": 10282,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【がんばるです】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10283,
+  "order": 10283,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【負けないわよ】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10284,
+  "order": 10284,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【あなたがいて私がいる】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10291,
+  "order": 10291,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【そろそろ休んだら？】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10292,
+  "order": 10292,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "静香【バカっぽい】",
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 10301,
+  "order": 10301,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【…よろしく】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10302,
+  "order": 10302,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【ご…ごめんなさい…】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10303,
+  "order": 10303,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【なんてこと…】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10304,
+  "order": 10304,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【正々堂々と勝負よ！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10305,
+  "order": 10305,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【はっ？！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10306,
+  "order": 10306,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【アタシを誰だと思ってるの？】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10307,
+  "order": 10307,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【いいんじゃない？】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10308,
+  "order": 10308,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【…良かったわよ】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10309,
+  "order": 10309,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【それじゃ】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10310,
+  "order": 10310,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【次こそは…！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10311,
+  "order": 10311,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【やったわ！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10380,
+  "order": 10380,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【この調子！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10381,
+  "order": 10381,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【負けてられないわね…】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10382,
+  "order": 10382,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【あ、ありがと！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10383,
+  "order": 10383,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【私をこの場所から連れ出して】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10391,
+  "order": 10391,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【超集中！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10392,
+  "order": 10392,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カトリナ【泣いてないっ！】",
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 10401,
+  "order": 10401,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【よろしくお願いします】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10402,
+  "order": 10402,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【お疲れさまでした】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10403,
+  "order": 10403,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【素晴らしいですね】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10404,
+  "order": 10404,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【気にしないでください】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10405,
+  "order": 10405,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【あれ？】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10406,
+  "order": 10406,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【私がついてます】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10407,
+  "order": 10407,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【一緒にいかがですか？】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10408,
+  "order": 10408,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【うぅ…】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10409,
+  "order": 10409,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【・・・】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10410,
+  "order": 10410,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【きゃっ！】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10411,
+  "order": 10411,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【とっても嬉しいです】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10480,
+  "order": 10480,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【にゃっほー♪】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10481,
+  "order": 10481,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【見ていてくださいね】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10482,
+  "order": 10482,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【にゃっ！】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10483,
+  "order": 10483,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【夢みたいです…！】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10484,
+  "order": 10484,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【歌っていると幸せだから】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10491,
+  "order": 10491,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【よしよし】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10492,
+  "order": 10492,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "八恵【お呼ばれしちゃいました♪】",
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 10501,
+  "order": 10501,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【よろしくねっ】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10502,
+  "order": 10502,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【やるじゃん…】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10503,
+  "order": 10503,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【準備バッチリ！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10504,
+  "order": 10504,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【はぁっ？！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10505,
+  "order": 10505,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【ごめん！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10506,
+  "order": 10506,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【ぱんだの可愛さ見せてやんよ！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10507,
+  "order": 10507,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【ムリ…】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10508,
+  "order": 10508,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【いぇーい！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10509,
+  "order": 10509,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【気にするなって】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10581,
+  "order": 10581,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【ぱんだのでばんだ！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10582,
+  "order": 10582,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【やってやらー！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10583,
+  "order": 10583,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【うれしいわ】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10584,
+  "order": 10584,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【いちばんかわいい！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10591,
+  "order": 10591,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【今日もかわいいな！】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10592,
+  "order": 10592,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ぱんだ【強・制・参・加♪】",
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 10601,
+  "order": 10601,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【よろしくね】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10602,
+  "order": 10602,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【キュンときたね】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10603,
+  "order": 10603,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【お見事】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10604,
+  "order": 10604,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【すごいね】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10605,
+  "order": 10605,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【？】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10606,
+  "order": 10606,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【どうってことないな】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10607,
+  "order": 10607,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【ごめん】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10608,
+  "order": 10608,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【じゃあね】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10610,
+  "order": 10610,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【いいとこ見せるよ】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10681,
+  "order": 10681,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【備えあれば憂いなし】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10682,
+  "order": 10682,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【よかろう】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10683,
+  "order": 10683,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【ハートに火がついちゃったな】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10684,
+  "order": 10684,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【甘くて美味しいね】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10691,
+  "order": 10691,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【大　吉】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 10692,
+  "order": 10692,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "知冴【細かいことは気にしない】",
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 20101,
+  "order": 20101,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【よろしくな】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20102,
+  "order": 20102,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【ざっとこんなもんか】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20103,
+  "order": 20103,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【私と共に来い】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20104,
+  "order": 20104,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【なっ…！】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20105,
+  "order": 20105,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【ダメだったか…】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20106,
+  "order": 20106,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【なんだ？】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20107,
+  "order": 20107,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【私に任せろ】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20108,
+  "order": 20108,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【ほぅ…】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20109,
+  "order": 20109,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【逸材だな…！】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20110,
+  "order": 20110,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【またな】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20111,
+  "order": 20111,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【魅了してみせよう】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20181,
+  "order": 20181,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【ついて来れるかな？】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20182,
+  "order": 20182,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【次どこいこうか】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20183,
+  "order": 20183,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【望む所よ】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20184,
+  "order": 20184,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【まだ足りないな】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20185,
+  "order": 20185,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【もっと求めればいい】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20191,
+  "order": 20191,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【フフ…】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20192,
+  "order": 20192,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "初魅【……運命か。】",
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 20201,
+  "order": 20201,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【よろしく】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20202,
+  "order": 20202,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【フフフ…】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20203,
+  "order": 20203,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【今に見ていなさい…！】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20204,
+  "order": 20204,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【もう１回よ…！】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20205,
+  "order": 20205,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【私だって…！】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20206,
+  "order": 20206,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【許せないわね…】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20207,
+  "order": 20207,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【悪かったわ】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20208,
+  "order": 20208,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【いつでもいいわよ…】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20209,
+  "order": 20209,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【おつかれさま】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20281,
+  "order": 20281,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【あ…ありがとう…】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20282,
+  "order": 20282,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【おのれシリウス…！】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20283,
+  "order": 20283,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【きてくれたのね】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20284,
+  "order": 20284,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【私の糧になればいい】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20291,
+  "order": 20291,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【じー…】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20292,
+  "order": 20292,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "大黒【許すまじ…！】",
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 20301,
+  "order": 20301,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【よろしくね！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20302,
+  "order": 20302,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【良かったよ】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20303,
+  "order": 20303,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【さすが！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20304,
+  "order": 20304,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【そんな！？】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20305,
+  "order": 20305,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【ずーん…】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20306,
+  "order": 20306,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【私にも教えてください！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20307,
+  "order": 20307,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【ごめんね】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20308,
+  "order": 20308,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【いくよ！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20309,
+  "order": 20309,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【どうしたの？】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20381,
+  "order": 20381,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【がんばって！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20382,
+  "order": 20382,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【キャンプやろうね！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20383,
+  "order": 20383,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【みんなのおかげだよ！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20384,
+  "order": 20384,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【まっすぐ走ってくんだ！】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20391,
+  "order": 20391,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【うぅぅ…】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20392,
+  "order": 20392,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "仁花子【幸せものだなぁ…】",
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 20401,
+  "order": 20401,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【よろしく～】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20402,
+  "order": 20402,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【またやろうね～！】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20403,
+  "order": 20403,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【いけいけー！】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20404,
+  "order": 20404,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【しょんぼり…】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20405,
+  "order": 20405,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【いっくよー！】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20406,
+  "order": 20406,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【アタシがいるよ】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20407,
+  "order": 20407,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【まぁまぁ】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20408,
+  "order": 20408,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【ふぅ…】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20409,
+  "order": 20409,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【いいねぇ】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20410,
+  "order": 20410,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【最後まで付き合うよ】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20481,
+  "order": 20481,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【やったじゃん！】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20482,
+  "order": 20482,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【ウソやでー】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20483,
+  "order": 20483,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【勝負どころだよ】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20484,
+  "order": 20484,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【賭けてみようか】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20491,
+  "order": 20491,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【最っ高～！！】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20492,
+  "order": 20492,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "容【おんやぁ～？】",
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 20501,
+  "order": 20501,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【よろしく～】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20502,
+  "order": 20502,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【ふふ～ん♪】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20503,
+  "order": 20503,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【やだやだぁー！】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20504,
+  "order": 20504,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【つ、つかれた…】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20505,
+  "order": 20505,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【ん？】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20506,
+  "order": 20506,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【はぁ？！】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20507,
+  "order": 20507,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【や、やるじゃん…】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20508,
+  "order": 20508,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【まだー？】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20509,
+  "order": 20509,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【もう1回！】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20510,
+  "order": 20510,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【しぐれの出番ね！】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20580,
+  "order": 20580,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【子ども扱い禁止！】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20581,
+  "order": 20581,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【じゃーね】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20582,
+  "order": 20582,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【しょうがないですねぇ】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20583,
+  "order": 20583,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【よくできました！】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20584,
+  "order": 20584,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【LOOK AT ME!】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20591,
+  "order": 20591,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【ぷ～くすくす】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 20592,
+  "order": 20592,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "しぐれ【～～♪】",
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 30101,
+  "order": 30101,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【ごきげんよう】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30102,
+  "order": 30102,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【やりますわね】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30103,
+  "order": 30103,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【ああ…素晴らしい…】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30104,
+  "order": 30104,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【いきますわよ！】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30105,
+  "order": 30105,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【あら…？】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30106,
+  "order": 30106,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【たまりませんわ！】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30107,
+  "order": 30107,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【くっ…】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30108,
+  "order": 30108,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【任せなさい！】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30109,
+  "order": 30109,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【ふふっ】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30110,
+  "order": 30110,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【まあ！】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30111,
+  "order": 30111,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【光栄ですわ】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30181,
+  "order": 30181,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【お疲れさま】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30182,
+  "order": 30182,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【精進いたします】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30183,
+  "order": 30183,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【愛しき光が消えぬように】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30184,
+  "order": 30184,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【はああああああ～～～～ッ！！！】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30191,
+  "order": 30191,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【はぁはぁ】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30192,
+  "order": 30192,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "暦【あぁいいですわ】",
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 30201,
+  "order": 30201,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【よろしくな】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30202,
+  "order": 30202,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【感謝する】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30203,
+  "order": 30203,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【共に行こう】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30204,
+  "order": 30204,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【なにっ？！】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30205,
+  "order": 30205,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【すまん…】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30206,
+  "order": 30206,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【ふっ】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30207,
+  "order": 30207,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【よく頑張ったな】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30208,
+  "order": 30208,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【うむ…？】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30209,
+  "order": 30209,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【また会おう】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30210,
+  "order": 30210,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【少し待ってくれ】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30281,
+  "order": 30281,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【任せるがいい！】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30282,
+  "order": 30282,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【私の助けが必要か？】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30283,
+  "order": 30283,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【響かせたい】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30291,
+  "order": 30291,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【任務完了】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30292,
+  "order": 30292,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ラモーナ【デートのお誘いだ】",
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 30301,
+  "order": 30301,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【よろしく】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30302,
+  "order": 30302,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【あ、ありがとう】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30303,
+  "order": 30303,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【はぁ？！】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30304,
+  "order": 30304,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【またね】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30305,
+  "order": 30305,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【こらー！】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30306,
+  "order": 30306,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【いいじゃん】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30307,
+  "order": 30307,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【さっさとやるぞ】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30308,
+  "order": 30308,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【ふんっ】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30309,
+  "order": 30309,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【美味そうだな…】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30310,
+  "order": 30310,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【ふあぁ…】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30381,
+  "order": 30381,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【それくらい余裕だぞ】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30382,
+  "order": 30382,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【負けてたまるか！！】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30383,
+  "order": 30383,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【\"満漢全席\"!!】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30391,
+  "order": 30391,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【うぅ…】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30392,
+  "order": 30392,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "雪【ほら食え、たくさんあるぞ】",
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 30401,
+  "order": 30401,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【よろしく】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30402,
+  "order": 30402,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【じゃあね】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30403,
+  "order": 30403,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【すごいね】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30404,
+  "order": 30404,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【そんな…】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30405,
+  "order": 30405,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【ありがとう】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30406,
+  "order": 30406,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【美しい…】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30407,
+  "order": 30407,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【自信を持って】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30408,
+  "order": 30408,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【ごめんね】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30409,
+  "order": 30409,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【楽しみましょう】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30410,
+  "order": 30410,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【そうなの？】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30481,
+  "order": 30481,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【私を見て】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30482,
+  "order": 30482,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【モイモイ】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30483,
+  "order": 30483,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【ここに逢いに来てほしい】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30491,
+  "order": 30491,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【あぁ…気持ちいい…】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30492,
+  "order": 30492,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "リリヤ【あなたの視線、いい…】",
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 30501,
+  "order": 30501,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【はいたい！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30502,
+  "order": 30502,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【ありがとうね】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30503,
+  "order": 30503,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【なんくるないさ～】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30504,
+  "order": 30504,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【す、すごい…！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30505,
+  "order": 30505,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【ドキドキ…！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30506,
+  "order": 30506,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【ばんざーいっ！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30507,
+  "order": 30507,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【一緒にやろう！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30508,
+  "order": 30508,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【またどこかで！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30509,
+  "order": 30509,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【準備完了！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30510,
+  "order": 30510,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【ちょっと待ってて！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30581,
+  "order": 30581,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【あきらめない！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30582,
+  "order": 30582,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【おなかすいたさー！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30583,
+  "order": 30583,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【熱い想い届けにいくさ！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30591,
+  "order": 30591,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【まだやれるさ…！】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 30592,
+  "order": 30592,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "緋花里【わくわく♪】",
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 40101,
+  "order": 40101,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【よろしくお願いします】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40102,
+  "order": 40102,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【がんばりましょう！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40103,
+  "order": 40103,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【好きですっ】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40104,
+  "order": 40104,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【ありがとうございます】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40105,
+  "order": 40105,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【すごいです！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40106,
+  "order": 40106,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【はっ！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40107,
+  "order": 40107,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【ごめんなさい…】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40108,
+  "order": 40108,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【おめでとうございます！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40109,
+  "order": 40109,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【また会いましょう】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40110,
+  "order": 40110,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【見守っていてくださいね】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40111,
+  "order": 40111,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【僕がやります！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40112,
+  "order": 40112,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【自信が持てました！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40180,
+  "order": 40180,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【任せとけ！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40181,
+  "order": 40181,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【僕と一緒に行きましょう！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40182,
+  "order": 40182,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【それが、我が運命ならば】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40183,
+  "order": 40183,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【ハラハラドキドキですっ！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40184,
+  "order": 40184,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【パンツァーフォー！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40185,
+  "order": 40185,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【愛しい光に照らされて】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40191,
+  "order": 40191,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【やってくれるんですか？！】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40192,
+  "order": 40192,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "いろは【尊いです…】",
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 40201,
+  "order": 40201,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【よろしくね…】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40202,
+  "order": 40202,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【す、すごいね】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40203,
+  "order": 40203,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【ドキドキ…】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40204,
+  "order": 40204,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【え…】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40205,
+  "order": 40205,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【一緒に…どう？】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40206,
+  "order": 40206,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【ごめんね…】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40207,
+  "order": 40207,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【ばいばい】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40208,
+  "order": 40208,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【おつかれさま】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40209,
+  "order": 40209,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【ついていくね】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40210,
+  "order": 40210,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【おまたせ】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40280,
+  "order": 40280,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【かわいい～】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40281,
+  "order": 40281,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【ありがとう】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40282,
+  "order": 40282,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【は、恥ずかしいっ……！】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40283,
+  "order": 40283,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【始まりを教えてくれたから】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40291,
+  "order": 40291,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【す…好きです！】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40292,
+  "order": 40292,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "美兎【しあわせ…】",
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 40301,
+  "order": 40301,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【よろ〜！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40302,
+  "order": 40302,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【おつ〜！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40303,
+  "order": 40303,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【ガチ神！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40304,
+  "order": 40304,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【ごめん！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40305,
+  "order": 40305,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【やるねー！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40306,
+  "order": 40306,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【ちょーやばいんですけど！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40307,
+  "order": 40307,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【～♪】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40308,
+  "order": 40308,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【あちゃー】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40309,
+  "order": 40309,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【マジ無理…】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40310,
+  "order": 40310,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【おっけー!】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40380,
+  "order": 40380,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【さすがです！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40381,
+  "order": 40381,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【ウチに任せて！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40382,
+  "order": 40382,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【アゲてくよ！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40383,
+  "order": 40383,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【目指せモテ道！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40384,
+  "order": 40384,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【輝いちゃうよー！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40391,
+  "order": 40391,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【大慶至極！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40392,
+  "order": 40392,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "カミラ【KPー！】",
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 40401,
+  "order": 40401,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【…よろしく】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40402,
+  "order": 40402,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【眠りにつこう】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40403,
+  "order": 40403,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【晩餐といこう】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40404,
+  "order": 40404,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【正気？】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40405,
+  "order": 40405,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【行くぞ、眷属よ】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40406,
+  "order": 40406,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【これが組織の陰謀…】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40407,
+  "order": 40407,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【また力が増したな…】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40408,
+  "order": 40408,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【私は選ばれし者…】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40409,
+  "order": 40409,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【力が…欲しい】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40410,
+  "order": 40410,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【手を打たねば…！】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40411,
+  "order": 40411,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【どうした？】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40480,
+  "order": 40480,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【見たか！】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40481,
+  "order": 40481,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【裁きを受けよ！】\t",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40482,
+  "order": 40482,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【混沌-カオス-が私を呼んでいる…】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40483,
+  "order": 40483,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【最高だぜぇ！】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40484,
+  "order": 40484,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【君も理解るだろう？】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40491,
+  "order": 40491,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【占ってあげる】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40492,
+  "order": 40492,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "蕾【・・・どうして】",
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 40501,
+  "order": 40501,
+  "is_default": true,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【よろしくー】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40502,
+  "order": 40502,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【やるじゃん】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40503,
+  "order": 40503,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【無理無理無理〜！】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40504,
+  "order": 40504,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【へ～】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40505,
+  "order": 40505,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【頑張れるわよね？】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40506,
+  "order": 40506,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【完・敗】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40507,
+  "order": 40507,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【もう１回！】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40508,
+  "order": 40508,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【じゃあね】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40509,
+  "order": 40509,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【いくわよ！】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40580,
+  "order": 40580,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【とつげ〜き！】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40581,
+  "order": 40581,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【アタシは天才なんだからっ】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40582,
+  "order": 40582,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【やさしい世界でありますように】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40583,
+  "order": 40583,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【GG！】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40584,
+  "order": 40584,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【おやすみ～】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40591,
+  "order": 40591,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【ZZZ…】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 40592,
+  "order": 40592,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 2,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "叶羽【崇めよ】",
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 90101,
+  "order": 90101,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "千歌【奇跡だよ！】",
+  "character_base_master_ids": [
+   901
+  ]
+ },
+ {
+  "id": 90102,
+  "order": 90102,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ここな&千歌【私たち、輝きたい！】",
+  "character_base_master_ids": [
+   101,
+   901
+  ]
+ },
+ {
+  "id": 90201,
+  "order": 90201,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "梨子【ゼロからイチに…！】",
+  "character_base_master_ids": [
+   902
+  ]
+ },
+ {
+  "id": 90401,
+  "order": 90401,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ダイヤ【ぶっぶーですわ！】",
+  "character_base_master_ids": [
+   904
+  ]
+ },
+ {
+  "id": 90601,
+  "order": 90601,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "善子【善子じゃなくてヨハネ！】",
+  "character_base_master_ids": [
+   906
+  ]
+ },
+ {
+  "id": 90901,
+  "order": 90901,
+  "is_default": false,
+  "character_base_master_id": 0,
+  "type": 1,
+  "asset_id": "",
+  "voice_asset_id": null,
+  "name": "ルビィ【がんばルビィ！】",
+  "character_base_master_ids": [
+   909
+  ]
+ }
+]

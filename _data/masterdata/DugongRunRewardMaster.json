@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "required_clear_course_count": 1,
+  "thing_type": 1,
+  "thing_id": 140000,
+  "thing_quantity": 150,
+  "dugong_run_course_group_id": 1
+ },
+ {
+  "id": 2,
+  "required_clear_course_count": 2,
+  "thing_type": 1,
+  "thing_id": 150000,
+  "thing_quantity": 15,
+  "dugong_run_course_group_id": 1
+ },
+ {
+  "id": 3,
+  "required_clear_course_count": 3,
+  "thing_type": 6,
+  "thing_id": 400009,
+  "thing_quantity": 1,
+  "dugong_run_course_group_id": 1
+ },
+ {
+  "id": 4,
+  "required_clear_course_count": 1,
+  "thing_type": 16,
+  "thing_id": 81211,
+  "thing_quantity": 1,
+  "dugong_run_course_group_id": 2
+ },
+ {
+  "id": 5,
+  "required_clear_course_count": 2,
+  "thing_type": 16,
+  "thing_id": 81212,
+  "thing_quantity": 1,
+  "dugong_run_course_group_id": 2
+ },
+ {
+  "id": 6,
+  "required_clear_course_count": 3,
+  "thing_type": 13,
+  "thing_id": 0,
+  "thing_quantity": 500,
+  "dugong_run_course_group_id": 2
+ }
+]

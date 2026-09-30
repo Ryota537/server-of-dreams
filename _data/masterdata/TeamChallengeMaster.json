@@ -1,0 +1,1142 @@
+[
+ {
+  "id": 10101,
+  "music_master_id": 17,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10102,
+  "music_master_id": 19,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10103,
+  "music_master_id": 21,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10104,
+  "music_master_id": 23,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10105,
+  "music_master_id": 68,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10106,
+  "music_master_id": 25,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10107,
+  "music_master_id": 84,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10108,
+  "music_master_id": 78,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10109,
+  "music_master_id": 35,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10110,
+  "music_master_id": 87,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10111,
+  "music_master_id": 65,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10112,
+  "music_master_id": 124,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10113,
+  "music_master_id": 125,
+  "difficulty": 1,
+  "goal_type": 1,
+  "goal_min_value": 570000,
+  "goal_max_value": 630000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10201,
+  "music_master_id": 17,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 552,
+  "goal_max_value": 640,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10202,
+  "music_master_id": 19,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 457,
+  "goal_max_value": 529,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10203,
+  "music_master_id": 21,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 418,
+  "goal_max_value": 484,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10204,
+  "music_master_id": 23,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 468,
+  "goal_max_value": 542,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10205,
+  "music_master_id": 68,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 473,
+  "goal_max_value": 548,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10206,
+  "music_master_id": 25,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 587,
+  "goal_max_value": 679,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10207,
+  "music_master_id": 84,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 648,
+  "goal_max_value": 751,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10208,
+  "music_master_id": 78,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 495,
+  "goal_max_value": 573,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10209,
+  "music_master_id": 35,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 459,
+  "goal_max_value": 531,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10210,
+  "music_master_id": 87,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 480,
+  "goal_max_value": 556,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10211,
+  "music_master_id": 65,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 402,
+  "goal_max_value": 466,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10212,
+  "music_master_id": 124,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 403,
+  "goal_max_value": 467,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10213,
+  "music_master_id": 125,
+  "difficulty": 1,
+  "goal_type": 2,
+  "goal_min_value": 380,
+  "goal_max_value": 440,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10301,
+  "music_master_id": 17,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10302,
+  "music_master_id": 19,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10303,
+  "music_master_id": 21,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10304,
+  "music_master_id": 23,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10305,
+  "music_master_id": 68,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10306,
+  "music_master_id": 25,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10307,
+  "music_master_id": 84,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10308,
+  "music_master_id": 78,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10309,
+  "music_master_id": 35,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10310,
+  "music_master_id": 87,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10311,
+  "music_master_id": 65,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10312,
+  "music_master_id": 124,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 10313,
+  "music_master_id": 125,
+  "difficulty": 1,
+  "goal_type": 3,
+  "goal_min_value": 1,
+  "goal_max_value": 2,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20101,
+  "music_master_id": 17,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20102,
+  "music_master_id": 19,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20103,
+  "music_master_id": 21,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20104,
+  "music_master_id": 23,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20105,
+  "music_master_id": 68,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20106,
+  "music_master_id": 62,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20107,
+  "music_master_id": 56,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20108,
+  "music_master_id": 33,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20109,
+  "music_master_id": 60,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20110,
+  "music_master_id": 86,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20111,
+  "music_master_id": 16,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20112,
+  "music_master_id": 128,
+  "difficulty": 2,
+  "goal_type": 1,
+  "goal_min_value": 11880000,
+  "goal_max_value": 13860000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20201,
+  "music_master_id": 17,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1512,
+  "goal_max_value": 1751,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20202,
+  "music_master_id": 19,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1261,
+  "goal_max_value": 1460,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20203,
+  "music_master_id": 21,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1267,
+  "goal_max_value": 1467,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20204,
+  "music_master_id": 23,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1277,
+  "goal_max_value": 1479,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20205,
+  "music_master_id": 68,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1293,
+  "goal_max_value": 1498,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20206,
+  "music_master_id": 62,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1407,
+  "goal_max_value": 1630,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20207,
+  "music_master_id": 56,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1260,
+  "goal_max_value": 1459,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20208,
+  "music_master_id": 33,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 2202,
+  "goal_max_value": 2550,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20209,
+  "music_master_id": 60,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1561,
+  "goal_max_value": 1807,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20210,
+  "music_master_id": 86,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1625,
+  "goal_max_value": 1882,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20211,
+  "music_master_id": 16,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1068,
+  "goal_max_value": 1237,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20212,
+  "music_master_id": 128,
+  "difficulty": 2,
+  "goal_type": 2,
+  "goal_min_value": 1328,
+  "goal_max_value": 1538,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20301,
+  "music_master_id": 17,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20302,
+  "music_master_id": 19,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20303,
+  "music_master_id": 21,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20304,
+  "music_master_id": 23,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20305,
+  "music_master_id": 68,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20306,
+  "music_master_id": 62,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20307,
+  "music_master_id": 56,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20308,
+  "music_master_id": 33,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20309,
+  "music_master_id": 60,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20310,
+  "music_master_id": 86,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20311,
+  "music_master_id": 16,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 20312,
+  "music_master_id": 128,
+  "difficulty": 2,
+  "goal_type": 3,
+  "goal_min_value": 3,
+  "goal_max_value": 4,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30101,
+  "music_master_id": 17,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30102,
+  "music_master_id": 19,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30103,
+  "music_master_id": 21,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30104,
+  "music_master_id": 23,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30105,
+  "music_master_id": 68,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30106,
+  "music_master_id": 7,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30107,
+  "music_master_id": 76,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30108,
+  "music_master_id": 119,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30109,
+  "music_master_id": 55,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30110,
+  "music_master_id": 42,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30111,
+  "music_master_id": 109,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30112,
+  "music_master_id": 59,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30113,
+  "music_master_id": 40,
+  "difficulty": 3,
+  "goal_type": 1,
+  "goal_min_value": 41800000,
+  "goal_max_value": 46200000,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30201,
+  "music_master_id": 17,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 2730,
+  "goal_max_value": 3161,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30202,
+  "music_master_id": 19,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 2285,
+  "goal_max_value": 2646,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30203,
+  "music_master_id": 21,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 2242,
+  "goal_max_value": 2596,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30204,
+  "music_master_id": 23,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 2336,
+  "goal_max_value": 2705,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30205,
+  "music_master_id": 68,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 2255,
+  "goal_max_value": 2611,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30206,
+  "music_master_id": 7,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 3451,
+  "goal_max_value": 3996,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30207,
+  "music_master_id": 76,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 3472,
+  "goal_max_value": 4020,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30208,
+  "music_master_id": 119,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 3004,
+  "goal_max_value": 3478,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30209,
+  "music_master_id": 55,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 3488,
+  "goal_max_value": 4039,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30210,
+  "music_master_id": 42,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 3559,
+  "goal_max_value": 4121,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30211,
+  "music_master_id": 109,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 3119,
+  "goal_max_value": 3612,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30212,
+  "music_master_id": 59,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 2859,
+  "goal_max_value": 3310,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30213,
+  "music_master_id": 40,
+  "difficulty": 3,
+  "goal_type": 2,
+  "goal_min_value": 2817,
+  "goal_max_value": 3262,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30301,
+  "music_master_id": 17,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30302,
+  "music_master_id": 19,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30303,
+  "music_master_id": 21,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30304,
+  "music_master_id": 23,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30305,
+  "music_master_id": 68,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30306,
+  "music_master_id": 7,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30307,
+  "music_master_id": 76,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30308,
+  "music_master_id": 119,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30309,
+  "music_master_id": 55,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30310,
+  "music_master_id": 42,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-02-09T13:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30311,
+  "music_master_id": 109,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30312,
+  "music_master_id": 59,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ },
+ {
+  "id": 30313,
+  "music_master_id": 40,
+  "difficulty": 3,
+  "goal_type": 3,
+  "goal_min_value": 5,
+  "goal_max_value": 7,
+  "start_date": "2024-05-30T15:00:00+00:00",
+  "end_date": "2099-12-31T23:59:59+00:00"
+ }
+]

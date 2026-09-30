@@ -1,0 +1,2102 @@
+[
+ {
+  "rank": 1,
+  "point_to_level_up": 20,
+  "max_stamina": 200,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 2,
+  "point_to_level_up": 50,
+  "max_stamina": 203,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 3,
+  "point_to_level_up": 80,
+  "max_stamina": 206,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 4,
+  "point_to_level_up": 120,
+  "max_stamina": 209,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 5,
+  "point_to_level_up": 200,
+  "max_stamina": 212,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 6,
+  "point_to_level_up": 250,
+  "max_stamina": 215,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 7,
+  "point_to_level_up": 250,
+  "max_stamina": 218,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 8,
+  "point_to_level_up": 300,
+  "max_stamina": 221,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 9,
+  "point_to_level_up": 300,
+  "max_stamina": 224,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 10,
+  "point_to_level_up": 400,
+  "max_stamina": 227,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 11,
+  "point_to_level_up": 400,
+  "max_stamina": 230,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 12,
+  "point_to_level_up": 400,
+  "max_stamina": 233,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 13,
+  "point_to_level_up": 400,
+  "max_stamina": 236,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 14,
+  "point_to_level_up": 400,
+  "max_stamina": 239,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 15,
+  "point_to_level_up": 600,
+  "max_stamina": 242,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 16,
+  "point_to_level_up": 600,
+  "max_stamina": 245,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 17,
+  "point_to_level_up": 600,
+  "max_stamina": 248,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 18,
+  "point_to_level_up": 600,
+  "max_stamina": 251,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 19,
+  "point_to_level_up": 600,
+  "max_stamina": 254,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 20,
+  "point_to_level_up": 800,
+  "max_stamina": 257,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 21,
+  "point_to_level_up": 800,
+  "max_stamina": 260,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 22,
+  "point_to_level_up": 800,
+  "max_stamina": 263,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 23,
+  "point_to_level_up": 800,
+  "max_stamina": 266,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 24,
+  "point_to_level_up": 800,
+  "max_stamina": 269,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 25,
+  "point_to_level_up": 1000,
+  "max_stamina": 272,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 26,
+  "point_to_level_up": 1000,
+  "max_stamina": 275,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 27,
+  "point_to_level_up": 1000,
+  "max_stamina": 278,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 28,
+  "point_to_level_up": 1000,
+  "max_stamina": 281,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 29,
+  "point_to_level_up": 1000,
+  "max_stamina": 284,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 30,
+  "point_to_level_up": 1400,
+  "max_stamina": 287,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 31,
+  "point_to_level_up": 1400,
+  "max_stamina": 290,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 32,
+  "point_to_level_up": 1400,
+  "max_stamina": 293,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 33,
+  "point_to_level_up": 1400,
+  "max_stamina": 296,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 34,
+  "point_to_level_up": 1400,
+  "max_stamina": 299,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 35,
+  "point_to_level_up": 1800,
+  "max_stamina": 302,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 36,
+  "point_to_level_up": 1800,
+  "max_stamina": 305,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 37,
+  "point_to_level_up": 1800,
+  "max_stamina": 308,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 38,
+  "point_to_level_up": 1800,
+  "max_stamina": 311,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 39,
+  "point_to_level_up": 1800,
+  "max_stamina": 314,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 40,
+  "point_to_level_up": 2200,
+  "max_stamina": 317,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 41,
+  "point_to_level_up": 2200,
+  "max_stamina": 320,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 42,
+  "point_to_level_up": 2200,
+  "max_stamina": 323,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 43,
+  "point_to_level_up": 2200,
+  "max_stamina": 326,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 44,
+  "point_to_level_up": 2200,
+  "max_stamina": 329,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 45,
+  "point_to_level_up": 2600,
+  "max_stamina": 332,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 46,
+  "point_to_level_up": 2600,
+  "max_stamina": 335,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 47,
+  "point_to_level_up": 2600,
+  "max_stamina": 338,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 48,
+  "point_to_level_up": 2600,
+  "max_stamina": 341,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 49,
+  "point_to_level_up": 2600,
+  "max_stamina": 344,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 50,
+  "point_to_level_up": 3000,
+  "max_stamina": 347,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 51,
+  "point_to_level_up": 3000,
+  "max_stamina": 349,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 52,
+  "point_to_level_up": 3000,
+  "max_stamina": 351,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 53,
+  "point_to_level_up": 3000,
+  "max_stamina": 353,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 54,
+  "point_to_level_up": 3000,
+  "max_stamina": 355,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 55,
+  "point_to_level_up": 3500,
+  "max_stamina": 357,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 56,
+  "point_to_level_up": 3500,
+  "max_stamina": 359,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 57,
+  "point_to_level_up": 3500,
+  "max_stamina": 361,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 58,
+  "point_to_level_up": 3500,
+  "max_stamina": 363,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 59,
+  "point_to_level_up": 3500,
+  "max_stamina": 365,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 60,
+  "point_to_level_up": 4000,
+  "max_stamina": 367,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 61,
+  "point_to_level_up": 4000,
+  "max_stamina": 369,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 62,
+  "point_to_level_up": 4000,
+  "max_stamina": 371,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 63,
+  "point_to_level_up": 4000,
+  "max_stamina": 373,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 64,
+  "point_to_level_up": 4000,
+  "max_stamina": 375,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 65,
+  "point_to_level_up": 4500,
+  "max_stamina": 377,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 66,
+  "point_to_level_up": 4500,
+  "max_stamina": 379,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 67,
+  "point_to_level_up": 4500,
+  "max_stamina": 381,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 68,
+  "point_to_level_up": 4500,
+  "max_stamina": 383,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 69,
+  "point_to_level_up": 4500,
+  "max_stamina": 385,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 70,
+  "point_to_level_up": 5000,
+  "max_stamina": 387,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 71,
+  "point_to_level_up": 5000,
+  "max_stamina": 389,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 72,
+  "point_to_level_up": 5000,
+  "max_stamina": 391,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 73,
+  "point_to_level_up": 5000,
+  "max_stamina": 393,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 74,
+  "point_to_level_up": 5000,
+  "max_stamina": 394,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 75,
+  "point_to_level_up": 6000,
+  "max_stamina": 395,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 76,
+  "point_to_level_up": 6000,
+  "max_stamina": 396,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 77,
+  "point_to_level_up": 6000,
+  "max_stamina": 397,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 78,
+  "point_to_level_up": 6000,
+  "max_stamina": 398,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 79,
+  "point_to_level_up": 6000,
+  "max_stamina": 399,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 80,
+  "point_to_level_up": 7000,
+  "max_stamina": 400,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 81,
+  "point_to_level_up": 7000,
+  "max_stamina": 401,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 82,
+  "point_to_level_up": 7000,
+  "max_stamina": 402,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 83,
+  "point_to_level_up": 7000,
+  "max_stamina": 403,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 84,
+  "point_to_level_up": 7000,
+  "max_stamina": 404,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 85,
+  "point_to_level_up": 7000,
+  "max_stamina": 405,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 86,
+  "point_to_level_up": 7000,
+  "max_stamina": 406,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 87,
+  "point_to_level_up": 7000,
+  "max_stamina": 407,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 88,
+  "point_to_level_up": 7000,
+  "max_stamina": 408,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 89,
+  "point_to_level_up": 7000,
+  "max_stamina": 409,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 90,
+  "point_to_level_up": 7000,
+  "max_stamina": 410,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 91,
+  "point_to_level_up": 7000,
+  "max_stamina": 411,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 92,
+  "point_to_level_up": 7000,
+  "max_stamina": 412,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 93,
+  "point_to_level_up": 7000,
+  "max_stamina": 413,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 94,
+  "point_to_level_up": 7000,
+  "max_stamina": 414,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 95,
+  "point_to_level_up": 7000,
+  "max_stamina": 415,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 96,
+  "point_to_level_up": 7000,
+  "max_stamina": 416,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 97,
+  "point_to_level_up": 7000,
+  "max_stamina": 417,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 98,
+  "point_to_level_up": 7000,
+  "max_stamina": 418,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 99,
+  "point_to_level_up": 7000,
+  "max_stamina": 419,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 100,
+  "point_to_level_up": 7000,
+  "max_stamina": 420,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 101,
+  "point_to_level_up": 7000,
+  "max_stamina": 421,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 102,
+  "point_to_level_up": 7000,
+  "max_stamina": 422,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 103,
+  "point_to_level_up": 7000,
+  "max_stamina": 423,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 104,
+  "point_to_level_up": 7000,
+  "max_stamina": 424,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 105,
+  "point_to_level_up": 7000,
+  "max_stamina": 425,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 106,
+  "point_to_level_up": 7000,
+  "max_stamina": 426,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 107,
+  "point_to_level_up": 7000,
+  "max_stamina": 427,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 108,
+  "point_to_level_up": 7000,
+  "max_stamina": 428,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 109,
+  "point_to_level_up": 7000,
+  "max_stamina": 429,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 110,
+  "point_to_level_up": 8000,
+  "max_stamina": 430,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 111,
+  "point_to_level_up": 8000,
+  "max_stamina": 431,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 112,
+  "point_to_level_up": 8000,
+  "max_stamina": 432,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 113,
+  "point_to_level_up": 8000,
+  "max_stamina": 433,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 114,
+  "point_to_level_up": 8000,
+  "max_stamina": 434,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 115,
+  "point_to_level_up": 8000,
+  "max_stamina": 435,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 116,
+  "point_to_level_up": 8000,
+  "max_stamina": 436,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 117,
+  "point_to_level_up": 8000,
+  "max_stamina": 437,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 118,
+  "point_to_level_up": 8000,
+  "max_stamina": 438,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 119,
+  "point_to_level_up": 8000,
+  "max_stamina": 439,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 120,
+  "point_to_level_up": 8000,
+  "max_stamina": 440,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 121,
+  "point_to_level_up": 8000,
+  "max_stamina": 441,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 122,
+  "point_to_level_up": 8000,
+  "max_stamina": 442,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 123,
+  "point_to_level_up": 8000,
+  "max_stamina": 443,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 124,
+  "point_to_level_up": 8000,
+  "max_stamina": 444,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 125,
+  "point_to_level_up": 8000,
+  "max_stamina": 445,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 126,
+  "point_to_level_up": 8000,
+  "max_stamina": 446,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 127,
+  "point_to_level_up": 8000,
+  "max_stamina": 447,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 128,
+  "point_to_level_up": 8000,
+  "max_stamina": 448,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 129,
+  "point_to_level_up": 8000,
+  "max_stamina": 449,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 130,
+  "point_to_level_up": 8000,
+  "max_stamina": 450,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 131,
+  "point_to_level_up": 8000,
+  "max_stamina": 451,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 132,
+  "point_to_level_up": 8000,
+  "max_stamina": 452,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 133,
+  "point_to_level_up": 8000,
+  "max_stamina": 453,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 134,
+  "point_to_level_up": 8000,
+  "max_stamina": 454,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 135,
+  "point_to_level_up": 8000,
+  "max_stamina": 455,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 136,
+  "point_to_level_up": 8000,
+  "max_stamina": 456,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 137,
+  "point_to_level_up": 8000,
+  "max_stamina": 457,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 138,
+  "point_to_level_up": 8000,
+  "max_stamina": 458,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 139,
+  "point_to_level_up": 8000,
+  "max_stamina": 459,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 140,
+  "point_to_level_up": 8000,
+  "max_stamina": 460,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 141,
+  "point_to_level_up": 8000,
+  "max_stamina": 461,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 142,
+  "point_to_level_up": 8000,
+  "max_stamina": 462,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 143,
+  "point_to_level_up": 8000,
+  "max_stamina": 463,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 144,
+  "point_to_level_up": 8000,
+  "max_stamina": 464,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 145,
+  "point_to_level_up": 8000,
+  "max_stamina": 465,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 146,
+  "point_to_level_up": 8000,
+  "max_stamina": 466,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 147,
+  "point_to_level_up": 8000,
+  "max_stamina": 467,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 148,
+  "point_to_level_up": 8000,
+  "max_stamina": 468,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 149,
+  "point_to_level_up": 8000,
+  "max_stamina": 469,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 150,
+  "point_to_level_up": 10000,
+  "max_stamina": 470,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 151,
+  "point_to_level_up": 10000,
+  "max_stamina": 471,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 152,
+  "point_to_level_up": 10000,
+  "max_stamina": 472,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 153,
+  "point_to_level_up": 10000,
+  "max_stamina": 473,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 154,
+  "point_to_level_up": 10000,
+  "max_stamina": 474,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 155,
+  "point_to_level_up": 10000,
+  "max_stamina": 475,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 156,
+  "point_to_level_up": 10000,
+  "max_stamina": 476,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 157,
+  "point_to_level_up": 10000,
+  "max_stamina": 477,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 158,
+  "point_to_level_up": 10000,
+  "max_stamina": 478,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 159,
+  "point_to_level_up": 10000,
+  "max_stamina": 479,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 160,
+  "point_to_level_up": 10000,
+  "max_stamina": 480,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 1
+ },
+ {
+  "rank": 161,
+  "point_to_level_up": 10000,
+  "max_stamina": 491,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 162,
+  "point_to_level_up": 10000,
+  "max_stamina": 492,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 163,
+  "point_to_level_up": 10000,
+  "max_stamina": 493,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 164,
+  "point_to_level_up": 10000,
+  "max_stamina": 494,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 165,
+  "point_to_level_up": 10000,
+  "max_stamina": 495,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 166,
+  "point_to_level_up": 10000,
+  "max_stamina": 496,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 167,
+  "point_to_level_up": 10000,
+  "max_stamina": 497,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 168,
+  "point_to_level_up": 10000,
+  "max_stamina": 498,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 169,
+  "point_to_level_up": 10000,
+  "max_stamina": 499,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 170,
+  "point_to_level_up": 12500,
+  "max_stamina": 500,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 2
+ },
+ {
+  "rank": 171,
+  "point_to_level_up": 12500,
+  "max_stamina": 511,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 172,
+  "point_to_level_up": 12500,
+  "max_stamina": 512,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 173,
+  "point_to_level_up": 12500,
+  "max_stamina": 513,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 174,
+  "point_to_level_up": 12500,
+  "max_stamina": 514,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 175,
+  "point_to_level_up": 12500,
+  "max_stamina": 515,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 176,
+  "point_to_level_up": 12500,
+  "max_stamina": 516,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 177,
+  "point_to_level_up": 12500,
+  "max_stamina": 517,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 178,
+  "point_to_level_up": 12500,
+  "max_stamina": 518,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 179,
+  "point_to_level_up": 12500,
+  "max_stamina": 519,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 180,
+  "point_to_level_up": 12500,
+  "max_stamina": 520,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 3
+ },
+ {
+  "rank": 181,
+  "point_to_level_up": 12500,
+  "max_stamina": 531,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 182,
+  "point_to_level_up": 12500,
+  "max_stamina": 532,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 183,
+  "point_to_level_up": 12500,
+  "max_stamina": 533,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 184,
+  "point_to_level_up": 12500,
+  "max_stamina": 534,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 185,
+  "point_to_level_up": 12500,
+  "max_stamina": 535,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 186,
+  "point_to_level_up": 12500,
+  "max_stamina": 536,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 187,
+  "point_to_level_up": 12500,
+  "max_stamina": 537,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 188,
+  "point_to_level_up": 12500,
+  "max_stamina": 538,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 189,
+  "point_to_level_up": 12500,
+  "max_stamina": 539,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 190,
+  "point_to_level_up": 12500,
+  "max_stamina": 540,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 4
+ },
+ {
+  "rank": 191,
+  "point_to_level_up": 12500,
+  "max_stamina": 551,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 192,
+  "point_to_level_up": 12500,
+  "max_stamina": 552,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 193,
+  "point_to_level_up": 12500,
+  "max_stamina": 553,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 194,
+  "point_to_level_up": 12500,
+  "max_stamina": 554,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 195,
+  "point_to_level_up": 12500,
+  "max_stamina": 555,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 196,
+  "point_to_level_up": 12500,
+  "max_stamina": 556,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 197,
+  "point_to_level_up": 12500,
+  "max_stamina": 557,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 198,
+  "point_to_level_up": 12500,
+  "max_stamina": 558,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 199,
+  "point_to_level_up": 12500,
+  "max_stamina": 559,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 200,
+  "point_to_level_up": 15000,
+  "max_stamina": 560,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 5
+ },
+ {
+  "rank": 201,
+  "point_to_level_up": 15000,
+  "max_stamina": 571,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 202,
+  "point_to_level_up": 15000,
+  "max_stamina": 572,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 203,
+  "point_to_level_up": 15000,
+  "max_stamina": 573,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 204,
+  "point_to_level_up": 15000,
+  "max_stamina": 574,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 205,
+  "point_to_level_up": 15000,
+  "max_stamina": 575,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 206,
+  "point_to_level_up": 15000,
+  "max_stamina": 576,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 207,
+  "point_to_level_up": 15000,
+  "max_stamina": 577,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 208,
+  "point_to_level_up": 15000,
+  "max_stamina": 578,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 209,
+  "point_to_level_up": 15000,
+  "max_stamina": 579,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 210,
+  "point_to_level_up": 15000,
+  "max_stamina": 580,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 6
+ },
+ {
+  "rank": 211,
+  "point_to_level_up": 15000,
+  "max_stamina": 591,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 212,
+  "point_to_level_up": 15000,
+  "max_stamina": 592,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 213,
+  "point_to_level_up": 15000,
+  "max_stamina": 593,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 214,
+  "point_to_level_up": 15000,
+  "max_stamina": 594,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 215,
+  "point_to_level_up": 15000,
+  "max_stamina": 595,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 216,
+  "point_to_level_up": 15000,
+  "max_stamina": 596,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 217,
+  "point_to_level_up": 15000,
+  "max_stamina": 597,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 218,
+  "point_to_level_up": 15000,
+  "max_stamina": 598,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 219,
+  "point_to_level_up": 15000,
+  "max_stamina": 599,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 220,
+  "point_to_level_up": 15000,
+  "max_stamina": 600,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 7
+ },
+ {
+  "rank": 221,
+  "point_to_level_up": 15000,
+  "max_stamina": 611,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 222,
+  "point_to_level_up": 15000,
+  "max_stamina": 612,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 223,
+  "point_to_level_up": 15000,
+  "max_stamina": 613,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 224,
+  "point_to_level_up": 15000,
+  "max_stamina": 614,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 225,
+  "point_to_level_up": 15000,
+  "max_stamina": 615,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 226,
+  "point_to_level_up": 15000,
+  "max_stamina": 616,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 227,
+  "point_to_level_up": 15000,
+  "max_stamina": 617,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 228,
+  "point_to_level_up": 15000,
+  "max_stamina": 618,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 229,
+  "point_to_level_up": 15000,
+  "max_stamina": 619,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 230,
+  "point_to_level_up": 15000,
+  "max_stamina": 620,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 8
+ },
+ {
+  "rank": 231,
+  "point_to_level_up": 15000,
+  "max_stamina": 631,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 232,
+  "point_to_level_up": 15000,
+  "max_stamina": 632,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 233,
+  "point_to_level_up": 15000,
+  "max_stamina": 633,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 234,
+  "point_to_level_up": 15000,
+  "max_stamina": 634,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 235,
+  "point_to_level_up": 15000,
+  "max_stamina": 635,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 236,
+  "point_to_level_up": 15000,
+  "max_stamina": 636,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 237,
+  "point_to_level_up": 15000,
+  "max_stamina": 637,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 238,
+  "point_to_level_up": 15000,
+  "max_stamina": 638,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 239,
+  "point_to_level_up": 15000,
+  "max_stamina": 639,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 240,
+  "point_to_level_up": 15000,
+  "max_stamina": 640,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 9
+ },
+ {
+  "rank": 241,
+  "point_to_level_up": 15000,
+  "max_stamina": 651,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 242,
+  "point_to_level_up": 15000,
+  "max_stamina": 652,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 243,
+  "point_to_level_up": 15000,
+  "max_stamina": 653,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 244,
+  "point_to_level_up": 15000,
+  "max_stamina": 654,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 245,
+  "point_to_level_up": 15000,
+  "max_stamina": 655,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 246,
+  "point_to_level_up": 15000,
+  "max_stamina": 656,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 247,
+  "point_to_level_up": 15000,
+  "max_stamina": 657,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 248,
+  "point_to_level_up": 15000,
+  "max_stamina": 658,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 249,
+  "point_to_level_up": 15000,
+  "max_stamina": 659,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 250,
+  "point_to_level_up": 15000,
+  "max_stamina": 660,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 10
+ },
+ {
+  "rank": 251,
+  "point_to_level_up": 15000,
+  "max_stamina": 671,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 252,
+  "point_to_level_up": 15000,
+  "max_stamina": 672,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 253,
+  "point_to_level_up": 15000,
+  "max_stamina": 673,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 254,
+  "point_to_level_up": 15000,
+  "max_stamina": 674,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 255,
+  "point_to_level_up": 15000,
+  "max_stamina": 675,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 256,
+  "point_to_level_up": 15000,
+  "max_stamina": 676,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 257,
+  "point_to_level_up": 15000,
+  "max_stamina": 677,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 258,
+  "point_to_level_up": 15000,
+  "max_stamina": 678,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 259,
+  "point_to_level_up": 15000,
+  "max_stamina": 679,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 260,
+  "point_to_level_up": 15000,
+  "max_stamina": 680,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 11
+ },
+ {
+  "rank": 261,
+  "point_to_level_up": 15000,
+  "max_stamina": 691,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 262,
+  "point_to_level_up": 15000,
+  "max_stamina": 692,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 263,
+  "point_to_level_up": 15000,
+  "max_stamina": 693,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 264,
+  "point_to_level_up": 15000,
+  "max_stamina": 694,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 265,
+  "point_to_level_up": 15000,
+  "max_stamina": 695,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 266,
+  "point_to_level_up": 15000,
+  "max_stamina": 696,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 267,
+  "point_to_level_up": 15000,
+  "max_stamina": 697,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 268,
+  "point_to_level_up": 15000,
+  "max_stamina": 698,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 269,
+  "point_to_level_up": 15000,
+  "max_stamina": 699,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 270,
+  "point_to_level_up": 15000,
+  "max_stamina": 700,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 12
+ },
+ {
+  "rank": 271,
+  "point_to_level_up": 15000,
+  "max_stamina": 711,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 272,
+  "point_to_level_up": 15000,
+  "max_stamina": 712,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 273,
+  "point_to_level_up": 15000,
+  "max_stamina": 713,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 274,
+  "point_to_level_up": 15000,
+  "max_stamina": 714,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 275,
+  "point_to_level_up": 15000,
+  "max_stamina": 715,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 276,
+  "point_to_level_up": 15000,
+  "max_stamina": 716,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 277,
+  "point_to_level_up": 15000,
+  "max_stamina": 717,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 278,
+  "point_to_level_up": 15000,
+  "max_stamina": 718,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 279,
+  "point_to_level_up": 15000,
+  "max_stamina": 719,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 280,
+  "point_to_level_up": 15000,
+  "max_stamina": 720,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 13
+ },
+ {
+  "rank": 281,
+  "point_to_level_up": 15000,
+  "max_stamina": 731,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 282,
+  "point_to_level_up": 15000,
+  "max_stamina": 732,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 283,
+  "point_to_level_up": 15000,
+  "max_stamina": 733,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 284,
+  "point_to_level_up": 15000,
+  "max_stamina": 734,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 285,
+  "point_to_level_up": 15000,
+  "max_stamina": 735,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 286,
+  "point_to_level_up": 15000,
+  "max_stamina": 736,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 287,
+  "point_to_level_up": 15000,
+  "max_stamina": 737,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 288,
+  "point_to_level_up": 15000,
+  "max_stamina": 738,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 289,
+  "point_to_level_up": 15000,
+  "max_stamina": 739,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 290,
+  "point_to_level_up": 15000,
+  "max_stamina": 740,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": 14
+ },
+ {
+  "rank": 291,
+  "point_to_level_up": 15000,
+  "max_stamina": 751,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 292,
+  "point_to_level_up": 15000,
+  "max_stamina": 752,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 293,
+  "point_to_level_up": 15000,
+  "max_stamina": 753,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 294,
+  "point_to_level_up": 15000,
+  "max_stamina": 754,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 295,
+  "point_to_level_up": 15000,
+  "max_stamina": 755,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 296,
+  "point_to_level_up": 15000,
+  "max_stamina": 756,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 297,
+  "point_to_level_up": 15000,
+  "max_stamina": 757,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 298,
+  "point_to_level_up": 15000,
+  "max_stamina": 758,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 299,
+  "point_to_level_up": 15000,
+  "max_stamina": 759,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ },
+ {
+  "rank": 300,
+  "point_to_level_up": 15000,
+  "max_stamina": 760,
+  "is_released_rank": true,
+  "player_rank_cap_master_id": null
+ }
+]

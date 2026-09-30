@@ -1,0 +1,562 @@
+[
+ {
+  "id": 20002,
+  "story_event_master_id": 20002,
+  "music_master_id": 47,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   101,
+   102,
+   103,
+   104
+  ],
+  "sense_notation_master_id": 20002
+ },
+ {
+  "id": 20005,
+  "story_event_master_id": 20005,
+  "music_master_id": 54,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   105,
+   106,
+   107,
+   108
+  ],
+  "sense_notation_master_id": 20005
+ },
+ {
+  "id": 20006,
+  "story_event_master_id": 20006,
+  "music_master_id": 56,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   109,
+   110,
+   111,
+   112
+  ],
+  "sense_notation_master_id": 20006
+ },
+ {
+  "id": 20008,
+  "story_event_master_id": 20008,
+  "music_master_id": 62,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   113,
+   114,
+   115,
+   116
+  ],
+  "sense_notation_master_id": 20008
+ },
+ {
+  "id": 20012,
+  "story_event_master_id": 20012,
+  "music_master_id": 69,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   117,
+   118,
+   119,
+   120
+  ],
+  "sense_notation_master_id": 20012
+ },
+ {
+  "id": 20015,
+  "story_event_master_id": 20015,
+  "music_master_id": 75,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   121,
+   122,
+   123,
+   124
+  ],
+  "sense_notation_master_id": 20015
+ },
+ {
+  "id": 20018,
+  "story_event_master_id": 20018,
+  "music_master_id": 81,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   125,
+   126,
+   127,
+   128
+  ],
+  "sense_notation_master_id": 20018
+ },
+ {
+  "id": 20021,
+  "story_event_master_id": 20021,
+  "music_master_id": 93,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   129,
+   130,
+   131,
+   132
+  ],
+  "sense_notation_master_id": 20021
+ },
+ {
+  "id": 20023,
+  "story_event_master_id": 20023,
+  "music_master_id": 145,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   157,
+   158,
+   159,
+   160
+  ],
+  "sense_notation_master_id": 20023
+ },
+ {
+  "id": 20024,
+  "story_event_master_id": 20024,
+  "music_master_id": 98,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   133,
+   134,
+   135,
+   136
+  ],
+  "sense_notation_master_id": 20024
+ },
+ {
+  "id": 20026,
+  "story_event_master_id": 20026,
+  "music_master_id": 101,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   137,
+   138,
+   139,
+   140
+  ],
+  "sense_notation_master_id": 20026
+ },
+ {
+  "id": 20029,
+  "story_event_master_id": 20029,
+  "music_master_id": 105,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   145,
+   146,
+   147,
+   148
+  ],
+  "sense_notation_master_id": 20029
+ },
+ {
+  "id": 20031,
+  "story_event_master_id": 20031,
+  "music_master_id": 109,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   141,
+   142,
+   143,
+   144
+  ],
+  "sense_notation_master_id": 20031
+ },
+ {
+  "id": 20035,
+  "story_event_master_id": 20035,
+  "music_master_id": 115,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   149,
+   150,
+   151,
+   152
+  ],
+  "sense_notation_master_id": 20035
+ },
+ {
+  "id": 20038,
+  "story_event_master_id": 20038,
+  "music_master_id": 160,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   153,
+   154,
+   155,
+   156
+  ],
+  "sense_notation_master_id": 20038
+ },
+ {
+  "id": 20041,
+  "story_event_master_id": 20041,
+  "music_master_id": 163,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   161,
+   162,
+   163,
+   164
+  ],
+  "sense_notation_master_id": 20041
+ },
+ {
+  "id": 20045,
+  "story_event_master_id": 20045,
+  "music_master_id": 173,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   165,
+   166,
+   167,
+   168
+  ],
+  "sense_notation_master_id": 20045
+ },
+ {
+  "id": 20046,
+  "story_event_master_id": 20046,
+  "music_master_id": 165,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   169,
+   170,
+   171,
+   172
+  ],
+  "sense_notation_master_id": 20046
+ },
+ {
+  "id": 20048,
+  "story_event_master_id": 20048,
+  "music_master_id": 178,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   173,
+   174,
+   175,
+   176
+  ],
+  "sense_notation_master_id": 20048
+ },
+ {
+  "id": 20051,
+  "story_event_master_id": 20051,
+  "music_master_id": 183,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   177,
+   178,
+   179,
+   180
+  ],
+  "sense_notation_master_id": 20051
+ },
+ {
+  "id": 20053,
+  "story_event_master_id": 20053,
+  "music_master_id": 185,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   181,
+   182,
+   183,
+   184
+  ],
+  "sense_notation_master_id": 20053
+ },
+ {
+  "id": 20054,
+  "story_event_master_id": 20054,
+  "music_master_id": 186,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   185,
+   186,
+   187,
+   188
+  ],
+  "sense_notation_master_id": 20054
+ },
+ {
+  "id": 20057,
+  "story_event_master_id": 20057,
+  "music_master_id": 204,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   189,
+   190,
+   191,
+   192
+  ],
+  "sense_notation_master_id": 20057
+ },
+ {
+  "id": 20059,
+  "story_event_master_id": 20059,
+  "music_master_id": 206,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   193,
+   194,
+   195,
+   196
+  ],
+  "sense_notation_master_id": 20059
+ },
+ {
+  "id": 20060,
+  "story_event_master_id": 20060,
+  "music_master_id": 224,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   197,
+   198,
+   199,
+   200
+  ],
+  "sense_notation_master_id": 20060
+ },
+ {
+  "id": 20061,
+  "story_event_master_id": 20061,
+  "music_master_id": 226,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   201,
+   202,
+   203,
+   204
+  ],
+  "sense_notation_master_id": 20061
+ },
+ {
+  "id": 20062,
+  "story_event_master_id": 20062,
+  "music_master_id": 208,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   205,
+   206,
+   207,
+   208
+  ],
+  "sense_notation_master_id": 20062
+ },
+ {
+  "id": 20063,
+  "story_event_master_id": 20063,
+  "music_master_id": 233,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   209,
+   210,
+   211,
+   212
+  ],
+  "sense_notation_master_id": 20063
+ },
+ {
+  "id": 20064,
+  "story_event_master_id": 20064,
+  "music_master_id": 238,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   213,
+   214,
+   215,
+   216
+  ],
+  "sense_notation_master_id": 20064
+ },
+ {
+  "id": 20066,
+  "story_event_master_id": 20066,
+  "music_master_id": 245,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   217,
+   218,
+   219,
+   220
+  ],
+  "sense_notation_master_id": 20066
+ },
+ {
+  "id": 20067,
+  "story_event_master_id": 20067,
+  "music_master_id": 248,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   221,
+   222,
+   223,
+   224
+  ],
+  "sense_notation_master_id": 20067
+ },
+ {
+  "id": 20068,
+  "story_event_master_id": 20068,
+  "music_master_id": 253,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   225,
+   226,
+   227,
+   228
+  ],
+  "sense_notation_master_id": 20068
+ },
+ {
+  "id": 20069,
+  "story_event_master_id": 20069,
+  "music_master_id": 256,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   229,
+   230,
+   231,
+   232
+  ],
+  "sense_notation_master_id": 20069
+ },
+ {
+  "id": 20070,
+  "story_event_master_id": 20070,
+  "music_master_id": 259,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   233,
+   234,
+   235,
+   236
+  ],
+  "sense_notation_master_id": 20070
+ },
+ {
+  "id": 20071,
+  "story_event_master_id": 20071,
+  "music_master_id": 263,
+  "buff_ids": [
+   11,
+   12,
+   13,
+   14,
+   237,
+   238,
+   239,
+   240
+  ],
+  "sense_notation_master_id": 20071
+ }
+]

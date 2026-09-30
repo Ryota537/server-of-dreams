@@ -1,0 +1,200 @@
+[
+ {
+  "id": 200001,
+  "name": "デフォルト",
+  "order": 1,
+  "unlock_condition_text": null,
+  "hidden": false,
+  "is_default": true,
+  "display_start_date": null
+ },
+ {
+  "id": 200101,
+  "name": "鳳ここな",
+  "order": 101,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-01-20T00:00:00+00:00"
+ },
+ {
+  "id": 200102,
+  "name": "静香",
+  "order": 102,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 200103,
+  "name": "カトリナ・グリーベル",
+  "order": 103,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-08-04T00:00:00+00:00"
+ },
+ {
+  "id": 200104,
+  "name": "新妻八恵",
+  "order": 104,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-04-09T00:00:00+00:00"
+ },
+ {
+  "id": 200105,
+  "name": "柳場ぱんだ",
+  "order": 105,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-09-13T00:00:00+00:00"
+ },
+ {
+  "id": 200106,
+  "name": "流石知冴",
+  "order": 106,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-03-20T00:00:00+00:00"
+ },
+ {
+  "id": 200201,
+  "name": "連尺野初魅",
+  "order": 201,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-05-30T00:00:00+00:00"
+ },
+ {
+  "id": 200202,
+  "name": "烏森大黒",
+  "order": 202,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-09-13T00:00:00+00:00"
+ },
+ {
+  "id": 200203,
+  "name": "舎人仁花子",
+  "order": 203,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-06-01T00:00:00+00:00"
+ },
+ {
+  "id": 200204,
+  "name": "萬容",
+  "order": 204,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-02-26T00:00:00+00:00"
+ },
+ {
+  "id": 200205,
+  "name": "筆島しぐれ",
+  "order": 205,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-11-06T00:00:00+00:00"
+ },
+ {
+  "id": 200301,
+  "name": "千寿暦",
+  "order": 301,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-10-03T00:00:00+00:00"
+ },
+ {
+  "id": 200302,
+  "name": "ラモーナ・ウォルフ",
+  "order": 302,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-05-23T00:00:00+00:00"
+ },
+ {
+  "id": 200303,
+  "name": "王雪",
+  "order": 303,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-06-19T00:00:00+00:00"
+ },
+ {
+  "id": 200304,
+  "name": "リリヤ・クルトベイ",
+  "order": 304,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-02-03T00:00:00+00:00"
+ },
+ {
+  "id": 200305,
+  "name": "与那国緋花里",
+  "order": 305,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-08-20T00:00:00+00:00"
+ },
+ {
+  "id": 200401,
+  "name": "千寿いろは",
+  "order": 401,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-11-30T00:00:00+00:00"
+ },
+ {
+  "id": 200402,
+  "name": "白丸美兎",
+  "order": 402,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-05-05T00:00:00+00:00"
+ },
+ {
+  "id": 200403,
+  "name": "阿岐留カミラ",
+  "order": 403,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-12-12T00:00:00+00:00"
+ },
+ {
+  "id": 200404,
+  "name": "猫足蕾",
+  "order": 404,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2025-12-25T00:00:00+00:00"
+ },
+ {
+  "id": 200405,
+  "name": "本巣叶羽",
+  "order": 405,
+  "unlock_condition_text": null,
+  "hidden": true,
+  "is_default": false,
+  "display_start_date": "2026-07-17T00:00:00+00:00"
+ }
+]

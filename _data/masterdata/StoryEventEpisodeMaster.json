@@ -1,0 +1,6158 @@
+[
+ {
+  "id": 1010401,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "星を見つける季節",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 1010401
+ },
+ {
+  "id": 1010402,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "無情への挑戦",
+  "order": 2,
+  "required_read_episode_master_id": 1010401,
+  "episode_reward_package_master_id": 1010402
+ },
+ {
+  "id": 1010403,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "頑張るって？",
+  "order": 3,
+  "required_read_episode_master_id": 1010402,
+  "episode_reward_package_master_id": 1010403
+ },
+ {
+  "id": 1010404,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "覚醒",
+  "order": 4,
+  "required_read_episode_master_id": 1010403,
+  "episode_reward_package_master_id": 1010404
+ },
+ {
+  "id": 1010405,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "役が決まって",
+  "order": 5,
+  "required_read_episode_master_id": 1010404,
+  "episode_reward_package_master_id": 1010405
+ },
+ {
+  "id": 1010406,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "諦めたわけじゃないから",
+  "order": 6,
+  "required_read_episode_master_id": 1010405,
+  "episode_reward_package_master_id": 1010406
+ },
+ {
+  "id": 1010407,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "私で良いのかな",
+  "order": 7,
+  "required_read_episode_master_id": 1010406,
+  "episode_reward_package_master_id": 1010407
+ },
+ {
+  "id": 1010408,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "みんなみたいに",
+  "order": 8,
+  "required_read_episode_master_id": 1010407,
+  "episode_reward_package_master_id": 1010408
+ },
+ {
+  "id": 1010409,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "心配だから",
+  "order": 9,
+  "required_read_episode_master_id": 1010408,
+  "episode_reward_package_master_id": 1010409
+ },
+ {
+  "id": 1010410,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "すごいってなに？",
+  "order": 10,
+  "required_read_episode_master_id": 1010409,
+  "episode_reward_package_master_id": 1010410
+ },
+ {
+  "id": 1010411,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "変化が嬉しくて",
+  "order": 11,
+  "required_read_episode_master_id": 1010410,
+  "episode_reward_package_master_id": 1010411
+ },
+ {
+  "id": 1010412,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "どうして言っちゃったんだろう",
+  "order": 12,
+  "required_read_episode_master_id": 1010411,
+  "episode_reward_package_master_id": 1010412
+ },
+ {
+  "id": 1010413,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "相談",
+  "order": 13,
+  "required_read_episode_master_id": 1010412,
+  "episode_reward_package_master_id": 1010413
+ },
+ {
+  "id": 1010414,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "並び立ってみせるから",
+  "order": 14,
+  "required_read_episode_master_id": 1010413,
+  "episode_reward_package_master_id": 1010414
+ },
+ {
+  "id": 1010415,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "ワクワク",
+  "order": 15,
+  "required_read_episode_master_id": 1010414,
+  "episode_reward_package_master_id": 1010415
+ },
+ {
+  "id": 1010416,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "いつもカッコいい",
+  "order": 16,
+  "required_read_episode_master_id": 1010415,
+  "episode_reward_package_master_id": 1010416
+ },
+ {
+  "id": 1010417,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 0,
+  "title": "リハーサル",
+  "order": 17,
+  "required_read_episode_master_id": 1010416,
+  "episode_reward_package_master_id": 1010417
+ },
+ {
+  "id": 1010418,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 2000,
+  "title": "連れて行ってみせる",
+  "order": 18,
+  "required_read_episode_master_id": 1010417,
+  "episode_reward_package_master_id": 1010418
+ },
+ {
+  "id": 1010419,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 4000,
+  "title": "震える身体",
+  "order": 19,
+  "required_read_episode_master_id": 1010418,
+  "episode_reward_package_master_id": 1010419
+ },
+ {
+  "id": 1010420,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 8000,
+  "title": "ひとりじゃないから",
+  "order": 20,
+  "required_read_episode_master_id": 1010419,
+  "episode_reward_package_master_id": 1010420
+ },
+ {
+  "id": 1010421,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 16000,
+  "title": "みんなで舞台へ",
+  "order": 21,
+  "required_read_episode_master_id": 1010420,
+  "episode_reward_package_master_id": 1010421
+ },
+ {
+  "id": 1010422,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 32000,
+  "title": "本番",
+  "order": 22,
+  "required_read_episode_master_id": 1010421,
+  "episode_reward_package_master_id": 1010422
+ },
+ {
+  "id": 1010423,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 64000,
+  "title": "公演を終えて",
+  "order": 23,
+  "required_read_episode_master_id": 1010422,
+  "episode_reward_package_master_id": 1010423
+ },
+ {
+  "id": 1010424,
+  "story_master_id": 10104,
+  "required_total_acquired_point": 128000,
+  "title": "届かなかったけど",
+  "order": 24,
+  "required_read_episode_master_id": 1010423,
+  "episode_reward_package_master_id": 1010424
+ },
+ {
+  "id": 1020401,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "初魅の決定",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 1020401
+ },
+ {
+  "id": 1020402,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "Edenの夢",
+  "order": 2,
+  "required_read_episode_master_id": 1020401,
+  "episode_reward_package_master_id": 1020402
+ },
+ {
+  "id": 1020403,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "違和感",
+  "order": 3,
+  "required_read_episode_master_id": 1020402,
+  "episode_reward_package_master_id": 1020403
+ },
+ {
+  "id": 1020404,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "焦燥",
+  "order": 4,
+  "required_read_episode_master_id": 1020403,
+  "episode_reward_package_master_id": 1020404
+ },
+ {
+  "id": 1020405,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "隠し事",
+  "order": 5,
+  "required_read_episode_master_id": 1020404,
+  "episode_reward_package_master_id": 1020405
+ },
+ {
+  "id": 1020406,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "暗中模索",
+  "order": 6,
+  "required_read_episode_master_id": 1020405,
+  "episode_reward_package_master_id": 1020406
+ },
+ {
+  "id": 1020407,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "ムードメーカー",
+  "order": 7,
+  "required_read_episode_master_id": 1020406,
+  "episode_reward_package_master_id": 1020407
+ },
+ {
+  "id": 1020408,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "翳り",
+  "order": 8,
+  "required_read_episode_master_id": 1020407,
+  "episode_reward_package_master_id": 1020408
+ },
+ {
+  "id": 1020409,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "不協和音",
+  "order": 9,
+  "required_read_episode_master_id": 1020408,
+  "episode_reward_package_master_id": 1020409
+ },
+ {
+  "id": 1020410,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "氷解",
+  "order": 10,
+  "required_read_episode_master_id": 1020409,
+  "episode_reward_package_master_id": 1020410
+ },
+ {
+  "id": 1020411,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "前へ進むために",
+  "order": 11,
+  "required_read_episode_master_id": 1020410,
+  "episode_reward_package_master_id": 1020411
+ },
+ {
+  "id": 1020412,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "それぞれの想い",
+  "order": 12,
+  "required_read_episode_master_id": 1020411,
+  "episode_reward_package_master_id": 1020412
+ },
+ {
+  "id": 1020413,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "しぐれの告白",
+  "order": 13,
+  "required_read_episode_master_id": 1020412,
+  "episode_reward_package_master_id": 1020413
+ },
+ {
+  "id": 1020414,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "新たな道",
+  "order": 14,
+  "required_read_episode_master_id": 1020413,
+  "episode_reward_package_master_id": 1020414
+ },
+ {
+  "id": 1020415,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "プロメテウス賞",
+  "order": 15,
+  "required_read_episode_master_id": 1020414,
+  "episode_reward_package_master_id": 1020415
+ },
+ {
+  "id": 1020416,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "青髪公、始動",
+  "order": 16,
+  "required_read_episode_master_id": 1020415,
+  "episode_reward_package_master_id": 1020416
+ },
+ {
+  "id": 1020417,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 0,
+  "title": "本稽古開始",
+  "order": 17,
+  "required_read_episode_master_id": 1020416,
+  "episode_reward_package_master_id": 1020417
+ },
+ {
+  "id": 1020418,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 2000,
+  "title": "各位、邁進",
+  "order": 18,
+  "required_read_episode_master_id": 1020417,
+  "episode_reward_package_master_id": 1020418
+ },
+ {
+  "id": 1020419,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 4000,
+  "title": "連なる道",
+  "order": 19,
+  "required_read_episode_master_id": 1020418,
+  "episode_reward_package_master_id": 1020419
+ },
+ {
+  "id": 1020420,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 8000,
+  "title": "集うピース",
+  "order": 20,
+  "required_read_episode_master_id": 1020419,
+  "episode_reward_package_master_id": 1020420
+ },
+ {
+  "id": 1020421,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 16000,
+  "title": "新たなる楽園",
+  "order": 21,
+  "required_read_episode_master_id": 1020420,
+  "episode_reward_package_master_id": 1020421
+ },
+ {
+  "id": 1020422,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 32000,
+  "title": "変わりゆくもの",
+  "order": 22,
+  "required_read_episode_master_id": 1020421,
+  "episode_reward_package_master_id": 1020422
+ },
+ {
+  "id": 1020423,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 64000,
+  "title": "幕間、そして",
+  "order": 23,
+  "required_read_episode_master_id": 1020422,
+  "episode_reward_package_master_id": 1020423
+ },
+ {
+  "id": 1020424,
+  "story_master_id": 10204,
+  "required_total_acquired_point": 128000,
+  "title": "次なる舞台へ",
+  "order": 24,
+  "required_read_episode_master_id": 1020423,
+  "episode_reward_package_master_id": 1020424
+ },
+ {
+  "id": 1030401,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "来たる季節に向けて",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 1030401
+ },
+ {
+  "id": 1030402,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "一等星として",
+  "order": 2,
+  "required_read_episode_master_id": 1030401,
+  "episode_reward_package_master_id": 1030402
+ },
+ {
+  "id": 1030403,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "ざわめく星々",
+  "order": 3,
+  "required_read_episode_master_id": 1030402,
+  "episode_reward_package_master_id": 1030403
+ },
+ {
+  "id": 1030404,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "銀河座の橋弁慶",
+  "order": 4,
+  "required_read_episode_master_id": 1030403,
+  "episode_reward_package_master_id": 1030404
+ },
+ {
+  "id": 1030405,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "期待と熱を胸に",
+  "order": 5,
+  "required_read_episode_master_id": 1030404,
+  "episode_reward_package_master_id": 1030405
+ },
+ {
+  "id": 1030406,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "配される役と重圧",
+  "order": 6,
+  "required_read_episode_master_id": 1030405,
+  "episode_reward_package_master_id": 1030406
+ },
+ {
+  "id": 1030407,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "亀裂",
+  "order": 7,
+  "required_read_episode_master_id": 1030406,
+  "episode_reward_package_master_id": 1030407
+ },
+ {
+  "id": 1030408,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "立ちこめる暗雲",
+  "order": 8,
+  "required_read_episode_master_id": 1030407,
+  "episode_reward_package_master_id": 1030408
+ },
+ {
+  "id": 1030409,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "揺らぐ光",
+  "order": 9,
+  "required_read_episode_master_id": 1030408,
+  "episode_reward_package_master_id": 1030409
+ },
+ {
+  "id": 1030410,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "惑う星",
+  "order": 10,
+  "required_read_episode_master_id": 1030409,
+  "episode_reward_package_master_id": 1030410
+ },
+ {
+  "id": 1030411,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "孤独なスター",
+  "order": 11,
+  "required_read_episode_master_id": 1030410,
+  "episode_reward_package_master_id": 1030411
+ },
+ {
+  "id": 1030412,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "霧の中の牛若",
+  "order": 12,
+  "required_read_episode_master_id": 1030411,
+  "episode_reward_package_master_id": 1030412
+ },
+ {
+  "id": 1030413,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "対峙",
+  "order": 13,
+  "required_read_episode_master_id": 1030412,
+  "episode_reward_package_master_id": 1030413
+ },
+ {
+  "id": 1030414,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "光明",
+  "order": 14,
+  "required_read_episode_master_id": 1030413,
+  "episode_reward_package_master_id": 1030414
+ },
+ {
+  "id": 1030415,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "それぞれの思い",
+  "order": 15,
+  "required_read_episode_master_id": 1030414,
+  "episode_reward_package_master_id": 1030415
+ },
+ {
+  "id": 1030416,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "為すべきを知る",
+  "order": 16,
+  "required_read_episode_master_id": 1030415,
+  "episode_reward_package_master_id": 1030416
+ },
+ {
+  "id": 1030417,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 0,
+  "title": "たどり着いた答え",
+  "order": 17,
+  "required_read_episode_master_id": 1030416,
+  "episode_reward_package_master_id": 1030417
+ },
+ {
+  "id": 1030418,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 2000,
+  "title": "一陽来復",
+  "order": 18,
+  "required_read_episode_master_id": 1030417,
+  "episode_reward_package_master_id": 1030418
+ },
+ {
+  "id": 1030419,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 4000,
+  "title": "兆し",
+  "order": 19,
+  "required_read_episode_master_id": 1030418,
+  "episode_reward_package_master_id": 1030419
+ },
+ {
+  "id": 1030420,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 8000,
+  "title": "目覚める光",
+  "order": 20,
+  "required_read_episode_master_id": 1030419,
+  "episode_reward_package_master_id": 1030420
+ },
+ {
+  "id": 1030421,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 16000,
+  "title": "並び立つ星",
+  "order": 21,
+  "required_read_episode_master_id": 1030420,
+  "episode_reward_package_master_id": 1030421
+ },
+ {
+  "id": 1030422,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 32000,
+  "title": "煌めく銀河",
+  "order": 22,
+  "required_read_episode_master_id": 1030421,
+  "episode_reward_package_master_id": 1030422
+ },
+ {
+  "id": 1030423,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 64000,
+  "title": "銀河のダイスター誕生",
+  "order": 23,
+  "required_read_episode_master_id": 1030422,
+  "episode_reward_package_master_id": 1030423
+ },
+ {
+  "id": 1030424,
+  "story_master_id": 10304,
+  "required_total_acquired_point": 128000,
+  "title": "銀河のひずみ",
+  "order": 24,
+  "required_read_episode_master_id": 1030423,
+  "episode_reward_package_master_id": 1030424
+ },
+ {
+  "id": 1040401,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "思いがけない報せ",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 1040401
+ },
+ {
+  "id": 1040402,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "どうして電姫に？",
+  "order": 2,
+  "required_read_episode_master_id": 1040401,
+  "episode_reward_package_master_id": 1040402
+ },
+ {
+  "id": 1040403,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "電姫の新章に向けて",
+  "order": 3,
+  "required_read_episode_master_id": 1040402,
+  "episode_reward_package_master_id": 1040403
+ },
+ {
+  "id": 1040404,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "ダイスターになれたら",
+  "order": 4,
+  "required_read_episode_master_id": 1040403,
+  "episode_reward_package_master_id": 1040404
+ },
+ {
+  "id": 1040405,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "演じる役を選ぶということ",
+  "order": 5,
+  "required_read_episode_master_id": 1040404,
+  "episode_reward_package_master_id": 1040405
+ },
+ {
+  "id": 1040406,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "オーディションに向けて",
+  "order": 6,
+  "required_read_episode_master_id": 1040405,
+  "episode_reward_package_master_id": 1040406
+ },
+ {
+  "id": 1040407,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "星として輝くために",
+  "order": 7,
+  "required_read_episode_master_id": 1040406,
+  "episode_reward_package_master_id": 1040407
+ },
+ {
+  "id": 1040408,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "塔の予見",
+  "order": 8,
+  "required_read_episode_master_id": 1040407,
+  "episode_reward_package_master_id": 1040408
+ },
+ {
+  "id": 1040409,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "美兎の心情",
+  "order": 9,
+  "required_read_episode_master_id": 1040408,
+  "episode_reward_package_master_id": 1040409
+ },
+ {
+  "id": 1040410,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "異変",
+  "order": 10,
+  "required_read_episode_master_id": 1040409,
+  "episode_reward_package_master_id": 1040410
+ },
+ {
+  "id": 1040411,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "悪い予感",
+  "order": 11,
+  "required_read_episode_master_id": 1040410,
+  "episode_reward_package_master_id": 1040411
+ },
+ {
+  "id": 1040412,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "トラウマ",
+  "order": 12,
+  "required_read_episode_master_id": 1040411,
+  "episode_reward_package_master_id": 1040412
+ },
+ {
+  "id": 1040413,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "動揺",
+  "order": 13,
+  "required_read_episode_master_id": 1040412,
+  "episode_reward_package_master_id": 1040413
+ },
+ {
+  "id": 1040414,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "すれ違うふたり",
+  "order": 14,
+  "required_read_episode_master_id": 1040413,
+  "episode_reward_package_master_id": 1040414
+ },
+ {
+  "id": 1040415,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "いろはの過去",
+  "order": 15,
+  "required_read_episode_master_id": 1040414,
+  "episode_reward_package_master_id": 1040415
+ },
+ {
+  "id": 1040416,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "決意",
+  "order": 16,
+  "required_read_episode_master_id": 1040415,
+  "episode_reward_package_master_id": 1040416
+ },
+ {
+  "id": 1040417,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 0,
+  "title": "美兎の想い",
+  "order": 17,
+  "required_read_episode_master_id": 1040416,
+  "episode_reward_package_master_id": 1040417
+ },
+ {
+  "id": 1040418,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 2000,
+  "title": "話す勇気",
+  "order": 18,
+  "required_read_episode_master_id": 1040417,
+  "episode_reward_package_master_id": 1040418
+ },
+ {
+  "id": 1040419,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 4000,
+  "title": "打ち明けた先に",
+  "order": 19,
+  "required_read_episode_master_id": 1040418,
+  "episode_reward_package_master_id": 1040419
+ },
+ {
+  "id": 1040420,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 8000,
+  "title": "どこまでも高く",
+  "order": 20,
+  "required_read_episode_master_id": 1040419,
+  "episode_reward_package_master_id": 1040420
+ },
+ {
+  "id": 1040421,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 16000,
+  "title": "センスは輝く",
+  "order": 21,
+  "required_read_episode_master_id": 1040420,
+  "episode_reward_package_master_id": 1040421
+ },
+ {
+  "id": 1040422,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 32000,
+  "title": "銀の靴の魔法で",
+  "order": 22,
+  "required_read_episode_master_id": 1040421,
+  "episode_reward_package_master_id": 1040422
+ },
+ {
+  "id": 1040423,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 64000,
+  "title": "初演を終えて",
+  "order": 23,
+  "required_read_episode_master_id": 1040422,
+  "episode_reward_package_master_id": 1040423
+ },
+ {
+  "id": 1040424,
+  "story_master_id": 10404,
+  "required_total_acquired_point": 128000,
+  "title": "黄色い道の先へ",
+  "order": 24,
+  "required_read_episode_master_id": 1040423,
+  "episode_reward_package_master_id": 1040424
+ },
+ {
+  "id": 1050101,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 0,
+  "title": "星々が集まって　前編",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 1050101
+ },
+ {
+  "id": 1050102,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 2000,
+  "title": "星々が集まって　後編",
+  "order": 2,
+  "required_read_episode_master_id": 1050101,
+  "episode_reward_package_master_id": 1050102
+ },
+ {
+  "id": 1050103,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 3000,
+  "title": "ダイスターたち",
+  "order": 3,
+  "required_read_episode_master_id": 1050102,
+  "episode_reward_package_master_id": 1050103
+ },
+ {
+  "id": 1050104,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 4000,
+  "title": "選ばれし星の中の輝き",
+  "order": 4,
+  "required_read_episode_master_id": 1050103,
+  "episode_reward_package_master_id": 1050104
+ },
+ {
+  "id": 1050105,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 5000,
+  "title": "原石の星に光を見出す",
+  "order": 5,
+  "required_read_episode_master_id": 1050104,
+  "episode_reward_package_master_id": 1050105
+ },
+ {
+  "id": 1050106,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 6000,
+  "title": "銀河座・電姫の最終稽古",
+  "order": 6,
+  "required_read_episode_master_id": 1050105,
+  "episode_reward_package_master_id": 1050106
+ },
+ {
+  "id": 1050107,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 7000,
+  "title": "Eden・シリウスの最終稽古",
+  "order": 7,
+  "required_read_episode_master_id": 1050106,
+  "episode_reward_package_master_id": 1050107
+ },
+ {
+  "id": 1050108,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 8000,
+  "title": "悪戯な神々",
+  "order": 8,
+  "required_read_episode_master_id": 1050107,
+  "episode_reward_package_master_id": 1050108
+ },
+ {
+  "id": 1050109,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 9000,
+  "title": "感化　前編",
+  "order": 9,
+  "required_read_episode_master_id": 1050108,
+  "episode_reward_package_master_id": 1050109
+ },
+ {
+  "id": 1050110,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 10000,
+  "title": "感化　後編",
+  "order": 10,
+  "required_read_episode_master_id": 1050109,
+  "episode_reward_package_master_id": 1050110
+ },
+ {
+  "id": 1050111,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 11000,
+  "title": "戦友たち",
+  "order": 11,
+  "required_read_episode_master_id": 1050110,
+  "episode_reward_package_master_id": 1050111
+ },
+ {
+  "id": 1050112,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 12000,
+  "title": "麗しき女神の為のセプテット",
+  "order": 12,
+  "required_read_episode_master_id": 1050111,
+  "episode_reward_package_master_id": 1050112
+ },
+ {
+  "id": 1050113,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 13000,
+  "title": "革命",
+  "order": 13,
+  "required_read_episode_master_id": 1050112,
+  "episode_reward_package_master_id": 1050113
+ },
+ {
+  "id": 1050114,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 14000,
+  "title": "忘れられた神の慟哭と飢え",
+  "order": 14,
+  "required_read_episode_master_id": 1050113,
+  "episode_reward_package_master_id": 1050114
+ },
+ {
+  "id": 1050115,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 15000,
+  "title": "願い",
+  "order": 15,
+  "required_read_episode_master_id": 1050114,
+  "episode_reward_package_master_id": 1050115
+ },
+ {
+  "id": 1050116,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 16000,
+  "title": "School war Justice!!",
+  "order": 16,
+  "required_read_episode_master_id": 1050115,
+  "episode_reward_package_master_id": 1050116
+ },
+ {
+  "id": 1050117,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 17000,
+  "title": "夢の舞台へ",
+  "order": 17,
+  "required_read_episode_master_id": 1050116,
+  "episode_reward_package_master_id": 1050117
+ },
+ {
+  "id": 1050118,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 18000,
+  "title": "ネクタルの注がれる先",
+  "order": 18,
+  "required_read_episode_master_id": 1050117,
+  "episode_reward_package_master_id": 1050118
+ },
+ {
+  "id": 1050119,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 19000,
+  "title": "結果発表",
+  "order": 19,
+  "required_read_episode_master_id": 1050118,
+  "episode_reward_package_master_id": 1050119
+ },
+ {
+  "id": 1050120,
+  "story_master_id": 10501,
+  "required_total_acquired_point": 20000,
+  "title": "そして、これからも",
+  "order": 20,
+  "required_read_episode_master_id": 1050119,
+  "episode_reward_package_master_id": 1050120
+ },
+ {
+  "id": 2000101,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 0,
+  "title": "憎しみのはじまりは……",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000101
+ },
+ {
+  "id": 2000102,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 2000,
+  "title": "悩みの先の新たな道筋",
+  "order": 2,
+  "required_read_episode_master_id": 2000101,
+  "episode_reward_package_master_id": 2000102
+ },
+ {
+  "id": 2000103,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 4000,
+  "title": "私が輝く場所",
+  "order": 3,
+  "required_read_episode_master_id": 2000102,
+  "episode_reward_package_master_id": 2000103
+ },
+ {
+  "id": 2000104,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 8000,
+  "title": "理想の真似事",
+  "order": 4,
+  "required_read_episode_master_id": 2000103,
+  "episode_reward_package_master_id": 2000104
+ },
+ {
+  "id": 2000105,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 16000,
+  "title": "舞台の主役",
+  "order": 5,
+  "required_read_episode_master_id": 2000104,
+  "episode_reward_package_master_id": 2000105
+ },
+ {
+  "id": 2000106,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 32000,
+  "title": "お前は誰だ",
+  "order": 6,
+  "required_read_episode_master_id": 2000105,
+  "episode_reward_package_master_id": 2000106
+ },
+ {
+  "id": 2000107,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 64000,
+  "title": "魂の叫びをさらけ出せ",
+  "order": 7,
+  "required_read_episode_master_id": 2000106,
+  "episode_reward_package_master_id": 2000107
+ },
+ {
+  "id": 2000108,
+  "story_master_id": 20001,
+  "required_total_acquired_point": 128000,
+  "title": "憎しみは果てしなく",
+  "order": 8,
+  "required_read_episode_master_id": 2000107,
+  "episode_reward_package_master_id": 2000108
+ },
+ {
+  "id": 2000201,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 0,
+  "title": "海行こー！",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000201
+ },
+ {
+  "id": 2000202,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 2000,
+  "title": "水着選びのお姫様",
+  "order": 2,
+  "required_read_episode_master_id": 2000201,
+  "episode_reward_package_master_id": 2000202
+ },
+ {
+  "id": 2000203,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 4000,
+  "title": "海水浴、当日！",
+  "order": 3,
+  "required_read_episode_master_id": 2000202,
+  "episode_reward_package_master_id": 2000203
+ },
+ {
+  "id": 2000204,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 8000,
+  "title": "蕾、開花",
+  "order": 4,
+  "required_read_episode_master_id": 2000203,
+  "episode_reward_package_master_id": 2000204
+ },
+ {
+  "id": 2000205,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 16000,
+  "title": "解放されし、真の姿",
+  "order": 5,
+  "required_read_episode_master_id": 2000204,
+  "episode_reward_package_master_id": 2000205
+ },
+ {
+  "id": 2000206,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 32000,
+  "title": "記念撮影♪",
+  "order": 6,
+  "required_read_episode_master_id": 2000205,
+  "episode_reward_package_master_id": 2000206
+ },
+ {
+  "id": 2000207,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 64000,
+  "title": "楽しい日はまだ続く",
+  "order": 7,
+  "required_read_episode_master_id": 2000206,
+  "episode_reward_package_master_id": 2000207
+ },
+ {
+  "id": 2000208,
+  "story_master_id": 20002,
+  "required_total_acquired_point": 128000,
+  "title": "夜、電車、お話",
+  "order": 8,
+  "required_read_episode_master_id": 2000207,
+  "episode_reward_package_master_id": 2000208
+ },
+ {
+  "id": 2000301,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 0,
+  "title": "幕が下りたその後で",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000301
+ },
+ {
+  "id": 2000302,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 2000,
+  "title": "ダイスター",
+  "order": 2,
+  "required_read_episode_master_id": 2000301,
+  "episode_reward_package_master_id": 2000302
+ },
+ {
+  "id": 2000303,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 4000,
+  "title": "対等コミュニケーション",
+  "order": 3,
+  "required_read_episode_master_id": 2000302,
+  "episode_reward_package_master_id": 2000303
+ },
+ {
+  "id": 2000304,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 8000,
+  "title": "笑いのセンスが通じない！",
+  "order": 4,
+  "required_read_episode_master_id": 2000303,
+  "episode_reward_package_master_id": 2000304
+ },
+ {
+  "id": 2000305,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 16000,
+  "title": "からまわり",
+  "order": 5,
+  "required_read_episode_master_id": 2000304,
+  "episode_reward_package_master_id": 2000305
+ },
+ {
+  "id": 2000306,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 32000,
+  "title": "先輩からのアドバイス",
+  "order": 6,
+  "required_read_episode_master_id": 2000305,
+  "episode_reward_package_master_id": 2000306
+ },
+ {
+  "id": 2000307,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 64000,
+  "title": "配役は妹",
+  "order": 7,
+  "required_read_episode_master_id": 2000306,
+  "episode_reward_package_master_id": 2000307
+ },
+ {
+  "id": 2000308,
+  "story_master_id": 20003,
+  "required_total_acquired_point": 128000,
+  "title": "残された課題……！",
+  "order": 8,
+  "required_read_episode_master_id": 2000307,
+  "episode_reward_package_master_id": 2000308
+ },
+ {
+  "id": 2000401,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 0,
+  "title": "絶好のタイミング",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000401
+ },
+ {
+  "id": 2000402,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 2000,
+  "title": "下のきょうだいを持つ同士",
+  "order": 2,
+  "required_read_episode_master_id": 2000401,
+  "episode_reward_package_master_id": 2000402
+ },
+ {
+  "id": 2000403,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 4000,
+  "title": "レンズ越しの夏祭り",
+  "order": 3,
+  "required_read_episode_master_id": 2000402,
+  "episode_reward_package_master_id": 2000403
+ },
+ {
+  "id": 2000404,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 8000,
+  "title": "フィルムの外のありがとう",
+  "order": 4,
+  "required_read_episode_master_id": 2000403,
+  "episode_reward_package_master_id": 2000404
+ },
+ {
+  "id": 2000405,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 16000,
+  "title": "きょうだいの面影",
+  "order": 5,
+  "required_read_episode_master_id": 2000404,
+  "episode_reward_package_master_id": 2000405
+ },
+ {
+  "id": 2000406,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 32000,
+  "title": "居心地の良い場所",
+  "order": 6,
+  "required_read_episode_master_id": 2000405,
+  "episode_reward_package_master_id": 2000406
+ },
+ {
+  "id": 2000407,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 64000,
+  "title": "打ち上げ花火",
+  "order": 7,
+  "required_read_episode_master_id": 2000406,
+  "episode_reward_package_master_id": 2000407
+ },
+ {
+  "id": 2000408,
+  "story_master_id": 20004,
+  "required_total_acquired_point": 128000,
+  "title": "祭りのあと",
+  "order": 8,
+  "required_read_episode_master_id": 2000407,
+  "episode_reward_package_master_id": 2000408
+ },
+ {
+  "id": 2000501,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 0,
+  "title": "白丸美兎の異変",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000501
+ },
+ {
+  "id": 2000502,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 2000,
+  "title": "素敵な映画",
+  "order": 2,
+  "required_read_episode_master_id": 2000501,
+  "episode_reward_package_master_id": 2000502
+ },
+ {
+  "id": 2000503,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 4000,
+  "title": "白丸美兎の苦悩",
+  "order": 3,
+  "required_read_episode_master_id": 2000502,
+  "episode_reward_package_master_id": 2000503
+ },
+ {
+  "id": 2000504,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 8000,
+  "title": "力になりたい、なのに",
+  "order": 4,
+  "required_read_episode_master_id": 2000503,
+  "episode_reward_package_master_id": 2000504
+ },
+ {
+  "id": 2000505,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 16000,
+  "title": "白丸美兎の過去（前編）",
+  "order": 5,
+  "required_read_episode_master_id": 2000504,
+  "episode_reward_package_master_id": 2000505
+ },
+ {
+  "id": 2000506,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 32000,
+  "title": "白丸美兎の過去（後編）",
+  "order": 6,
+  "required_read_episode_master_id": 2000505,
+  "episode_reward_package_master_id": 2000506
+ },
+ {
+  "id": 2000507,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 64000,
+  "title": "白丸美兎の現在",
+  "order": 7,
+  "required_read_episode_master_id": 2000506,
+  "episode_reward_package_master_id": 2000507
+ },
+ {
+  "id": 2000508,
+  "story_master_id": 20005,
+  "required_total_acquired_point": 128000,
+  "title": "白丸美兎のこれから",
+  "order": 8,
+  "required_read_episode_master_id": 2000507,
+  "episode_reward_package_master_id": 2000508
+ },
+ {
+  "id": 2000601,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 0,
+  "title": "気合入れてこー！",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000601
+ },
+ {
+  "id": 2000602,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 2000,
+  "title": "開会宣言！",
+  "order": 2,
+  "required_read_episode_master_id": 2000601,
+  "episode_reward_package_master_id": 2000602
+ },
+ {
+  "id": 2000603,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 4000,
+  "title": "本気の勝負！",
+  "order": 3,
+  "required_read_episode_master_id": 2000602,
+  "episode_reward_package_master_id": 2000603
+ },
+ {
+  "id": 2000604,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 8000,
+  "title": "つかの間の休息！",
+  "order": 4,
+  "required_read_episode_master_id": 2000603,
+  "episode_reward_package_master_id": 2000604
+ },
+ {
+  "id": 2000605,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 16000,
+  "title": "応援合戦！",
+  "order": 5,
+  "required_read_episode_master_id": 2000604,
+  "episode_reward_package_master_id": 2000605
+ },
+ {
+  "id": 2000606,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 32000,
+  "title": "負けられない！",
+  "order": 6,
+  "required_read_episode_master_id": 2000605,
+  "episode_reward_package_master_id": 2000606
+ },
+ {
+  "id": 2000607,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 64000,
+  "title": "勝ちたい！！",
+  "order": 7,
+  "required_read_episode_master_id": 2000606,
+  "episode_reward_package_master_id": 2000607
+ },
+ {
+  "id": 2000608,
+  "story_master_id": 20006,
+  "required_total_acquired_point": 128000,
+  "title": "閉会宣言！",
+  "order": 8,
+  "required_read_episode_master_id": 2000607,
+  "episode_reward_package_master_id": 2000608
+ },
+ {
+  "id": 2000701,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 0,
+  "title": "面倒見の良い先輩",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000701
+ },
+ {
+  "id": 2000702,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 2000,
+  "title": "一緒の舞台に",
+  "order": 2,
+  "required_read_episode_master_id": 2000701,
+  "episode_reward_package_master_id": 2000702
+ },
+ {
+  "id": 2000703,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 4000,
+  "title": "銀河座の役者",
+  "order": 3,
+  "required_read_episode_master_id": 2000702,
+  "episode_reward_package_master_id": 2000703
+ },
+ {
+  "id": 2000704,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 8000,
+  "title": "窮屈な舞台",
+  "order": 4,
+  "required_read_episode_master_id": 2000703,
+  "episode_reward_package_master_id": 2000704
+ },
+ {
+  "id": 2000705,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 16000,
+  "title": "きれいはきたない",
+  "order": 5,
+  "required_read_episode_master_id": 2000704,
+  "episode_reward_package_master_id": 2000705
+ },
+ {
+  "id": 2000706,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 32000,
+  "title": "眠りを殺したマクベス",
+  "order": 6,
+  "required_read_episode_master_id": 2000705,
+  "episode_reward_package_master_id": 2000706
+ },
+ {
+  "id": 2000707,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 64000,
+  "title": "決裂",
+  "order": 7,
+  "required_read_episode_master_id": 2000706,
+  "episode_reward_package_master_id": 2000707
+ },
+ {
+  "id": 2000708,
+  "story_master_id": 20007,
+  "required_total_acquired_point": 128000,
+  "title": "互いのいるべき場所で",
+  "order": 8,
+  "required_read_episode_master_id": 2000707,
+  "episode_reward_package_master_id": 2000708
+ },
+ {
+  "id": 2000801,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 0,
+  "title": "決めてみた",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000801
+ },
+ {
+  "id": 2000802,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 2000,
+  "title": "行ってみた",
+  "order": 2,
+  "required_read_episode_master_id": 2000801,
+  "episode_reward_package_master_id": 2000802
+ },
+ {
+  "id": 2000803,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 4000,
+  "title": "聞いてみた",
+  "order": 3,
+  "required_read_episode_master_id": 2000802,
+  "episode_reward_package_master_id": 2000803
+ },
+ {
+  "id": 2000804,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 8000,
+  "title": "撮ってみた",
+  "order": 4,
+  "required_read_episode_master_id": 2000803,
+  "episode_reward_package_master_id": 2000804
+ },
+ {
+  "id": 2000805,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 16000,
+  "title": "調べてみた",
+  "order": 5,
+  "required_read_episode_master_id": 2000804,
+  "episode_reward_package_master_id": 2000805
+ },
+ {
+  "id": 2000806,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 32000,
+  "title": "迷っちゃった",
+  "order": 6,
+  "required_read_episode_master_id": 2000805,
+  "episode_reward_package_master_id": 2000806
+ },
+ {
+  "id": 2000807,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 64000,
+  "title": "編集してみた",
+  "order": 7,
+  "required_read_episode_master_id": 2000806,
+  "episode_reward_package_master_id": 2000807
+ },
+ {
+  "id": 2000808,
+  "story_master_id": 20008,
+  "required_total_acquired_point": 128000,
+  "title": "想像、してみた",
+  "order": 8,
+  "required_read_episode_master_id": 2000807,
+  "episode_reward_package_master_id": 2000808
+ },
+ {
+  "id": 2000901,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 0,
+  "title": "明日遊び行かない？",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2000901
+ },
+ {
+  "id": 2000902,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 2000,
+  "title": "頑張っちゃいますんで",
+  "order": 2,
+  "required_read_episode_master_id": 2000901,
+  "episode_reward_package_master_id": 2000902
+ },
+ {
+  "id": 2000903,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 4000,
+  "title": "ぱんだにお任せください",
+  "order": 3,
+  "required_read_episode_master_id": 2000902,
+  "episode_reward_package_master_id": 2000903
+ },
+ {
+  "id": 2000904,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 8000,
+  "title": "いっちゃいましょう！",
+  "order": 4,
+  "required_read_episode_master_id": 2000903,
+  "episode_reward_package_master_id": 2000904
+ },
+ {
+  "id": 2000905,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 16000,
+  "title": "ガールズトーク",
+  "order": 5,
+  "required_read_episode_master_id": 2000904,
+  "episode_reward_package_master_id": 2000905
+ },
+ {
+  "id": 2000906,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 32000,
+  "title": "人生はさまよう影法師",
+  "order": 6,
+  "required_read_episode_master_id": 2000905,
+  "episode_reward_package_master_id": 2000906
+ },
+ {
+  "id": 2000907,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 64000,
+  "title": "知ってる？",
+  "order": 7,
+  "required_read_episode_master_id": 2000906,
+  "episode_reward_package_master_id": 2000907
+ },
+ {
+  "id": 2000908,
+  "story_master_id": 20009,
+  "required_total_acquired_point": 128000,
+  "title": "今日はどんな一日だった？",
+  "order": 8,
+  "required_read_episode_master_id": 2000907,
+  "episode_reward_package_master_id": 2000908
+ },
+ {
+  "id": 2001001,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 0,
+  "title": "特別なイベント",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001001
+ },
+ {
+  "id": 2001002,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 2000,
+  "title": "このメンバーで",
+  "order": 2,
+  "required_read_episode_master_id": 2001001,
+  "episode_reward_package_master_id": 2001002
+ },
+ {
+  "id": 2001003,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 4000,
+  "title": "ヒートアップ",
+  "order": 3,
+  "required_read_episode_master_id": 2001002,
+  "episode_reward_package_master_id": 2001003
+ },
+ {
+  "id": 2001004,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 8000,
+  "title": "５人じゃないと",
+  "order": 4,
+  "required_read_episode_master_id": 2001003,
+  "episode_reward_package_master_id": 2001004
+ },
+ {
+  "id": 2001005,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 16000,
+  "title": "熱くなる理由",
+  "order": 5,
+  "required_read_episode_master_id": 2001004,
+  "episode_reward_package_master_id": 2001005
+ },
+ {
+  "id": 2001006,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 32000,
+  "title": "コンテスト当日",
+  "order": 6,
+  "required_read_episode_master_id": 2001005,
+  "episode_reward_package_master_id": 2001006
+ },
+ {
+  "id": 2001007,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 64000,
+  "title": "全力で",
+  "order": 7,
+  "required_read_episode_master_id": 2001006,
+  "episode_reward_package_master_id": 2001007
+ },
+ {
+  "id": 2001008,
+  "story_master_id": 20010,
+  "required_total_acquired_point": 128000,
+  "title": "みんながいたから",
+  "order": 8,
+  "required_read_episode_master_id": 2001007,
+  "episode_reward_package_master_id": 2001008
+ },
+ {
+  "id": 2001101,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 0,
+  "title": "さらば、愛しき……",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001101
+ },
+ {
+  "id": 2001102,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 2000,
+  "title": "渦中の女",
+  "order": 2,
+  "required_read_episode_master_id": 2001101,
+  "episode_reward_package_master_id": 2001102
+ },
+ {
+  "id": 2001103,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 4000,
+  "title": "タフでなければ生きていけない",
+  "order": 3,
+  "required_read_episode_master_id": 2001102,
+  "episode_reward_package_master_id": 2001103
+ },
+ {
+  "id": 2001104,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 8000,
+  "title": "自分で自分に仕掛ける罠",
+  "order": 4,
+  "required_read_episode_master_id": 2001103,
+  "episode_reward_package_master_id": 2001104
+ },
+ {
+  "id": 2001105,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 16000,
+  "title": "リトルシスター",
+  "order": 5,
+  "required_read_episode_master_id": 2001104,
+  "episode_reward_package_master_id": 2001105
+ },
+ {
+  "id": 2001106,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 32000,
+  "title": "プレイバック",
+  "order": 6,
+  "required_read_episode_master_id": 2001105,
+  "episode_reward_package_master_id": 2001106
+ },
+ {
+  "id": 2001107,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 64000,
+  "title": "優しくなれなければ",
+  "order": 7,
+  "required_read_episode_master_id": 2001106,
+  "episode_reward_package_master_id": 2001107
+ },
+ {
+  "id": 2001108,
+  "story_master_id": 20011,
+  "required_total_acquired_point": 128000,
+  "title": "ギムレットには早すぎる",
+  "order": 8,
+  "required_read_episode_master_id": 2001107,
+  "episode_reward_package_master_id": 2001108
+ },
+ {
+  "id": 2001201,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 0,
+  "title": "器用でかっこいい女の子",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001201
+ },
+ {
+  "id": 2001202,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 2000,
+  "title": "手がつけられない女の子",
+  "order": 2,
+  "required_read_episode_master_id": 2001201,
+  "episode_reward_package_master_id": 2001202
+ },
+ {
+  "id": 2001203,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 4000,
+  "title": "先生よりも大人な女の子",
+  "order": 3,
+  "required_read_episode_master_id": 2001202,
+  "episode_reward_package_master_id": 2001203
+ },
+ {
+  "id": 2001204,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 8000,
+  "title": "ごーどーれく",
+  "order": 4,
+  "required_read_episode_master_id": 2001203,
+  "episode_reward_package_master_id": 2001204
+ },
+ {
+  "id": 2001205,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 16000,
+  "title": "もしかしていける？",
+  "order": 5,
+  "required_read_episode_master_id": 2001204,
+  "episode_reward_package_master_id": 2001205
+ },
+ {
+  "id": 2001206,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 32000,
+  "title": "せめてもう一回くらいは",
+  "order": 6,
+  "required_read_episode_master_id": 2001205,
+  "episode_reward_package_master_id": 2001206
+ },
+ {
+  "id": 2001207,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 64000,
+  "title": "バカうさぎ",
+  "order": 7,
+  "required_read_episode_master_id": 2001206,
+  "episode_reward_package_master_id": 2001207
+ },
+ {
+  "id": 2001208,
+  "story_master_id": 20012,
+  "required_total_acquired_point": 128000,
+  "title": "叫びたいかも",
+  "order": 8,
+  "required_read_episode_master_id": 2001207,
+  "episode_reward_package_master_id": 2001208
+ },
+ {
+  "id": 2001301,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 0,
+  "title": "頼られるのは悪くない",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001301
+ },
+ {
+  "id": 2001302,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 2000,
+  "title": "思い出と今",
+  "order": 2,
+  "required_read_episode_master_id": 2001301,
+  "episode_reward_package_master_id": 2001302
+ },
+ {
+  "id": 2001303,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 4000,
+  "title": "手を伸ばしても届かない星",
+  "order": 3,
+  "required_read_episode_master_id": 2001302,
+  "episode_reward_package_master_id": 2001303
+ },
+ {
+  "id": 2001304,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 8000,
+  "title": "掴めなくても",
+  "order": 4,
+  "required_read_episode_master_id": 2001303,
+  "episode_reward_package_master_id": 2001304
+ },
+ {
+  "id": 2001305,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 16000,
+  "title": "手を伸ばすこと",
+  "order": 5,
+  "required_read_episode_master_id": 2001304,
+  "episode_reward_package_master_id": 2001305
+ },
+ {
+  "id": 2001306,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 32000,
+  "title": "羊飼いの月",
+  "order": 6,
+  "required_read_episode_master_id": 2001305,
+  "episode_reward_package_master_id": 2001306
+ },
+ {
+  "id": 2001307,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 64000,
+  "title": "間違っていても",
+  "order": 7,
+  "required_read_episode_master_id": 2001306,
+  "episode_reward_package_master_id": 2001307
+ },
+ {
+  "id": 2001308,
+  "story_master_id": 20013,
+  "required_total_acquired_point": 128000,
+  "title": "らしくなくても",
+  "order": 8,
+  "required_read_episode_master_id": 2001307,
+  "episode_reward_package_master_id": 2001308
+ },
+ {
+  "id": 2001401,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 0,
+  "title": "ぱんだの提案",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001401
+ },
+ {
+  "id": 2001402,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 2000,
+  "title": "ここなのこと",
+  "order": 2,
+  "required_read_episode_master_id": 2001401,
+  "episode_reward_package_master_id": 2001402
+ },
+ {
+  "id": 2001403,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 4000,
+  "title": "ここなの舞台",
+  "order": 3,
+  "required_read_episode_master_id": 2001402,
+  "episode_reward_package_master_id": 2001403
+ },
+ {
+  "id": 2001404,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 8000,
+  "title": "静香の知らない記憶",
+  "order": 4,
+  "required_read_episode_master_id": 2001403,
+  "episode_reward_package_master_id": 2001404
+ },
+ {
+  "id": 2001405,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 16000,
+  "title": "ふたりの願い。ひとつの想い",
+  "order": 5,
+  "required_read_episode_master_id": 2001404,
+  "episode_reward_package_master_id": 2001405
+ },
+ {
+  "id": 2001406,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 32000,
+  "title": "ファントムの目覚め",
+  "order": 6,
+  "required_read_episode_master_id": 2001405,
+  "episode_reward_package_master_id": 2001406
+ },
+ {
+  "id": 2001407,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 64000,
+  "title": "静かな願い",
+  "order": 7,
+  "required_read_episode_master_id": 2001406,
+  "episode_reward_package_master_id": 2001407
+ },
+ {
+  "id": 2001408,
+  "story_master_id": 20014,
+  "required_total_acquired_point": 128000,
+  "title": "新しい夢、ふたりの約束",
+  "order": 8,
+  "required_read_episode_master_id": 2001407,
+  "episode_reward_package_master_id": 2001408
+ },
+ {
+  "id": 2001501,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 0,
+  "title": "待望の第２弾",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001501
+ },
+ {
+  "id": 2001502,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 2000,
+  "title": "エゴサ、してみた",
+  "order": 2,
+  "required_read_episode_master_id": 2001501,
+  "episode_reward_package_master_id": 2001502
+ },
+ {
+  "id": 2001503,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 4000,
+  "title": "可愛ければなんでもいい",
+  "order": 3,
+  "required_read_episode_master_id": 2001502,
+  "episode_reward_package_master_id": 2001503
+ },
+ {
+  "id": 2001504,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 8000,
+  "title": "市場調査、してみた",
+  "order": 4,
+  "required_read_episode_master_id": 2001503,
+  "episode_reward_package_master_id": 2001504
+ },
+ {
+  "id": 2001505,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 16000,
+  "title": "はしゃいでみた",
+  "order": 5,
+  "required_read_episode_master_id": 2001504,
+  "episode_reward_package_master_id": 2001505
+ },
+ {
+  "id": 2001506,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 32000,
+  "title": "今度は大丈夫",
+  "order": 6,
+  "required_read_episode_master_id": 2001505,
+  "episode_reward_package_master_id": 2001506
+ },
+ {
+  "id": 2001507,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 64000,
+  "title": "元気で笑顔",
+  "order": 7,
+  "required_read_episode_master_id": 2001506,
+  "episode_reward_package_master_id": 2001507
+ },
+ {
+  "id": 2001508,
+  "story_master_id": 20015,
+  "required_total_acquired_point": 128000,
+  "title": "笑えばなんくるない",
+  "order": 8,
+  "required_read_episode_master_id": 2001507,
+  "episode_reward_package_master_id": 2001508
+ },
+ {
+  "id": 2001601,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 0,
+  "title": "今年のサンタは",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001601
+ },
+ {
+  "id": 2001602,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 2000,
+  "title": "サンタといえば",
+  "order": 2,
+  "required_read_episode_master_id": 2001601,
+  "episode_reward_package_master_id": 2001602
+ },
+ {
+  "id": 2001603,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 4000,
+  "title": "いい子のあの子に",
+  "order": 3,
+  "required_read_episode_master_id": 2001602,
+  "episode_reward_package_master_id": 2001603
+ },
+ {
+  "id": 2001604,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 8000,
+  "title": "いい子を見守って",
+  "order": 4,
+  "required_read_episode_master_id": 2001603,
+  "episode_reward_package_master_id": 2001604
+ },
+ {
+  "id": 2001605,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 16000,
+  "title": "今夜の主役",
+  "order": 5,
+  "required_read_episode_master_id": 2001604,
+  "episode_reward_package_master_id": 2001605
+ },
+ {
+  "id": 2001606,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 32000,
+  "title": "雪は座っててパーティ！",
+  "order": 6,
+  "required_read_episode_master_id": 2001605,
+  "episode_reward_package_master_id": 2001606
+ },
+ {
+  "id": 2001607,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 64000,
+  "title": "思いを詰めたプレゼント",
+  "order": 7,
+  "required_read_episode_master_id": 2001606,
+  "episode_reward_package_master_id": 2001607
+ },
+ {
+  "id": 2001608,
+  "story_master_id": 20016,
+  "required_total_acquired_point": 128000,
+  "title": "いい子がもうひとり",
+  "order": 8,
+  "required_read_episode_master_id": 2001607,
+  "episode_reward_package_master_id": 2001608
+ },
+ {
+  "id": 2001701,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 0,
+  "title": "くるとしのご挨拶",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001701
+ },
+ {
+  "id": 2001702,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 2000,
+  "title": "しんねんあけまして",
+  "order": 2,
+  "required_read_episode_master_id": 2001701,
+  "episode_reward_package_master_id": 2001702
+ },
+ {
+  "id": 2001703,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 4000,
+  "title": "ロングロングデイズ",
+  "order": 3,
+  "required_read_episode_master_id": 2001702,
+  "episode_reward_package_master_id": 2001703
+ },
+ {
+  "id": 2001704,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 8000,
+  "title": "よい運勢を",
+  "order": 4,
+  "required_read_episode_master_id": 2001703,
+  "episode_reward_package_master_id": 2001704
+ },
+ {
+  "id": 2001705,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 16000,
+  "title": "もっと知りたいんだ",
+  "order": 5,
+  "required_read_episode_master_id": 2001704,
+  "episode_reward_package_master_id": 2001705
+ },
+ {
+  "id": 2001706,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 32000,
+  "title": "シリウスとカトリナ",
+  "order": 6,
+  "required_read_episode_master_id": 2001705,
+  "episode_reward_package_master_id": 2001706
+ },
+ {
+  "id": 2001707,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 64000,
+  "title": "ともだちにお礼を",
+  "order": 7,
+  "required_read_episode_master_id": 2001706,
+  "episode_reward_package_master_id": 2001707
+ },
+ {
+  "id": 2001708,
+  "story_master_id": 20017,
+  "required_total_acquired_point": 128000,
+  "title": "ことしもきっと",
+  "order": 8,
+  "required_read_episode_master_id": 2001707,
+  "episode_reward_package_master_id": 2001708
+ },
+ {
+  "id": 2001801,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 0,
+  "title": "子どもと大人",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001801
+ },
+ {
+  "id": 2001802,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 2000,
+  "title": "求めるものは",
+  "order": 2,
+  "required_read_episode_master_id": 2001801,
+  "episode_reward_package_master_id": 2001802
+ },
+ {
+  "id": 2001803,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 4000,
+  "title": "刻一刻と",
+  "order": 3,
+  "required_read_episode_master_id": 2001802,
+  "episode_reward_package_master_id": 2001803
+ },
+ {
+  "id": 2001804,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 8000,
+  "title": "プライドとリミット",
+  "order": 4,
+  "required_read_episode_master_id": 2001803,
+  "episode_reward_package_master_id": 2001804
+ },
+ {
+  "id": 2001805,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 16000,
+  "title": "緑豊かな楽園",
+  "order": 5,
+  "required_read_episode_master_id": 2001804,
+  "episode_reward_package_master_id": 2001805
+ },
+ {
+  "id": 2001806,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 32000,
+  "title": "慣れないこと",
+  "order": 6,
+  "required_read_episode_master_id": 2001805,
+  "episode_reward_package_master_id": 2001806
+ },
+ {
+  "id": 2001807,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 64000,
+  "title": "吊り橋が渡すもの",
+  "order": 7,
+  "required_read_episode_master_id": 2001806,
+  "episode_reward_package_master_id": 2001807
+ },
+ {
+  "id": 2001808,
+  "story_master_id": 20018,
+  "required_total_acquired_point": 128000,
+  "title": "今だけは",
+  "order": 8,
+  "required_read_episode_master_id": 2001807,
+  "episode_reward_package_master_id": 2001808
+ },
+ {
+  "id": 2001901,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 0,
+  "title": "へいらっしゃい！",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2001901
+ },
+ {
+  "id": 2001902,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 2000,
+  "title": "一緒にやってみよう",
+  "order": 2,
+  "required_read_episode_master_id": 2001901,
+  "episode_reward_package_master_id": 2001902
+ },
+ {
+  "id": 2001903,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 4000,
+  "title": "ぱんだと流石",
+  "order": 3,
+  "required_read_episode_master_id": 2001902,
+  "episode_reward_package_master_id": 2001903
+ },
+ {
+  "id": 2001904,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 8000,
+  "title": "仲良しな幼馴染",
+  "order": 4,
+  "required_read_episode_master_id": 2001903,
+  "episode_reward_package_master_id": 2001904
+ },
+ {
+  "id": 2001905,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 16000,
+  "title": "まかせて",
+  "order": 5,
+  "required_read_episode_master_id": 2001904,
+  "episode_reward_package_master_id": 2001905
+ },
+ {
+  "id": 2001906,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 32000,
+  "title": "S.K.A.T.E",
+  "order": 6,
+  "required_read_episode_master_id": 2001905,
+  "episode_reward_package_master_id": 2001906
+ },
+ {
+  "id": 2001907,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 64000,
+  "title": "心の底から",
+  "order": 7,
+  "required_read_episode_master_id": 2001906,
+  "episode_reward_package_master_id": 2001907
+ },
+ {
+  "id": 2001908,
+  "story_master_id": 20019,
+  "required_total_acquired_point": 128000,
+  "title": "いつものふたり",
+  "order": 8,
+  "required_read_episode_master_id": 2001907,
+  "episode_reward_package_master_id": 2001908
+ },
+ {
+  "id": 2002001,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 0,
+  "title": "異世界人",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002001
+ },
+ {
+  "id": 2002002,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 2000,
+  "title": "ハマってみたりして？",
+  "order": 2,
+  "required_read_episode_master_id": 2002001,
+  "episode_reward_package_master_id": 2002002
+ },
+ {
+  "id": 2002003,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 4000,
+  "title": "らしくないかも",
+  "order": 3,
+  "required_read_episode_master_id": 2002002,
+  "episode_reward_package_master_id": 2002003
+ },
+ {
+  "id": 2002004,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 8000,
+  "title": "好きに話していいんだよ",
+  "order": 4,
+  "required_read_episode_master_id": 2002003,
+  "episode_reward_package_master_id": 2002004
+ },
+ {
+  "id": 2002005,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 16000,
+  "title": "転生者",
+  "order": 5,
+  "required_read_episode_master_id": 2002004,
+  "episode_reward_package_master_id": 2002005
+ },
+ {
+  "id": 2002006,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 32000,
+  "title": "一挙上映会！",
+  "order": 6,
+  "required_read_episode_master_id": 2002005,
+  "episode_reward_package_master_id": 2002006
+ },
+ {
+  "id": 2002007,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 64000,
+  "title": "ちょっとだけ進化",
+  "order": 7,
+  "required_read_episode_master_id": 2002006,
+  "episode_reward_package_master_id": 2002007
+ },
+ {
+  "id": 2002008,
+  "story_master_id": 20020,
+  "required_total_acquired_point": 128000,
+  "title": "転生したら電姫だった件",
+  "order": 8,
+  "required_read_episode_master_id": 2002007,
+  "episode_reward_package_master_id": 2002008
+ },
+ {
+  "id": 2002101,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 0,
+  "title": "バレンタインの食前酒",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002101
+ },
+ {
+  "id": 2002102,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 2000,
+  "title": "フルコースを楽しみたい",
+  "order": 2,
+  "required_read_episode_master_id": 2002101,
+  "episode_reward_package_master_id": 2002102
+ },
+ {
+  "id": 2002103,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 4000,
+  "title": "贈り物はコミュニケーション",
+  "order": 3,
+  "required_read_episode_master_id": 2002102,
+  "episode_reward_package_master_id": 2002103
+ },
+ {
+  "id": 2002104,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 8000,
+  "title": "チョコレートフェスティバル",
+  "order": 4,
+  "required_read_episode_master_id": 2002103,
+  "episode_reward_package_master_id": 2002104
+ },
+ {
+  "id": 2002105,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 16000,
+  "title": "ピンチと気付き",
+  "order": 5,
+  "required_read_episode_master_id": 2002104,
+  "episode_reward_package_master_id": 2002105
+ },
+ {
+  "id": 2002106,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 32000,
+  "title": "感謝を込めて",
+  "order": 6,
+  "required_read_episode_master_id": 2002105,
+  "episode_reward_package_master_id": 2002106
+ },
+ {
+  "id": 2002107,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 64000,
+  "title": "メインディッシュは！？",
+  "order": 7,
+  "required_read_episode_master_id": 2002106,
+  "episode_reward_package_master_id": 2002107
+ },
+ {
+  "id": 2002108,
+  "story_master_id": 20021,
+  "required_total_acquired_point": 128000,
+  "title": "ハッピーバレンタイン",
+  "order": 8,
+  "required_read_episode_master_id": 2002107,
+  "episode_reward_package_master_id": 2002108
+ },
+ {
+  "id": 2002201,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 0,
+  "title": "天上の序曲",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002201
+ },
+ {
+  "id": 2002202,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 2000,
+  "title": "天才学者と悪魔",
+  "order": 2,
+  "required_read_episode_master_id": 2002201,
+  "episode_reward_package_master_id": 2002202
+ },
+ {
+  "id": 2002203,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 4000,
+  "title": "悪魔との契約",
+  "order": 3,
+  "required_read_episode_master_id": 2002202,
+  "episode_reward_package_master_id": 2002203
+ },
+ {
+  "id": 2002204,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 8000,
+  "title": "善意の第三者",
+  "order": 4,
+  "required_read_episode_master_id": 2002203,
+  "episode_reward_package_master_id": 2002204
+ },
+ {
+  "id": 2002205,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 16000,
+  "title": "悪魔の証明",
+  "order": 5,
+  "required_read_episode_master_id": 2002204,
+  "episode_reward_package_master_id": 2002205
+ },
+ {
+  "id": 2002206,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 32000,
+  "title": "神はサイコロを",
+  "order": 6,
+  "required_read_episode_master_id": 2002205,
+  "episode_reward_package_master_id": 2002206
+ },
+ {
+  "id": 2002207,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 64000,
+  "title": "時よとまれ",
+  "order": 7,
+  "required_read_episode_master_id": 2002206,
+  "episode_reward_package_master_id": 2002207
+ },
+ {
+  "id": 2002208,
+  "story_master_id": 20022,
+  "required_total_acquired_point": 128000,
+  "title": "機械仕掛けの神様",
+  "order": 8,
+  "required_read_episode_master_id": 2002207,
+  "episode_reward_package_master_id": 2002208
+ },
+ {
+  "id": 2002301,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 0,
+  "title": "めんどーい！",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002301
+ },
+ {
+  "id": 2002302,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 2000,
+  "title": "雪、無双劇",
+  "order": 2,
+  "required_read_episode_master_id": 2002301,
+  "episode_reward_package_master_id": 2002302
+ },
+ {
+  "id": 2002303,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 4000,
+  "title": "ドンドンドコドン！",
+  "order": 3,
+  "required_read_episode_master_id": 2002302,
+  "episode_reward_package_master_id": 2002303
+ },
+ {
+  "id": 2002304,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 8000,
+  "title": "ぜんぶ自分で",
+  "order": 4,
+  "required_read_episode_master_id": 2002303,
+  "episode_reward_package_master_id": 2002304
+ },
+ {
+  "id": 2002305,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 16000,
+  "title": "音に乗って　夢を追って",
+  "order": 5,
+  "required_read_episode_master_id": 2002304,
+  "episode_reward_package_master_id": 2002305
+ },
+ {
+  "id": 2002306,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 32000,
+  "title": "レッツゴー！マイウェイ！",
+  "order": 6,
+  "required_read_episode_master_id": 2002305,
+  "episode_reward_package_master_id": 2002306
+ },
+ {
+  "id": 2002307,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 64000,
+  "title": "撩乱乙女、出陣！",
+  "order": 7,
+  "required_read_episode_master_id": 2002306,
+  "episode_reward_package_master_id": 2002307
+ },
+ {
+  "id": 2002308,
+  "story_master_id": 20023,
+  "required_total_acquired_point": 128000,
+  "title": "青春スタートライナー",
+  "order": 8,
+  "required_read_episode_master_id": 2002307,
+  "episode_reward_package_master_id": 2002308
+ },
+ {
+  "id": 2002401,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 0,
+  "title": "ヒツジの絵をかいて",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002401
+ },
+ {
+  "id": 2002402,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 2000,
+  "title": "お姫さまと王子さま",
+  "order": 2,
+  "required_read_episode_master_id": 2002401,
+  "episode_reward_package_master_id": 2002402
+ },
+ {
+  "id": 2002403,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 4000,
+  "title": "ダイスターの王子さま",
+  "order": 3,
+  "required_read_episode_master_id": 2002402,
+  "episode_reward_package_master_id": 2002403
+ },
+ {
+  "id": 2002404,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 8000,
+  "title": "星々のあしあと",
+  "order": 4,
+  "required_read_episode_master_id": 2002403,
+  "episode_reward_package_master_id": 2002404
+ },
+ {
+  "id": 2002405,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 16000,
+  "title": "とりかえっこしよう",
+  "order": 5,
+  "required_read_episode_master_id": 2002404,
+  "episode_reward_package_master_id": 2002405
+ },
+ {
+  "id": 2002406,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 32000,
+  "title": "おとなとこども",
+  "order": 6,
+  "required_read_episode_master_id": 2002405,
+  "episode_reward_package_master_id": 2002406
+ },
+ {
+  "id": 2002407,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 64000,
+  "title": "バラと王子さま",
+  "order": 7,
+  "required_read_episode_master_id": 2002406,
+  "episode_reward_package_master_id": 2002407
+ },
+ {
+  "id": 2002408,
+  "story_master_id": 20024,
+  "required_total_acquired_point": 128000,
+  "title": "夜空を見れば思い出す",
+  "order": 8,
+  "required_read_episode_master_id": 2002407,
+  "episode_reward_package_master_id": 2002408
+ },
+ {
+  "id": 2002501,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 0,
+  "title": "私以外が騒がしい教室",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002501
+ },
+ {
+  "id": 2002502,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 2000,
+  "title": "いつものルーティンから",
+  "order": 2,
+  "required_read_episode_master_id": 2002501,
+  "episode_reward_package_master_id": 2002502
+ },
+ {
+  "id": 2002503,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 4000,
+  "title": "指先がつむぐ暗黒",
+  "order": 3,
+  "required_read_episode_master_id": 2002502,
+  "episode_reward_package_master_id": 2002503
+ },
+ {
+  "id": 2002504,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 8000,
+  "title": "＠カオス.net",
+  "order": 4,
+  "required_read_episode_master_id": 2002503,
+  "episode_reward_package_master_id": 2002504
+ },
+ {
+  "id": 2002505,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 16000,
+  "title": "オーディエンス",
+  "order": 5,
+  "required_read_episode_master_id": 2002504,
+  "episode_reward_package_master_id": 2002505
+ },
+ {
+  "id": 2002506,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 32000,
+  "title": "ソリチュード",
+  "order": 6,
+  "required_read_episode_master_id": 2002505,
+  "episode_reward_package_master_id": 2002506
+ },
+ {
+  "id": 2002507,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 64000,
+  "title": "深淵から星を見上げて",
+  "order": 7,
+  "required_read_episode_master_id": 2002506,
+  "episode_reward_package_master_id": 2002507
+ },
+ {
+  "id": 2002508,
+  "story_master_id": 20025,
+  "required_total_acquired_point": 128000,
+  "title": "＃ピリオド",
+  "order": 8,
+  "required_read_episode_master_id": 2002507,
+  "episode_reward_package_master_id": 2002508
+ },
+ {
+  "id": 2002601,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 0,
+  "title": "料理好きとチャーハニスト",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002601
+ },
+ {
+  "id": 2002602,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 2000,
+  "title": "中華ブーム",
+  "order": 2,
+  "required_read_episode_master_id": 2002601,
+  "episode_reward_package_master_id": 2002602
+ },
+ {
+  "id": 2002603,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 4000,
+  "title": "あの味に近づきたくて",
+  "order": 3,
+  "required_read_episode_master_id": 2002602,
+  "episode_reward_package_master_id": 2002603
+ },
+ {
+  "id": 2002604,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 8000,
+  "title": "雪の料理指南",
+  "order": 4,
+  "required_read_episode_master_id": 2002603,
+  "episode_reward_package_master_id": 2002604
+ },
+ {
+  "id": 2002605,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 16000,
+  "title": "お味は……",
+  "order": 5,
+  "required_read_episode_master_id": 2002604,
+  "episode_reward_package_master_id": 2002605
+ },
+ {
+  "id": 2002606,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 32000,
+  "title": "対決！",
+  "order": 6,
+  "required_read_episode_master_id": 2002605,
+  "episode_reward_package_master_id": 2002606
+ },
+ {
+  "id": 2002607,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 64000,
+  "title": "お友達とライバル",
+  "order": 7,
+  "required_read_episode_master_id": 2002606,
+  "episode_reward_package_master_id": 2002607
+ },
+ {
+  "id": 2002608,
+  "story_master_id": 20026,
+  "required_total_acquired_point": 128000,
+  "title": "真心の勝利",
+  "order": 8,
+  "required_read_episode_master_id": 2002607,
+  "episode_reward_package_master_id": 2002608
+ },
+ {
+  "id": 2002701,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 0,
+  "title": "シリウス伝統の……？",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002701
+ },
+ {
+  "id": 2002702,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 2000,
+  "title": "最高の余興と最高の食事",
+  "order": 2,
+  "required_read_episode_master_id": 2002701,
+  "episode_reward_package_master_id": 2002702
+ },
+ {
+  "id": 2002703,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 4000,
+  "title": "特別なこと？",
+  "order": 3,
+  "required_read_episode_master_id": 2002702,
+  "episode_reward_package_master_id": 2002703
+ },
+ {
+  "id": 2002704,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 8000,
+  "title": "絵本みたいなアルバムを",
+  "order": 4,
+  "required_read_episode_master_id": 2002703,
+  "episode_reward_package_master_id": 2002704
+ },
+ {
+  "id": 2002705,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 16000,
+  "title": "諦めちゃ、ダメです！",
+  "order": 5,
+  "required_read_episode_master_id": 2002704,
+  "episode_reward_package_master_id": 2002705
+ },
+ {
+  "id": 2002706,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 32000,
+  "title": "先輩と後輩",
+  "order": 6,
+  "required_read_episode_master_id": 2002705,
+  "episode_reward_package_master_id": 2002706
+ },
+ {
+  "id": 2002707,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 64000,
+  "title": "かんぱーい！",
+  "order": 7,
+  "required_read_episode_master_id": 2002706,
+  "episode_reward_package_master_id": 2002707
+ },
+ {
+  "id": 2002708,
+  "story_master_id": 20027,
+  "required_total_acquired_point": 128000,
+  "title": "思い出をめくって",
+  "order": 8,
+  "required_read_episode_master_id": 2002707,
+  "episode_reward_package_master_id": 2002708
+ },
+ {
+  "id": 2002801,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 0,
+  "title": "心躍るご招待",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002801
+ },
+ {
+  "id": 2002802,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 2000,
+  "title": "千寿の家",
+  "order": 2,
+  "required_read_episode_master_id": 2002801,
+  "episode_reward_package_master_id": 2002802
+ },
+ {
+  "id": 2002803,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 4000,
+  "title": "たまにはリラックス",
+  "order": 3,
+  "required_read_episode_master_id": 2002802,
+  "episode_reward_package_master_id": 2002803
+ },
+ {
+  "id": 2002804,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 8000,
+  "title": "お泊まり会のお楽しみ",
+  "order": 4,
+  "required_read_episode_master_id": 2002803,
+  "episode_reward_package_master_id": 2002804
+ },
+ {
+  "id": 2002805,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 16000,
+  "title": "夢みたいな朝",
+  "order": 5,
+  "required_read_episode_master_id": 2002804,
+  "episode_reward_package_master_id": 2002805
+ },
+ {
+  "id": 2002806,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 32000,
+  "title": "誰かと一緒に",
+  "order": 6,
+  "required_read_episode_master_id": 2002805,
+  "episode_reward_package_master_id": 2002806
+ },
+ {
+  "id": 2002807,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 64000,
+  "title": "迷子と内緒",
+  "order": 7,
+  "required_read_episode_master_id": 2002806,
+  "episode_reward_package_master_id": 2002807
+ },
+ {
+  "id": 2002808,
+  "story_master_id": 20028,
+  "required_total_acquired_point": 128000,
+  "title": "あの、銀河のように",
+  "order": 8,
+  "required_read_episode_master_id": 2002807,
+  "episode_reward_package_master_id": 2002808
+ },
+ {
+  "id": 2002901,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 0,
+  "title": "寄せられた期待",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2002901
+ },
+ {
+  "id": 2002902,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 2000,
+  "title": "緊張感",
+  "order": 2,
+  "required_read_episode_master_id": 2002901,
+  "episode_reward_package_master_id": 2002902
+ },
+ {
+  "id": 2002903,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 4000,
+  "title": "賭けるか、降りるか",
+  "order": 3,
+  "required_read_episode_master_id": 2002902,
+  "episode_reward_package_master_id": 2002903
+ },
+ {
+  "id": 2002904,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 8000,
+  "title": "不安げに揺れる月",
+  "order": 4,
+  "required_read_episode_master_id": 2002903,
+  "episode_reward_package_master_id": 2002904
+ },
+ {
+  "id": 2002905,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 16000,
+  "title": "選んだ答え",
+  "order": 5,
+  "required_read_episode_master_id": 2002904,
+  "episode_reward_package_master_id": 2002905
+ },
+ {
+  "id": 2002906,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 32000,
+  "title": "窮地のなかで",
+  "order": 6,
+  "required_read_episode_master_id": 2002905,
+  "episode_reward_package_master_id": 2002906
+ },
+ {
+  "id": 2002907,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 64000,
+  "title": "壊れた舞台",
+  "order": 7,
+  "required_read_episode_master_id": 2002906,
+  "episode_reward_package_master_id": 2002907
+ },
+ {
+  "id": 2002908,
+  "story_master_id": 20029,
+  "required_total_acquired_point": 128000,
+  "title": "臆病者",
+  "order": 8,
+  "required_read_episode_master_id": 2002907,
+  "episode_reward_package_master_id": 2002908
+ },
+ {
+  "id": 2003001,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 0,
+  "title": "着回しコスパ最強系ギャル",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003001
+ },
+ {
+  "id": 2003002,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 2000,
+  "title": "スタイリッシュな冒険",
+  "order": 2,
+  "required_read_episode_master_id": 2003001,
+  "episode_reward_package_master_id": 2003002
+ },
+ {
+  "id": 2003003,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 4000,
+  "title": "レンズを通した私",
+  "order": 3,
+  "required_read_episode_master_id": 2003002,
+  "episode_reward_package_master_id": 2003003
+ },
+ {
+  "id": 2003004,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 8000,
+  "title": "熱",
+  "order": 4,
+  "required_read_episode_master_id": 2003003,
+  "episode_reward_package_master_id": 2003004
+ },
+ {
+  "id": 2003005,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 16000,
+  "title": "だいすきなこと",
+  "order": 5,
+  "required_read_episode_master_id": 2003004,
+  "episode_reward_package_master_id": 2003005
+ },
+ {
+  "id": 2003006,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 32000,
+  "title": "堂々としていれば",
+  "order": 6,
+  "required_read_episode_master_id": 2003005,
+  "episode_reward_package_master_id": 2003006
+ },
+ {
+  "id": 2003007,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 64000,
+  "title": "なりたい自分",
+  "order": 7,
+  "required_read_episode_master_id": 2003006,
+  "episode_reward_package_master_id": 2003007
+ },
+ {
+  "id": 2003008,
+  "story_master_id": 20030,
+  "required_total_acquired_point": 128000,
+  "title": "ちいさな冒険",
+  "order": 8,
+  "required_read_episode_master_id": 2003007,
+  "episode_reward_package_master_id": 2003008
+ },
+ {
+  "id": 2003101,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 0,
+  "title": "ワークショップ",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003101
+ },
+ {
+  "id": 2003102,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 2000,
+  "title": "会場にて",
+  "order": 2,
+  "required_read_episode_master_id": 2003101,
+  "episode_reward_package_master_id": 2003102
+ },
+ {
+  "id": 2003103,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 4000,
+  "title": "即興劇",
+  "order": 3,
+  "required_read_episode_master_id": 2003102,
+  "episode_reward_package_master_id": 2003103
+ },
+ {
+  "id": 2003104,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 8000,
+  "title": "自由にやってみて",
+  "order": 4,
+  "required_read_episode_master_id": 2003103,
+  "episode_reward_package_master_id": 2003104
+ },
+ {
+  "id": 2003105,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 16000,
+  "title": "センスであり役者",
+  "order": 5,
+  "required_read_episode_master_id": 2003104,
+  "episode_reward_package_master_id": 2003105
+ },
+ {
+  "id": 2003106,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 32000,
+  "title": "無言劇",
+  "order": 6,
+  "required_read_episode_master_id": 2003105,
+  "episode_reward_package_master_id": 2003106
+ },
+ {
+  "id": 2003107,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 64000,
+  "title": "鏡合わせのふたり",
+  "order": 7,
+  "required_read_episode_master_id": 2003106,
+  "episode_reward_package_master_id": 2003107
+ },
+ {
+  "id": 2003108,
+  "story_master_id": 20031,
+  "required_total_acquired_point": 128000,
+  "title": "交わした約束",
+  "order": 8,
+  "required_read_episode_master_id": 2003107,
+  "episode_reward_package_master_id": 2003108
+ },
+ {
+  "id": 2003201,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 0,
+  "title": "年上のアドバイス",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003201
+ },
+ {
+  "id": 2003202,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 2000,
+  "title": "ぱんだのでばんだ",
+  "order": 2,
+  "required_read_episode_master_id": 2003201,
+  "episode_reward_package_master_id": 2003202
+ },
+ {
+  "id": 2003203,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 4000,
+  "title": "カリスマ",
+  "order": 3,
+  "required_read_episode_master_id": 2003202,
+  "episode_reward_package_master_id": 2003203
+ },
+ {
+  "id": 2003204,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 8000,
+  "title": "舞い込んだバズの予感",
+  "order": 4,
+  "required_read_episode_master_id": 2003203,
+  "episode_reward_package_master_id": 2003204
+ },
+ {
+  "id": 2003205,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 16000,
+  "title": "児童館",
+  "order": 5,
+  "required_read_episode_master_id": 2003204,
+  "episode_reward_package_master_id": 2003205
+ },
+ {
+  "id": 2003206,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 32000,
+  "title": "わんぱくな子どもたち",
+  "order": 6,
+  "required_read_episode_master_id": 2003205,
+  "episode_reward_package_master_id": 2003206
+ },
+ {
+  "id": 2003207,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 64000,
+  "title": "求められる人",
+  "order": 7,
+  "required_read_episode_master_id": 2003206,
+  "episode_reward_package_master_id": 2003207
+ },
+ {
+  "id": 2003208,
+  "story_master_id": 20032,
+  "required_total_acquired_point": 128000,
+  "title": "野望のぱんだ",
+  "order": 8,
+  "required_read_episode_master_id": 2003207,
+  "episode_reward_package_master_id": 2003208
+ },
+ {
+  "id": 2003301,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 0,
+  "title": "緋花里のこと",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003301
+ },
+ {
+  "id": 2003302,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 2000,
+  "title": "雪のこと",
+  "order": 2,
+  "required_read_episode_master_id": 2003301,
+  "episode_reward_package_master_id": 2003302
+ },
+ {
+  "id": 2003303,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 4000,
+  "title": "べつに、元気だよ",
+  "order": 3,
+  "required_read_episode_master_id": 2003302,
+  "episode_reward_package_master_id": 2003303
+ },
+ {
+  "id": 2003304,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 8000,
+  "title": "ペトリコール",
+  "order": 4,
+  "required_read_episode_master_id": 2003303,
+  "episode_reward_package_master_id": 2003304
+ },
+ {
+  "id": 2003305,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 16000,
+  "title": "ゆきのひ",
+  "order": 5,
+  "required_read_episode_master_id": 2003304,
+  "episode_reward_package_master_id": 2003305
+ },
+ {
+  "id": 2003306,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 32000,
+  "title": "こんなつもりじゃなくても",
+  "order": 6,
+  "required_read_episode_master_id": 2003305,
+  "episode_reward_package_master_id": 2003306
+ },
+ {
+  "id": 2003307,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 64000,
+  "title": "雨が止んだら",
+  "order": 7,
+  "required_read_episode_master_id": 2003306,
+  "episode_reward_package_master_id": 2003307
+ },
+ {
+  "id": 2003308,
+  "story_master_id": 20033,
+  "required_total_acquired_point": 128000,
+  "title": "明るいひかり",
+  "order": 8,
+  "required_read_episode_master_id": 2003307,
+  "episode_reward_package_master_id": 2003308
+ },
+ {
+  "id": 2003401,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 0,
+  "title": "夢の舞台を",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003401
+ },
+ {
+  "id": 2003402,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 2000,
+  "title": "大好きな役",
+  "order": 2,
+  "required_read_episode_master_id": 2003401,
+  "episode_reward_package_master_id": 2003402
+ },
+ {
+  "id": 2003403,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 4000,
+  "title": "ハードル",
+  "order": 3,
+  "required_read_episode_master_id": 2003402,
+  "episode_reward_package_master_id": 2003403
+ },
+ {
+  "id": 2003404,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 8000,
+  "title": "大丈夫",
+  "order": 4,
+  "required_read_episode_master_id": 2003403,
+  "episode_reward_package_master_id": 2003404
+ },
+ {
+  "id": 2003405,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 16000,
+  "title": "進むしかない",
+  "order": 5,
+  "required_read_episode_master_id": 2003404,
+  "episode_reward_package_master_id": 2003405
+ },
+ {
+  "id": 2003406,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 32000,
+  "title": "意志",
+  "order": 6,
+  "required_read_episode_master_id": 2003405,
+  "episode_reward_package_master_id": 2003406
+ },
+ {
+  "id": 2003407,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 64000,
+  "title": "一緒",
+  "order": 7,
+  "required_read_episode_master_id": 2003406,
+  "episode_reward_package_master_id": 2003407
+ },
+ {
+  "id": 2003408,
+  "story_master_id": 20034,
+  "required_total_acquired_point": 128000,
+  "title": "電姫のコードギアス",
+  "order": 8,
+  "required_read_episode_master_id": 2003407,
+  "episode_reward_package_master_id": 2003408
+ },
+ {
+  "id": 2003501,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 0,
+  "title": "今日は見えない",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003501
+ },
+ {
+  "id": 2003502,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 2000,
+  "title": "二回目の初演",
+  "order": 2,
+  "required_read_episode_master_id": 2003501,
+  "episode_reward_package_master_id": 2003502
+ },
+ {
+  "id": 2003503,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 4000,
+  "title": "私がどうにかしなきゃ",
+  "order": 3,
+  "required_read_episode_master_id": 2003502,
+  "episode_reward_package_master_id": 2003503
+ },
+ {
+  "id": 2003504,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 8000,
+  "title": "琥珀色に映る本心",
+  "order": 4,
+  "required_read_episode_master_id": 2003503,
+  "episode_reward_package_master_id": 2003504
+ },
+ {
+  "id": 2003505,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 16000,
+  "title": "不安定な環",
+  "order": 5,
+  "required_read_episode_master_id": 2003504,
+  "episode_reward_package_master_id": 2003505
+ },
+ {
+  "id": 2003506,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 32000,
+  "title": "諦めるには",
+  "order": 6,
+  "required_read_episode_master_id": 2003505,
+  "episode_reward_package_master_id": 2003506
+ },
+ {
+  "id": 2003507,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 64000,
+  "title": "大勝負",
+  "order": 7,
+  "required_read_episode_master_id": 2003506,
+  "episode_reward_package_master_id": 2003507
+ },
+ {
+  "id": 2003508,
+  "story_master_id": 20035,
+  "required_total_acquired_point": 128000,
+  "title": "go all out",
+  "order": 8,
+  "required_read_episode_master_id": 2003507,
+  "episode_reward_package_master_id": 2003508
+ },
+ {
+  "id": 2003601,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 0,
+  "title": "楽しむこと",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003601
+ },
+ {
+  "id": 2003602,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 2000,
+  "title": "役目",
+  "order": 2,
+  "required_read_episode_master_id": 2003601,
+  "episode_reward_package_master_id": 2003602
+ },
+ {
+  "id": 2003603,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 4000,
+  "title": "最も優れた役者になる方法",
+  "order": 3,
+  "required_read_episode_master_id": 2003602,
+  "episode_reward_package_master_id": 2003603
+ },
+ {
+  "id": 2003604,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 8000,
+  "title": "シスター",
+  "order": 4,
+  "required_read_episode_master_id": 2003603,
+  "episode_reward_package_master_id": 2003604
+ },
+ {
+  "id": 2003605,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 16000,
+  "title": "銀の靴",
+  "order": 5,
+  "required_read_episode_master_id": 2003604,
+  "episode_reward_package_master_id": 2003605
+ },
+ {
+  "id": 2003606,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 32000,
+  "title": "もしも、私に",
+  "order": 6,
+  "required_read_episode_master_id": 2003605,
+  "episode_reward_package_master_id": 2003606
+ },
+ {
+  "id": 2003607,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 64000,
+  "title": "約束",
+  "order": 7,
+  "required_read_episode_master_id": 2003606,
+  "episode_reward_package_master_id": 2003607
+ },
+ {
+  "id": 2003608,
+  "story_master_id": 20036,
+  "required_total_acquired_point": 128000,
+  "title": "あなたのとなり",
+  "order": 8,
+  "required_read_episode_master_id": 2003607,
+  "episode_reward_package_master_id": 2003608
+ },
+ {
+  "id": 2003701,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 0,
+  "title": "晴れときどきプール",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003701
+ },
+ {
+  "id": 2003702,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 2000,
+  "title": "バカンスの準備はOK？",
+  "order": 2,
+  "required_read_episode_master_id": 2003701,
+  "episode_reward_package_master_id": 2003702
+ },
+ {
+  "id": 2003703,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 4000,
+  "title": "まずはフリースタイルで",
+  "order": 3,
+  "required_read_episode_master_id": 2003702,
+  "episode_reward_package_master_id": 2003703
+ },
+ {
+  "id": 2003704,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 8000,
+  "title": "ビートを作って",
+  "order": 4,
+  "required_read_episode_master_id": 2003703,
+  "episode_reward_package_master_id": 2003704
+ },
+ {
+  "id": 2003705,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 16000,
+  "title": "時にはスローテンポで",
+  "order": 5,
+  "required_read_episode_master_id": 2003704,
+  "episode_reward_package_master_id": 2003705
+ },
+ {
+  "id": 2003706,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 32000,
+  "title": "アッパーな曲で盛り上げて",
+  "order": 6,
+  "required_read_episode_master_id": 2003705,
+  "episode_reward_package_master_id": 2003706
+ },
+ {
+  "id": 2003707,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 64000,
+  "title": "時には大胆なカットインも",
+  "order": 7,
+  "required_read_episode_master_id": 2003706,
+  "episode_reward_package_master_id": 2003707
+ },
+ {
+  "id": 2003708,
+  "story_master_id": 20037,
+  "required_total_acquired_point": 128000,
+  "title": "アフターアワーズ",
+  "order": 8,
+  "required_read_episode_master_id": 2003707,
+  "episode_reward_package_master_id": 2003708
+ },
+ {
+  "id": 2003801,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 0,
+  "title": "真面目な夏休み",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003801
+ },
+ {
+  "id": 2003802,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 2000,
+  "title": "たのしい自由研究",
+  "order": 2,
+  "required_read_episode_master_id": 2003801,
+  "episode_reward_package_master_id": 2003802
+ },
+ {
+  "id": 2003803,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 4000,
+  "title": "ダイスターの観察",
+  "order": 3,
+  "required_read_episode_master_id": 2003802,
+  "episode_reward_package_master_id": 2003803
+ },
+ {
+  "id": 2003804,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 8000,
+  "title": "役者とファン",
+  "order": 4,
+  "required_read_episode_master_id": 2003803,
+  "episode_reward_package_master_id": 2003804
+ },
+ {
+  "id": 2003805,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 16000,
+  "title": "夏祭りのエチュード",
+  "order": 5,
+  "required_read_episode_master_id": 2003804,
+  "episode_reward_package_master_id": 2003805
+ },
+ {
+  "id": 2003806,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 32000,
+  "title": "マイペースなロミオ",
+  "order": 6,
+  "required_read_episode_master_id": 2003805,
+  "episode_reward_package_master_id": 2003806
+ },
+ {
+  "id": 2003807,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 64000,
+  "title": "経験はすべての糧になる？",
+  "order": 7,
+  "required_read_episode_master_id": 2003806,
+  "episode_reward_package_master_id": 2003807
+ },
+ {
+  "id": 2003808,
+  "story_master_id": 20038,
+  "required_total_acquired_point": 128000,
+  "title": "自由を研究して",
+  "order": 8,
+  "required_read_episode_master_id": 2003807,
+  "episode_reward_package_master_id": 2003808
+ },
+ {
+  "id": 2003901,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 0,
+  "title": "目指す道",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2003901
+ },
+ {
+  "id": 2003902,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 2000,
+  "title": "旧友の報せ",
+  "order": 2,
+  "required_read_episode_master_id": 2003901,
+  "episode_reward_package_master_id": 2003902
+ },
+ {
+  "id": 2003903,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 4000,
+  "title": "ふたりの友人",
+  "order": 3,
+  "required_read_episode_master_id": 2003902,
+  "episode_reward_package_master_id": 2003903
+ },
+ {
+  "id": 2003904,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 8000,
+  "title": "後悔",
+  "order": 4,
+  "required_read_episode_master_id": 2003903,
+  "episode_reward_package_master_id": 2003904
+ },
+ {
+  "id": 2003905,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 16000,
+  "title": "仲直り",
+  "order": 5,
+  "required_read_episode_master_id": 2003904,
+  "episode_reward_package_master_id": 2003905
+ },
+ {
+  "id": 2003906,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 32000,
+  "title": "彼女の変化",
+  "order": 6,
+  "required_read_episode_master_id": 2003905,
+  "episode_reward_package_master_id": 2003906
+ },
+ {
+  "id": 2003907,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 64000,
+  "title": "かつて居た場所、かつての同僚",
+  "order": 7,
+  "required_read_episode_master_id": 2003906,
+  "episode_reward_package_master_id": 2003907
+ },
+ {
+  "id": 2003908,
+  "story_master_id": 20039,
+  "required_total_acquired_point": 128000,
+  "title": "余計なお節介",
+  "order": 8,
+  "required_read_episode_master_id": 2003907,
+  "episode_reward_package_master_id": 2003908
+ },
+ {
+  "id": 2004001,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 0,
+  "title": "記憶",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004001
+ },
+ {
+  "id": 2004002,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 2000,
+  "title": "母との再会",
+  "order": 2,
+  "required_read_episode_master_id": 2004001,
+  "episode_reward_package_master_id": 2004002
+ },
+ {
+  "id": 2004003,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 4000,
+  "title": "娘として",
+  "order": 3,
+  "required_read_episode_master_id": 2004002,
+  "episode_reward_package_master_id": 2004003
+ },
+ {
+  "id": 2004004,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 8000,
+  "title": "気分転換",
+  "order": 4,
+  "required_read_episode_master_id": 2004003,
+  "episode_reward_package_master_id": 2004004
+ },
+ {
+  "id": 2004005,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 16000,
+  "title": "後悔",
+  "order": 5,
+  "required_read_episode_master_id": 2004004,
+  "episode_reward_package_master_id": 2004005
+ },
+ {
+  "id": 2004006,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 32000,
+  "title": "やり直せるなら",
+  "order": 6,
+  "required_read_episode_master_id": 2004005,
+  "episode_reward_package_master_id": 2004006
+ },
+ {
+  "id": 2004007,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 64000,
+  "title": "迷い、今ここで",
+  "order": 7,
+  "required_read_episode_master_id": 2004006,
+  "episode_reward_package_master_id": 2004007
+ },
+ {
+  "id": 2004008,
+  "story_master_id": 20040,
+  "required_total_acquired_point": 128000,
+  "title": "過去と向き合って",
+  "order": 8,
+  "required_read_episode_master_id": 2004007,
+  "episode_reward_package_master_id": 2004008
+ },
+ {
+  "id": 2004101,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 0,
+  "title": "より良い舞台を目指すなら",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004101
+ },
+ {
+  "id": 2004102,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 2000,
+  "title": "権威とEden",
+  "order": 2,
+  "required_read_episode_master_id": 2004101,
+  "episode_reward_package_master_id": 2004102
+ },
+ {
+  "id": 2004103,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 4000,
+  "title": "見たくないもの",
+  "order": 3,
+  "required_read_episode_master_id": 2004102,
+  "episode_reward_package_master_id": 2004103
+ },
+ {
+  "id": 2004104,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 8000,
+  "title": "我が主",
+  "order": 4,
+  "required_read_episode_master_id": 2004103,
+  "episode_reward_package_master_id": 2004104
+ },
+ {
+  "id": 2004105,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 16000,
+  "title": "その日、彼女は",
+  "order": 5,
+  "required_read_episode_master_id": 2004104,
+  "episode_reward_package_master_id": 2004105
+ },
+ {
+  "id": 2004106,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 32000,
+  "title": "彼女は意志を示す",
+  "order": 6,
+  "required_read_episode_master_id": 2004105,
+  "episode_reward_package_master_id": 2004106
+ },
+ {
+  "id": 2004107,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 64000,
+  "title": "彼女はかく語る",
+  "order": 7,
+  "required_read_episode_master_id": 2004106,
+  "episode_reward_package_master_id": 2004107
+ },
+ {
+  "id": 2004108,
+  "story_master_id": 20041,
+  "required_total_acquired_point": 128000,
+  "title": "それはあまりに人間的な",
+  "order": 8,
+  "required_read_episode_master_id": 2004107,
+  "episode_reward_package_master_id": 2004108
+ },
+ {
+  "id": 2004201,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 0,
+  "title": "目指せ！　高級ドライヤー！",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004201
+ },
+ {
+  "id": 2004202,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 2000,
+  "title": "自称・世話焼き、ラモーナ",
+  "order": 2,
+  "required_read_episode_master_id": 2004201,
+  "episode_reward_package_master_id": 2004202
+ },
+ {
+  "id": 2004203,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 4000,
+  "title": "カフェ de スカウト",
+  "order": 3,
+  "required_read_episode_master_id": 2004202,
+  "episode_reward_package_master_id": 2004203
+ },
+ {
+  "id": 2004204,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 8000,
+  "title": "ゲーセン☆チャンス！",
+  "order": 4,
+  "required_read_episode_master_id": 2004203,
+  "episode_reward_package_master_id": 2004204
+ },
+ {
+  "id": 2004205,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 16000,
+  "title": "撮ってスローでトントントン",
+  "order": 5,
+  "required_read_episode_master_id": 2004204,
+  "episode_reward_package_master_id": 2004205
+ },
+ {
+  "id": 2004206,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 32000,
+  "title": "Let's Shoot!",
+  "order": 6,
+  "required_read_episode_master_id": 2004205,
+  "episode_reward_package_master_id": 2004206
+ },
+ {
+  "id": 2004207,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 64000,
+  "title": "はじめてのエール",
+  "order": 7,
+  "required_read_episode_master_id": 2004206,
+  "episode_reward_package_master_id": 2004207
+ },
+ {
+  "id": 2004208,
+  "story_master_id": 20042,
+  "required_total_acquired_point": 128000,
+  "title": "ぷれぜんと・ふぉー……",
+  "order": 8,
+  "required_read_episode_master_id": 2004207,
+  "episode_reward_package_master_id": 2004208
+ },
+ {
+  "id": 2004301,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 0,
+  "title": "あきる",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004301
+ },
+ {
+  "id": 2004302,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 2000,
+  "title": "ノリと勢い",
+  "order": 2,
+  "required_read_episode_master_id": 2004301,
+  "episode_reward_package_master_id": 2004302
+ },
+ {
+  "id": 2004303,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 4000,
+  "title": "イマーシブシアター",
+  "order": 3,
+  "required_read_episode_master_id": 2004302,
+  "episode_reward_package_master_id": 2004303
+ },
+ {
+  "id": 2004304,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 8000,
+  "title": "シロウト",
+  "order": 4,
+  "required_read_episode_master_id": 2004303,
+  "episode_reward_package_master_id": 2004304
+ },
+ {
+  "id": 2004305,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 16000,
+  "title": "本気",
+  "order": 5,
+  "required_read_episode_master_id": 2004304,
+  "episode_reward_package_master_id": 2004305
+ },
+ {
+  "id": 2004306,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 32000,
+  "title": "ずっと先の未来のこと",
+  "order": 6,
+  "required_read_episode_master_id": 2004305,
+  "episode_reward_package_master_id": 2004306
+ },
+ {
+  "id": 2004307,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 64000,
+  "title": "アドリビタム",
+  "order": 7,
+  "required_read_episode_master_id": 2004306,
+  "episode_reward_package_master_id": 2004307
+ },
+ {
+  "id": 2004308,
+  "story_master_id": 20043,
+  "required_total_acquired_point": 128000,
+  "title": "あきない今",
+  "order": 8,
+  "required_read_episode_master_id": 2004307,
+  "episode_reward_package_master_id": 2004308
+ },
+ {
+  "id": 2004401,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 0,
+  "title": "出会いは突然に",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004401
+ },
+ {
+  "id": 2004402,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 2000,
+  "title": "ひとりの役者",
+  "order": 2,
+  "required_read_episode_master_id": 2004401,
+  "episode_reward_package_master_id": 2004402
+ },
+ {
+  "id": 2004403,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 4000,
+  "title": "堕天使、降臨",
+  "order": 3,
+  "required_read_episode_master_id": 2004402,
+  "episode_reward_package_master_id": 2004403
+ },
+ {
+  "id": 2004404,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 8000,
+  "title": "オタクと姉妹と",
+  "order": 4,
+  "required_read_episode_master_id": 2004403,
+  "episode_reward_package_master_id": 2004404
+ },
+ {
+  "id": 2004405,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 16000,
+  "title": "姉妹水入らず",
+  "order": 5,
+  "required_read_episode_master_id": 2004404,
+  "episode_reward_package_master_id": 2004405
+ },
+ {
+  "id": 2004406,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 32000,
+  "title": "影が光を浴びたなら",
+  "order": 6,
+  "required_read_episode_master_id": 2004405,
+  "episode_reward_package_master_id": 2004406
+ },
+ {
+  "id": 2004407,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 64000,
+  "title": "気まずい旅路",
+  "order": 7,
+  "required_read_episode_master_id": 2004406,
+  "episode_reward_package_master_id": 2004407
+ },
+ {
+  "id": 2004408,
+  "story_master_id": 20044,
+  "required_total_acquired_point": 128000,
+  "title": "不思議な運命",
+  "order": 8,
+  "required_read_episode_master_id": 2004407,
+  "episode_reward_package_master_id": 2004408
+ },
+ {
+  "id": 2004501,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 0,
+  "title": "UCHIURA",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004501
+ },
+ {
+  "id": 2004502,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 2000,
+  "title": "役者と海と少女たち",
+  "order": 2,
+  "required_read_episode_master_id": 2004501,
+  "episode_reward_package_master_id": 2004502
+ },
+ {
+  "id": 2004503,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 4000,
+  "title": "熱を求めて",
+  "order": 3,
+  "required_read_episode_master_id": 2004502,
+  "episode_reward_package_master_id": 2004503
+ },
+ {
+  "id": 2004504,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 8000,
+  "title": "波音",
+  "order": 4,
+  "required_read_episode_master_id": 2004503,
+  "episode_reward_package_master_id": 2004504
+ },
+ {
+  "id": 2004505,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 16000,
+  "title": "ステップ、ゼロ",
+  "order": 5,
+  "required_read_episode_master_id": 2004504,
+  "episode_reward_package_master_id": 2004505
+ },
+ {
+  "id": 2004506,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 32000,
+  "title": "夜凪のステージ",
+  "order": 6,
+  "required_read_episode_master_id": 2004505,
+  "episode_reward_package_master_id": 2004506
+ },
+ {
+  "id": 2004507,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 64000,
+  "title": "一歩目はジャンプで",
+  "order": 7,
+  "required_read_episode_master_id": 2004506,
+  "episode_reward_package_master_id": 2004507
+ },
+ {
+  "id": 2004508,
+  "story_master_id": 20045,
+  "required_total_acquired_point": 128000,
+  "title": "ゼロからイチに",
+  "order": 8,
+  "required_read_episode_master_id": 2004507,
+  "episode_reward_package_master_id": 2004508
+ },
+ {
+  "id": 2004601,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 0,
+  "title": "いつもあなたから貰ってるから",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004601
+ },
+ {
+  "id": 2004602,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 2000,
+  "title": "サンタの来ない女の子",
+  "order": 2,
+  "required_read_episode_master_id": 2004601,
+  "episode_reward_package_master_id": 2004602
+ },
+ {
+  "id": 2004603,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 4000,
+  "title": "シリウスサンタクロース作戦",
+  "order": 3,
+  "required_read_episode_master_id": 2004602,
+  "episode_reward_package_master_id": 2004603
+ },
+ {
+  "id": 2004604,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 8000,
+  "title": "スニーキング・ウィンター",
+  "order": 4,
+  "required_read_episode_master_id": 2004603,
+  "episode_reward_package_master_id": 2004604
+ },
+ {
+  "id": 2004605,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 16000,
+  "title": "一つの冴えたやり方",
+  "order": 5,
+  "required_read_episode_master_id": 2004604,
+  "episode_reward_package_master_id": 2004605
+ },
+ {
+  "id": 2004606,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 32000,
+  "title": "知りたいから",
+  "order": 6,
+  "required_read_episode_master_id": 2004605,
+  "episode_reward_package_master_id": 2004606
+ },
+ {
+  "id": 2004607,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 64000,
+  "title": "プレゼントで大事なこと",
+  "order": 7,
+  "required_read_episode_master_id": 2004606,
+  "episode_reward_package_master_id": 2004607
+ },
+ {
+  "id": 2004608,
+  "story_master_id": 20046,
+  "required_total_acquired_point": 128000,
+  "title": "比翼連理の二人",
+  "order": 8,
+  "required_read_episode_master_id": 2004607,
+  "episode_reward_package_master_id": 2004608
+ },
+ {
+  "id": 2004701,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 0,
+  "title": "波長の合うふたり",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004701
+ },
+ {
+  "id": 2004702,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 2000,
+  "title": "年の暮れのご挨拶",
+  "order": 2,
+  "required_read_episode_master_id": 2004701,
+  "episode_reward_package_master_id": 2004702
+ },
+ {
+  "id": 2004703,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 4000,
+  "title": "巫女修行",
+  "order": 3,
+  "required_read_episode_master_id": 2004702,
+  "episode_reward_package_master_id": 2004703
+ },
+ {
+  "id": 2004704,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 8000,
+  "title": "這い寄る邪念",
+  "order": 4,
+  "required_read_episode_master_id": 2004703,
+  "episode_reward_package_master_id": 2004704
+ },
+ {
+  "id": 2004705,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 16000,
+  "title": "破ァッ！",
+  "order": 5,
+  "required_read_episode_master_id": 2004704,
+  "episode_reward_package_master_id": 2004705
+ },
+ {
+  "id": 2004706,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 32000,
+  "title": "破・邪・顕・正",
+  "order": 6,
+  "required_read_episode_master_id": 2004705,
+  "episode_reward_package_master_id": 2004706
+ },
+ {
+  "id": 2004707,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 64000,
+  "title": "電子の姫と楽園の子ら",
+  "order": 7,
+  "required_read_episode_master_id": 2004706,
+  "episode_reward_package_master_id": 2004707
+ },
+ {
+  "id": 2004708,
+  "story_master_id": 20047,
+  "required_total_acquired_point": 128000,
+  "title": "充実した一日",
+  "order": 8,
+  "required_read_episode_master_id": 2004707,
+  "episode_reward_package_master_id": 2004708
+ },
+ {
+  "id": 2004801,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 0,
+  "title": "良い変化",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004801
+ },
+ {
+  "id": 2004802,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 2000,
+  "title": "慰労会",
+  "order": 2,
+  "required_read_episode_master_id": 2004801,
+  "episode_reward_package_master_id": 2004802
+ },
+ {
+  "id": 2004803,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 4000,
+  "title": "温泉",
+  "order": 3,
+  "required_read_episode_master_id": 2004802,
+  "episode_reward_package_master_id": 2004803
+ },
+ {
+  "id": 2004804,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 8000,
+  "title": "思惑",
+  "order": 4,
+  "required_read_episode_master_id": 2004803,
+  "episode_reward_package_master_id": 2004804
+ },
+ {
+  "id": 2004805,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 16000,
+  "title": "夜更け",
+  "order": 5,
+  "required_read_episode_master_id": 2004804,
+  "episode_reward_package_master_id": 2004805
+ },
+ {
+  "id": 2004806,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 32000,
+  "title": "たとえ継ぎ接ぎになっても",
+  "order": 6,
+  "required_read_episode_master_id": 2004805,
+  "episode_reward_package_master_id": 2004806
+ },
+ {
+  "id": 2004807,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 64000,
+  "title": "早朝",
+  "order": 7,
+  "required_read_episode_master_id": 2004806,
+  "episode_reward_package_master_id": 2004807
+ },
+ {
+  "id": 2004808,
+  "story_master_id": 20048,
+  "required_total_acquired_point": 128000,
+  "title": "志を遂げるために",
+  "order": 8,
+  "required_read_episode_master_id": 2004807,
+  "episode_reward_package_master_id": 2004808
+ },
+ {
+  "id": 2004901,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 0,
+  "title": "星に埋もれる",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2004901
+ },
+ {
+  "id": 2004902,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 2000,
+  "title": "同じ轍",
+  "order": 2,
+  "required_read_episode_master_id": 2004901,
+  "episode_reward_package_master_id": 2004902
+ },
+ {
+  "id": 2004903,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 4000,
+  "title": "きれいな星座を作るなら",
+  "order": 3,
+  "required_read_episode_master_id": 2004902,
+  "episode_reward_package_master_id": 2004903
+ },
+ {
+  "id": 2004904,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 8000,
+  "title": "泥臭く",
+  "order": 4,
+  "required_read_episode_master_id": 2004903,
+  "episode_reward_package_master_id": 2004904
+ },
+ {
+  "id": 2004905,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 16000,
+  "title": "あがいて",
+  "order": 5,
+  "required_read_episode_master_id": 2004904,
+  "episode_reward_package_master_id": 2004905
+ },
+ {
+  "id": 2004906,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 32000,
+  "title": "そういうところ",
+  "order": 6,
+  "required_read_episode_master_id": 2004905,
+  "episode_reward_package_master_id": 2004906
+ },
+ {
+  "id": 2004907,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 64000,
+  "title": "永遠の子ども",
+  "order": 7,
+  "required_read_episode_master_id": 2004906,
+  "episode_reward_package_master_id": 2004907
+ },
+ {
+  "id": 2004908,
+  "story_master_id": 20049,
+  "required_total_acquired_point": 128000,
+  "title": "空の星を並べて",
+  "order": 8,
+  "required_read_episode_master_id": 2004907,
+  "episode_reward_package_master_id": 2004908
+ },
+ {
+  "id": 2005001,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 0,
+  "title": "バイクのソロキャンパー",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005001
+ },
+ {
+  "id": 2005002,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 2000,
+  "title": "キャンプ、楽しみすぎる！",
+  "order": 2,
+  "required_read_episode_master_id": 2005001,
+  "episode_reward_package_master_id": 2005002
+ },
+ {
+  "id": 2005003,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 4000,
+  "title": "いざ、買い物へ！",
+  "order": 3,
+  "required_read_episode_master_id": 2005002,
+  "episode_reward_package_master_id": 2005003
+ },
+ {
+  "id": 2005004,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 8000,
+  "title": "冬キャン！はじまり！",
+  "order": 4,
+  "required_read_episode_master_id": 2005003,
+  "episode_reward_package_master_id": 2005004
+ },
+ {
+  "id": 2005005,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 16000,
+  "title": "薪集めと出会い",
+  "order": 5,
+  "required_read_episode_master_id": 2005004,
+  "episode_reward_package_master_id": 2005005
+ },
+ {
+  "id": 2005006,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 32000,
+  "title": "燃えない焚火",
+  "order": 6,
+  "required_read_episode_master_id": 2005005,
+  "episode_reward_package_master_id": 2005006
+ },
+ {
+  "id": 2005007,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 64000,
+  "title": "冬キャン！あつまる！！",
+  "order": 7,
+  "required_read_episode_master_id": 2005006,
+  "episode_reward_package_master_id": 2005007
+ },
+ {
+  "id": 2005008,
+  "story_master_id": 20050,
+  "required_total_acquired_point": 128000,
+  "title": "これからもっと楽しくなるよ",
+  "order": 8,
+  "required_read_episode_master_id": 2005007,
+  "episode_reward_package_master_id": 2005008
+ },
+ {
+  "id": 2005101,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 0,
+  "title": "鬼リピート",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005101
+ },
+ {
+  "id": 2005102,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 2000,
+  "title": "私にオファー？",
+  "order": 2,
+  "required_read_episode_master_id": 2005101,
+  "episode_reward_package_master_id": 2005102
+ },
+ {
+  "id": 2005103,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 4000,
+  "title": "ならず者の資格",
+  "order": 3,
+  "required_read_episode_master_id": 2005102,
+  "episode_reward_package_master_id": 2005103
+ },
+ {
+  "id": 2005104,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 8000,
+  "title": "研究！",
+  "order": 4,
+  "required_read_episode_master_id": 2005103,
+  "episode_reward_package_master_id": 2005104
+ },
+ {
+  "id": 2005105,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 16000,
+  "title": "気になる人達",
+  "order": 5,
+  "required_read_episode_master_id": 2005104,
+  "episode_reward_package_master_id": 2005105
+ },
+ {
+  "id": 2005106,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 32000,
+  "title": "作戦",
+  "order": 6,
+  "required_read_episode_master_id": 2005105,
+  "episode_reward_package_master_id": 2005106
+ },
+ {
+  "id": 2005107,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 64000,
+  "title": "ひと芝居",
+  "order": 7,
+  "required_read_episode_master_id": 2005106,
+  "episode_reward_package_master_id": 2005107
+ },
+ {
+  "id": 2005108,
+  "story_master_id": 20051,
+  "required_total_acquired_point": 128000,
+  "title": "どうしても",
+  "order": 8,
+  "required_read_episode_master_id": 2005107,
+  "episode_reward_package_master_id": 2005108
+ },
+ {
+  "id": 2005201,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 0,
+  "title": "それができたら",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005201
+ },
+ {
+  "id": 2005202,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 2000,
+  "title": "仲のいいふたり",
+  "order": 2,
+  "required_read_episode_master_id": 2005201,
+  "episode_reward_package_master_id": 2005202
+ },
+ {
+  "id": 2005203,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 4000,
+  "title": "輝いて見える景色",
+  "order": 3,
+  "required_read_episode_master_id": 2005202,
+  "episode_reward_package_master_id": 2005203
+ },
+ {
+  "id": 2005204,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 8000,
+  "title": "はじまりのステージ",
+  "order": 4,
+  "required_read_episode_master_id": 2005203,
+  "episode_reward_package_master_id": 2005204
+ },
+ {
+  "id": 2005205,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 16000,
+  "title": "良くない考え",
+  "order": 5,
+  "required_read_episode_master_id": 2005204,
+  "episode_reward_package_master_id": 2005205
+ },
+ {
+  "id": 2005206,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 32000,
+  "title": "ずれた歯車",
+  "order": 6,
+  "required_read_episode_master_id": 2005205,
+  "episode_reward_package_master_id": 2005206
+ },
+ {
+  "id": 2005207,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 64000,
+  "title": "大好きだから",
+  "order": 7,
+  "required_read_episode_master_id": 2005206,
+  "episode_reward_package_master_id": 2005207
+ },
+ {
+  "id": 2005208,
+  "story_master_id": 20052,
+  "required_total_acquired_point": 128000,
+  "title": "子どものままの私",
+  "order": 8,
+  "required_read_episode_master_id": 2005207,
+  "episode_reward_package_master_id": 2005208
+ },
+ {
+  "id": 2005301,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 0,
+  "title": "テストとゲームと気になる報せ",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005301
+ },
+ {
+  "id": 2005302,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 2000,
+  "title": "大事な時期、大きな依頼",
+  "order": 2,
+  "required_read_episode_master_id": 2005301,
+  "episode_reward_package_master_id": 2005302
+ },
+ {
+  "id": 2005303,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 4000,
+  "title": "ゲームフェスタだ！",
+  "order": 3,
+  "required_read_episode_master_id": 2005302,
+  "episode_reward_package_master_id": 2005303
+ },
+ {
+  "id": 2005304,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 8000,
+  "title": "再会",
+  "order": 4,
+  "required_read_episode_master_id": 2005303,
+  "episode_reward_package_master_id": 2005304
+ },
+ {
+  "id": 2005305,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 16000,
+  "title": "思わぬ注目",
+  "order": 5,
+  "required_read_episode_master_id": 2005304,
+  "episode_reward_package_master_id": 2005305
+ },
+ {
+  "id": 2005306,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 32000,
+  "title": "一方その頃",
+  "order": 6,
+  "required_read_episode_master_id": 2005305,
+  "episode_reward_package_master_id": 2005306
+ },
+ {
+  "id": 2005307,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 64000,
+  "title": "ステージ本番！",
+  "order": 7,
+  "required_read_episode_master_id": 2005306,
+  "episode_reward_package_master_id": 2005307
+ },
+ {
+  "id": 2005308,
+  "story_master_id": 20053,
+  "required_total_acquired_point": 128000,
+  "title": "これからもふたりで",
+  "order": 8,
+  "required_read_episode_master_id": 2005307,
+  "episode_reward_package_master_id": 2005308
+ },
+ {
+  "id": 2005401,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 0,
+  "title": "花見は付き合い",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005401
+ },
+ {
+  "id": 2005402,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 2000,
+  "title": "到来、お花見シーズン",
+  "order": 2,
+  "required_read_episode_master_id": 2005401,
+  "episode_reward_package_master_id": 2005402
+ },
+ {
+  "id": 2005403,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 4000,
+  "title": "少女は桜を見る暇もなく",
+  "order": 3,
+  "required_read_episode_master_id": 2005402,
+  "episode_reward_package_master_id": 2005403
+ },
+ {
+  "id": 2005404,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 8000,
+  "title": "桜色の中、彼女を知る",
+  "order": 4,
+  "required_read_episode_master_id": 2005403,
+  "episode_reward_package_master_id": 2005404
+ },
+ {
+  "id": 2005405,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 16000,
+  "title": "一緒にいたい、そんなわがまま",
+  "order": 5,
+  "required_read_episode_master_id": 2005404,
+  "episode_reward_package_master_id": 2005405
+ },
+ {
+  "id": 2005406,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 32000,
+  "title": "君が来るのを希う",
+  "order": 6,
+  "required_read_episode_master_id": 2005405,
+  "episode_reward_package_master_id": 2005406
+ },
+ {
+  "id": 2005407,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 64000,
+  "title": "準備の時点で楽しくて",
+  "order": 7,
+  "required_read_episode_master_id": 2005406,
+  "episode_reward_package_master_id": 2005407
+ },
+ {
+  "id": 2005408,
+  "story_master_id": 20054,
+  "required_total_acquired_point": 128000,
+  "title": "彼女は、初めて桜を眺める",
+  "order": 8,
+  "required_read_episode_master_id": 2005407,
+  "episode_reward_package_master_id": 2005408
+ },
+ {
+  "id": 2005501,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 0,
+  "title": "舞台はみんなで作るもの",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005501
+ },
+ {
+  "id": 2005502,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 2000,
+  "title": "幼馴染なんて知らないもの",
+  "order": 2,
+  "required_read_episode_master_id": 2005501,
+  "episode_reward_package_master_id": 2005502
+ },
+ {
+  "id": 2005503,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 4000,
+  "title": "焦燥",
+  "order": 3,
+  "required_read_episode_master_id": 2005502,
+  "episode_reward_package_master_id": 2005503
+ },
+ {
+  "id": 2005504,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 8000,
+  "title": "変われないもの",
+  "order": 4,
+  "required_read_episode_master_id": 2005503,
+  "episode_reward_package_master_id": 2005504
+ },
+ {
+  "id": 2005505,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 16000,
+  "title": "傷つけたくない",
+  "order": 5,
+  "required_read_episode_master_id": 2005504,
+  "episode_reward_package_master_id": 2005505
+ },
+ {
+  "id": 2005506,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 32000,
+  "title": "一緒に",
+  "order": 6,
+  "required_read_episode_master_id": 2005505,
+  "episode_reward_package_master_id": 2005506
+ },
+ {
+  "id": 2005507,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 64000,
+  "title": "せーの",
+  "order": 7,
+  "required_read_episode_master_id": 2005506,
+  "episode_reward_package_master_id": 2005507
+ },
+ {
+  "id": 2005508,
+  "story_master_id": 20055,
+  "required_total_acquired_point": 128000,
+  "title": "ネバーエンド・ネバーランド",
+  "order": 8,
+  "required_read_episode_master_id": 2005507,
+  "episode_reward_package_master_id": 2005508
+ },
+ {
+  "id": 2005601,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 0,
+  "title": "彼女はそれでも休まない",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005601
+ },
+ {
+  "id": 2005602,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 2000,
+  "title": "私たちができること",
+  "order": 2,
+  "required_read_episode_master_id": 2005601,
+  "episode_reward_package_master_id": 2005602
+ },
+ {
+  "id": 2005603,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 4000,
+  "title": "私たち、アルバイト",
+  "order": 3,
+  "required_read_episode_master_id": 2005602,
+  "episode_reward_package_master_id": 2005603
+ },
+ {
+  "id": 2005604,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 8000,
+  "title": "そううまくはいかない",
+  "order": 4,
+  "required_read_episode_master_id": 2005603,
+  "episode_reward_package_master_id": 2005604
+ },
+ {
+  "id": 2005605,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 16000,
+  "title": "みんなで作る銀河座弁当",
+  "order": 5,
+  "required_read_episode_master_id": 2005604,
+  "episode_reward_package_master_id": 2005605
+ },
+ {
+  "id": 2005606,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 32000,
+  "title": "雪だからこそ",
+  "order": 6,
+  "required_read_episode_master_id": 2005605,
+  "episode_reward_package_master_id": 2005606
+ },
+ {
+  "id": 2005607,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 64000,
+  "title": "ワタシにはお節介な弁当",
+  "order": 7,
+  "required_read_episode_master_id": 2005606,
+  "episode_reward_package_master_id": 2005607
+ },
+ {
+  "id": 2005608,
+  "story_master_id": 20056,
+  "required_total_acquired_point": 128000,
+  "title": "ありがとうって言いたくて",
+  "order": 8,
+  "required_read_episode_master_id": 2005607,
+  "episode_reward_package_master_id": 2005608
+ },
+ {
+  "id": 2005701,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 0,
+  "title": "千秋楽の後に",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005701
+ },
+ {
+  "id": 2005702,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 2000,
+  "title": "集まりの誘い",
+  "order": 2,
+  "required_read_episode_master_id": 2005701,
+  "episode_reward_package_master_id": 2005702
+ },
+ {
+  "id": 2005703,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 4000,
+  "title": "実家の味",
+  "order": 3,
+  "required_read_episode_master_id": 2005702,
+  "episode_reward_package_master_id": 2005703
+ },
+ {
+  "id": 2005704,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 8000,
+  "title": "思い出をなぞる",
+  "order": 4,
+  "required_read_episode_master_id": 2005703,
+  "episode_reward_package_master_id": 2005704
+ },
+ {
+  "id": 2005705,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 16000,
+  "title": "変わらず見ていて",
+  "order": 5,
+  "required_read_episode_master_id": 2005704,
+  "episode_reward_package_master_id": 2005705
+ },
+ {
+  "id": 2005706,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 32000,
+  "title": "あくる日のことを見せあって",
+  "order": 6,
+  "required_read_episode_master_id": 2005705,
+  "episode_reward_package_master_id": 2005706
+ },
+ {
+  "id": 2005707,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 64000,
+  "title": "こぼれる涙",
+  "order": 7,
+  "required_read_episode_master_id": 2005706,
+  "episode_reward_package_master_id": 2005707
+ },
+ {
+  "id": 2005708,
+  "story_master_id": 20057,
+  "required_total_acquired_point": 128000,
+  "title": "変わった私のやりたいこと",
+  "order": 8,
+  "required_read_episode_master_id": 2005707,
+  "episode_reward_package_master_id": 2005708
+ },
+ {
+  "id": 2005801,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 0,
+  "title": "大洗女子学園に体験入学です！",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005801
+ },
+ {
+  "id": 2005802,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 2000,
+  "title": "演習場で交流です！",
+  "order": 2,
+  "required_read_episode_master_id": 2005801,
+  "episode_reward_package_master_id": 2005802
+ },
+ {
+  "id": 2005803,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 4000,
+  "title": "初めての戦車です！",
+  "order": 3,
+  "required_read_episode_master_id": 2005802,
+  "episode_reward_package_master_id": 2005803
+ },
+ {
+  "id": 2005804,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 8000,
+  "title": "戦車、乗ります！",
+  "order": 4,
+  "required_read_episode_master_id": 2005803,
+  "episode_reward_package_master_id": 2005804
+ },
+ {
+  "id": 2005805,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 16000,
+  "title": "試合開始です！",
+  "order": 5,
+  "required_read_episode_master_id": 2005804,
+  "episode_reward_package_master_id": 2005805
+ },
+ {
+  "id": 2005806,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 32000,
+  "title": "狙い撃ちです！",
+  "order": 6,
+  "required_read_episode_master_id": 2005805,
+  "episode_reward_package_master_id": 2005806
+ },
+ {
+  "id": 2005807,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 64000,
+  "title": "ハプニングです……！？",
+  "order": 7,
+  "required_read_episode_master_id": 2005806,
+  "episode_reward_package_master_id": 2005807
+ },
+ {
+  "id": 2005808,
+  "story_master_id": 20058,
+  "required_total_acquired_point": 128000,
+  "title": "見つけます！　僕の戦車道！",
+  "order": 8,
+  "required_read_episode_master_id": 2005807,
+  "episode_reward_package_master_id": 2005808
+ },
+ {
+  "id": 2005901,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 0,
+  "title": "見返してやるんだから！",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2005901
+ },
+ {
+  "id": 2005902,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 2000,
+  "title": "勝利の近道は努力だよね！",
+  "order": 2,
+  "required_read_episode_master_id": 2005901,
+  "episode_reward_package_master_id": 2005902
+ },
+ {
+  "id": 2005903,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 4000,
+  "title": "総大将　しぐれ",
+  "order": 3,
+  "required_read_episode_master_id": 2005902,
+  "episode_reward_package_master_id": 2005903
+ },
+ {
+  "id": 2005904,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 8000,
+  "title": "特訓あるのみ！",
+  "order": 4,
+  "required_read_episode_master_id": 2005903,
+  "episode_reward_package_master_id": 2005904
+ },
+ {
+  "id": 2005905,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 16000,
+  "title": "出来れば、戦いたくない",
+  "order": 5,
+  "required_read_episode_master_id": 2005904,
+  "episode_reward_package_master_id": 2005905
+ },
+ {
+  "id": 2005906,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 32000,
+  "title": "分からせてあげるわ",
+  "order": 6,
+  "required_read_episode_master_id": 2005905,
+  "episode_reward_package_master_id": 2005906
+ },
+ {
+  "id": 2005907,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 64000,
+  "title": "運動会、はじまり",
+  "order": 7,
+  "required_read_episode_master_id": 2005906,
+  "episode_reward_package_master_id": 2005907
+ },
+ {
+  "id": 2005908,
+  "story_master_id": 20059,
+  "required_total_acquired_point": 128000,
+  "title": "紅白、ぶつかり合う",
+  "order": 8,
+  "required_read_episode_master_id": 2005907,
+  "episode_reward_package_master_id": 2005908
+ },
+ {
+  "id": 2006001,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 0,
+  "title": "暑い中でも",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006001
+ },
+ {
+  "id": 2006002,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 2000,
+  "title": "花火大会へ！",
+  "order": 2,
+  "required_read_episode_master_id": 2006001,
+  "episode_reward_package_master_id": 2006002
+ },
+ {
+  "id": 2006003,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 4000,
+  "title": "雨、俯く顔",
+  "order": 3,
+  "required_read_episode_master_id": 2006002,
+  "episode_reward_package_master_id": 2006003
+ },
+ {
+  "id": 2006004,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 8000,
+  "title": "綺麗な物を見せたくて",
+  "order": 4,
+  "required_read_episode_master_id": 2006003,
+  "episode_reward_package_master_id": 2006004
+ },
+ {
+  "id": 2006005,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 16000,
+  "title": "私は行きませんわよ！",
+  "order": 5,
+  "required_read_episode_master_id": 2006004,
+  "episode_reward_package_master_id": 2006005
+ },
+ {
+  "id": 2006006,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 32000,
+  "title": "全ては演技の為に",
+  "order": 6,
+  "required_read_episode_master_id": 2006005,
+  "episode_reward_package_master_id": 2006006
+ },
+ {
+  "id": 2006007,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 64000,
+  "title": "海、BBQ",
+  "order": 7,
+  "required_read_episode_master_id": 2006006,
+  "episode_reward_package_master_id": 2006007
+ },
+ {
+  "id": 2006008,
+  "story_master_id": 20060,
+  "required_total_acquired_point": 128000,
+  "title": "茜差す海に見惚れて",
+  "order": 8,
+  "required_read_episode_master_id": 2006007,
+  "episode_reward_package_master_id": 2006008
+ },
+ {
+  "id": 2006101,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 0,
+  "title": "はじまりの冷房と無限ポテチ",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006101
+ },
+ {
+  "id": 2006102,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 2000,
+  "title": "屋台とファンとコスプレの罠",
+  "order": 2,
+  "required_read_episode_master_id": 2006101,
+  "episode_reward_package_master_id": 2006102
+ },
+ {
+  "id": 2006103,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 4000,
+  "title": "メイクとリベンジ",
+  "order": 3,
+  "required_read_episode_master_id": 2006102,
+  "episode_reward_package_master_id": 2006103
+ },
+ {
+  "id": 2006104,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 8000,
+  "title": "夜の屋台と噂話",
+  "order": 4,
+  "required_read_episode_master_id": 2006103,
+  "episode_reward_package_master_id": 2006104
+ },
+ {
+  "id": 2006105,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 16000,
+  "title": "リベンジの準備",
+  "order": 5,
+  "required_read_episode_master_id": 2006104,
+  "episode_reward_package_master_id": 2006105
+ },
+ {
+  "id": 2006106,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 32000,
+  "title": "悲鳴と矜持",
+  "order": 6,
+  "required_read_episode_master_id": 2006105,
+  "episode_reward_package_master_id": 2006106
+ },
+ {
+  "id": 2006107,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 64000,
+  "title": "真打、現る",
+  "order": 7,
+  "required_read_episode_master_id": 2006106,
+  "episode_reward_package_master_id": 2006107
+ },
+ {
+  "id": 2006108,
+  "story_master_id": 20061,
+  "required_total_acquired_point": 128000,
+  "title": "夏の終わり綴る絵日記",
+  "order": 8,
+  "required_read_episode_master_id": 2006107,
+  "episode_reward_package_master_id": 2006108
+ },
+ {
+  "id": 2006201,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 0,
+  "title": "よりにもよって",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006201
+ },
+ {
+  "id": 2006202,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 2000,
+  "title": "目に物見せてやる",
+  "order": 2,
+  "required_read_episode_master_id": 2006201,
+  "episode_reward_package_master_id": 2006202
+ },
+ {
+  "id": 2006203,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 4000,
+  "title": "聞いちゃった～♪",
+  "order": 3,
+  "required_read_episode_master_id": 2006202,
+  "episode_reward_package_master_id": 2006203
+ },
+ {
+  "id": 2006204,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 8000,
+  "title": "みんなで行こうよ！",
+  "order": 4,
+  "required_read_episode_master_id": 2006203,
+  "episode_reward_package_master_id": 2006204
+ },
+ {
+  "id": 2006205,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 16000,
+  "title": "苦い過去",
+  "order": 5,
+  "required_read_episode_master_id": 2006204,
+  "episode_reward_package_master_id": 2006205
+ },
+ {
+  "id": 2006206,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 32000,
+  "title": "別れて回る",
+  "order": 6,
+  "required_read_episode_master_id": 2006205,
+  "episode_reward_package_master_id": 2006206
+ },
+ {
+  "id": 2006207,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 64000,
+  "title": "避けられ、蹴られる",
+  "order": 7,
+  "required_read_episode_master_id": 2006206,
+  "episode_reward_package_master_id": 2006207
+ },
+ {
+  "id": 2006208,
+  "story_master_id": 20062,
+  "required_total_acquired_point": 128000,
+  "title": "思い切って触れてみる",
+  "order": 8,
+  "required_read_episode_master_id": 2006207,
+  "episode_reward_package_master_id": 2006208
+ },
+ {
+  "id": 2006301,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 0,
+  "title": "内心の焦りは消えず",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006301
+ },
+ {
+  "id": 2006302,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 2000,
+  "title": "あの日、ガラスの靴を落とした",
+  "order": 2,
+  "required_read_episode_master_id": 2006301,
+  "episode_reward_package_master_id": 2006302
+ },
+ {
+  "id": 2006303,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 4000,
+  "title": "割れたガラスの靴の音",
+  "order": 3,
+  "required_read_episode_master_id": 2006302,
+  "episode_reward_package_master_id": 2006303
+ },
+ {
+  "id": 2006304,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 8000,
+  "title": "灰被りは日々励む",
+  "order": 4,
+  "required_read_episode_master_id": 2006303,
+  "episode_reward_package_master_id": 2006304
+ },
+ {
+  "id": 2006305,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 16000,
+  "title": "何のためにやってるの？",
+  "order": 5,
+  "required_read_episode_master_id": 2006304,
+  "episode_reward_package_master_id": 2006305
+ },
+ {
+  "id": 2006306,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 32000,
+  "title": "今度こそ、失敗しないから",
+  "order": 6,
+  "required_read_episode_master_id": 2006305,
+  "episode_reward_package_master_id": 2006306
+ },
+ {
+  "id": 2006307,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 64000,
+  "title": "魔法にかけられて",
+  "order": 7,
+  "required_read_episode_master_id": 2006306,
+  "episode_reward_package_master_id": 2006307
+ },
+ {
+  "id": 2006308,
+  "story_master_id": 20063,
+  "required_total_acquired_point": 128000,
+  "title": "手の中の切符",
+  "order": 8,
+  "required_read_episode_master_id": 2006307,
+  "episode_reward_package_master_id": 2006308
+ },
+ {
+  "id": 2006401,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 0,
+  "title": "どっちが良い？",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006401
+ },
+ {
+  "id": 2006402,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 2000,
+  "title": "それはあまりにナンセンスで",
+  "order": 2,
+  "required_read_episode_master_id": 2006401,
+  "episode_reward_package_master_id": 2006402
+ },
+ {
+  "id": 2006403,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 4000,
+  "title": "全身コーディネイト",
+  "order": 3,
+  "required_read_episode_master_id": 2006402,
+  "episode_reward_package_master_id": 2006403
+ },
+ {
+  "id": 2006404,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 8000,
+  "title": "純粋かつ無自覚",
+  "order": 4,
+  "required_read_episode_master_id": 2006403,
+  "episode_reward_package_master_id": 2006404
+ },
+ {
+  "id": 2006405,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 16000,
+  "title": "事前準備",
+  "order": 5,
+  "required_read_episode_master_id": 2006404,
+  "episode_reward_package_master_id": 2006405
+ },
+ {
+  "id": 2006406,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 32000,
+  "title": "誰が選ばれる？",
+  "order": 6,
+  "required_read_episode_master_id": 2006405,
+  "episode_reward_package_master_id": 2006406
+ },
+ {
+  "id": 2006407,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 64000,
+  "title": "流行とキミらしさ",
+  "order": 7,
+  "required_read_episode_master_id": 2006406,
+  "episode_reward_package_master_id": 2006407
+ },
+ {
+  "id": 2006408,
+  "story_master_id": 20064,
+  "required_total_acquired_point": 128000,
+  "title": "選ばれたのは……。",
+  "order": 8,
+  "required_read_episode_master_id": 2006407,
+  "episode_reward_package_master_id": 2006408
+ },
+ {
+  "id": 2006501,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 0,
+  "title": "電姫のお正月",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006501
+ },
+ {
+  "id": 2006502,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 2000,
+  "title": "シリウスのお正月",
+  "order": 2,
+  "required_read_episode_master_id": 2006501,
+  "episode_reward_package_master_id": 2006502
+ },
+ {
+  "id": 2006503,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 4000,
+  "title": "買い出しはみんなで",
+  "order": 3,
+  "required_read_episode_master_id": 2006502,
+  "episode_reward_package_master_id": 2006503
+ },
+ {
+  "id": 2006504,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 8000,
+  "title": "おせちづくり、しかし……",
+  "order": 4,
+  "required_read_episode_master_id": 2006503,
+  "episode_reward_package_master_id": 2006504
+ },
+ {
+  "id": 2006505,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 16000,
+  "title": "ゲームセンター・ニューエイジ",
+  "order": 5,
+  "required_read_episode_master_id": 2006504,
+  "episode_reward_package_master_id": 2006505
+ },
+ {
+  "id": 2006506,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 32000,
+  "title": "おもちがない！",
+  "order": 6,
+  "required_read_episode_master_id": 2006505,
+  "episode_reward_package_master_id": 2006506
+ },
+ {
+  "id": 2006507,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 64000,
+  "title": "餅つきにおいでよ",
+  "order": 7,
+  "required_read_episode_master_id": 2006506,
+  "episode_reward_package_master_id": 2006507
+ },
+ {
+  "id": 2006508,
+  "story_master_id": 20065,
+  "required_total_acquired_point": 128000,
+  "title": "良い年になりますように",
+  "order": 8,
+  "required_read_episode_master_id": 2006507,
+  "episode_reward_package_master_id": 2006508
+ },
+ {
+  "id": 2006601,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 0,
+  "title": "身の振り方",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006601
+ },
+ {
+  "id": 2006602,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 2000,
+  "title": "残留か、脱退か",
+  "order": 2,
+  "required_read_episode_master_id": 2006601,
+  "episode_reward_package_master_id": 2006602
+ },
+ {
+  "id": 2006603,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 4000,
+  "title": "久方ぶりの主演",
+  "order": 3,
+  "required_read_episode_master_id": 2006602,
+  "episode_reward_package_master_id": 2006603
+ },
+ {
+  "id": 2006604,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 8000,
+  "title": "貴女だからこそ",
+  "order": 4,
+  "required_read_episode_master_id": 2006603,
+  "episode_reward_package_master_id": 2006604
+ },
+ {
+  "id": 2006605,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 16000,
+  "title": "怯えと決意",
+  "order": 5,
+  "required_read_episode_master_id": 2006604,
+  "episode_reward_package_master_id": 2006605
+ },
+ {
+  "id": 2006606,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 32000,
+  "title": "王は再び",
+  "order": 6,
+  "required_read_episode_master_id": 2006605,
+  "episode_reward_package_master_id": 2006606
+ },
+ {
+  "id": 2006607,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 64000,
+  "title": "例え破滅が見えようと",
+  "order": 7,
+  "required_read_episode_master_id": 2006606,
+  "episode_reward_package_master_id": 2006607
+ },
+ {
+  "id": 2006608,
+  "story_master_id": 20066,
+  "required_total_acquired_point": 128000,
+  "title": "星雲",
+  "order": 8,
+  "required_read_episode_master_id": 2006607,
+  "episode_reward_package_master_id": 2006608
+ },
+ {
+  "id": 2006701,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 0,
+  "title": "一番の方法",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006701
+ },
+ {
+  "id": 2006702,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 2000,
+  "title": "かつての名優",
+  "order": 2,
+  "required_read_episode_master_id": 2006701,
+  "episode_reward_package_master_id": 2006702
+ },
+ {
+  "id": 2006703,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 4000,
+  "title": "なぜ今やるのか",
+  "order": 3,
+  "required_read_episode_master_id": 2006702,
+  "episode_reward_package_master_id": 2006703
+ },
+ {
+  "id": 2006704,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 8000,
+  "title": "恐れる日輪",
+  "order": 4,
+  "required_read_episode_master_id": 2006703,
+  "episode_reward_package_master_id": 2006704
+ },
+ {
+  "id": 2006705,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 16000,
+  "title": "動き出す私たち",
+  "order": 5,
+  "required_read_episode_master_id": 2006704,
+  "episode_reward_package_master_id": 2006705
+ },
+ {
+  "id": 2006706,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 32000,
+  "title": "見せてやりたい",
+  "order": 6,
+  "required_read_episode_master_id": 2006705,
+  "episode_reward_package_master_id": 2006706
+ },
+ {
+  "id": 2006707,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 64000,
+  "title": "荒神は生まれ変わりて",
+  "order": 7,
+  "required_read_episode_master_id": 2006706,
+  "episode_reward_package_master_id": 2006707
+ },
+ {
+  "id": 2006708,
+  "story_master_id": 20067,
+  "required_total_acquired_point": 128000,
+  "title": "アンタが居たから",
+  "order": 8,
+  "required_read_episode_master_id": 2006707,
+  "episode_reward_package_master_id": 2006708
+ },
+ {
+  "id": 2006801,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 0,
+  "title": "配信ネタ",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006801
+ },
+ {
+  "id": 2006802,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 2000,
+  "title": "イースター",
+  "order": 2,
+  "required_read_episode_master_id": 2006801,
+  "episode_reward_package_master_id": 2006802
+ },
+ {
+  "id": 2006803,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 4000,
+  "title": "一緒に撮ろう！",
+  "order": 3,
+  "required_read_episode_master_id": 2006802,
+  "episode_reward_package_master_id": 2006803
+ },
+ {
+  "id": 2006804,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 8000,
+  "title": "いざ、テーマパークへ！",
+  "order": 4,
+  "required_read_episode_master_id": 2006803,
+  "episode_reward_package_master_id": 2006804
+ },
+ {
+  "id": 2006805,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 16000,
+  "title": "撮影開始！",
+  "order": 5,
+  "required_read_episode_master_id": 2006804,
+  "episode_reward_package_master_id": 2006805
+ },
+ {
+  "id": 2006806,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 32000,
+  "title": "エッグハント！",
+  "order": 6,
+  "required_read_episode_master_id": 2006805,
+  "episode_reward_package_master_id": 2006806
+ },
+ {
+  "id": 2006807,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 64000,
+  "title": "相対する壁",
+  "order": 7,
+  "required_read_episode_master_id": 2006806,
+  "episode_reward_package_master_id": 2006807
+ },
+ {
+  "id": 2006808,
+  "story_master_id": 20068,
+  "required_total_acquired_point": 128000,
+  "title": "バズってる！？",
+  "order": 8,
+  "required_read_episode_master_id": 2006807,
+  "episode_reward_package_master_id": 2006808
+ },
+ {
+  "id": 2006901,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 0,
+  "title": "子どもの日",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2006901
+ },
+ {
+  "id": 2006902,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 2000,
+  "title": "祖母の一言",
+  "order": 2,
+  "required_read_episode_master_id": 2006901,
+  "episode_reward_package_master_id": 2006902
+ },
+ {
+  "id": 2006903,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 4000,
+  "title": "ふさわしい劇団",
+  "order": 3,
+  "required_read_episode_master_id": 2006902,
+  "episode_reward_package_master_id": 2006903
+ },
+ {
+  "id": 2006904,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 8000,
+  "title": "水面に黄昏る",
+  "order": 4,
+  "required_read_episode_master_id": 2006903,
+  "episode_reward_package_master_id": 2006904
+ },
+ {
+  "id": 2006905,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 16000,
+  "title": "電姫でやりたくて",
+  "order": 5,
+  "required_read_episode_master_id": 2006904,
+  "episode_reward_package_master_id": 2006905
+ },
+ {
+  "id": 2006906,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 32000,
+  "title": "子どもでありたかった",
+  "order": 6,
+  "required_read_episode_master_id": 2006905,
+  "episode_reward_package_master_id": 2006906
+ },
+ {
+  "id": 2006907,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 64000,
+  "title": "送り出す、その背中",
+  "order": 7,
+  "required_read_episode_master_id": 2006906,
+  "episode_reward_package_master_id": 2006907
+ },
+ {
+  "id": 2006908,
+  "story_master_id": 20069,
+  "required_total_acquired_point": 128000,
+  "title": "新たな星、固める決意",
+  "order": 8,
+  "required_read_episode_master_id": 2006907,
+  "episode_reward_package_master_id": 2006908
+ },
+ {
+  "id": 2007001,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 0,
+  "title": "研究に繋がるかも",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2007001
+ },
+ {
+  "id": 2007002,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 2000,
+  "title": "水着deゴミ削減",
+  "order": 2,
+  "required_read_episode_master_id": 2007001,
+  "episode_reward_package_master_id": 2007002
+ },
+ {
+  "id": 2007003,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 4000,
+  "title": "奇遇",
+  "order": 3,
+  "required_read_episode_master_id": 2007002,
+  "episode_reward_package_master_id": 2007003
+ },
+ {
+  "id": 2007004,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 8000,
+  "title": "カッコ悪いとこ見せらんない",
+  "order": 4,
+  "required_read_episode_master_id": 2007003,
+  "episode_reward_package_master_id": 2007004
+ },
+ {
+  "id": 2007005,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 16000,
+  "title": "あつめてあつめて",
+  "order": 5,
+  "required_read_episode_master_id": 2007004,
+  "episode_reward_package_master_id": 2007005
+ },
+ {
+  "id": 2007006,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 32000,
+  "title": "ビーチバレー",
+  "order": 6,
+  "required_read_episode_master_id": 2007005,
+  "episode_reward_package_master_id": 2007006
+ },
+ {
+  "id": 2007007,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 64000,
+  "title": "アタシで隠さなきゃ！",
+  "order": 7,
+  "required_read_episode_master_id": 2007006,
+  "episode_reward_package_master_id": 2007007
+ },
+ {
+  "id": 2007008,
+  "story_master_id": 20070,
+  "required_total_acquired_point": 128000,
+  "title": "海から帰って",
+  "order": 8,
+  "required_read_episode_master_id": 2007007,
+  "episode_reward_package_master_id": 2007008
+ },
+ {
+  "id": 2007101,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 0,
+  "title": "あの日の恩師",
+  "order": 1,
+  "required_read_episode_master_id": null,
+  "episode_reward_package_master_id": 2007101
+ },
+ {
+  "id": 2007102,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 2000,
+  "title": "最後の休み",
+  "order": 2,
+  "required_read_episode_master_id": 2007101,
+  "episode_reward_package_master_id": 2007102
+ },
+ {
+  "id": 2007103,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 4000,
+  "title": "手を取り合って",
+  "order": 3,
+  "required_read_episode_master_id": 2007102,
+  "episode_reward_package_master_id": 2007103
+ },
+ {
+  "id": 2007104,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 8000,
+  "title": "聖歌",
+  "order": 4,
+  "required_read_episode_master_id": 2007103,
+  "episode_reward_package_master_id": 2007104
+ },
+ {
+  "id": 2007105,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 16000,
+  "title": "同じだから",
+  "order": 5,
+  "required_read_episode_master_id": 2007104,
+  "episode_reward_package_master_id": 2007105
+ },
+ {
+  "id": 2007106,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 32000,
+  "title": "寄り添い",
+  "order": 6,
+  "required_read_episode_master_id": 2007105,
+  "episode_reward_package_master_id": 2007106
+ },
+ {
+  "id": 2007107,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 64000,
+  "title": "奥底の気持ち",
+  "order": 7,
+  "required_read_episode_master_id": 2007106,
+  "episode_reward_package_master_id": 2007107
+ },
+ {
+  "id": 2007108,
+  "story_master_id": 20071,
+  "required_total_acquired_point": 128000,
+  "title": "いつの日か",
+  "order": 8,
+  "required_read_episode_master_id": 2007107,
+  "episode_reward_package_master_id": 2007108
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "id": 3001,
+  "name": "公園",
+  "release_player_rank": 15,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3002,
+  "name": "カフェ",
+  "release_player_rank": 20,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3003,
+  "name": "テーマパーク",
+  "release_player_rank": 25,
+  "display_start_at": "2023-01-01T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3006,
+  "name": "プール",
+  "release_player_rank": 30,
+  "display_start_at": "2023-08-15T17:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3007,
+  "name": "電気街",
+  "release_player_rank": 30,
+  "display_start_at": "2023-09-19T17:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3008,
+  "name": "電気街　ハロウィンver.",
+  "release_player_rank": 15,
+  "display_start_at": "2026-07-26T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3009,
+  "name": "テーマパーク:縁日前",
+  "release_player_rank": 30,
+  "display_start_at": "2023-11-24T17:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3010,
+  "name": "テーマパーク:縁日前　雪ver.",
+  "release_player_rank": 15,
+  "display_start_at": "2026-07-26T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3011,
+  "name": "テーマパーク:縁日前　桜ver.",
+  "release_player_rank": 15,
+  "display_start_at": "2026-07-26T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3012,
+  "name": "ナイトプール",
+  "release_player_rank": 15,
+  "display_start_at": "2026-07-26T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3013,
+  "name": "テーマパーク:縁日前　紅葉ver.",
+  "release_player_rank": 15,
+  "display_start_at": "2026-07-26T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3014,
+  "name": "テーマパーク　イルミネーションver.",
+  "release_player_rank": 15,
+  "display_start_at": "2026-07-26T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 3015,
+  "name": "公園　桜ver.",
+  "release_player_rank": 15,
+  "display_start_at": "2026-07-26T00:00:00+00:00",
+  "display_end_at": "2100-01-01T00:00:00+00:00"
+ }
+]

@@ -1,0 +1,296 @@
+[
+ {
+  "id": 1,
+  "character_base_master_id": 101,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 2,
+  "profile_unlock_value": 1010123
+ },
+ {
+  "id": 2,
+  "character_base_master_id": 102,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 3,
+  "character_base_master_id": 103,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 4,
+  "character_base_master_id": 104,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 2,
+  "profile_unlock_value": 1010123
+ },
+ {
+  "id": 5,
+  "character_base_master_id": 105,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 6,
+  "character_base_master_id": 106,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 7,
+  "character_base_master_id": 201,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 8,
+  "character_base_master_id": 202,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 9,
+  "character_base_master_id": 203,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 10,
+  "character_base_master_id": 204,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 11,
+  "character_base_master_id": 205,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 12,
+  "character_base_master_id": 301,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 13,
+  "character_base_master_id": 302,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 14,
+  "character_base_master_id": 303,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 15,
+  "character_base_master_id": 304,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 16,
+  "character_base_master_id": 305,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 17,
+  "character_base_master_id": 401,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 18,
+  "character_base_master_id": 402,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 19,
+  "character_base_master_id": 403,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 20,
+  "character_base_master_id": 404,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 21,
+  "character_base_master_id": 405,
+  "profile_restriction_item": 7,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 22,
+  "character_base_master_id": 101,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 2,
+  "profile_unlock_value": 1010123
+ },
+ {
+  "id": 23,
+  "character_base_master_id": 102,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 24,
+  "character_base_master_id": 103,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 25,
+  "character_base_master_id": 104,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 2,
+  "profile_unlock_value": 1010123
+ },
+ {
+  "id": 26,
+  "character_base_master_id": 105,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 27,
+  "character_base_master_id": 106,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 28,
+  "character_base_master_id": 201,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 29,
+  "character_base_master_id": 202,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 30,
+  "character_base_master_id": 203,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 31,
+  "character_base_master_id": 204,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 32,
+  "character_base_master_id": 205,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 33,
+  "character_base_master_id": 301,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 34,
+  "character_base_master_id": 302,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 35,
+  "character_base_master_id": 303,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 36,
+  "character_base_master_id": 304,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 37,
+  "character_base_master_id": 305,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 38,
+  "character_base_master_id": 401,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 39,
+  "character_base_master_id": 402,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 40,
+  "character_base_master_id": 403,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 41,
+  "character_base_master_id": 404,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ },
+ {
+  "id": 42,
+  "character_base_master_id": 405,
+  "profile_restriction_item": 8,
+  "unlock_condition_master_id": 1,
+  "profile_unlock_value": 100
+ }
+]

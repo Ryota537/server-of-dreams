@@ -1,0 +1,667 @@
+[
+ {
+  "id": 101,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 101,
+  "target_min_rank": 1,
+  "target_max_rank": 1
+ },
+ {
+  "id": 102,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 102,
+  "target_min_rank": 2,
+  "target_max_rank": 2
+ },
+ {
+  "id": 103,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 103,
+  "target_min_rank": 3,
+  "target_max_rank": 3
+ },
+ {
+  "id": 104,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 104,
+  "target_min_rank": 4,
+  "target_max_rank": 10
+ },
+ {
+  "id": 105,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 105,
+  "target_min_rank": 11,
+  "target_max_rank": 20
+ },
+ {
+  "id": 106,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 106,
+  "target_min_rank": 21,
+  "target_max_rank": 30
+ },
+ {
+  "id": 107,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 107,
+  "target_min_rank": 31,
+  "target_max_rank": 40
+ },
+ {
+  "id": 108,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 108,
+  "target_min_rank": 41,
+  "target_max_rank": 50
+ },
+ {
+  "id": 109,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 109,
+  "target_min_rank": 51,
+  "target_max_rank": 100
+ },
+ {
+  "id": 110,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 110,
+  "target_min_rank": 101,
+  "target_max_rank": 200
+ },
+ {
+  "id": 111,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 111,
+  "target_min_rank": 201,
+  "target_max_rank": 300
+ },
+ {
+  "id": 112,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 112,
+  "target_min_rank": 301,
+  "target_max_rank": 400
+ },
+ {
+  "id": 113,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 113,
+  "target_min_rank": 401,
+  "target_max_rank": 500
+ },
+ {
+  "id": 114,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 114,
+  "target_min_rank": 501,
+  "target_max_rank": 1000
+ },
+ {
+  "id": 115,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 115,
+  "target_min_rank": 1001,
+  "target_max_rank": 2000
+ },
+ {
+  "id": 116,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 116,
+  "target_min_rank": 2001,
+  "target_max_rank": 3000
+ },
+ {
+  "id": 117,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 117,
+  "target_min_rank": 3001,
+  "target_max_rank": 4000
+ },
+ {
+  "id": 118,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 118,
+  "target_min_rank": 4001,
+  "target_max_rank": 5000
+ },
+ {
+  "id": 119,
+  "circle_event_master_id": 1,
+  "circle_event_circle_ranking_reward_item_package_master_id": 119,
+  "target_min_rank": 5001,
+  "target_max_rank": 999999
+ },
+ {
+  "id": 201,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 201,
+  "target_min_rank": 1,
+  "target_max_rank": 1
+ },
+ {
+  "id": 202,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 202,
+  "target_min_rank": 2,
+  "target_max_rank": 2
+ },
+ {
+  "id": 203,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 203,
+  "target_min_rank": 3,
+  "target_max_rank": 3
+ },
+ {
+  "id": 204,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 204,
+  "target_min_rank": 4,
+  "target_max_rank": 10
+ },
+ {
+  "id": 205,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 205,
+  "target_min_rank": 11,
+  "target_max_rank": 20
+ },
+ {
+  "id": 206,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 206,
+  "target_min_rank": 21,
+  "target_max_rank": 30
+ },
+ {
+  "id": 207,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 207,
+  "target_min_rank": 31,
+  "target_max_rank": 40
+ },
+ {
+  "id": 208,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 208,
+  "target_min_rank": 41,
+  "target_max_rank": 50
+ },
+ {
+  "id": 209,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 209,
+  "target_min_rank": 51,
+  "target_max_rank": 100
+ },
+ {
+  "id": 210,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 210,
+  "target_min_rank": 101,
+  "target_max_rank": 200
+ },
+ {
+  "id": 211,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 211,
+  "target_min_rank": 201,
+  "target_max_rank": 300
+ },
+ {
+  "id": 212,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 212,
+  "target_min_rank": 301,
+  "target_max_rank": 400
+ },
+ {
+  "id": 213,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 213,
+  "target_min_rank": 401,
+  "target_max_rank": 500
+ },
+ {
+  "id": 214,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 214,
+  "target_min_rank": 501,
+  "target_max_rank": 1000
+ },
+ {
+  "id": 215,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 215,
+  "target_min_rank": 1001,
+  "target_max_rank": 2000
+ },
+ {
+  "id": 216,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 216,
+  "target_min_rank": 2001,
+  "target_max_rank": 3000
+ },
+ {
+  "id": 217,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 217,
+  "target_min_rank": 3001,
+  "target_max_rank": 4000
+ },
+ {
+  "id": 218,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 218,
+  "target_min_rank": 4001,
+  "target_max_rank": 5000
+ },
+ {
+  "id": 219,
+  "circle_event_master_id": 2,
+  "circle_event_circle_ranking_reward_item_package_master_id": 219,
+  "target_min_rank": 5001,
+  "target_max_rank": 999999
+ },
+ {
+  "id": 301,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 301,
+  "target_min_rank": 1,
+  "target_max_rank": 1
+ },
+ {
+  "id": 302,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 302,
+  "target_min_rank": 2,
+  "target_max_rank": 2
+ },
+ {
+  "id": 303,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 303,
+  "target_min_rank": 3,
+  "target_max_rank": 3
+ },
+ {
+  "id": 304,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 304,
+  "target_min_rank": 4,
+  "target_max_rank": 10
+ },
+ {
+  "id": 305,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 305,
+  "target_min_rank": 11,
+  "target_max_rank": 20
+ },
+ {
+  "id": 306,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 306,
+  "target_min_rank": 21,
+  "target_max_rank": 30
+ },
+ {
+  "id": 307,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 307,
+  "target_min_rank": 31,
+  "target_max_rank": 40
+ },
+ {
+  "id": 308,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 308,
+  "target_min_rank": 41,
+  "target_max_rank": 50
+ },
+ {
+  "id": 309,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 309,
+  "target_min_rank": 51,
+  "target_max_rank": 100
+ },
+ {
+  "id": 310,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 310,
+  "target_min_rank": 101,
+  "target_max_rank": 200
+ },
+ {
+  "id": 311,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 311,
+  "target_min_rank": 201,
+  "target_max_rank": 300
+ },
+ {
+  "id": 312,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 312,
+  "target_min_rank": 301,
+  "target_max_rank": 400
+ },
+ {
+  "id": 313,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 313,
+  "target_min_rank": 401,
+  "target_max_rank": 500
+ },
+ {
+  "id": 314,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 314,
+  "target_min_rank": 501,
+  "target_max_rank": 1000
+ },
+ {
+  "id": 315,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 315,
+  "target_min_rank": 1001,
+  "target_max_rank": 2000
+ },
+ {
+  "id": 316,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 316,
+  "target_min_rank": 2001,
+  "target_max_rank": 3000
+ },
+ {
+  "id": 317,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 317,
+  "target_min_rank": 3001,
+  "target_max_rank": 4000
+ },
+ {
+  "id": 318,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 318,
+  "target_min_rank": 4001,
+  "target_max_rank": 5000
+ },
+ {
+  "id": 319,
+  "circle_event_master_id": 3,
+  "circle_event_circle_ranking_reward_item_package_master_id": 319,
+  "target_min_rank": 5001,
+  "target_max_rank": 999999
+ },
+ {
+  "id": 401,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 401,
+  "target_min_rank": 1,
+  "target_max_rank": 1
+ },
+ {
+  "id": 402,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 402,
+  "target_min_rank": 2,
+  "target_max_rank": 2
+ },
+ {
+  "id": 403,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 403,
+  "target_min_rank": 3,
+  "target_max_rank": 3
+ },
+ {
+  "id": 404,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 404,
+  "target_min_rank": 4,
+  "target_max_rank": 10
+ },
+ {
+  "id": 405,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 405,
+  "target_min_rank": 11,
+  "target_max_rank": 20
+ },
+ {
+  "id": 406,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 406,
+  "target_min_rank": 21,
+  "target_max_rank": 30
+ },
+ {
+  "id": 407,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 407,
+  "target_min_rank": 31,
+  "target_max_rank": 40
+ },
+ {
+  "id": 408,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 408,
+  "target_min_rank": 41,
+  "target_max_rank": 50
+ },
+ {
+  "id": 409,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 409,
+  "target_min_rank": 51,
+  "target_max_rank": 100
+ },
+ {
+  "id": 410,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 410,
+  "target_min_rank": 101,
+  "target_max_rank": 200
+ },
+ {
+  "id": 411,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 411,
+  "target_min_rank": 201,
+  "target_max_rank": 300
+ },
+ {
+  "id": 412,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 412,
+  "target_min_rank": 301,
+  "target_max_rank": 400
+ },
+ {
+  "id": 413,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 413,
+  "target_min_rank": 401,
+  "target_max_rank": 500
+ },
+ {
+  "id": 414,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 414,
+  "target_min_rank": 501,
+  "target_max_rank": 1000
+ },
+ {
+  "id": 415,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 415,
+  "target_min_rank": 1001,
+  "target_max_rank": 2000
+ },
+ {
+  "id": 416,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 416,
+  "target_min_rank": 2001,
+  "target_max_rank": 3000
+ },
+ {
+  "id": 417,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 417,
+  "target_min_rank": 3001,
+  "target_max_rank": 4000
+ },
+ {
+  "id": 418,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 418,
+  "target_min_rank": 4001,
+  "target_max_rank": 5000
+ },
+ {
+  "id": 419,
+  "circle_event_master_id": 4,
+  "circle_event_circle_ranking_reward_item_package_master_id": 419,
+  "target_min_rank": 5001,
+  "target_max_rank": 999999
+ },
+ {
+  "id": 501,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 501,
+  "target_min_rank": 1,
+  "target_max_rank": 1
+ },
+ {
+  "id": 502,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 502,
+  "target_min_rank": 2,
+  "target_max_rank": 2
+ },
+ {
+  "id": 503,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 503,
+  "target_min_rank": 3,
+  "target_max_rank": 3
+ },
+ {
+  "id": 504,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 504,
+  "target_min_rank": 4,
+  "target_max_rank": 10
+ },
+ {
+  "id": 505,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 505,
+  "target_min_rank": 11,
+  "target_max_rank": 20
+ },
+ {
+  "id": 506,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 506,
+  "target_min_rank": 21,
+  "target_max_rank": 30
+ },
+ {
+  "id": 507,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 507,
+  "target_min_rank": 31,
+  "target_max_rank": 40
+ },
+ {
+  "id": 508,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 508,
+  "target_min_rank": 41,
+  "target_max_rank": 50
+ },
+ {
+  "id": 509,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 509,
+  "target_min_rank": 51,
+  "target_max_rank": 100
+ },
+ {
+  "id": 510,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 510,
+  "target_min_rank": 101,
+  "target_max_rank": 200
+ },
+ {
+  "id": 511,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 511,
+  "target_min_rank": 201,
+  "target_max_rank": 300
+ },
+ {
+  "id": 512,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 512,
+  "target_min_rank": 301,
+  "target_max_rank": 400
+ },
+ {
+  "id": 513,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 513,
+  "target_min_rank": 401,
+  "target_max_rank": 500
+ },
+ {
+  "id": 514,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 514,
+  "target_min_rank": 501,
+  "target_max_rank": 1000
+ },
+ {
+  "id": 515,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 515,
+  "target_min_rank": 1001,
+  "target_max_rank": 2000
+ },
+ {
+  "id": 516,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 516,
+  "target_min_rank": 2001,
+  "target_max_rank": 3000
+ },
+ {
+  "id": 517,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 517,
+  "target_min_rank": 3001,
+  "target_max_rank": 4000
+ },
+ {
+  "id": 518,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 518,
+  "target_min_rank": 4001,
+  "target_max_rank": 5000
+ },
+ {
+  "id": 519,
+  "circle_event_master_id": 5,
+  "circle_event_circle_ranking_reward_item_package_master_id": 519,
+  "target_min_rank": 5001,
+  "target_max_rank": 999999
+ }
+]

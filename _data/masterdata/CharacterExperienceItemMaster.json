@@ -1,0 +1,20 @@
+[
+ {
+  "id": 120001,
+  "item_master_id": 120001,
+  "acquirable_experience": 10,
+  "acquirable_experience_bonus": 0.009999999776482582
+ },
+ {
+  "id": 120002,
+  "item_master_id": 120002,
+  "acquirable_experience": 100,
+  "acquirable_experience_bonus": 0.10000000149011612
+ },
+ {
+  "id": 120003,
+  "item_master_id": 120003,
+  "acquirable_experience": 1000,
+  "acquirable_experience_bonus": 1.0
+ }
+]

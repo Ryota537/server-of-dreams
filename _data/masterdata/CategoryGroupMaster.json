@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "order": 1,
+  "name": "学年",
+  "color_code": "#f8c90e"
+ },
+ {
+  "id": 2,
+  "order": 2,
+  "name": "劇団",
+  "color_code": "#f8b20e"
+ },
+ {
+  "id": 3,
+  "order": 3,
+  "name": "趣味",
+  "color_code": "#ffa5a8"
+ },
+ {
+  "id": 4,
+  "order": 4,
+  "name": "モチーフ",
+  "color_code": "#ff787d"
+ },
+ {
+  "id": 5,
+  "order": 5,
+  "name": "スポット",
+  "color_code": "#6df3c5"
+ },
+ {
+  "id": 6,
+  "order": 6,
+  "name": "演目",
+  "color_code": "#6df3c5"
+ },
+ {
+  "id": 7,
+  "order": 7,
+  "name": "イベント",
+  "color_code": "#6df3c5"
+ },
+ {
+  "id": 8,
+  "order": 8,
+  "name": "その他",
+  "color_code": "#6df3c5"
+ }
+]

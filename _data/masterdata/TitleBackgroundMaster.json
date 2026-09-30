@@ -1,0 +1,2774 @@
+[
+ {
+  "id": 1,
+  "priority": -1,
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 1001,
+    "path_type": 1,
+    "path_value": "Title_event_01",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1002,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_1",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1003,
+    "path_type": 1,
+    "path_value": "Title_event_03",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1004,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_2",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1005,
+    "path_type": 1,
+    "path_value": "Title_event_05",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1006,
+    "path_type": 1,
+    "path_value": "Title_event_06",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1007,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1008,
+    "path_type": 1,
+    "path_value": "Title_event_08",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1009,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1010,
+    "path_type": 1,
+    "path_value": "Title_event_10",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1011,
+    "path_type": 1,
+    "path_value": "Title_event_11",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1012,
+    "path_type": 1,
+    "path_value": "Title_event_12",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1013,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_5",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1014,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_7",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1015,
+    "path_type": 1,
+    "path_value": "Title_event_15",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1016,
+    "path_type": 1,
+    "path_value": "Title_event_16",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1017,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_6",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1018,
+    "path_type": 1,
+    "path_value": "Title_event_18",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1019,
+    "path_type": 1,
+    "path_value": "Title_event_19",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1021,
+    "path_type": 1,
+    "path_value": "Title_event_21",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1022,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_9",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1024,
+    "path_type": 1,
+    "path_value": "Title_event_24",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1025,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_8",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1026,
+    "path_type": 1,
+    "path_value": "Title_event_26",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1027,
+    "path_type": 1,
+    "path_value": "Title_event_27",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1028,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_10",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1029,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_11",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1030,
+    "path_type": 1,
+    "path_value": "Title_event_30",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1031,
+    "path_type": 1,
+    "path_value": "Title_event_31",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1032,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_12",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1033,
+    "path_type": 1,
+    "path_value": "Title_event_33",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1035,
+    "path_type": 1,
+    "path_value": "Title_event_35",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1036,
+    "path_type": 1,
+    "path_value": "Title_event_36",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1037,
+    "path_type": 1,
+    "path_value": "Title_event_37",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1038,
+    "path_type": 1,
+    "path_value": "Title_event_38",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1039,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_eve_1",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1040,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_eve_2",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1041,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_eve_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 1042,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "priority": -1,
+  "start_date": "2024-07-12T17:00:00+00:00",
+  "end_date": "2024-07-26T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11001,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_eve_1",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 11002,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_eve_2",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 11003,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_eve_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "priority": -1,
+  "start_date": "2024-07-26T00:00:00+00:00",
+  "end_date": "2024-08-09T17:00:00+00:00",
+  "details": [
+   {
+    "id": 12001,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "priority": -1,
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00",
+  "details": [
+   {
+    "id": 13001,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_1",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13002,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_2",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13003,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13004,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13005,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_5",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13006,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_6",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13007,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_7",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13008,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_8",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13009,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_9",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13010,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_10",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13011,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_11",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   },
+   {
+    "id": 13012,
+    "path_type": 1,
+    "path_value": "Title_1st_anniversary_after_12",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "priority": 1,
+  "start_date": "2024-08-04T00:00:00+00:00",
+  "end_date": "2024-08-05T00:00:00+00:00",
+  "details": [
+   {
+    "id": 14001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kathrina_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "priority": 1,
+  "start_date": "2024-08-20T00:00:00+00:00",
+  "end_date": "2024-08-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 15001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Hikari_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "priority": 1,
+  "start_date": "2024-09-13T00:00:00+00:00",
+  "end_date": "2024-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 16001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Panda_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "priority": 1,
+  "start_date": "2024-09-13T00:00:00+00:00",
+  "end_date": "2024-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 17001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Daikoku_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "priority": 1,
+  "start_date": "2024-10-03T00:00:00+00:00",
+  "end_date": "2024-10-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 18001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Koyomi_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "priority": 1,
+  "start_date": "2024-11-06T00:00:00+00:00",
+  "end_date": "2024-11-07T00:00:00+00:00",
+  "details": [
+   {
+    "id": 19001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Shigure_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "priority": 1,
+  "start_date": "2024-11-30T00:00:00+00:00",
+  "end_date": "2024-12-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Iroha_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "priority": 1,
+  "start_date": "2024-12-12T00:00:00+00:00",
+  "end_date": "2024-12-13T00:00:00+00:00",
+  "details": [
+   {
+    "id": 21001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kamira_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "priority": 1,
+  "start_date": "2024-12-25T00:00:00+00:00",
+  "end_date": "2024-12-26T00:00:00+00:00",
+  "details": [
+   {
+    "id": 22001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Tsubomi_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "priority": 1,
+  "start_date": "2025-01-20T00:00:00+00:00",
+  "end_date": "2025-01-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 23001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kokona_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "priority": 1,
+  "start_date": "2025-02-03T00:00:00+00:00",
+  "end_date": "2025-02-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 24001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Lilja_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "priority": 1,
+  "start_date": "2025-02-26T00:00:00+00:00",
+  "end_date": "2025-02-27T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Iruru_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "priority": 1,
+  "start_date": "2025-03-20T00:00:00+00:00",
+  "end_date": "2025-03-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 26001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Chisa_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "priority": 1,
+  "start_date": "2025-04-09T00:00:00+00:00",
+  "end_date": "2025-04-10T00:00:00+00:00",
+  "details": [
+   {
+    "id": 27001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Yae_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "priority": 1,
+  "start_date": "2025-05-05T00:00:00+00:00",
+  "end_date": "2025-05-06T00:00:00+00:00",
+  "details": [
+   {
+    "id": 28001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Mito_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "priority": 1,
+  "start_date": "2025-05-23T00:00:00+00:00",
+  "end_date": "2025-05-24T00:00:00+00:00",
+  "details": [
+   {
+    "id": 29001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Ramona_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "priority": 1,
+  "start_date": "2025-05-30T00:00:00+00:00",
+  "end_date": "2025-05-31T00:00:00+00:00",
+  "details": [
+   {
+    "id": 30001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Hatsumi_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "priority": 1,
+  "start_date": "2025-06-01T00:00:00+00:00",
+  "end_date": "2025-06-02T00:00:00+00:00",
+  "details": [
+   {
+    "id": 31001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Nikako_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "priority": 1,
+  "start_date": "2025-06-19T00:00:00+00:00",
+  "end_date": "2025-06-20T00:00:00+00:00",
+  "details": [
+   {
+    "id": 32001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Xue_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "priority": 1,
+  "start_date": "2025-07-17T00:00:00+00:00",
+  "end_date": "2025-07-18T00:00:00+00:00",
+  "details": [
+   {
+    "id": 33001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Towa_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "priority": 1,
+  "start_date": "2025-07-26T01:00:00+00:00",
+  "end_date": "2025-07-27T00:00:00+00:00",
+  "details": [
+   {
+    "id": 34001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Shizuka_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "priority": 1,
+  "start_date": "2025-08-04T00:00:00+00:00",
+  "end_date": "2025-08-05T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kathrina_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "priority": 1,
+  "start_date": "2025-08-20T00:00:00+00:00",
+  "end_date": "2025-08-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 36001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Hikari_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "priority": 1,
+  "start_date": "2025-09-13T00:00:00+00:00",
+  "end_date": "2025-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 37001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Panda_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "priority": 1,
+  "start_date": "2025-09-13T00:00:00+00:00",
+  "end_date": "2025-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 38001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Daikoku_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "priority": 1,
+  "start_date": "2025-10-03T00:00:00+00:00",
+  "end_date": "2025-10-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 39001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Koyomi_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "priority": 1,
+  "start_date": "2025-11-06T00:00:00+00:00",
+  "end_date": "2025-11-07T00:00:00+00:00",
+  "details": [
+   {
+    "id": 40001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Shigure_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "priority": 1,
+  "start_date": "2025-11-30T00:00:00+00:00",
+  "end_date": "2025-12-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 41001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Iroha_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "priority": 1,
+  "start_date": "2025-12-12T00:00:00+00:00",
+  "end_date": "2025-12-13T00:00:00+00:00",
+  "details": [
+   {
+    "id": 42001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kamira_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "priority": 1,
+  "start_date": "2025-12-25T00:00:00+00:00",
+  "end_date": "2025-12-26T00:00:00+00:00",
+  "details": [
+   {
+    "id": 43001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Tsubomi_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "priority": 1,
+  "start_date": "2026-01-20T00:00:00+00:00",
+  "end_date": "2026-01-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 44001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kokona_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "priority": 1,
+  "start_date": "2026-02-03T00:00:00+00:00",
+  "end_date": "2026-02-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 45001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Lilja_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "priority": 1,
+  "start_date": "2026-02-26T00:00:00+00:00",
+  "end_date": "2026-02-27T00:00:00+00:00",
+  "details": [
+   {
+    "id": 46001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Iruru_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "priority": 1,
+  "start_date": "2026-03-20T00:00:00+00:00",
+  "end_date": "2026-03-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 47001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Chisa_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "priority": 1,
+  "start_date": "2026-04-09T00:00:00+00:00",
+  "end_date": "2026-04-10T00:00:00+00:00",
+  "details": [
+   {
+    "id": 48001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Yae_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "priority": 1,
+  "start_date": "2026-05-05T00:00:00+00:00",
+  "end_date": "2026-05-06T00:00:00+00:00",
+  "details": [
+   {
+    "id": 49001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Mito_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "priority": 1,
+  "start_date": "2026-05-23T00:00:00+00:00",
+  "end_date": "2026-05-24T00:00:00+00:00",
+  "details": [
+   {
+    "id": 50001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Ramona_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "priority": 1,
+  "start_date": "2026-05-30T00:00:00+00:00",
+  "end_date": "2026-05-31T00:00:00+00:00",
+  "details": [
+   {
+    "id": 51001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Hatsumi_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "priority": 1,
+  "start_date": "2026-06-01T00:00:00+00:00",
+  "end_date": "2026-06-02T00:00:00+00:00",
+  "details": [
+   {
+    "id": 52001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Nikako_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "priority": 1,
+  "start_date": "2026-06-19T00:00:00+00:00",
+  "end_date": "2026-06-20T00:00:00+00:00",
+  "details": [
+   {
+    "id": 53001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Xue_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "priority": 1,
+  "start_date": "2026-07-17T00:00:00+00:00",
+  "end_date": "2026-07-17T15:00:00+00:00",
+  "details": [
+   {
+    "id": 54001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Towa_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "priority": 1,
+  "start_date": "2026-07-26T01:00:00+00:00",
+  "end_date": "2026-07-27T00:00:00+00:00",
+  "details": [
+   {
+    "id": 55001,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Shizuka_2026",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "priority": 1,
+  "start_date": "2026-08-04T00:00:00+00:00",
+  "end_date": "2026-08-05T00:00:00+00:00",
+  "details": [
+   {
+    "id": 56000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kathrina_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "priority": 1,
+  "start_date": "2026-08-04T00:00:00+00:00",
+  "end_date": "2026-08-05T00:00:00+00:00",
+  "details": [
+   {
+    "id": 57000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Kathrina_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "priority": 1,
+  "start_date": "2026-08-20T00:00:00+00:00",
+  "end_date": "2026-08-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 58000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Hikari_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "priority": 1,
+  "start_date": "2026-08-20T00:00:00+00:00",
+  "end_date": "2026-08-21T00:00:00+00:00",
+  "details": [
+   {
+    "id": 59000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Hikari_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "priority": 1,
+  "start_date": "2026-09-13T00:00:00+00:00",
+  "end_date": "2026-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 60000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Panda_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "priority": 1,
+  "start_date": "2026-09-13T00:00:00+00:00",
+  "end_date": "2026-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 61000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Panda_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "priority": 1,
+  "start_date": "2026-09-13T00:00:00+00:00",
+  "end_date": "2026-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 62000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Daikoku_2024",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "priority": 1,
+  "start_date": "2026-09-13T00:00:00+00:00",
+  "end_date": "2026-09-14T00:00:00+00:00",
+  "details": [
+   {
+    "id": 63000,
+    "path_type": 1,
+    "path_value": "Title_Birthday_Daikoku_2025",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 10721,
+  "priority": 1,
+  "start_date": "2024-10-27T00:00:00+00:00",
+  "end_date": "2024-11-02T17:00:00+00:00",
+  "details": [
+   {
+    "id": 10721000,
+    "path_type": 1,
+    "path_value": "Title_fes_gingaza_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 10722,
+  "priority": -1,
+  "start_date": "2024-11-02T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 10722000,
+    "path_type": 1,
+    "path_value": "Title_fes_gingaza_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 10831,
+  "priority": 1,
+  "start_date": "2025-01-26T17:00:00+00:00",
+  "end_date": "2025-02-02T17:00:00+00:00",
+  "details": [
+   {
+    "id": 10831000,
+    "path_type": 1,
+    "path_value": "Title_fes_denki_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 10832,
+  "priority": -1,
+  "start_date": "2025-02-02T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 10832000,
+    "path_type": 1,
+    "path_value": "Title_fes_denki_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 10981,
+  "priority": 1,
+  "start_date": "2025-04-26T17:00:00+00:00",
+  "end_date": "2025-05-03T17:00:00+00:00",
+  "details": [
+   {
+    "id": 10981000,
+    "path_type": 1,
+    "path_value": "Title_fes_eden_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 10982,
+  "priority": -1,
+  "start_date": "2025-05-03T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 10982000,
+    "path_type": 1,
+    "path_value": "Title_fes_eden_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11071,
+  "priority": 1,
+  "start_date": "2025-07-20T17:00:00+00:00",
+  "end_date": "2025-07-26T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11071000,
+    "path_type": 1,
+    "path_value": "Title_fes_sirius_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11072,
+  "priority": -1,
+  "start_date": "2025-08-09T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11072000,
+    "path_type": 1,
+    "path_value": "Title_fes_sirius_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11161,
+  "priority": 1,
+  "start_date": "2025-07-26T01:00:00+00:00",
+  "end_date": "2025-08-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11161000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_1",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11162,
+  "priority": 1,
+  "start_date": "2025-08-05T00:00:00+00:00",
+  "end_date": "2025-08-05T17:00:00+00:00",
+  "details": [
+   {
+    "id": 11162000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_1",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11163,
+  "priority": -1,
+  "start_date": "2025-08-05T17:00:00+00:00",
+  "end_date": "2025-08-28T17:00:00+00:00",
+  "details": [
+   {
+    "id": 11163000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_1",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11164,
+  "priority": -1,
+  "start_date": "2025-08-28T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11164000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_1_1",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11241,
+  "priority": 1,
+  "start_date": "2025-10-20T17:00:00+00:00",
+  "end_date": "2025-10-26T17:00:00+00:00",
+  "details": [
+   {
+    "id": 11241000,
+    "path_type": 1,
+    "path_value": "Title_fes_gingaza_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11242,
+  "priority": -1,
+  "start_date": "2025-10-26T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11242000,
+    "path_type": 1,
+    "path_value": "Title_fes_gingaza_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11361,
+  "priority": 1,
+  "start_date": "2026-01-20T17:00:00+00:00",
+  "end_date": "2026-01-26T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11361000,
+    "path_type": 1,
+    "path_value": "Title_fes_denki_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11362,
+  "priority": -1,
+  "start_date": "2026-01-26T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11362000,
+    "path_type": 1,
+    "path_value": "Title_fes_denki_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11501,
+  "priority": 1,
+  "start_date": "2026-04-20T17:00:00+00:00",
+  "end_date": "2026-04-26T17:00:00+00:00",
+  "details": [
+   {
+    "id": 11501000,
+    "path_type": 1,
+    "path_value": "Title_fes_eden_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11502,
+  "priority": -1,
+  "start_date": "2026-04-26T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11502000,
+    "path_type": 1,
+    "path_value": "Title_fes_eden_4",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11671,
+  "priority": 1,
+  "start_date": "2026-07-20T17:00:00+00:00",
+  "end_date": "2026-07-26T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11671000,
+    "path_type": 1,
+    "path_value": "Title_fes_finale",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 11672,
+  "priority": -1,
+  "start_date": "2026-07-26T00:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 11672000,
+    "path_type": 1,
+    "path_value": "Title_fes_finale",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20023,
+  "priority": 1,
+  "start_date": "2024-09-20T17:00:00+00:00",
+  "end_date": "2024-09-30T17:00:00+00:00",
+  "details": [
+   {
+    "id": 20023001,
+    "path_type": 1,
+    "path_value": "Title_event_23",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20039,
+  "priority": -1,
+  "start_date": "2024-08-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20039001,
+    "path_type": 1,
+    "path_value": "Title_event_39",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20040,
+  "priority": -1,
+  "start_date": "2024-09-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20040001,
+    "path_type": 1,
+    "path_value": "Title_event_40",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20041,
+  "priority": -1,
+  "start_date": "2024-10-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20041001,
+    "path_type": 1,
+    "path_value": "Title_event_41",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20043,
+  "priority": -1,
+  "start_date": "2024-10-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20043001,
+    "path_type": 1,
+    "path_value": "Title_event_43",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20044,
+  "priority": 0,
+  "start_date": "2024-11-20T17:00:00+00:00",
+  "end_date": "2024-11-30T17:00:00+00:00",
+  "details": [
+   {
+    "id": 20044001,
+    "path_type": 1,
+    "path_value": "Title_event_44",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20045,
+  "priority": 1,
+  "start_date": "2024-11-30T17:00:00+00:00",
+  "end_date": "2024-12-10T17:00:00+00:00",
+  "details": [
+   {
+    "id": 20045001,
+    "path_type": 1,
+    "path_value": "Title_event_45",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20046,
+  "priority": -1,
+  "start_date": "2024-12-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20046000,
+    "path_type": 1,
+    "path_value": "Title_event_46",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20047,
+  "priority": -1,
+  "start_date": "2024-12-31T15:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20047001,
+    "path_type": 1,
+    "path_value": "Title_event_47",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20048,
+  "priority": -1,
+  "start_date": "2025-01-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20048000,
+    "path_type": 1,
+    "path_value": "Title_event_48",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20049,
+  "priority": -1,
+  "start_date": "2025-01-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20049000,
+    "path_type": 1,
+    "path_value": "Title_event_49",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20050,
+  "priority": 0,
+  "start_date": "2025-02-18T17:00:00+00:00",
+  "end_date": "2025-02-28T17:00:00+00:00",
+  "details": [
+   {
+    "id": 20050000,
+    "path_type": 1,
+    "path_value": "Title_event_50",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20051,
+  "priority": -1,
+  "start_date": "2025-02-28T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20051000,
+    "path_type": 1,
+    "path_value": "Title_event_51",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20052,
+  "priority": -1,
+  "start_date": "2025-03-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20052000,
+    "path_type": 1,
+    "path_value": "Title_event_52",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20053,
+  "priority": -1,
+  "start_date": "2025-03-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20053000,
+    "path_type": 1,
+    "path_value": "Title_event_53",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20054,
+  "priority": -1,
+  "start_date": "2025-04-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20054000,
+    "path_type": 1,
+    "path_value": "Title_event_54",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20055,
+  "priority": -1,
+  "start_date": "2025-04-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20055000,
+    "path_type": 1,
+    "path_value": "Title_event_55",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20056,
+  "priority": -1,
+  "start_date": "2025-05-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20056000,
+    "path_type": 1,
+    "path_value": "Title_event_56",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20057,
+  "priority": -1,
+  "start_date": "2025-05-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20057000,
+    "path_type": 1,
+    "path_value": "Title_event_57",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20058,
+  "priority": 0,
+  "start_date": "2025-06-20T17:00:00+00:00",
+  "end_date": "2025-06-30T17:00:00+00:00",
+  "details": [
+   {
+    "id": 20058000,
+    "path_type": 1,
+    "path_value": "Title_event_58",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20059,
+  "priority": -1,
+  "start_date": "2025-06-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20059000,
+    "path_type": 1,
+    "path_value": "Title_event_59",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20060,
+  "priority": -1,
+  "start_date": "2025-07-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20060000,
+    "path_type": 1,
+    "path_value": "Title_event_60",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20061,
+  "priority": -1,
+  "start_date": "2025-08-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20061000,
+    "path_type": 1,
+    "path_value": "Title_event_61",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20062,
+  "priority": -1,
+  "start_date": "2025-09-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20062000,
+    "path_type": 1,
+    "path_value": "Title_event_62",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20063,
+  "priority": -1,
+  "start_date": "2025-10-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20063000,
+    "path_type": 1,
+    "path_value": "Title_event_63",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20064,
+  "priority": -1,
+  "start_date": "2025-11-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20064000,
+    "path_type": 1,
+    "path_value": "Title_event_64",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20065,
+  "priority": -1,
+  "start_date": "2025-12-31T15:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20065000,
+    "path_type": 1,
+    "path_value": "Title_event_65",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20066,
+  "priority": -1,
+  "start_date": "2026-01-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20066000,
+    "path_type": 1,
+    "path_value": "Title_event_66",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20067,
+  "priority": -1,
+  "start_date": "2026-02-28T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20067000,
+    "path_type": 1,
+    "path_value": "Title_event_67",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20068,
+  "priority": -1,
+  "start_date": "2026-03-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20068000,
+    "path_type": 1,
+    "path_value": "Title_event_68",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20069,
+  "priority": -1,
+  "start_date": "2026-04-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20069000,
+    "path_type": 1,
+    "path_value": "Title_event_69",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20070,
+  "priority": -1,
+  "start_date": "2026-05-31T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20070000,
+    "path_type": 1,
+    "path_value": "Title_event_70",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 20071,
+  "priority": -1,
+  "start_date": "2026-06-30T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 20071000,
+    "path_type": 1,
+    "path_value": "Title_event_71",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25001,
+  "priority": -1,
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25001001,
+    "path_type": 1,
+    "path_value": "Title_event_r_01",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25002,
+  "priority": -1,
+  "start_date": "2024-09-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25002001,
+    "path_type": 1,
+    "path_value": "Title_event_r_02",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25003,
+  "priority": 1,
+  "start_date": "2024-10-10T17:00:00+00:00",
+  "end_date": "2024-10-20T17:00:00+00:00",
+  "details": [
+   {
+    "id": 25003001,
+    "path_type": 1,
+    "path_value": "Title_event_r_03",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25004,
+  "priority": -1,
+  "start_date": "2024-11-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25004001,
+    "path_type": 1,
+    "path_value": "Title_event_r_04",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25005,
+  "priority": -1,
+  "start_date": "2024-12-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25005001,
+    "path_type": 1,
+    "path_value": "Title_event_r_05",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25006,
+  "priority": -1,
+  "start_date": "2025-01-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25006001,
+    "path_type": 1,
+    "path_value": "Title_event_r_06",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25007,
+  "priority": -1,
+  "start_date": "2025-02-09T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25007001,
+    "path_type": 1,
+    "path_value": "Title_event_r_07",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25008,
+  "priority": -1,
+  "start_date": "2025-03-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25008001,
+    "path_type": 1,
+    "path_value": "Title_event_r_08",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25009,
+  "priority": -1,
+  "start_date": "2025-04-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25009001,
+    "path_type": 1,
+    "path_value": "Title_event_r_09",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25010,
+  "priority": 0,
+  "start_date": "2025-05-10T17:00:00+00:00",
+  "end_date": "2025-05-20T17:00:00+00:00",
+  "details": [
+   {
+    "id": 25010001,
+    "path_type": 1,
+    "path_value": "Title_event_r_10",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25011,
+  "priority": -1,
+  "start_date": "2025-06-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25011001,
+    "path_type": 1,
+    "path_value": "Title_event_r_11",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25012,
+  "priority": -1,
+  "start_date": "2025-07-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25012001,
+    "path_type": 1,
+    "path_value": "Title_event_r_12",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25013,
+  "priority": -1,
+  "start_date": "2025-08-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25013001,
+    "path_type": 1,
+    "path_value": "Title_event_r_13",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25014,
+  "priority": -1,
+  "start_date": "2025-09-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25014001,
+    "path_type": 1,
+    "path_value": "Title_event_r_14",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25015,
+  "priority": -1,
+  "start_date": "2025-10-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25015001,
+    "path_type": 1,
+    "path_value": "Title_event_r_15",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25016,
+  "priority": -1,
+  "start_date": "2025-11-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25016001,
+    "path_type": 1,
+    "path_value": "Title_event_r_16",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25017,
+  "priority": -1,
+  "start_date": "2025-02-09T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25017001,
+    "path_type": 1,
+    "path_value": "Title_event_r_17",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 25018,
+  "priority": -1,
+  "start_date": "2026-04-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 25018001,
+    "path_type": 1,
+    "path_value": "Title_event_r_18",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 26001,
+  "priority": -1,
+  "start_date": "2025-12-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 26001000,
+    "path_type": 1,
+    "path_value": "Title_event_v_01",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 26002,
+  "priority": -1,
+  "start_date": "2026-01-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 26002000,
+    "path_type": 1,
+    "path_value": "Title_event_v_02",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 26003,
+  "priority": -1,
+  "start_date": "2026-03-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 26003000,
+    "path_type": 1,
+    "path_value": "Title_event_v_03",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 26004,
+  "priority": -1,
+  "start_date": "2026-05-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 26004000,
+    "path_type": 1,
+    "path_value": "Title_event_v_04",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 26005,
+  "priority": -1,
+  "start_date": "2026-06-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 26005000,
+    "path_type": 1,
+    "path_value": "Title_event_v_05",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 26006,
+  "priority": -1,
+  "start_date": "2026-07-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 26006000,
+    "path_type": 1,
+    "path_value": "Title_event_v_06",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30000,
+  "priority": 0,
+  "start_date": "2025-03-15T17:00:00+00:00",
+  "end_date": "2025-03-25T17:00:00+00:00",
+  "details": [
+   {
+    "id": 30000001,
+    "path_type": 1,
+    "path_value": "Title_onmusu",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30001,
+  "priority": 0,
+  "start_date": "2025-05-15T12:00:00+00:00",
+  "end_date": "2025-05-31T00:00:00+00:00",
+  "details": [
+   {
+    "id": 30001001,
+    "path_type": 1,
+    "path_value": "Title_idoly_pride",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30002,
+  "priority": 1,
+  "start_date": "2025-07-26T00:00:00+00:00",
+  "end_date": "2025-08-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 30002001,
+    "path_type": 1,
+    "path_value": "Title_2nd_anniversary",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30003,
+  "priority": 1,
+  "start_date": "2025-08-05T00:00:00+00:00",
+  "end_date": "2025-08-09T17:00:00+00:00",
+  "details": [
+   {
+    "id": 30003001,
+    "path_type": 1,
+    "path_value": "Title_2nd_anniversary",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30004,
+  "priority": 1,
+  "start_date": "2025-08-09T17:00:00+00:00",
+  "end_date": "2025-08-20T00:00:00+00:00",
+  "details": [
+   {
+    "id": 30004001,
+    "path_type": 1,
+    "path_value": "Title_2nd_anniversary_after",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30005,
+  "priority": 1,
+  "start_date": "2025-08-21T00:00:00+00:00",
+  "end_date": "2025-08-23T17:00:00+00:00",
+  "details": [
+   {
+    "id": 30005001,
+    "path_type": 1,
+    "path_value": "Title_2nd_anniversary_after",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30006,
+  "priority": 1,
+  "start_date": "2026-01-26T00:00:00+00:00",
+  "end_date": "2026-02-03T00:00:00+00:00",
+  "details": [
+   {
+    "id": 30006001,
+    "path_type": 1,
+    "path_value": "Title_2_5th_anniversary",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30007,
+  "priority": 1,
+  "start_date": "2026-02-04T00:00:00+00:00",
+  "end_date": "2026-02-09T17:00:00+00:00",
+  "details": [
+   {
+    "id": 30007001,
+    "path_type": 1,
+    "path_value": "Title_2_5th_anniversary",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30008,
+  "priority": 1,
+  "start_date": "2026-02-09T17:00:00+00:00",
+  "end_date": "2026-02-23T17:00:00+00:00",
+  "details": [
+   {
+    "id": 30008001,
+    "path_type": 1,
+    "path_value": "Title_2_5th_anniversary_after",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30009,
+  "priority": 1,
+  "start_date": "2026-07-26T00:00:00+00:00",
+  "end_date": "2026-08-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 30009001,
+    "path_type": 1,
+    "path_value": "Title_3rd_anniversary",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 30010,
+  "priority": 1,
+  "start_date": "2026-08-05T00:00:00+00:00",
+  "end_date": "2026-08-09T17:00:00+00:00",
+  "details": [
+   {
+    "id": 30010001,
+    "path_type": 1,
+    "path_value": "Title_3rd_anniversary",
+    "is_title_hide": true,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35002,
+  "priority": -1,
+  "start_date": "2025-08-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35002000,
+    "path_type": 1,
+    "path_value": "Title_event_m_02",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35003,
+  "priority": -1,
+  "start_date": "2025-09-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35003000,
+    "path_type": 1,
+    "path_value": "Title_event_m_03",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35005,
+  "priority": -1,
+  "start_date": "2025-11-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35005000,
+    "path_type": 1,
+    "path_value": "Title_event_m_05",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35006,
+  "priority": -1,
+  "start_date": "2025-12-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35006000,
+    "path_type": 1,
+    "path_value": "Title_event_m_06",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35008,
+  "priority": -1,
+  "start_date": "2026-02-18T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35008000,
+    "path_type": 1,
+    "path_value": "Title_event_m_08",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35009,
+  "priority": -1,
+  "start_date": "2026-03-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35009000,
+    "path_type": 1,
+    "path_value": "Title_event_m_09",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35011,
+  "priority": -1,
+  "start_date": "2026-05-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35011000,
+    "path_type": 1,
+    "path_value": "Title_event_m_11",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 35012,
+  "priority": -1,
+  "start_date": "2026-06-20T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 35012000,
+    "path_type": 1,
+    "path_value": "Title_event_m_12",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 86901,
+  "priority": 1,
+  "start_date": "2025-10-26T17:00:00+00:00",
+  "end_date": "2025-11-05T17:00:00+00:00",
+  "details": [
+   {
+    "id": 86901000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_2",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 86902,
+  "priority": -1,
+  "start_date": "2025-11-05T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 86902000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_2",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 87401,
+  "priority": 1,
+  "start_date": "2026-01-26T01:00:00+00:00",
+  "end_date": "2026-02-03T00:00:00+00:00",
+  "details": [
+   {
+    "id": 87401000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 87402,
+  "priority": 1,
+  "start_date": "2026-02-04T00:00:00+00:00",
+  "end_date": "2026-02-05T17:00:00+00:00",
+  "details": [
+   {
+    "id": 87402000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 87403,
+  "priority": -1,
+  "start_date": "2026-02-05T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 87403000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_3",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 88501,
+  "priority": 1,
+  "start_date": "2026-04-26T17:00:00+00:00",
+  "end_date": "2026-05-05T00:00:00+00:00",
+  "details": [
+   {
+    "id": 88501000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_5",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 88502,
+  "priority": 1,
+  "start_date": "2026-05-06T00:00:00+00:00",
+  "end_date": "2026-05-06T17:00:00+00:00",
+  "details": [
+   {
+    "id": 88502000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_5",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 88503,
+  "priority": -1,
+  "start_date": "2026-05-06T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 88503000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_5",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 89501,
+  "priority": 1,
+  "start_date": "2026-07-26T01:00:00+00:00",
+  "end_date": "2026-08-04T00:00:00+00:00",
+  "details": [
+   {
+    "id": 89501000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_6",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 89502,
+  "priority": 1,
+  "start_date": "2026-08-05T00:00:00+00:00",
+  "end_date": "2026-08-09T17:00:00+00:00",
+  "details": [
+   {
+    "id": 89502000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_6",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ },
+ {
+  "id": 89503,
+  "priority": -1,
+  "start_date": "2026-08-09T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "details": [
+   {
+    "id": 89503000,
+    "path_type": 1,
+    "path_value": "Title_fes_stella_6",
+    "is_title_hide": false,
+    "is_decoration_hide": false
+   }
+  ]
+ }
+]

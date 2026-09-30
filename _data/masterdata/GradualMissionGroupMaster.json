@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1,
+  "start_date": "2021-07-01T00:00:00+00:00",
+  "end_date": "2099-12-31T00:00:00+00:00",
+  "missions": [
+   {
+    "days": 1,
+    "mission_master_ids": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "days": 2,
+    "mission_master_ids": [
+     7,
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "days": 3,
+    "mission_master_ids": [
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "days": 4,
+    "mission_master_ids": [
+     19,
+     20,
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "days": 5,
+    "mission_master_ids": [
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "days": 6,
+    "mission_master_ids": [
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "days": 7,
+    "mission_master_ids": [
+     37,
+     38,
+     39,
+     40,
+     41,
+     42
+    ]
+   }
+  ]
+ }
+]

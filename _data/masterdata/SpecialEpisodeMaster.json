@@ -1,0 +1,38 @@
+[
+ {
+  "id": 3000101,
+  "story_master_id": 30001,
+  "title": "今日はあの人の誕生日",
+  "required_read_episode_master_id": null
+ },
+ {
+  "id": 3000201,
+  "story_master_id": 30002,
+  "title": "夢への一歩を",
+  "required_read_episode_master_id": null
+ },
+ {
+  "id": 3000301,
+  "story_master_id": 30003,
+  "title": "国も劇団も飛び越えて",
+  "required_read_episode_master_id": null
+ },
+ {
+  "id": 3000401,
+  "story_master_id": 30004,
+  "title": "幾星霜を遙か",
+  "required_read_episode_master_id": null
+ },
+ {
+  "id": 3000501,
+  "story_master_id": 30005,
+  "title": "起きても続く楽しい夢",
+  "required_read_episode_master_id": null
+ },
+ {
+  "id": 3000601,
+  "story_master_id": 30006,
+  "title": "楽園に届いた報せ",
+  "required_read_episode_master_id": null
+ }
+]

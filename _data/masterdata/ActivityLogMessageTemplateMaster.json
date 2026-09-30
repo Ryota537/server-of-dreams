@@ -1,0 +1,52 @@
+[
+ {
+  "id": 1,
+  "log_type": 1,
+  "message_template": "{0}さんがサークルに参加しました"
+ },
+ {
+  "id": 2,
+  "log_type": 2,
+  "message_template": "{0}さんがサークルから退会しました"
+ },
+ {
+  "id": 3,
+  "log_type": 3,
+  "message_template": "{0}さんの役職が変更されました"
+ },
+ {
+  "id": 4,
+  "log_type": 4,
+  "message_template": "{0}さんがアクターガチャで {1}「{2}」を獲得しました！"
+ },
+ {
+  "id": 5,
+  "log_type": 5,
+  "message_template": "{0}さんがポスターガチャで {1}「{2}」を獲得しました！"
+ },
+ {
+  "id": 6,
+  "log_type": 6,
+  "message_template": "{0}さんが プレイヤーレート {1} を達成しました！"
+ },
+ {
+  "id": 7,
+  "log_type": 7,
+  "message_template": "{0}さんが「{1}」{2} を初めて ALL PERFECT でクリアしました！"
+ },
+ {
+  "id": 8,
+  "log_type": 8,
+  "message_template": "{0}さんが「{1}」{2} を初めて FULL COMBO でクリアしました！"
+ },
+ {
+  "id": 9,
+  "log_type": 9,
+  "message_template": "{0}さんがサポート劇団「{1}」にアイテムを支援しました！"
+ },
+ {
+  "id": 10,
+  "log_type": 10,
+  "message_template": "サポート劇団「{0}」のレベル上限が{1}→{2}になりました！"
+ }
+]

@@ -1,0 +1,1058 @@
+[
+ {
+  "id": 100001,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 100002,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 2
+ },
+ {
+  "id": 100003,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 3
+ },
+ {
+  "id": 100004,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 4
+ },
+ {
+  "id": 100005,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 5
+ },
+ {
+  "id": 100010,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 100012,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 100014,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 4
+ },
+ {
+  "id": 100020,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 2,
+  "special_light": 0
+ },
+ {
+  "id": 100021,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 100023,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 2,
+  "special_light": 3
+ },
+ {
+  "id": 100030,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 3,
+  "special_light": 0
+ },
+ {
+  "id": 100032,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 3,
+  "special_light": 2
+ },
+ {
+  "id": 100040,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 4,
+  "special_light": 0
+ },
+ {
+  "id": 100041,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 4,
+  "special_light": 1
+ },
+ {
+  "id": 100050,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 5,
+  "special_light": 0
+ },
+ {
+  "id": 100100,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 100102,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 2
+ },
+ {
+  "id": 100104,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 4
+ },
+ {
+  "id": 100111,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 100112,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 100113,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 3
+ },
+ {
+  "id": 100114,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 4
+ },
+ {
+  "id": 100120,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 0
+ },
+ {
+  "id": 100122,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 2
+ },
+ {
+  "id": 100131,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 3,
+  "special_light": 1
+ },
+ {
+  "id": 100140,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 1,
+  "amplification_light": 4,
+  "special_light": 0
+ },
+ {
+  "id": 100200,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 100201,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 100203,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 0,
+  "special_light": 3
+ },
+ {
+  "id": 100210,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 100212,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 100221,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 100223,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 2,
+  "special_light": 3
+ },
+ {
+  "id": 100230,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 2,
+  "amplification_light": 3,
+  "special_light": 0
+ },
+ {
+  "id": 100300,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 3,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 100302,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 3,
+  "amplification_light": 0,
+  "special_light": 2
+ },
+ {
+  "id": 100311,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 3,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 100320,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 3,
+  "amplification_light": 2,
+  "special_light": 0
+ },
+ {
+  "id": 100400,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 4,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 100401,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 4,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 100410,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 4,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 100411,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 4,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 100500,
+  "free_light": 0,
+  "support_light": 0,
+  "control_light": 5,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 101000,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 101002,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 2
+ },
+ {
+  "id": 101004,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 4
+ },
+ {
+  "id": 101011,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 101013,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 3
+ },
+ {
+  "id": 101020,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 2,
+  "special_light": 0
+ },
+ {
+  "id": 101022,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 2,
+  "special_light": 2
+ },
+ {
+  "id": 101031,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 3,
+  "special_light": 1
+ },
+ {
+  "id": 101040,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 4,
+  "special_light": 0
+ },
+ {
+  "id": 101041,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 0,
+  "amplification_light": 4,
+  "special_light": 1
+ },
+ {
+  "id": 101101,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 101103,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 3
+ },
+ {
+  "id": 101104,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 4
+ },
+ {
+  "id": 101110,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 101111,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 101112,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 101114,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 4
+ },
+ {
+  "id": 101115,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 5
+ },
+ {
+  "id": 101121,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 101124,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 4
+ },
+ {
+  "id": 101130,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 3,
+  "special_light": 0
+ },
+ {
+  "id": 101141,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 4,
+  "special_light": 1
+ },
+ {
+  "id": 101142,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 4,
+  "special_light": 2
+ },
+ {
+  "id": 101151,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 5,
+  "special_light": 1
+ },
+ {
+  "id": 101200,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 2,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 101211,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 101214,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 4
+ },
+ {
+  "id": 101223,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 2,
+  "amplification_light": 2,
+  "special_light": 3
+ },
+ {
+  "id": 101232,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 2,
+  "amplification_light": 3,
+  "special_light": 2
+ },
+ {
+  "id": 101241,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 2,
+  "amplification_light": 4,
+  "special_light": 1
+ },
+ {
+  "id": 101301,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 3,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 101310,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 3,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 101314,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 3,
+  "amplification_light": 1,
+  "special_light": 4
+ },
+ {
+  "id": 101322,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 3,
+  "amplification_light": 2,
+  "special_light": 2
+ },
+ {
+  "id": 101400,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 4,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 101411,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 4,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 101412,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 4,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 101421,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 4,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 101511,
+  "free_light": 0,
+  "support_light": 1,
+  "control_light": 5,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 102000,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 102001,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 102003,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 3
+ },
+ {
+  "id": 102010,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 102012,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 102021,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 0,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 102030,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 0,
+  "amplification_light": 3,
+  "special_light": 0
+ },
+ {
+  "id": 102100,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 102102,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 2
+ },
+ {
+  "id": 102111,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 102120,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 0
+ },
+ {
+  "id": 102123,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 3
+ },
+ {
+  "id": 102141,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 1,
+  "amplification_light": 4,
+  "special_light": 1
+ },
+ {
+  "id": 102201,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 2,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 102210,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 102222,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 2,
+  "amplification_light": 2,
+  "special_light": 2
+ },
+ {
+  "id": 102223,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 2,
+  "amplification_light": 2,
+  "special_light": 3
+ },
+ {
+  "id": 102232,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 2,
+  "amplification_light": 3,
+  "special_light": 2
+ },
+ {
+  "id": 102300,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 3,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 102312,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 3,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 102322,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 3,
+  "amplification_light": 2,
+  "special_light": 2
+ },
+ {
+  "id": 102412,
+  "free_light": 0,
+  "support_light": 2,
+  "control_light": 4,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 103000,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 103002,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 2
+ },
+ {
+  "id": 103011,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 103020,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 0,
+  "amplification_light": 2,
+  "special_light": 0
+ },
+ {
+  "id": 103101,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 103110,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 103121,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 103122,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 2
+ },
+ {
+  "id": 103132,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 1,
+  "amplification_light": 3,
+  "special_light": 2
+ },
+ {
+  "id": 103200,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 2,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 103211,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 103212,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 2
+ },
+ {
+  "id": 103221,
+  "free_light": 0,
+  "support_light": 3,
+  "control_light": 2,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 104000,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 104001,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 1
+ },
+ {
+  "id": 104010,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 0,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 104100,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 104110,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 0
+ },
+ {
+  "id": 104111,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 104121,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 1,
+  "amplification_light": 2,
+  "special_light": 1
+ },
+ {
+  "id": 104211,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 2,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 104222,
+  "free_light": 0,
+  "support_light": 4,
+  "control_light": 2,
+  "amplification_light": 2,
+  "special_light": 2
+ },
+ {
+  "id": 105000,
+  "free_light": 0,
+  "support_light": 5,
+  "control_light": 0,
+  "amplification_light": 0,
+  "special_light": 0
+ },
+ {
+  "id": 105111,
+  "free_light": 0,
+  "support_light": 5,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 111104,
+  "free_light": 1,
+  "support_light": 1,
+  "control_light": 1,
+  "amplification_light": 0,
+  "special_light": 4
+ },
+ {
+  "id": 123111,
+  "free_light": 2,
+  "support_light": 3,
+  "control_light": 1,
+  "amplification_light": 1,
+  "special_light": 1
+ },
+ {
+  "id": 140031,
+  "free_light": 4,
+  "support_light": 0,
+  "control_light": 0,
+  "amplification_light": 3,
+  "special_light": 1
+ }
+]

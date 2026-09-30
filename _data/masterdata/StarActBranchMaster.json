@@ -1,0 +1,2958 @@
+[
+ {
+  "id": 14076101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19031
+   }
+  ]
+ },
+ {
+  "id": 14076102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19032
+   }
+  ]
+ },
+ {
+  "id": 14076103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19033
+   }
+  ]
+ },
+ {
+  "id": 14076104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19034
+   }
+  ]
+ },
+ {
+  "id": 14076105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19035
+   }
+  ]
+ },
+ {
+  "id": 14077101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19001
+   }
+  ]
+ },
+ {
+  "id": 14077102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19002
+   }
+  ]
+ },
+ {
+  "id": 14077103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19003
+   }
+  ]
+ },
+ {
+  "id": 14077104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19004
+   }
+  ]
+ },
+ {
+  "id": 14077105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19005
+   }
+  ]
+ },
+ {
+  "id": 14080101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14080102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14080103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14080104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14080105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14081101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14081102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14081103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14081104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14081105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14084101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14084102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14084103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14084104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14084105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14087101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19031
+   }
+  ]
+ },
+ {
+  "id": 14087102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19032
+   }
+  ]
+ },
+ {
+  "id": 14087103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19033
+   }
+  ]
+ },
+ {
+  "id": 14087104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19034
+   }
+  ]
+ },
+ {
+  "id": 14087105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19035
+   }
+  ]
+ },
+ {
+  "id": 14092101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19001
+   }
+  ]
+ },
+ {
+  "id": 14092102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19002
+   }
+  ]
+ },
+ {
+  "id": 14092103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19003
+   }
+  ]
+ },
+ {
+  "id": 14092104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19004
+   }
+  ]
+ },
+ {
+  "id": 14092105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19005
+   }
+  ]
+ },
+ {
+  "id": 14092106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19006
+   }
+  ]
+ },
+ {
+  "id": 14092107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19007
+   }
+  ]
+ },
+ {
+  "id": 14092108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19008
+   }
+  ]
+ },
+ {
+  "id": 14092109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19009
+   }
+  ]
+ },
+ {
+  "id": 14092110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19010
+   }
+  ]
+ },
+ {
+  "id": 14093101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19001
+   }
+  ]
+ },
+ {
+  "id": 14093102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19002
+   }
+  ]
+ },
+ {
+  "id": 14093103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19003
+   }
+  ]
+ },
+ {
+  "id": 14093104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19004
+   }
+  ]
+ },
+ {
+  "id": 14093105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19005
+   }
+  ]
+ },
+ {
+  "id": 14093106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19006
+   }
+  ]
+ },
+ {
+  "id": 14093107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19007
+   }
+  ]
+ },
+ {
+  "id": 14093108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19008
+   }
+  ]
+ },
+ {
+  "id": 14093109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19009
+   }
+  ]
+ },
+ {
+  "id": 14093110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19010
+   }
+  ]
+ },
+ {
+  "id": 14096101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14096102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14096103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14096104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14096105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14106101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19031
+   }
+  ]
+ },
+ {
+  "id": 14106102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19032
+   }
+  ]
+ },
+ {
+  "id": 14106103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19033
+   }
+  ]
+ },
+ {
+  "id": 14106104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19034
+   }
+  ]
+ },
+ {
+  "id": 14106105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19035
+   }
+  ]
+ },
+ {
+  "id": 14118101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19060
+   }
+  ]
+ },
+ {
+  "id": 14118102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19061
+   }
+  ]
+ },
+ {
+  "id": 14118103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19062
+   }
+  ]
+ },
+ {
+  "id": 14118104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19063
+   }
+  ]
+ },
+ {
+  "id": 14118105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19064
+   }
+  ]
+ },
+ {
+  "id": 14119101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19065
+   }
+  ]
+ },
+ {
+  "id": 14119102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19066
+   }
+  ]
+ },
+ {
+  "id": 14119103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19067
+   }
+  ]
+ },
+ {
+  "id": 14119104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19068
+   }
+  ]
+ },
+ {
+  "id": 14119105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19069
+   }
+  ]
+ },
+ {
+  "id": 14123101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14123102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14123103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14123104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14123105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14124101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19001
+   }
+  ]
+ },
+ {
+  "id": 14124102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19002
+   }
+  ]
+ },
+ {
+  "id": 14124103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19003
+   }
+  ]
+ },
+ {
+  "id": 14124104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19004
+   }
+  ]
+ },
+ {
+  "id": 14130101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14130102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14130103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14130104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14130105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14133101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19001
+   }
+  ]
+ },
+ {
+  "id": 14133102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19002
+   }
+  ]
+ },
+ {
+  "id": 14133103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19003
+   }
+  ]
+ },
+ {
+  "id": 14133104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19004
+   }
+  ]
+ },
+ {
+  "id": 14141101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19105
+   }
+  ]
+ },
+ {
+  "id": 14141102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19106
+   }
+  ]
+ },
+ {
+  "id": 14141103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19107
+   }
+  ]
+ },
+ {
+  "id": 14141104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19108
+   }
+  ]
+ },
+ {
+  "id": 14141105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19109
+   }
+  ]
+ },
+ {
+  "id": 14142101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19100
+   }
+  ]
+ },
+ {
+  "id": 14142102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19101
+   }
+  ]
+ },
+ {
+  "id": 14142103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19102
+   }
+  ]
+ },
+ {
+  "id": 14142104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19103
+   }
+  ]
+ },
+ {
+  "id": 14142105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19104
+   }
+  ]
+ },
+ {
+  "id": 14161101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19200
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19150
+   }
+  ]
+ },
+ {
+  "id": 14161102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19201
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19151
+   }
+  ]
+ },
+ {
+  "id": 14161103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19202
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19152
+   }
+  ]
+ },
+ {
+  "id": 14161104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19203
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19153
+   }
+  ]
+ },
+ {
+  "id": 14161105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19204
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19154
+   }
+  ]
+ },
+ {
+  "id": 14161106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19205
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19155
+   }
+  ]
+ },
+ {
+  "id": 14161107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19206
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19156
+   }
+  ]
+ },
+ {
+  "id": 14161108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19207
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19157
+   }
+  ]
+ },
+ {
+  "id": 14161109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19208
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19158
+   }
+  ]
+ },
+ {
+  "id": 14161110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19209
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19159
+   }
+  ]
+ },
+ {
+  "id": 14162101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19250
+   }
+  ]
+ },
+ {
+  "id": 14162102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19251
+   }
+  ]
+ },
+ {
+  "id": 14162103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19252
+   }
+  ]
+ },
+ {
+  "id": 14162104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19253
+   }
+  ]
+ },
+ {
+  "id": 14162105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19254
+   }
+  ]
+ },
+ {
+  "id": 14162106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19255
+   }
+  ]
+ },
+ {
+  "id": 14162107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19256
+   }
+  ]
+ },
+ {
+  "id": 14162108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19257
+   }
+  ]
+ },
+ {
+  "id": 14162109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19258
+   }
+  ]
+ },
+ {
+  "id": 14162110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19259
+   }
+  ]
+ },
+ {
+  "id": 14162111,
+  "order": 11,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19260
+   }
+  ]
+ },
+ {
+  "id": 14162112,
+  "order": 12,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19261
+   }
+  ]
+ },
+ {
+  "id": 14162113,
+  "order": 13,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19262
+   }
+  ]
+ },
+ {
+  "id": 14162114,
+  "order": 14,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19263
+   }
+  ]
+ },
+ {
+  "id": 14162115,
+  "order": 15,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19264
+   }
+  ]
+ },
+ {
+  "id": 14165101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14165102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14165103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14165104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14165105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14173101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19300
+   }
+  ]
+ },
+ {
+  "id": 14174101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19200
+   }
+  ]
+ },
+ {
+  "id": 14174102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19201
+   }
+  ]
+ },
+ {
+  "id": 14174103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19202
+   }
+  ]
+ },
+ {
+  "id": 14174104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19203
+   }
+  ]
+ },
+ {
+  "id": 14179101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19036
+   }
+  ]
+ },
+ {
+  "id": 14179102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19037
+   }
+  ]
+ },
+ {
+  "id": 14179103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19038
+   }
+  ]
+ },
+ {
+  "id": 14179104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19039
+   }
+  ]
+ },
+ {
+  "id": 14179105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19040
+   }
+  ]
+ },
+ {
+  "id": 14180101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19320
+   }
+  ]
+ },
+ {
+  "id": 14180102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19321
+   }
+  ]
+ },
+ {
+  "id": 14180103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19322
+   }
+  ]
+ },
+ {
+  "id": 14180104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19323
+   }
+  ]
+ },
+ {
+  "id": 14180105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19324
+   }
+  ]
+ },
+ {
+  "id": 14183101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14183102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14183103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14183104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14183105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14183106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19041
+   }
+  ]
+ },
+ {
+  "id": 14183107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19042
+   }
+  ]
+ },
+ {
+  "id": 14183108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19043
+   }
+  ]
+ },
+ {
+  "id": 14185101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14185102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14185103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14185104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14185105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14185106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19041
+   }
+  ]
+ },
+ {
+  "id": 14185107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19042
+   }
+  ]
+ },
+ {
+  "id": 14185108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19043
+   }
+  ]
+ },
+ {
+  "id": 14197101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19070
+   }
+  ]
+ },
+ {
+  "id": 14197102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19071
+   }
+  ]
+ },
+ {
+  "id": 14197103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19072
+   }
+  ]
+ },
+ {
+  "id": 14197104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19073
+   }
+  ]
+ },
+ {
+  "id": 14197105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19074
+   }
+  ]
+ },
+ {
+  "id": 14198101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19090
+   }
+  ]
+ },
+ {
+  "id": 14214101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19116
+   }
+  ]
+ },
+ {
+  "id": 14214102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19117
+   }
+  ]
+ },
+ {
+  "id": 14214103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19118
+   }
+  ]
+ },
+ {
+  "id": 14214104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19119
+   }
+  ]
+ },
+ {
+  "id": 14214105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19120
+   }
+  ]
+ },
+ {
+  "id": 14215101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19400
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19095
+   }
+  ]
+ },
+ {
+  "id": 14216101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19100
+   }
+  ]
+ },
+ {
+  "id": 14216102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19101
+   }
+  ]
+ },
+ {
+  "id": 14216103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19102
+   }
+  ]
+ },
+ {
+  "id": 14216104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19103
+   }
+  ]
+ },
+ {
+  "id": 14216105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19104
+   }
+  ]
+ },
+ {
+  "id": 14222101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19121
+   }
+  ]
+ },
+ {
+  "id": 14222102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19122
+   }
+  ]
+ },
+ {
+  "id": 14222103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19123
+   }
+  ]
+ },
+ {
+  "id": 14222104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19124
+   }
+  ]
+ },
+ {
+  "id": 14222105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19125
+   }
+  ]
+ },
+ {
+  "id": 14232101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19026
+   }
+  ]
+ },
+ {
+  "id": 14232102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19027
+   }
+  ]
+ },
+ {
+  "id": 14232103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19028
+   }
+  ]
+ },
+ {
+  "id": 14232104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19029
+   }
+  ]
+ },
+ {
+  "id": 14232105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19030
+   }
+  ]
+ },
+ {
+  "id": 14233101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19209
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19301
+   }
+  ]
+ },
+ {
+  "id": 14233102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19207
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 14234101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19220
+   }
+  ]
+ },
+ {
+  "id": 14234102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19221
+   }
+  ]
+ },
+ {
+  "id": 14234103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19222
+   }
+  ]
+ },
+ {
+  "id": 14234104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19223
+   }
+  ]
+ },
+ {
+  "id": 14234105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19224
+   }
+  ]
+ },
+ {
+  "id": 14234106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19225
+   }
+  ]
+ },
+ {
+  "id": 14234107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19226
+   }
+  ]
+ },
+ {
+  "id": 14234108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19227
+   }
+  ]
+ },
+ {
+  "id": 14234109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19228
+   }
+  ]
+ },
+ {
+  "id": 14234110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19229
+   }
+  ]
+ },
+ {
+  "id": 14235101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19001
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19002
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19003
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19004
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19005
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19006
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19007
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19008
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19009
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14235111,
+  "order": 11,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19010
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19087
+   }
+  ]
+ },
+ {
+  "id": 14238101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19111
+   }
+  ]
+ },
+ {
+  "id": 14238102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19112
+   }
+  ]
+ },
+ {
+  "id": 14238103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19113
+   }
+  ]
+ },
+ {
+  "id": 14238104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19114
+   }
+  ]
+ },
+ {
+  "id": 14238105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19115
+   }
+  ]
+ },
+ {
+  "id": 14248101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19091
+   }
+  ]
+ },
+ {
+  "id": 14250101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19036
+   }
+  ]
+ },
+ {
+  "id": 14250102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19037
+   }
+  ]
+ },
+ {
+  "id": 14250103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19038
+   }
+  ]
+ },
+ {
+  "id": 14250104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19039
+   }
+  ]
+ },
+ {
+  "id": 14250105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19040
+   }
+  ]
+ },
+ {
+  "id": 14251101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19306
+   }
+  ]
+ },
+ {
+  "id": 14251102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19307
+   }
+  ]
+ },
+ {
+  "id": 14251103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19308
+   }
+  ]
+ },
+ {
+  "id": 14251104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19309
+   }
+  ]
+ },
+ {
+  "id": 14251105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19310
+   }
+  ]
+ },
+ {
+  "id": 14252101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19126
+   }
+  ]
+ },
+ {
+  "id": 14252102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19127
+   }
+  ]
+ },
+ {
+  "id": 14252103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19128
+   }
+  ]
+ },
+ {
+  "id": 14252104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19129
+   }
+  ]
+ },
+ {
+  "id": 14252105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19130
+   }
+  ]
+ },
+ {
+  "id": 15001201,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19301
+   }
+  ]
+ },
+ {
+  "id": 15001202,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19302
+   }
+  ]
+ },
+ {
+  "id": 15001203,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19303
+   }
+  ]
+ },
+ {
+  "id": 15001204,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19304
+   }
+  ]
+ },
+ {
+  "id": 15001205,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19305
+   }
+  ]
+ },
+ {
+  "id": 15002101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19001
+   }
+  ]
+ },
+ {
+  "id": 15002102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19002
+   }
+  ]
+ },
+ {
+  "id": 15002103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19003
+   }
+  ]
+ },
+ {
+  "id": 15002104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19004
+   }
+  ]
+ },
+ {
+  "id": 15002105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19005
+   }
+  ]
+ },
+ {
+  "id": 15002106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19006
+   }
+  ]
+ },
+ {
+  "id": 15002107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19007
+   }
+  ]
+ },
+ {
+  "id": 15002108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19008
+   }
+  ]
+ },
+ {
+  "id": 15002109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19009
+   }
+  ]
+ },
+ {
+  "id": 15002110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19010
+   }
+  ]
+ },
+ {
+  "id": 15002201,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19011
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19075
+   }
+  ]
+ },
+ {
+  "id": 15002202,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19012
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19076
+   }
+  ]
+ },
+ {
+  "id": 15002203,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19013
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19077
+   }
+  ]
+ },
+ {
+  "id": 15002204,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19014
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19078
+   }
+  ]
+ },
+ {
+  "id": 15002205,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19015
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19079
+   }
+  ]
+ },
+ {
+  "id": 15002206,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19016
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19081
+   }
+  ]
+ },
+ {
+  "id": 15002207,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19017
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19082
+   }
+  ]
+ },
+ {
+  "id": 15002208,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19018
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19083
+   }
+  ]
+ },
+ {
+  "id": 15002209,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19019
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19084
+   }
+  ]
+ },
+ {
+  "id": 15002210,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19020
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19085
+   }
+  ]
+ },
+ {
+  "id": 15003101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19219
+   }
+  ]
+ },
+ {
+  "id": 15003102,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19218
+   }
+  ]
+ },
+ {
+  "id": 15003103,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19217
+   }
+  ]
+ },
+ {
+  "id": 15003104,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19216
+   }
+  ]
+ },
+ {
+  "id": 15003105,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19215
+   }
+  ]
+ },
+ {
+  "id": 15003106,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19214
+   }
+  ]
+ },
+ {
+  "id": 15003107,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19213
+   }
+  ]
+ },
+ {
+  "id": 15003108,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19212
+   }
+  ]
+ },
+ {
+  "id": 15003109,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19211
+   }
+  ]
+ },
+ {
+  "id": 15003110,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19210
+   }
+  ]
+ },
+ {
+  "id": 15003201,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19274
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003202,
+  "order": 2,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19273
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003203,
+  "order": 3,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19272
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003204,
+  "order": 4,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19271
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003205,
+  "order": 5,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19270
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003206,
+  "order": 6,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19269
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003207,
+  "order": 7,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19268
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003208,
+  "order": 8,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19267
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003209,
+  "order": 9,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19266
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15003210,
+  "order": 10,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19265
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19086
+   }
+  ]
+ },
+ {
+  "id": 15004101,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19400
+   }
+  ]
+ },
+ {
+  "id": 15004201,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19400
+   },
+   {
+    "order": 2,
+    "effect_master_id": 19090
+   }
+  ]
+ },
+ {
+  "id": 15005201,
+  "order": 1,
+  "effects": [
+   {
+    "order": 1,
+    "effect_master_id": 19086
+   }
+  ]
+ }
+]

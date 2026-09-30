@@ -1,0 +1,534 @@
+[
+ {
+  "id": 1000,
+  "label_type": 1,
+  "performance_group": null,
+  "characters": [
+   {
+    "id": 1000101,
+    "character_base_master_id": 101,
+    "sense_performance_master_id": 1000,
+    "express_id": "101100"
+   },
+   {
+    "id": 1000102,
+    "character_base_master_id": 102,
+    "sense_performance_master_id": 1000,
+    "express_id": "102100"
+   },
+   {
+    "id": 1000103,
+    "character_base_master_id": 103,
+    "sense_performance_master_id": 1000,
+    "express_id": "103100"
+   },
+   {
+    "id": 1000104,
+    "character_base_master_id": 104,
+    "sense_performance_master_id": 1000,
+    "express_id": "104100"
+   },
+   {
+    "id": 1000105,
+    "character_base_master_id": 105,
+    "sense_performance_master_id": 1000,
+    "express_id": "105100"
+   },
+   {
+    "id": 1000106,
+    "character_base_master_id": 106,
+    "sense_performance_master_id": 1000,
+    "express_id": "106100"
+   },
+   {
+    "id": 1000201,
+    "character_base_master_id": 201,
+    "sense_performance_master_id": 1000,
+    "express_id": "201100"
+   },
+   {
+    "id": 1000202,
+    "character_base_master_id": 202,
+    "sense_performance_master_id": 1000,
+    "express_id": "202100"
+   },
+   {
+    "id": 1000203,
+    "character_base_master_id": 203,
+    "sense_performance_master_id": 1000,
+    "express_id": "203100"
+   },
+   {
+    "id": 1000204,
+    "character_base_master_id": 204,
+    "sense_performance_master_id": 1000,
+    "express_id": "204100"
+   },
+   {
+    "id": 1000205,
+    "character_base_master_id": 205,
+    "sense_performance_master_id": 1000,
+    "express_id": "205100"
+   },
+   {
+    "id": 1000301,
+    "character_base_master_id": 301,
+    "sense_performance_master_id": 1000,
+    "express_id": "301100"
+   },
+   {
+    "id": 1000302,
+    "character_base_master_id": 302,
+    "sense_performance_master_id": 1000,
+    "express_id": "302100"
+   },
+   {
+    "id": 1000303,
+    "character_base_master_id": 303,
+    "sense_performance_master_id": 1000,
+    "express_id": "303100"
+   },
+   {
+    "id": 1000304,
+    "character_base_master_id": 304,
+    "sense_performance_master_id": 1000,
+    "express_id": "304100"
+   },
+   {
+    "id": 1000305,
+    "character_base_master_id": 305,
+    "sense_performance_master_id": 1000,
+    "express_id": "305100"
+   },
+   {
+    "id": 1000401,
+    "character_base_master_id": 401,
+    "sense_performance_master_id": 1000,
+    "express_id": "401100"
+   },
+   {
+    "id": 1000402,
+    "character_base_master_id": 402,
+    "sense_performance_master_id": 1000,
+    "express_id": "402100"
+   },
+   {
+    "id": 1000403,
+    "character_base_master_id": 403,
+    "sense_performance_master_id": 1000,
+    "express_id": "403100"
+   },
+   {
+    "id": 1000404,
+    "character_base_master_id": 404,
+    "sense_performance_master_id": 1000,
+    "express_id": "404100"
+   },
+   {
+    "id": 1000405,
+    "character_base_master_id": 405,
+    "sense_performance_master_id": 1000,
+    "express_id": "405100"
+   }
+  ]
+ },
+ {
+  "id": 2000,
+  "label_type": 2,
+  "performance_group": null,
+  "characters": [
+   {
+    "id": 2000101,
+    "character_base_master_id": 101,
+    "sense_performance_master_id": 2000,
+    "express_id": "101200"
+   },
+   {
+    "id": 2000102,
+    "character_base_master_id": 102,
+    "sense_performance_master_id": 2000,
+    "express_id": "102200"
+   },
+   {
+    "id": 2000103,
+    "character_base_master_id": 103,
+    "sense_performance_master_id": 2000,
+    "express_id": "103200"
+   },
+   {
+    "id": 2000104,
+    "character_base_master_id": 104,
+    "sense_performance_master_id": 2000,
+    "express_id": "104200"
+   },
+   {
+    "id": 2000105,
+    "character_base_master_id": 105,
+    "sense_performance_master_id": 2000,
+    "express_id": "105200"
+   },
+   {
+    "id": 2000106,
+    "character_base_master_id": 106,
+    "sense_performance_master_id": 2000,
+    "express_id": "106200"
+   },
+   {
+    "id": 2000201,
+    "character_base_master_id": 201,
+    "sense_performance_master_id": 2000,
+    "express_id": "201200"
+   },
+   {
+    "id": 2000202,
+    "character_base_master_id": 202,
+    "sense_performance_master_id": 2000,
+    "express_id": "202200"
+   },
+   {
+    "id": 2000203,
+    "character_base_master_id": 203,
+    "sense_performance_master_id": 2000,
+    "express_id": "203200"
+   },
+   {
+    "id": 2000204,
+    "character_base_master_id": 204,
+    "sense_performance_master_id": 2000,
+    "express_id": "204200"
+   },
+   {
+    "id": 2000205,
+    "character_base_master_id": 205,
+    "sense_performance_master_id": 2000,
+    "express_id": "205200"
+   },
+   {
+    "id": 2000301,
+    "character_base_master_id": 301,
+    "sense_performance_master_id": 2000,
+    "express_id": "301200"
+   },
+   {
+    "id": 2000302,
+    "character_base_master_id": 302,
+    "sense_performance_master_id": 2000,
+    "express_id": "302200"
+   },
+   {
+    "id": 2000303,
+    "character_base_master_id": 303,
+    "sense_performance_master_id": 2000,
+    "express_id": "303200"
+   },
+   {
+    "id": 2000304,
+    "character_base_master_id": 304,
+    "sense_performance_master_id": 2000,
+    "express_id": "304200"
+   },
+   {
+    "id": 2000305,
+    "character_base_master_id": 305,
+    "sense_performance_master_id": 2000,
+    "express_id": "305200"
+   },
+   {
+    "id": 2000401,
+    "character_base_master_id": 401,
+    "sense_performance_master_id": 2000,
+    "express_id": "401200"
+   },
+   {
+    "id": 2000402,
+    "character_base_master_id": 402,
+    "sense_performance_master_id": 2000,
+    "express_id": "402200"
+   },
+   {
+    "id": 2000403,
+    "character_base_master_id": 403,
+    "sense_performance_master_id": 2000,
+    "express_id": "403200"
+   },
+   {
+    "id": 2000404,
+    "character_base_master_id": 404,
+    "sense_performance_master_id": 2000,
+    "express_id": "404200"
+   },
+   {
+    "id": 2000405,
+    "character_base_master_id": 405,
+    "sense_performance_master_id": 2000,
+    "express_id": "405200"
+   }
+  ]
+ },
+ {
+  "id": 3000,
+  "label_type": 3,
+  "performance_group": null,
+  "characters": [
+   {
+    "id": 3000101,
+    "character_base_master_id": 101,
+    "sense_performance_master_id": 3000,
+    "express_id": "101300"
+   },
+   {
+    "id": 3000102,
+    "character_base_master_id": 102,
+    "sense_performance_master_id": 3000,
+    "express_id": "102300"
+   },
+   {
+    "id": 3000103,
+    "character_base_master_id": 103,
+    "sense_performance_master_id": 3000,
+    "express_id": "103300"
+   },
+   {
+    "id": 3000104,
+    "character_base_master_id": 104,
+    "sense_performance_master_id": 3000,
+    "express_id": "104300"
+   },
+   {
+    "id": 3000105,
+    "character_base_master_id": 105,
+    "sense_performance_master_id": 3000,
+    "express_id": "105300"
+   },
+   {
+    "id": 3000106,
+    "character_base_master_id": 106,
+    "sense_performance_master_id": 3000,
+    "express_id": "106300"
+   },
+   {
+    "id": 3000201,
+    "character_base_master_id": 201,
+    "sense_performance_master_id": 3000,
+    "express_id": "201300"
+   },
+   {
+    "id": 3000202,
+    "character_base_master_id": 202,
+    "sense_performance_master_id": 3000,
+    "express_id": "202300"
+   },
+   {
+    "id": 3000203,
+    "character_base_master_id": 203,
+    "sense_performance_master_id": 3000,
+    "express_id": "203300"
+   },
+   {
+    "id": 3000204,
+    "character_base_master_id": 204,
+    "sense_performance_master_id": 3000,
+    "express_id": "204300"
+   },
+   {
+    "id": 3000205,
+    "character_base_master_id": 205,
+    "sense_performance_master_id": 3000,
+    "express_id": "205300"
+   },
+   {
+    "id": 3000301,
+    "character_base_master_id": 301,
+    "sense_performance_master_id": 3000,
+    "express_id": "301300"
+   },
+   {
+    "id": 3000302,
+    "character_base_master_id": 302,
+    "sense_performance_master_id": 3000,
+    "express_id": "302300"
+   },
+   {
+    "id": 3000303,
+    "character_base_master_id": 303,
+    "sense_performance_master_id": 3000,
+    "express_id": "303300"
+   },
+   {
+    "id": 3000304,
+    "character_base_master_id": 304,
+    "sense_performance_master_id": 3000,
+    "express_id": "304300"
+   },
+   {
+    "id": 3000305,
+    "character_base_master_id": 305,
+    "sense_performance_master_id": 3000,
+    "express_id": "305300"
+   },
+   {
+    "id": 3000401,
+    "character_base_master_id": 401,
+    "sense_performance_master_id": 3000,
+    "express_id": "401300"
+   },
+   {
+    "id": 3000402,
+    "character_base_master_id": 402,
+    "sense_performance_master_id": 3000,
+    "express_id": "402300"
+   },
+   {
+    "id": 3000403,
+    "character_base_master_id": 403,
+    "sense_performance_master_id": 3000,
+    "express_id": "403300"
+   },
+   {
+    "id": 3000404,
+    "character_base_master_id": 404,
+    "sense_performance_master_id": 3000,
+    "express_id": "404300"
+   },
+   {
+    "id": 3000405,
+    "character_base_master_id": 405,
+    "sense_performance_master_id": 3000,
+    "express_id": "405300"
+   }
+  ]
+ },
+ {
+  "id": 4000,
+  "label_type": 4,
+  "performance_group": null,
+  "characters": [
+   {
+    "id": 4000101,
+    "character_base_master_id": 101,
+    "sense_performance_master_id": 4000,
+    "express_id": "101400"
+   },
+   {
+    "id": 4000102,
+    "character_base_master_id": 102,
+    "sense_performance_master_id": 4000,
+    "express_id": "102400"
+   },
+   {
+    "id": 4000103,
+    "character_base_master_id": 103,
+    "sense_performance_master_id": 4000,
+    "express_id": "103400"
+   },
+   {
+    "id": 4000104,
+    "character_base_master_id": 104,
+    "sense_performance_master_id": 4000,
+    "express_id": "104400"
+   },
+   {
+    "id": 4000105,
+    "character_base_master_id": 105,
+    "sense_performance_master_id": 4000,
+    "express_id": "105400"
+   },
+   {
+    "id": 4000106,
+    "character_base_master_id": 106,
+    "sense_performance_master_id": 4000,
+    "express_id": "106400"
+   },
+   {
+    "id": 4000201,
+    "character_base_master_id": 201,
+    "sense_performance_master_id": 4000,
+    "express_id": "201400"
+   },
+   {
+    "id": 4000202,
+    "character_base_master_id": 202,
+    "sense_performance_master_id": 4000,
+    "express_id": "202400"
+   },
+   {
+    "id": 4000203,
+    "character_base_master_id": 203,
+    "sense_performance_master_id": 4000,
+    "express_id": "203400"
+   },
+   {
+    "id": 4000204,
+    "character_base_master_id": 204,
+    "sense_performance_master_id": 4000,
+    "express_id": "204400"
+   },
+   {
+    "id": 4000205,
+    "character_base_master_id": 205,
+    "sense_performance_master_id": 4000,
+    "express_id": "205400"
+   },
+   {
+    "id": 4000301,
+    "character_base_master_id": 301,
+    "sense_performance_master_id": 4000,
+    "express_id": "301400"
+   },
+   {
+    "id": 4000302,
+    "character_base_master_id": 302,
+    "sense_performance_master_id": 4000,
+    "express_id": "302400"
+   },
+   {
+    "id": 4000303,
+    "character_base_master_id": 303,
+    "sense_performance_master_id": 4000,
+    "express_id": "303400"
+   },
+   {
+    "id": 4000304,
+    "character_base_master_id": 304,
+    "sense_performance_master_id": 4000,
+    "express_id": "304400"
+   },
+   {
+    "id": 4000305,
+    "character_base_master_id": 305,
+    "sense_performance_master_id": 4000,
+    "express_id": "305400"
+   },
+   {
+    "id": 4000401,
+    "character_base_master_id": 401,
+    "sense_performance_master_id": 4000,
+    "express_id": "401400"
+   },
+   {
+    "id": 4000402,
+    "character_base_master_id": 402,
+    "sense_performance_master_id": 4000,
+    "express_id": "402400"
+   },
+   {
+    "id": 4000403,
+    "character_base_master_id": 403,
+    "sense_performance_master_id": 4000,
+    "express_id": "403400"
+   },
+   {
+    "id": 4000404,
+    "character_base_master_id": 404,
+    "sense_performance_master_id": 4000,
+    "express_id": "404400"
+   },
+   {
+    "id": 4000405,
+    "character_base_master_id": 405,
+    "sense_performance_master_id": 4000,
+    "express_id": "405400"
+   }
+  ]
+ }
+]

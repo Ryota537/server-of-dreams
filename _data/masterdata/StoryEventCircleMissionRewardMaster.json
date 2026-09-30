@@ -1,0 +1,731 @@
+[
+ {
+  "id": 2000301,
+  "story_event_master_id": 20003,
+  "required_circle_point": 500,
+  "required_user_point": 50,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 200
+ },
+ {
+  "id": 2000302,
+  "story_event_master_id": 20003,
+  "required_circle_point": 1000,
+  "required_user_point": 100,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 30000
+ },
+ {
+  "id": 2000303,
+  "story_event_master_id": 20003,
+  "required_circle_point": 1500,
+  "required_user_point": 150,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000304,
+  "story_event_master_id": 20003,
+  "required_circle_point": 2000,
+  "required_user_point": 200,
+  "thing_id": 130001,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000305,
+  "story_event_master_id": 20003,
+  "required_circle_point": 3000,
+  "required_user_point": 300,
+  "thing_id": 220190,
+  "thing_type": 3,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000306,
+  "story_event_master_id": 20003,
+  "required_circle_point": 4000,
+  "required_user_point": 400,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000307,
+  "story_event_master_id": 20003,
+  "required_circle_point": 5000,
+  "required_user_point": 500,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000308,
+  "story_event_master_id": 20003,
+  "required_circle_point": 7000,
+  "required_user_point": 700,
+  "thing_id": 220190,
+  "thing_type": 3,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000309,
+  "story_event_master_id": 20003,
+  "required_circle_point": 9000,
+  "required_user_point": 900,
+  "thing_id": 0,
+  "thing_type": 13,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000310,
+  "story_event_master_id": 20003,
+  "required_circle_point": 11000,
+  "required_user_point": 1100,
+  "thing_id": 130240,
+  "thing_type": 2,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000311,
+  "story_event_master_id": 20003,
+  "required_circle_point": 13000,
+  "required_user_point": 1300,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000312,
+  "story_event_master_id": 20003,
+  "required_circle_point": 15000,
+  "required_user_point": 1500,
+  "thing_id": 220190,
+  "thing_type": 3,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000313,
+  "story_event_master_id": 20003,
+  "required_circle_point": 18000,
+  "required_user_point": 1800,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000314,
+  "story_event_master_id": 20003,
+  "required_circle_point": 21000,
+  "required_user_point": 2100,
+  "thing_id": 143024,
+  "thing_type": 1,
+  "thing_quantity": 20
+ },
+ {
+  "id": 2000315,
+  "story_event_master_id": 20003,
+  "required_circle_point": 24000,
+  "required_user_point": 2400,
+  "thing_id": 130064,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000316,
+  "story_event_master_id": 20003,
+  "required_circle_point": 27000,
+  "required_user_point": 2700,
+  "thing_id": 220190,
+  "thing_type": 3,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000317,
+  "story_event_master_id": 20003,
+  "required_circle_point": 30000,
+  "required_user_point": 3000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000318,
+  "story_event_master_id": 20003,
+  "required_circle_point": 35000,
+  "required_user_point": 3500,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 200
+ },
+ {
+  "id": 2000319,
+  "story_event_master_id": 20003,
+  "required_circle_point": 40000,
+  "required_user_point": 4000,
+  "thing_id": 130071,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000320,
+  "story_event_master_id": 20003,
+  "required_circle_point": 45000,
+  "required_user_point": 4500,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000321,
+  "story_event_master_id": 20003,
+  "required_circle_point": 50000,
+  "required_user_point": 5000,
+  "thing_id": 220190,
+  "thing_type": 3,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000322,
+  "story_event_master_id": 20003,
+  "required_circle_point": 55000,
+  "required_user_point": 5500,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000323,
+  "story_event_master_id": 20003,
+  "required_circle_point": 60000,
+  "required_user_point": 6000,
+  "thing_id": 130001,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000324,
+  "story_event_master_id": 20003,
+  "required_circle_point": 65000,
+  "required_user_point": 6500,
+  "thing_id": 0,
+  "thing_type": 13,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000325,
+  "story_event_master_id": 20003,
+  "required_circle_point": 70000,
+  "required_user_point": 7000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000326,
+  "story_event_master_id": 20003,
+  "required_circle_point": 75000,
+  "required_user_point": 7500,
+  "thing_id": 143024,
+  "thing_type": 1,
+  "thing_quantity": 40
+ },
+ {
+  "id": 2000327,
+  "story_event_master_id": 20003,
+  "required_circle_point": 80000,
+  "required_user_point": 8000,
+  "thing_id": 130064,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000328,
+  "story_event_master_id": 20003,
+  "required_circle_point": 85000,
+  "required_user_point": 8500,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000329,
+  "story_event_master_id": 20003,
+  "required_circle_point": 90000,
+  "required_user_point": 9000,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000330,
+  "story_event_master_id": 20003,
+  "required_circle_point": 95000,
+  "required_user_point": 9500,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 50000
+ },
+ {
+  "id": 2000331,
+  "story_event_master_id": 20003,
+  "required_circle_point": 100000,
+  "required_user_point": 10000,
+  "thing_id": 143024,
+  "thing_type": 1,
+  "thing_quantity": 60
+ },
+ {
+  "id": 2000332,
+  "story_event_master_id": 20003,
+  "required_circle_point": 110000,
+  "required_user_point": 11000,
+  "thing_id": 10406,
+  "thing_type": 7,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000333,
+  "story_event_master_id": 20003,
+  "required_circle_point": 120000,
+  "required_user_point": 12000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000334,
+  "story_event_master_id": 20003,
+  "required_circle_point": 130000,
+  "required_user_point": 13000,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 200
+ },
+ {
+  "id": 2000335,
+  "story_event_master_id": 20003,
+  "required_circle_point": 140000,
+  "required_user_point": 14000,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000336,
+  "story_event_master_id": 20003,
+  "required_circle_point": 150000,
+  "required_user_point": 15000,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000337,
+  "story_event_master_id": 20003,
+  "required_circle_point": 160000,
+  "required_user_point": 16000,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000338,
+  "story_event_master_id": 20003,
+  "required_circle_point": 170000,
+  "required_user_point": 17000,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000339,
+  "story_event_master_id": 20003,
+  "required_circle_point": 180000,
+  "required_user_point": 18000,
+  "thing_id": 143024,
+  "thing_type": 1,
+  "thing_quantity": 80
+ },
+ {
+  "id": 2000340,
+  "story_event_master_id": 20003,
+  "required_circle_point": 190000,
+  "required_user_point": 19000,
+  "thing_id": 0,
+  "thing_type": 13,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000341,
+  "story_event_master_id": 20003,
+  "required_circle_point": 200000,
+  "required_user_point": 20000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000342,
+  "story_event_master_id": 20003,
+  "required_circle_point": 210000,
+  "required_user_point": 21000,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 80000
+ },
+ {
+  "id": 2000343,
+  "story_event_master_id": 20003,
+  "required_circle_point": 220000,
+  "required_user_point": 22000,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 200
+ },
+ {
+  "id": 2000344,
+  "story_event_master_id": 20003,
+  "required_circle_point": 230000,
+  "required_user_point": 23000,
+  "thing_id": 130051,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000345,
+  "story_event_master_id": 20003,
+  "required_circle_point": 240000,
+  "required_user_point": 24000,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000346,
+  "story_event_master_id": 20003,
+  "required_circle_point": 250000,
+  "required_user_point": 25000,
+  "thing_id": 143024,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000347,
+  "story_event_master_id": 20003,
+  "required_circle_point": 260000,
+  "required_user_point": 26000,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000348,
+  "story_event_master_id": 20003,
+  "required_circle_point": 270000,
+  "required_user_point": 27000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000349,
+  "story_event_master_id": 20003,
+  "required_circle_point": 280000,
+  "required_user_point": 28000,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 110000
+ },
+ {
+  "id": 2000350,
+  "story_event_master_id": 20003,
+  "required_circle_point": 290000,
+  "required_user_point": 29000,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000351,
+  "story_event_master_id": 20003,
+  "required_circle_point": 300000,
+  "required_user_point": 30000,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000352,
+  "story_event_master_id": 20003,
+  "required_circle_point": 310000,
+  "required_user_point": 31000,
+  "thing_id": 130064,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000353,
+  "story_event_master_id": 20003,
+  "required_circle_point": 320000,
+  "required_user_point": 32000,
+  "thing_id": 130071,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000354,
+  "story_event_master_id": 20003,
+  "required_circle_point": 330000,
+  "required_user_point": 33000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000355,
+  "story_event_master_id": 20003,
+  "required_circle_point": 340000,
+  "required_user_point": 34000,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 200
+ },
+ {
+  "id": 2000356,
+  "story_event_master_id": 20003,
+  "required_circle_point": 350000,
+  "required_user_point": 35000,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000357,
+  "story_event_master_id": 20003,
+  "required_circle_point": 360000,
+  "required_user_point": 36000,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000358,
+  "story_event_master_id": 20003,
+  "required_circle_point": 370000,
+  "required_user_point": 37000,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000359,
+  "story_event_master_id": 20003,
+  "required_circle_point": 380000,
+  "required_user_point": 38000,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000360,
+  "story_event_master_id": 20003,
+  "required_circle_point": 390000,
+  "required_user_point": 39000,
+  "thing_id": 0,
+  "thing_type": 13,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000361,
+  "story_event_master_id": 20003,
+  "required_circle_point": 400000,
+  "required_user_point": 40000,
+  "thing_id": 130051,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000362,
+  "story_event_master_id": 20003,
+  "required_circle_point": 410000,
+  "required_user_point": 41000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000363,
+  "story_event_master_id": 20003,
+  "required_circle_point": 420000,
+  "required_user_point": 42000,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 500
+ },
+ {
+  "id": 2000364,
+  "story_event_master_id": 20003,
+  "required_circle_point": 430000,
+  "required_user_point": 43000,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 300
+ },
+ {
+  "id": 2000365,
+  "story_event_master_id": 20003,
+  "required_circle_point": 440000,
+  "required_user_point": 44000,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 250
+ },
+ {
+  "id": 2000366,
+  "story_event_master_id": 20003,
+  "required_circle_point": 450000,
+  "required_user_point": 45000,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 200
+ },
+ {
+  "id": 2000367,
+  "story_event_master_id": 20003,
+  "required_circle_point": 460000,
+  "required_user_point": 46000,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000368,
+  "story_event_master_id": 20003,
+  "required_circle_point": 470000,
+  "required_user_point": 47000,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 130000
+ },
+ {
+  "id": 2000369,
+  "story_event_master_id": 20003,
+  "required_circle_point": 480000,
+  "required_user_point": 48000,
+  "thing_id": 0,
+  "thing_type": 13,
+  "thing_quantity": 100
+ },
+ {
+  "id": 2000370,
+  "story_event_master_id": 20003,
+  "required_circle_point": 490000,
+  "required_user_point": 49000,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 500
+ },
+ {
+  "id": 2000371,
+  "story_event_master_id": 20003,
+  "required_circle_point": 500000,
+  "required_user_point": 50000,
+  "thing_id": 130064,
+  "thing_type": 1,
+  "thing_quantity": 50
+ },
+ {
+  "id": 2000372,
+  "story_event_master_id": 20003,
+  "required_circle_point": 550000,
+  "required_user_point": 55000,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 250
+ },
+ {
+  "id": 2000373,
+  "story_event_master_id": 20003,
+  "required_circle_point": 600000,
+  "required_user_point": 60000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000374,
+  "story_event_master_id": 20003,
+  "required_circle_point": 650000,
+  "required_user_point": 65000,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 300
+ },
+ {
+  "id": 2000375,
+  "story_event_master_id": 20003,
+  "required_circle_point": 700000,
+  "required_user_point": 70000,
+  "thing_id": 130091,
+  "thing_type": 1,
+  "thing_quantity": 5
+ },
+ {
+  "id": 2000376,
+  "story_event_master_id": 20003,
+  "required_circle_point": 750000,
+  "required_user_point": 75000,
+  "thing_id": 130071,
+  "thing_type": 1,
+  "thing_quantity": 1
+ },
+ {
+  "id": 2000377,
+  "story_event_master_id": 20003,
+  "required_circle_point": 800000,
+  "required_user_point": 80000,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 150000
+ },
+ {
+  "id": 2000378,
+  "story_event_master_id": 20003,
+  "required_circle_point": 850000,
+  "required_user_point": 85000,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 150000
+ },
+ {
+  "id": 2000379,
+  "story_event_master_id": 20003,
+  "required_circle_point": 900000,
+  "required_user_point": 90000,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 150000
+ },
+ {
+  "id": 2000380,
+  "story_event_master_id": 20003,
+  "required_circle_point": 950000,
+  "required_user_point": 95000,
+  "thing_id": 0,
+  "thing_type": 12,
+  "thing_quantity": 150000
+ },
+ {
+  "id": 2000381,
+  "story_event_master_id": 20003,
+  "required_circle_point": 1000000,
+  "required_user_point": 100000,
+  "thing_id": 130064,
+  "thing_type": 1,
+  "thing_quantity": 50
+ }
+]

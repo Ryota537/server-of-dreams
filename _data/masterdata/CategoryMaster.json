@@ -1,0 +1,920 @@
+[
+ {
+  "id": 1001,
+  "category_group_master_id": 1,
+  "order": 1001,
+  "name": "小学生"
+ },
+ {
+  "id": 1002,
+  "category_group_master_id": 1,
+  "order": 1002,
+  "name": "中学生"
+ },
+ {
+  "id": 1003,
+  "category_group_master_id": 1,
+  "order": 1003,
+  "name": "高校生"
+ },
+ {
+  "id": 2001,
+  "category_group_master_id": 2,
+  "order": 2001,
+  "name": "シリウス"
+ },
+ {
+  "id": 2002,
+  "category_group_master_id": 2,
+  "order": 2002,
+  "name": "Eden"
+ },
+ {
+  "id": 2003,
+  "category_group_master_id": 2,
+  "order": 2003,
+  "name": "銀河座"
+ },
+ {
+  "id": 2004,
+  "category_group_master_id": 2,
+  "order": 2004,
+  "name": "劇団電姫"
+ },
+ {
+  "id": 2005,
+  "category_group_master_id": 2,
+  "order": 2005,
+  "name": "ラブライブ！サンシャイン!!"
+ },
+ {
+  "id": 3001,
+  "category_group_master_id": 3,
+  "order": 3001,
+  "name": "配信"
+ },
+ {
+  "id": 3002,
+  "category_group_master_id": 3,
+  "order": 3002,
+  "name": "読書"
+ },
+ {
+  "id": 3003,
+  "category_group_master_id": 3,
+  "order": 3003,
+  "name": "お風呂"
+ },
+ {
+  "id": 3004,
+  "category_group_master_id": 3,
+  "order": 3004,
+  "name": "料理"
+ },
+ {
+  "id": 3005,
+  "category_group_master_id": 3,
+  "order": 3005,
+  "name": "運動"
+ },
+ {
+  "id": 3006,
+  "category_group_master_id": 3,
+  "order": 3006,
+  "name": "ファッション"
+ },
+ {
+  "id": 4001,
+  "category_group_master_id": 4,
+  "order": 4001,
+  "name": "音楽"
+ },
+ {
+  "id": 4002,
+  "category_group_master_id": 4,
+  "order": 4002,
+  "name": "私服"
+ },
+ {
+  "id": 4003,
+  "category_group_master_id": 4,
+  "order": 4003,
+  "name": "食べ物"
+ },
+ {
+  "id": 4004,
+  "category_group_master_id": 4,
+  "order": 4004,
+  "name": "動物"
+ },
+ {
+  "id": 4005,
+  "category_group_master_id": 4,
+  "order": 4005,
+  "name": "制服"
+ },
+ {
+  "id": 4006,
+  "category_group_master_id": 4,
+  "order": 4006,
+  "name": "メルヘン"
+ },
+ {
+  "id": 4007,
+  "category_group_master_id": 4,
+  "order": 4007,
+  "name": "和風"
+ },
+ {
+  "id": 5001,
+  "category_group_master_id": 5,
+  "order": 5001,
+  "name": "歌川高校"
+ },
+ {
+  "id": 5002,
+  "category_group_master_id": 5,
+  "order": 5002,
+  "name": "東上野高校"
+ },
+ {
+  "id": 5003,
+  "category_group_master_id": 5,
+  "order": 5003,
+  "name": "シリウス劇場"
+ },
+ {
+  "id": 5004,
+  "category_group_master_id": 5,
+  "order": 5004,
+  "name": "エデンホール"
+ },
+ {
+  "id": 5005,
+  "category_group_master_id": 5,
+  "order": 5005,
+  "name": "銀河シアター"
+ },
+ {
+  "id": 5006,
+  "category_group_master_id": 5,
+  "order": 5006,
+  "name": "電姫空間"
+ },
+ {
+  "id": 5007,
+  "category_group_master_id": 5,
+  "order": 5007,
+  "name": "海"
+ },
+ {
+  "id": 6001,
+  "category_group_master_id": 6,
+  "order": 6001,
+  "name": "人魚姫"
+ },
+ {
+  "id": 6002,
+  "category_group_master_id": 6,
+  "order": 6002,
+  "name": "サロメ"
+ },
+ {
+  "id": 6003,
+  "category_group_master_id": 6,
+  "order": 6003,
+  "name": "悪魔の友人"
+ },
+ {
+  "id": 6004,
+  "category_group_master_id": 6,
+  "order": 6004,
+  "name": "不思議の国のアリス"
+ },
+ {
+  "id": 6005,
+  "category_group_master_id": 6,
+  "order": 6005,
+  "name": "オペラ座の怪人"
+ },
+ {
+  "id": 6006,
+  "category_group_master_id": 6,
+  "order": 6006,
+  "name": "マクベス"
+ },
+ {
+  "id": 6007,
+  "category_group_master_id": 6,
+  "order": 6007,
+  "name": "魔法少女カリュー"
+ },
+ {
+  "id": 6008,
+  "category_group_master_id": 6,
+  "order": 6008,
+  "name": "銀河鉄道の夜"
+ },
+ {
+  "id": 6009,
+  "category_group_master_id": 6,
+  "order": 6009,
+  "name": "夏の夜の夢"
+ },
+ {
+  "id": 6010,
+  "category_group_master_id": 6,
+  "order": 6010,
+  "name": "オイディプス王"
+ },
+ {
+  "id": 6011,
+  "category_group_master_id": 6,
+  "order": 6011,
+  "name": "レ・ミゼラブル"
+ },
+ {
+  "id": 6012,
+  "category_group_master_id": 6,
+  "order": 6012,
+  "name": "橋弁慶"
+ },
+ {
+  "id": 6013,
+  "category_group_master_id": 6,
+  "order": 6013,
+  "name": "オズの魔法使い"
+ },
+ {
+  "id": 6014,
+  "category_group_master_id": 6,
+  "order": 6014,
+  "name": "青髪公の帰らぬ妻"
+ },
+ {
+  "id": 6015,
+  "category_group_master_id": 6,
+  "order": 6015,
+  "name": "神々の悪戯"
+ },
+ {
+  "id": 7001,
+  "category_group_master_id": 7,
+  "order": 7001,
+  "name": "god is no /w/ here"
+ },
+ {
+  "id": 7002,
+  "category_group_master_id": 7,
+  "order": 7002,
+  "name": "エレクトリック・サマー・バカンス"
+ },
+ {
+  "id": 7003,
+  "category_group_master_id": 7,
+  "order": 7003,
+  "name": "隠し味はひとさじのユーモア"
+ },
+ {
+  "id": 7004,
+  "category_group_master_id": 7,
+  "order": 7004,
+  "name": "泡沫烟花"
+ },
+ {
+  "id": 7005,
+  "category_group_master_id": 7,
+  "order": 7005,
+  "name": "脚光が照らすこれから"
+ },
+ {
+  "id": 7006,
+  "category_group_master_id": 7,
+  "order": 7006,
+  "name": "歌川高校体育祭！　～応援団長の一日～"
+ },
+ {
+  "id": 7007,
+  "category_group_master_id": 7,
+  "order": 7007,
+  "name": "FAIR IS FOUL, AND FOUL IS FAIR"
+ },
+ {
+  "id": 7008,
+  "category_group_master_id": 7,
+  "order": 7008,
+  "name": "北天のアルビレオ"
+ },
+ {
+  "id": 7009,
+  "category_group_master_id": 7,
+  "order": 7009,
+  "name": "シリウスは日々是好日で"
+ },
+ {
+  "id": 7010,
+  "category_group_master_id": 7,
+  "order": 7010,
+  "name": "マジカルガール☆ハロウィン"
+ },
+ {
+  "id": 7011,
+  "category_group_master_id": 7,
+  "order": 7011,
+  "name": "ギムレットにお別れを"
+ },
+ {
+  "id": 7012,
+  "category_group_master_id": 7,
+  "order": 7012,
+  "name": "人には言えないアタシの叫び"
+ },
+ {
+  "id": 7013,
+  "category_group_master_id": 7,
+  "order": 7013,
+  "name": "bet on faith？"
+ },
+ {
+  "id": 7014,
+  "category_group_master_id": 7,
+  "order": 7014,
+  "name": "メモワールに約束を"
+ },
+ {
+  "id": 7015,
+  "category_group_master_id": 7,
+  "order": 7015,
+  "name": "泡雪でありますように"
+ },
+ {
+  "id": 7016,
+  "category_group_master_id": 7,
+  "order": 7016,
+  "name": "星明かりのおくりもの"
+ },
+ {
+  "id": 7017,
+  "category_group_master_id": 7,
+  "order": 7017,
+  "name": "新年はあなたの手を取って"
+ },
+ {
+  "id": 7018,
+  "category_group_master_id": 7,
+  "order": 7018,
+  "name": "秒針の安息"
+ },
+ {
+  "id": 7019,
+  "category_group_master_id": 7,
+  "order": 7019,
+  "name": "14光年はなれた隣で"
+ },
+ {
+  "id": 7020,
+  "category_group_master_id": 7,
+  "order": 7020,
+  "name": "ギャルからオタクに転身してみた件"
+ },
+ {
+  "id": 7021,
+  "category_group_master_id": 7,
+  "order": 7021,
+  "name": "Valentine Cocktail Hour"
+ },
+ {
+  "id": 7022,
+  "category_group_master_id": 7,
+  "order": 7022,
+  "name": "トロイメライと悪魔"
+ },
+ {
+  "id": 7023,
+  "category_group_master_id": 7,
+  "order": 7023,
+  "name": "響けエール！～ON staGE rocK！～"
+ },
+ {
+  "id": 7024,
+  "category_group_master_id": 7,
+  "order": 7024,
+  "name": "7番目のエトワールをさがして"
+ },
+ {
+  "id": 7025,
+  "category_group_master_id": 7,
+  "order": 7025,
+  "name": "#指先がつむぐ暗黒"
+ },
+ {
+  "id": 7026,
+  "category_group_master_id": 7,
+  "order": 7026,
+  "name": "アツアツまごころ料理道！"
+ },
+ {
+  "id": 7027,
+  "category_group_master_id": 7,
+  "order": 7027,
+  "name": "Bloom Time-Lapse"
+ },
+ {
+  "id": 7028,
+  "category_group_master_id": 7,
+  "order": 7028,
+  "name": "星雲の窓辺"
+ },
+ {
+  "id": 7029,
+  "category_group_master_id": 7,
+  "order": 7029,
+  "name": "bet or fold？"
+ },
+ {
+  "id": 7030,
+  "category_group_master_id": 7,
+  "order": 7030,
+  "name": "Fashi∞nable！"
+ },
+ {
+  "id": 7031,
+  "category_group_master_id": 7,
+  "order": 7031,
+  "name": "サイレント・リフレクション"
+ },
+ {
+  "id": 7032,
+  "category_group_master_id": 7,
+  "order": 7032,
+  "name": "イノセンスにおしえて"
+ },
+ {
+  "id": 7033,
+  "category_group_master_id": 7,
+  "order": 7033,
+  "name": "沫雪がとけたら"
+ },
+ {
+  "id": 7034,
+  "category_group_master_id": 7,
+  "order": 7034,
+  "name": "反逆、すべては目指す舞台のために"
+ },
+ {
+  "id": 7035,
+  "category_group_master_id": 7,
+  "order": 7035,
+  "name": "go all out"
+ },
+ {
+  "id": 7036,
+  "category_group_master_id": 7,
+  "order": 7036,
+  "name": "シスター"
+ },
+ {
+  "id": 7037,
+  "category_group_master_id": 7,
+  "order": 7037,
+  "name": "プールサイド・セッション"
+ },
+ {
+  "id": 7038,
+  "category_group_master_id": 7,
+  "order": 7038,
+  "name": "夏、いわゆるダイスターの観察"
+ },
+ {
+  "id": 7039,
+  "category_group_master_id": 7,
+  "order": 7039,
+  "name": "ダイアローグは交わらない"
+ },
+ {
+  "id": 7040,
+  "category_group_master_id": 7,
+  "order": 7040,
+  "name": "今は遠い星のリグレット"
+ },
+ {
+  "id": 7041,
+  "category_group_master_id": 7,
+  "order": 7041,
+  "name": "ペトリコールと推論"
+ },
+ {
+  "id": 7042,
+  "category_group_master_id": 7,
+  "order": 7042,
+  "name": "ステラリズムシューターズ！"
+ },
+ {
+  "id": 7043,
+  "category_group_master_id": 7,
+  "order": 7043,
+  "name": "過現未HELLO-WIN！"
+ },
+ {
+  "id": 7044,
+  "category_group_master_id": 7,
+  "order": 7044,
+  "name": "Jump！L0ve→L1ve!!　前編"
+ },
+ {
+  "id": 7045,
+  "category_group_master_id": 7,
+  "order": 7045,
+  "name": "Jump！L0ve→L1ve!!　後編"
+ },
+ {
+  "id": 7046,
+  "category_group_master_id": 7,
+  "order": 7046,
+  "name": "ダブルキャストは想いあう"
+ },
+ {
+  "id": 7047,
+  "category_group_master_id": 7,
+  "order": 7047,
+  "name": "†迎春†　猫と烏の協奏曲"
+ },
+ {
+  "id": 7048,
+  "category_group_master_id": 7,
+  "order": 7048,
+  "name": "ふわり、湯けむり異文化旅情"
+ },
+ {
+  "id": 7049,
+  "category_group_master_id": 7,
+  "order": 7049,
+  "name": "遥か、ネバーランドに望む"
+ },
+ {
+  "id": 7050,
+  "category_group_master_id": 7,
+  "order": 7050,
+  "name": "えでキャン△"
+ },
+ {
+  "id": 7051,
+  "category_group_master_id": 7,
+  "order": 7051,
+  "name": "Break Loose"
+ },
+ {
+  "id": 7052,
+  "category_group_master_id": 7,
+  "order": 7052,
+  "name": "star-crossed star"
+ },
+ {
+  "id": 7053,
+  "category_group_master_id": 7,
+  "order": 7053,
+  "name": "Operation: Game Festival！"
+ },
+ {
+  "id": 7054,
+  "category_group_master_id": 7,
+  "order": 7054,
+  "name": "舞い散る桜に、今気づいて"
+ },
+ {
+  "id": 7055,
+  "category_group_master_id": 7,
+  "order": 7055,
+  "name": "優しいあの子になれたなら"
+ },
+ {
+  "id": 7056,
+  "category_group_master_id": 7,
+  "order": 7056,
+  "name": "熱でうだるあの子の為に"
+ },
+ {
+  "id": 7057,
+  "category_group_master_id": 7,
+  "order": 7057,
+  "name": "Beyond Grief"
+ },
+ {
+  "id": 7058,
+  "category_group_master_id": 7,
+  "order": 7058,
+  "name": "みんなで「ノリノリ」作戦です！"
+ },
+ {
+  "id": 7059,
+  "category_group_master_id": 7,
+  "order": 7059,
+  "name": "運動オンチでも見返したいっ！"
+ },
+ {
+  "id": 7060,
+  "category_group_master_id": 7,
+  "order": 7060,
+  "name": "茜差すメランコリック"
+ },
+ {
+  "id": 7061,
+  "category_group_master_id": 7,
+  "order": 7061,
+  "name": "肝試せ！　ファントムミーティング！"
+ },
+ {
+  "id": 7062,
+  "category_group_master_id": 7,
+  "order": 7062,
+  "name": "心の檻を越えて"
+ },
+ {
+  "id": 7063,
+  "category_group_master_id": 7,
+  "order": 7063,
+  "name": "魔法にまた、かけられて――"
+ },
+ {
+  "id": 7064,
+  "category_group_master_id": 7,
+  "order": 7064,
+  "name": "Fascinate Coordinate"
+ },
+ {
+  "id": 7065,
+  "category_group_master_id": 7,
+  "order": 7065,
+  "name": "開運！　餅をつく音、鐘の音"
+ },
+ {
+  "id": 7066,
+  "category_group_master_id": 7,
+  "order": 7066,
+  "name": "輝線、綺羅星の証明"
+ },
+ {
+  "id": 7067,
+  "category_group_master_id": 7,
+  "order": 7067,
+  "name": "荒神鎮め、栄達を為す"
+ },
+ {
+  "id": 7068,
+  "category_group_master_id": 7,
+  "order": 7068,
+  "name": "Easter Attraction！"
+ },
+ {
+  "id": 7069,
+  "category_group_master_id": 7,
+  "order": 7069,
+  "name": "Re:Start"
+ },
+ {
+  "id": 7070,
+  "category_group_master_id": 7,
+  "order": 7070,
+  "name": "少女海遊メモリアル！"
+ },
+ {
+  "id": 7071,
+  "category_group_master_id": 7,
+  "order": 7071,
+  "name": "Stella Generalprobe!"
+ },
+ {
+  "id": 7501,
+  "category_group_master_id": 7,
+  "order": 7501,
+  "name": "VIBES IN BLUE"
+ },
+ {
+  "id": 7502,
+  "category_group_master_id": 7,
+  "order": 7502,
+  "name": "観月・オーバーザムーン！"
+ },
+ {
+  "id": 7503,
+  "category_group_master_id": 7,
+  "order": 7503,
+  "name": "TRiP PRiSM Rhythm"
+ },
+ {
+  "id": 7504,
+  "category_group_master_id": 7,
+  "order": 7504,
+  "name": "ミッション！MEAT・MEET"
+ },
+ {
+  "id": 7505,
+  "category_group_master_id": 7,
+  "order": 7505,
+  "name": "AMPED:READY？ MERRY！"
+ },
+ {
+  "id": 7506,
+  "category_group_master_id": 7,
+  "order": 7506,
+  "name": "Buono！～カーニバルな食卓で～"
+ },
+ {
+  "id": 7507,
+  "category_group_master_id": 7,
+  "order": 7507,
+  "name": "ショコラとまごころ"
+ },
+ {
+  "id": 7508,
+  "category_group_master_id": 7,
+  "order": 7508,
+  "name": "うららかな春、ディスカバれ！"
+ },
+ {
+  "id": 7509,
+  "category_group_master_id": 7,
+  "order": 7509,
+  "name": "津々浦々！　夢見る温泉TIME！！"
+ },
+ {
+  "id": 7510,
+  "category_group_master_id": 7,
+  "order": 7510,
+  "name": "Chuning (your) Rhythm!"
+ },
+ {
+  "id": 7511,
+  "category_group_master_id": 7,
+  "order": 7511,
+  "name": "June Bridal Working!"
+ },
+ {
+  "id": 7512,
+  "category_group_master_id": 7,
+  "order": 7512,
+  "name": "雲外蒼天？ 夏！海！水着！"
+ },
+ {
+  "id": 7513,
+  "category_group_master_id": 7,
+  "order": 7513,
+  "name": "#映える夏、募集中！"
+ },
+ {
+  "id": 7514,
+  "category_group_master_id": 7,
+  "order": 7514,
+  "name": "Museum Crossing!!"
+ },
+ {
+  "id": 7515,
+  "category_group_master_id": 7,
+  "order": 7515,
+  "name": "夜半の月とその瞳"
+ },
+ {
+  "id": 7516,
+  "category_group_master_id": 7,
+  "order": 7516,
+  "name": "未知との遭遇 in AKIBA"
+ },
+ {
+  "id": 7517,
+  "category_group_master_id": 7,
+  "order": 7517,
+  "name": "再演！　オペラ座の怪人第1幕"
+ },
+ {
+  "id": 7518,
+  "category_group_master_id": 7,
+  "order": 7518,
+  "name": "再演！　オペラ座の怪人～千秋楽～"
+ },
+ {
+  "id": 7601,
+  "category_group_master_id": 7,
+  "order": 7601,
+  "name": "Live! Merry Christmas!"
+ },
+ {
+  "id": 7602,
+  "category_group_master_id": 7,
+  "order": 7602,
+  "name": "Snow or Ice?"
+ },
+ {
+  "id": 7603,
+  "category_group_master_id": 7,
+  "order": 7603,
+  "name": "Dual dance cross pathos！"
+ },
+ {
+  "id": 7604,
+  "category_group_master_id": 7,
+  "order": 7604,
+  "name": "ゆるるん冒険！　竜vs勇者！！"
+ },
+ {
+  "id": 7605,
+  "category_group_master_id": 7,
+  "order": 7605,
+  "name": "June Bridal Heroines！"
+ },
+ {
+  "id": 7606,
+  "category_group_master_id": 7,
+  "order": 7606,
+  "name": "絶えぬ星々、過去の軌跡"
+ },
+ {
+  "id": 8001,
+  "category_group_master_id": 8,
+  "order": 8001,
+  "name": "海外出身"
+ },
+ {
+  "id": 8002,
+  "category_group_master_id": 8,
+  "order": 8002,
+  "name": "舞台"
+ },
+ {
+  "id": 8003,
+  "category_group_master_id": 8,
+  "order": 8003,
+  "name": "役者"
+ },
+ {
+  "id": 8004,
+  "category_group_master_id": 8,
+  "order": 8004,
+  "name": "衣装"
+ },
+ {
+  "id": 8005,
+  "category_group_master_id": 8,
+  "order": 8005,
+  "name": "練習"
+ },
+ {
+  "id": 8006,
+  "category_group_master_id": 8,
+  "order": 8006,
+  "name": "小道具"
+ },
+ {
+  "id": 8007,
+  "category_group_master_id": 8,
+  "order": 8007,
+  "name": "主人公"
+ },
+ {
+  "id": 8008,
+  "category_group_master_id": 8,
+  "order": 8008,
+  "name": "ヒロイン"
+ },
+ {
+  "id": 8009,
+  "category_group_master_id": 8,
+  "order": 8009,
+  "name": "ライバル"
+ },
+ {
+  "id": 8010,
+  "category_group_master_id": 8,
+  "order": 8010,
+  "name": "スクールアイドル"
+ },
+ {
+  "id": 8011,
+  "category_group_master_id": 8,
+  "order": 8011,
+  "name": "奇跡望国"
+ },
+ {
+  "id": 8012,
+  "category_group_master_id": 8,
+  "order": 8012,
+  "name": "絶退帝国"
+ },
+ {
+  "id": 8013,
+  "category_group_master_id": 8,
+  "order": 8013,
+  "name": "レジスタンス"
+ },
+ {
+  "id": 8014,
+  "category_group_master_id": 8,
+  "order": 8014,
+  "name": "日和組合"
+ },
+ {
+  "id": 8015,
+  "category_group_master_id": 8,
+  "order": 8015,
+  "name": "世界演劇リーグ"
+ }
+]

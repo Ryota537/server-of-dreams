@@ -1,0 +1,7550 @@
+[
+ {
+  "id": 1,
+  "description": "「シリウス」カテゴリの演技力10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12001,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "description": "「シリウス」カテゴリの演技力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12002,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "description": "「役者」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "description": "「歌川高校体育祭！　～応援団長の一日～\t」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "description": "「役者」カテゴリの演技力30%上昇、「音楽」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "description": "「高校生」カテゴリの演技力40%上昇、「食べ物」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "description": "「役者」カテゴリの集中力60%上昇、「ライバル」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12018,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "description": "「主人公」カテゴリの演技力30%上昇、「練習」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "description": "「シリウス」カテゴリの演技力30%上昇、「食べ物」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "description": "「悪魔の友人」カテゴリの演技力40%上昇、「舞台」カテゴリの歌唱力20％上昇・表現力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 6003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12023,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "description": "「お風呂」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 3003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "description": "「新年はあなたの手を取って」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7017,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "description": "「Fashi∞nable！」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7030,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "description": "「高校生」カテゴリの演技力30%上昇、「食べ物」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "description": "「舞台」カテゴリの演技力40%上昇、「役者」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "description": "「衣装」カテゴリの演技力30%上昇、「役者」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「舞台」カテゴリの表現力20％上昇・演技力上限が10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12040,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "description": "「メモワールに約束を」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7014,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "description": "「Bloom Time-Lapse」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7027,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "description": "「舞台」カテゴリの演技力30%上昇、「主人公」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "description": "「歌川高校」カテゴリの演技力30%上昇、「お風呂」カテゴリの表現力60％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 5001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12014,
+    "conditions": [
+     {
+      "category_master_id1": 3003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "description": "「和風」カテゴリの表現力60%上昇、「高校生」カテゴリのCTを3秒短縮する",
+  "details": [
+   {
+    "effect_master_id": 12014,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12050,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "description": "「練習」カテゴリの演技力30%上昇、「衣装」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "description": "「シリウス」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "description": "「人には言えないアタシの叫び」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7012,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "description": "「14光年はなれた隣で」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7019,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "description": "「衣装」カテゴリの演技力30%上昇、「小学生」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 1001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "description": "「食べ物」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "description": "「シリウス」カテゴリの表現力50%上昇、「練習」カテゴリの演技力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12013,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "description": "「動物」カテゴリの演技力40%上昇、「役者」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "description": "「配信」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 3001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "description": "「シリウスは日々是好日で」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "description": "「7番目のエトワールを探して」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7024,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "description": "「衣装」カテゴリの演技力30%上昇、「ヒロイン」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "description": "「役者」カテゴリの演技力30%上昇、「小道具」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "description": "「衣装」カテゴリの表現力50%上昇、「小道具」カテゴリの演技力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12013,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "description": "「メルヘン」カテゴリの演技力30%上昇、「シリウス」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力20％上昇・表現力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12023,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "description": "「練習」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "description": "「隠し味はひとさじのユーモア」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "description": "「衣装」カテゴリの演技力30%上昇、「舞台」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "description": "「食べ物」カテゴリの表現力60%上昇、「メルヘン」カテゴリの演技力25％上昇",
+  "details": [
+   {
+    "effect_master_id": 12014,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12025,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "description": "「運動」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 3005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "description": "「Eden」カテゴリの演技力10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12001,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "description": "「Eden」カテゴリの演技力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12002,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "description": "「FAIR IS SOUL, AND FOUR IS FAIR」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "description": "「bet on faith？」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7013,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "description": "「bet or fold？\t」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7029,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "description": "「役者」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "description": "「舞台」カテゴリの演技力40%上昇、「練習」カテゴリの歌唱力20％上昇・表現力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12023,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "description": "「食べ物」カテゴリの演技力30%上昇、「料理」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 3004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "description": "「悪魔の友人」カテゴリの表現力60%上昇、「舞台」カテゴリの演技力15％上昇・演技力上限が10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12014,
+    "conditions": [
+     {
+      "category_master_id1": 6003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12002,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12040,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "description": "「Eden」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "description": "「秒針の安息」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7018,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "description": "「go all out」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7035,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "description": "「舞台」カテゴリの演技力30%上昇、「役者」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "description": "「練習」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "description": "「ライバル」カテゴリの演技力40%上昇、「私服」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "description": "「Eden」カテゴリの演技力40%上昇、「主人公」カテゴリの表現力20％上昇・歌唱力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12022,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "description": "「制服」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 4005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "description": "「＃指先がつむぐ暗黒」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7025,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "description": "「メルヘン」カテゴリの演技力30%上昇、「舞台」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "description": "「運動」カテゴリの演技力30%上昇、「高校生」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 3005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "description": "「メルヘン」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "description": "「役者」カテゴリの演技力40%上昇、「舞台」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "description": "「Eden」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "description": "「私服」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "description": "「god is no/w/ here」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "description": "「小道具」カテゴリの演技力30%上昇、「舞台」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "description": "「Eden」カテゴリの演技力45%上昇、「衣装」カテゴリのCTを3秒短縮する",
+  "details": [
+   {
+    "effect_master_id": 12006,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12050,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "description": "「食べ物」カテゴリの演技力30%上昇、「役者」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "description": "「主人公」カテゴリの演技力40%上昇、「役者」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "description": "「音楽」カテゴリの演技力30%上昇、「舞台」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "description": "「運動」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 3005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "description": "「Valentine Cocktail hour」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7021,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "description": "「Eden」カテゴリの演技力30%上昇、「練習」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "description": "「運動」カテゴリの演技力30%上昇、「練習」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 3005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "description": "「Eden」カテゴリの演技力40%上昇、「舞台」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "description": "「銀河座」カテゴリの演技力10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12001,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "description": "「銀河座」カテゴリの演技力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12002,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "description": "「銀河座」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "description": "「星明かりのおくりもの」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7016,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "description": "「イノセンスにおしえて」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7032,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "description": "「和風」カテゴリの演技力30%上昇、「舞台」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "description": "「主人公」カテゴリの演技力40%上昇、「高校生」カテゴリの歌唱力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "description": "「銀河座」カテゴリの演技力40%上昇、「舞台」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 87,
+  "description": "「舞台」カテゴリの演技力40%上昇、「主人公」カテゴリの集中力35%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 88,
+  "description": "「役者」カテゴリの演技力30%上昇、「舞台」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "description": "「泡沫烟花」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "description": "「シスター」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7036,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "description": "「役者」カテゴリの演技力30%上昇、「和風」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "description": "「舞台」カテゴリの演技力30%上昇、「銀河座」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "description": "「高校生」カテゴリの演技力40%上昇、「海外出身」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "description": "「メルヘン」カテゴリの演技力40%上昇、「練習」カテゴリの集中力20％上昇・歌唱力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12022,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "description": "「私服」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "description": "「アツアツまごころ料理道！」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7026,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "description": "「役者」カテゴリの演技力40%上昇、「銀河座」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "description": "「銀河鉄道の夜」カテゴリの演技力40%上昇、「舞台」カテゴリの集中力20％上昇・演技力上限10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 6008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12040,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "description": "「衣装」カテゴリの演技力30%上昇、「海外出身」カテゴリの表現力30％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12012,
+    "conditions": [
+     {
+      "category_master_id1": 8001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "description": "「メルヘン」カテゴリの演技力30%上昇、「衣装」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "description": "「役者」カテゴリの演技力30%上昇、「配信」カテゴリの集中力30％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12016,
+    "conditions": [
+     {
+      "category_master_id1": 3001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "description": "「星雲の窓辺」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7028,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "description": "「動物」カテゴリの演技力30%上昇、「メルヘン」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "description": "「衣装」カテゴリの演技力30%上昇、「小道具」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "description": "「衣装」カテゴリの演技力30%上昇、「ファッション」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "description": "「音楽」カテゴリの演技力40%上昇、「高校生」カテゴリの歌唱力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "description": "「海」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "description": "「ギムレットにお別れを」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7011,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "description": "「ステラリズムシューターズ！」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7042,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "description": "「高校生」カテゴリの演技力30%上昇、「和風」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "description": "「衣装」カテゴリの演技力30%上昇、「配信」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 3001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 112,
+  "description": "「舞台」カテゴリの演技力30%上昇、「銀河座」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "description": "「劇団電姫」カテゴリの演技力10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12001,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "description": "「劇団電姫」カテゴリの演技力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12002,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "description": "「小道具」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "description": "「エレクトリック・サマー・バカンス」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "description": "「FAIR IS SOUL, AND FOUR IS FAIR」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "description": "「劇団電姫」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "description": "「舞台」カテゴリの演技力30%上昇、「ヒロイン」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "description": "「衣装」カテゴリの演技力30%上昇、「小道具」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「メルヘン」カテゴリの表現力20％上昇・演技力上限が10%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12040,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "description": "「練習」カテゴリの演技力40%上昇、「高校生」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 123,
+  "description": "「主人公」カテゴリの演技力30%上昇、「メルヘン」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 124,
+  "description": "「料理」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 3004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 125,
+  "description": "「泡雪でありますように」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7015,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 126,
+  "description": "「トロイメライと悪魔」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7022,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 127,
+  "description": "「役者」カテゴリの演技力30%上昇、「メルヘン」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 128,
+  "description": "「舞台」カテゴリの演技力30%上昇、「高校生」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 129,
+  "description": "「和風」カテゴリの演技力30%上昇、「食べ物」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 130,
+  "description": "「衣装」カテゴリの演技力40%上昇、「ライバル」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 131,
+  "description": "「食べ物」カテゴリの演技力40%上昇、「役者」カテゴリの表現力20％上昇・歌唱力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12022,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 132,
+  "description": "「北天のアルビレオ」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "description": "「沫雪がとけたら」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7033,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 134,
+  "description": "「ファッション」カテゴリの演技力40%上昇、「高校生」カテゴリのCTを3秒短縮する",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12050,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 135,
+  "description": "「配信」カテゴリの演技力30%上昇、「私服」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 3001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 136,
+  "description": "「食べ物」カテゴリの演技力40%上昇、「役者」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "description": "「和風」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "description": "「脚光が照らすこれから」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "description": "「反逆、すべては目指す舞台のために」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7034,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "description": "「海」カテゴリの演技力40%上昇、「ファッション」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "description": "「役者」カテゴリの演技力30%上昇、「小道具」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 142,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「衣装」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "description": "「舞台」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "description": "「マジカルガール☆ハロウィン」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7010,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "description": "「ギャルからオタクに転身してみた件」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7020,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 146,
+  "description": "「舞台」カテゴリの演技力30%上昇、「練習」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 147,
+  "description": "「衣装」カテゴリの演技力30%上昇、「動物」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "description": "「舞台」カテゴリの演技力40%上昇、「練習」カテゴリの歌唱力20％上昇・表現力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12023,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "description": "「ヒロイン」カテゴリの演技力40%上昇、「役者」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "description": "「音楽」カテゴリの演技力40%上昇、「運動」カテゴリの集中力が20%上昇・歌唱力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 3005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12022,
+    "conditions": [
+     {
+      "category_master_id1": 3005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "description": "「サイレント・リフレクション」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 7031,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "description": "「食べ物」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "description": "「動物」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "description": "「ヒロイン」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "description": "「衣装」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 157,
+  "description": "「役者」カテゴリの演技力40%上昇、「和風」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 158,
+  "description": "「音楽」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 159,
+  "description": "「役者」カテゴリの演技力40%上昇、「ファッション」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 160,
+  "description": "「ファッション」カテゴリの演技力40%上昇、「音楽」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 161,
+  "description": "「ヒロイン」カテゴリの演技力30%上昇、「和風」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 162,
+  "description": "「和風」カテゴリの演技力30%上昇、「役者」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 163,
+  "description": "「高校生」カテゴリの演技力30%上昇、「私服」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "description": "「ファッション」カテゴリの演技力30%上昇、「私服」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 165,
+  "description": "「衣装」カテゴリの集中力60%上昇、「銀河座」カテゴリの演技力25％上昇",
+  "details": [
+   {
+    "effect_master_id": 12018,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12025,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 166,
+  "description": "「銀河座」カテゴリの演技力30%上昇、「舞台」カテゴリのCTを5秒短縮する",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12051,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 167,
+  "description": "「音楽」カテゴリの演技力40%上昇、「役者」カテゴリの集中力が35%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 168,
+  "description": "「音楽」カテゴリの演技力40%上昇、「高校生」カテゴリの歌唱力が35%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 169,
+  "description": "「役者」カテゴリの歌唱力60%上昇、「シリウス」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12010,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 170,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「舞台」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 171,
+  "description": "「役者」カテゴリの演技力40%上昇、「メルヘン」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 172,
+  "description": "「衣装」カテゴリの演技力40%上昇、「小道具」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "description": "「制服」カテゴリの演技力40%上昇、「舞台」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 174,
+  "description": "「銀河座」カテゴリの演技力40%上昇、「衣装」カテゴリの集中力20％上昇・歌唱力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12022,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 175,
+  "description": "「舞台」カテゴリの演技力40%上昇、「マクベス」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 6006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 176,
+  "description": "「私服」カテゴリの演技力40%上昇、「配信」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 3001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 177,
+  "description": "「役者」カテゴリの演技力40%上昇、「衣装」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 178,
+  "description": "「私服」カテゴリの演技力30%上昇、「銀河シアター」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 5005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 179,
+  "description": "「食べ物」カテゴリの演技力30%上昇、「私服」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 180,
+  "description": "「高校生」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 181,
+  "description": "「高校生」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "description": "「役者」カテゴリの演技力40%上昇、「衣装」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "description": "「ラブライブ！サンシャイン!!」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "description": "「制服」カテゴリの演技力40%上昇、「海」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "description": "「高校生」カテゴリの演技力40%上昇、「メルヘン」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "description": "「高校生」カテゴリの演技力40%上昇、「スクールアイドル」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8010,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "description": "「高校生」カテゴリの演技力40%上昇、「舞台」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 188,
+  "description": "「メルヘン」カテゴリの演技力30%上昇、「私服」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 189,
+  "description": "「衣装」カテゴリの演技力30%上昇、「メルヘン」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "description": "「役者」カテゴリの演技力30%上昇、「衣装」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「和風」カテゴリの歌唱力20％上昇・表現力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12023,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "description": "「Eden」カテゴリの演技力40%上昇、「和風」カテゴリの表現力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 193,
+  "description": "「小道具」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "description": "「高校生」カテゴリの演技力30%上昇、「私服」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 195,
+  "description": "「お風呂」カテゴリの演技力30%上昇、「衣装」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 3003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "description": "「銀河座」カテゴリの演技力30%上昇、「衣装」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 197,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「衣装」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 198,
+  "description": "「役者」カテゴリの演技力40%上昇、「メルヘン」カテゴリの表現力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 199,
+  "description": "「役者」カテゴリの演技力40%上昇、「ヒロイン」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8008,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 200,
+  "description": "「衣装」カテゴリの演技力40%上昇、「主人公」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 201,
+  "description": "「私服」カテゴリの演技力30%上昇、「食べ物」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 202,
+  "description": "「料理」カテゴリの演技力30%上昇、「私服」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 3004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 203,
+  "description": "「役者」カテゴリの演技力40%上昇、「小道具」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 204,
+  "description": "「高校生」カテゴリの演技力40%上昇、「運動」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 3005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 205,
+  "description": "「役者」カテゴリの演技力30%上昇、「食べ物」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 206,
+  "description": "「シリウス劇場」カテゴリの演技力20%上昇",
+  "details": [
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 5003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 207,
+  "description": "「シリウス」カテゴリの演技力30%上昇、「メルヘン」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 208,
+  "description": "「シリウス」カテゴリの演技力30%上昇、「舞台」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 209,
+  "description": "「役者」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 210,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「小道具」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 211,
+  "description": "「高校生」カテゴリの演技力30%上昇、「動物」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 212,
+  "description": "「役者」カテゴリの演技力30%上昇、「お風呂」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 3003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 213,
+  "description": "「銀河座」カテゴリの演技力30%上昇、「衣装」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 214,
+  "description": "「Eden」カテゴリの演技力40%上昇、「舞台」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 215,
+  "description": "「役者」カテゴリの演技力40%上昇、「衣装」カテゴリの表現力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 216,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「舞台」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 217,
+  "description": "「Eden」カテゴリの演技力40%上昇、「衣装」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 218,
+  "description": "「Eden」カテゴリの演技力40%上昇、「舞台」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 219,
+  "description": "「高校生」カテゴリの演技力40%上昇、「衣装」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 220,
+  "description": "「高校生」カテゴリの演技力30%上昇、「ファッション」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 221,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「練習」カテゴリの歌唱力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 8005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 222,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「小道具」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 223,
+  "description": "「Eden」カテゴリの演技力40%上昇、「メルヘン」カテゴリの表現力20％上昇・歌唱力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12022,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 224,
+  "description": "「役者」カテゴリの演技力30%上昇、「海」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 225,
+  "description": "「高校生」カテゴリの演技力30%上昇、「動物」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "description": "「役者」カテゴリの演技力40%上昇、「舞台」カテゴリの集中力20％上昇、「レ・ミゼラブル」カテゴリの演技力上限が5%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12041,
+    "conditions": [
+     {
+      "category_master_id1": 6011,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 227,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力20％上昇、「レ・ミゼラブル」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが10上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12029,
+    "conditions": [
+     {
+      "category_master_id1": 6011,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 228,
+  "description": "「衣装」カテゴリの演技力40%上昇、「ライバル」カテゴリの歌唱力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 8009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 229,
+  "description": "「高校生」カテゴリの演技力40%上昇、「海」カテゴリの集中力20％上昇・歌唱力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12022,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 230,
+  "description": "「銀河座」カテゴリの演技力40%上昇、「海」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 231,
+  "description": "「劇団電姫」カテゴリの演技力30%上昇、「海」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 5007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 232,
+  "description": "「役者」カテゴリの演技力30%上昇、「衣装」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 233,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 234,
+  "description": "「役者」カテゴリの演技力40%上昇、「和風」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 235,
+  "description": "「Eden」カテゴリの演技力30%上昇、「動物」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 236,
+  "description": "「Eden」カテゴリの演技力40%上昇、「衣装」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 237,
+  "description": "「役者」カテゴリの演技力40%上昇、「動物」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 238,
+  "description": "「役者」カテゴリの演技力30%上昇、「ファッション」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 239,
+  "description": "「銀河座」カテゴリの演技力40%上昇、「和風」カテゴリの歌唱力20％上昇、「橋弁慶」カテゴリの数に応じて初期プリンシパルゲージが10上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12029,
+    "conditions": [
+     {
+      "category_master_id1": 6012,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 240,
+  "description": "「役者」カテゴリの演技力40%上昇、「舞台」カテゴリの集中力20％上昇、「橋弁慶」カテゴリの演技力上限が5%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12041,
+    "conditions": [
+     {
+      "category_master_id1": 6012,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 241,
+  "description": "「制服」カテゴリの演技力40%上昇、「ライバル」カテゴリの集中力20％上昇・表現力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12023,
+    "conditions": [
+     {
+      "category_master_id1": 8009,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 242,
+  "description": "「役者」カテゴリの演技力40%上昇、「メルヘン」カテゴリの表現力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12020,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 243,
+  "description": "「役者」カテゴリの演技力30%上昇、「私服」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 244,
+  "description": "「高校生」カテゴリの演技力30%上昇、「和風」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 245,
+  "description": "「舞台」カテゴリの演技力30%上昇、「主人公」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 246,
+  "description": "「高校生」カテゴリの演技力40%上昇、「ファッション」カテゴリの歌唱力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 1003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12019,
+    "conditions": [
+     {
+      "category_master_id1": 3006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 247,
+  "description": "「役者」カテゴリの演技力40%上昇、「衣装」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 248,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「衣装」カテゴリの歌唱力20％上昇・初期ライフが100上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12060,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 249,
+  "description": "「シリウス」カテゴリの演技力30%上昇、「衣装」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 250,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「衣装」カテゴリの表現力20％上昇、「オズの魔法使い」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが10上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12029,
+    "conditions": [
+     {
+      "category_master_id1": 6013,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 251,
+  "description": "「役者」カテゴリの演技力40%上昇、「舞台」カテゴリの集中力20％上昇、「オズの魔法使い」カテゴリの演技力上限が5%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12041,
+    "conditions": [
+     {
+      "category_master_id1": 6013,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 252,
+  "description": "「制服」カテゴリの演技力40%上昇、「音楽」カテゴリの歌唱力20％上昇・集中力15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 4005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12024,
+    "conditions": [
+     {
+      "category_master_id1": 4001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 253,
+  "description": "「銀河座」カテゴリの演技力30%上昇、「舞台」カテゴリの表現力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 254,
+  "description": "「私服」カテゴリの演技力30%上昇、「動物」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 4002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 255,
+  "description": "「劇団電姫」カテゴリの演技力30%上昇、「メルヘン」カテゴリの集中力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12015,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 256,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「メルヘン」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 4006,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 257,
+  "description": "「Eden」カテゴリの演技力40%上昇、「衣装」カテゴリの表現力20％上昇、「青髪公の帰らぬ妻」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが10上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12029,
+    "conditions": [
+     {
+      "category_master_id1": 6014,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 258,
+  "description": "「役者」カテゴリの演技力40%上昇、「舞台」カテゴリの表現力20％上昇、「青髪公の帰らぬ妻」カテゴリの演技力上限が5%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12011,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12041,
+    "conditions": [
+     {
+      "category_master_id1": 6014,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 259,
+  "description": "「制服」カテゴリの演技力50%上昇、「和風」カテゴリの演技力上限が15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12026,
+    "conditions": [
+     {
+      "category_master_id1": 4005,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12042,
+    "conditions": [
+     {
+      "category_master_id1": 4007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 260,
+  "description": "「役者」カテゴリの演技力40%上昇、「食べ物」カテゴリの集中力35％上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12021,
+    "conditions": [
+     {
+      "category_master_id1": 4003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 261,
+  "description": "「Eden」カテゴリの演技力30%上昇、「舞台」カテゴリの歌唱力20％上昇",
+  "details": [
+   {
+    "effect_master_id": 12004,
+    "conditions": [
+     {
+      "category_master_id1": 2002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12007,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 262,
+  "description": "「劇団電姫」カテゴリの演技力40%上昇、「舞台」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12030,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 263,
+  "description": "「シリウス」カテゴリの演技力40%上昇、「衣装」カテゴリの表現力30％上昇・演技力上限が5%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 2001,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12012,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12041,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 264,
+  "description": "「役者」カテゴリの演技力40%上昇、「舞台」カテゴリの集中力30％上昇・演技力上限が5%上昇",
+  "details": [
+   {
+    "effect_master_id": 12005,
+    "conditions": [
+     {
+      "category_master_id1": 8003,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12016,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12041,
+    "conditions": [
+     {
+      "category_master_id1": 8002,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 265,
+  "description": "「衣装」カテゴリの演技力50%上昇、「主人公」カテゴリの演技力20%上昇・演技力上限が15%上昇",
+  "details": [
+   {
+    "effect_master_id": 12026,
+    "conditions": [
+     {
+      "category_master_id1": 8004,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12003,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   },
+   {
+    "effect_master_id": 12042,
+    "conditions": [
+     {
+      "category_master_id1": 8007,
+      "category_master_id2": null,
+      "category_master_id3": null,
+      "category_master_id4": null,
+      "category_master_id5": null
+     }
+    ]
+   }
+  ]
+ }
+]

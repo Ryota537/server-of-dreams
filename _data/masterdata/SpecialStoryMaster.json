@@ -1,0 +1,56 @@
+[
+ {
+  "id": 30001,
+  "story_master_id": 30001,
+  "start_date": "2024-06-10T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "event_story_list_flags": 8,
+  "title": "コードギアス 反逆のルルーシュ ちょっとしたコラボ",
+  "order": 1
+ },
+ {
+  "id": 30002,
+  "story_master_id": 30002,
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "event_story_list_flags": 1,
+  "title": "シリウス3章アフターストーリー",
+  "order": 2
+ },
+ {
+  "id": 30003,
+  "story_master_id": 30003,
+  "start_date": "2024-10-05T12:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "event_story_list_flags": 5,
+  "title": "合同音楽公演 ～Global Stage～",
+  "order": 3
+ },
+ {
+  "id": 30004,
+  "story_master_id": 30004,
+  "start_date": "2024-11-05T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "event_story_list_flags": 4,
+  "title": "銀河座3章アフターストーリー",
+  "order": 4
+ },
+ {
+  "id": 30005,
+  "story_master_id": 30005,
+  "start_date": "2025-02-04T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "event_story_list_flags": 8,
+  "title": "劇団電姫3章アフターストーリー",
+  "order": 5
+ },
+ {
+  "id": 30006,
+  "story_master_id": 30006,
+  "start_date": "2025-05-04T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "event_story_list_flags": 2,
+  "title": "Eden3章アフターストーリー",
+  "order": 6
+ }
+]

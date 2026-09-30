@@ -1,0 +1,308 @@
+[
+ {
+  "id": 30122,
+  "m_event_id": 30122,
+  "is_hide_complate": false,
+  "start_date": "2025-08-04T17:00:00+00:00",
+  "end_date": "2025-08-14T00:00:00+00:00",
+  "bgm_path": "inst_187",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30123,
+  "m_event_id": 30123,
+  "is_hide_complate": false,
+  "start_date": "2025-08-20T17:00:00+00:00",
+  "end_date": "2025-08-30T00:00:00+00:00",
+  "bgm_path": "inst_183",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30124,
+  "m_event_id": 30124,
+  "is_hide_complate": false,
+  "start_date": "2025-09-13T17:00:00+00:00",
+  "end_date": "2025-09-23T00:00:00+00:00",
+  "bgm_path": "inst_111",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30125,
+  "m_event_id": 30125,
+  "is_hide_complate": false,
+  "start_date": "2025-09-13T17:00:00+00:00",
+  "end_date": "2025-09-23T00:00:00+00:00",
+  "bgm_path": "inst_99",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30126,
+  "m_event_id": 30126,
+  "is_hide_complate": false,
+  "start_date": "2025-10-03T17:00:00+00:00",
+  "end_date": "2025-10-13T00:00:00+00:00",
+  "bgm_path": "inst_103",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30127,
+  "m_event_id": 30127,
+  "is_hide_complate": false,
+  "start_date": "2025-11-06T17:00:00+00:00",
+  "end_date": "2025-11-16T00:00:00+00:00",
+  "bgm_path": "inst_206",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30128,
+  "m_event_id": 30128,
+  "is_hide_complate": false,
+  "start_date": "2025-11-30T17:00:00+00:00",
+  "end_date": "2025-12-10T00:00:00+00:00",
+  "bgm_path": "inst_64",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30129,
+  "m_event_id": 30129,
+  "is_hide_complate": false,
+  "start_date": "2025-12-12T17:00:00+00:00",
+  "end_date": "2025-12-22T00:00:00+00:00",
+  "bgm_path": "inst_91",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30130,
+  "m_event_id": 30130,
+  "is_hide_complate": false,
+  "start_date": "2025-12-25T17:00:00+00:00",
+  "end_date": "2026-01-04T00:00:00+00:00",
+  "bgm_path": "inst_166",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30131,
+  "m_event_id": 30131,
+  "is_hide_complate": false,
+  "start_date": "2026-01-20T17:00:00+00:00",
+  "end_date": "2026-01-30T00:00:00+00:00",
+  "bgm_path": "inst_165",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30132,
+  "m_event_id": 30132,
+  "is_hide_complate": false,
+  "start_date": "2026-02-03T17:00:00+00:00",
+  "end_date": "2026-02-13T00:00:00+00:00",
+  "bgm_path": "inst_224",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30133,
+  "m_event_id": 30133,
+  "is_hide_complate": false,
+  "start_date": "2026-02-26T17:00:00+00:00",
+  "end_date": "2026-03-08T00:00:00+00:00",
+  "bgm_path": "inst_94",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30134,
+  "m_event_id": 30134,
+  "is_hide_complate": false,
+  "start_date": "2026-03-20T17:00:00+00:00",
+  "end_date": "2026-03-30T00:00:00+00:00",
+  "bgm_path": "inst_83",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30135,
+  "m_event_id": 30135,
+  "is_hide_complate": false,
+  "start_date": "2026-04-09T17:00:00+00:00",
+  "end_date": "2026-04-19T00:00:00+00:00",
+  "bgm_path": "inst_98",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30136,
+  "m_event_id": 30136,
+  "is_hide_complate": false,
+  "start_date": "2026-05-05T17:00:00+00:00",
+  "end_date": "2026-05-15T00:00:00+00:00",
+  "bgm_path": "inst_101",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30137,
+  "m_event_id": 30137,
+  "is_hide_complate": false,
+  "start_date": "2026-05-23T17:00:00+00:00",
+  "end_date": "2026-06-02T00:00:00+00:00",
+  "bgm_path": "inst_161",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30138,
+  "m_event_id": 30138,
+  "is_hide_complate": false,
+  "start_date": "2026-05-30T17:00:00+00:00",
+  "end_date": "2026-06-09T00:00:00+00:00",
+  "bgm_path": "inst_163",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30139,
+  "m_event_id": 30139,
+  "is_hide_complate": false,
+  "start_date": "2026-06-01T17:00:00+00:00",
+  "end_date": "2026-06-11T00:00:00+00:00",
+  "bgm_path": "inst_115",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30140,
+  "m_event_id": 30140,
+  "is_hide_complate": false,
+  "start_date": "2026-06-19T17:00:00+00:00",
+  "end_date": "2026-06-29T00:00:00+00:00",
+  "bgm_path": "inst_203",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30141,
+  "m_event_id": 30141,
+  "is_hide_complate": false,
+  "start_date": "2026-07-17T17:00:00+00:00",
+  "end_date": "2026-07-27T00:00:00+00:00",
+  "bgm_path": "inst_226",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 30142,
+  "m_event_id": 30142,
+  "is_hide_complate": false,
+  "start_date": "2026-07-26T17:00:00+00:00",
+  "end_date": "2026-08-05T00:00:00+00:00",
+  "bgm_path": "inst_263",
+  "name": "誕生日公演"
+ },
+ {
+  "id": 60001,
+  "m_event_id": 60001,
+  "is_hide_complate": false,
+  "start_date": "2025-05-20T17:00:00+00:00",
+  "end_date": "2025-05-30T17:00:00+00:00",
+  "bgm_path": "inst_201",
+  "name": "改幕公演～第一幕～"
+ },
+ {
+  "id": 60002,
+  "m_event_id": 60002,
+  "is_hide_complate": false,
+  "start_date": "2025-07-08T17:00:00+00:00",
+  "end_date": "2025-07-20T17:00:00+00:00",
+  "bgm_path": "inst_201",
+  "name": "改幕公演～第二幕～"
+ },
+ {
+  "id": 60003,
+  "m_event_id": 60003,
+  "is_hide_complate": false,
+  "start_date": "2025-07-20T17:00:00+00:00",
+  "end_date": "2025-07-31T17:00:00+00:00",
+  "bgm_path": "inst_223",
+  "name": "ユメフェス"
+ },
+ {
+  "id": 60004,
+  "m_event_id": 60003,
+  "is_hide_complate": false,
+  "start_date": "2025-07-26T00:00:00+00:00",
+  "end_date": "2025-07-31T17:00:00+00:00",
+  "bgm_path": "inst_223",
+  "name": "ステラフェス"
+ },
+ {
+  "id": 60005,
+  "m_event_id": 60004,
+  "is_hide_complate": false,
+  "start_date": "2025-10-20T17:00:00+00:00",
+  "end_date": "2025-10-31T17:00:00+00:00",
+  "bgm_path": "inst_232",
+  "name": "ユメフェス"
+ },
+ {
+  "id": 60006,
+  "m_event_id": 60004,
+  "is_hide_complate": false,
+  "start_date": "2025-10-26T17:00:00+00:00",
+  "end_date": "2025-10-31T17:00:00+00:00",
+  "bgm_path": "inst_232",
+  "name": "ステラフェス"
+ },
+ {
+  "id": 60007,
+  "m_event_id": 60005,
+  "is_hide_complate": false,
+  "start_date": "2026-01-20T17:00:00+00:00",
+  "end_date": "2026-01-31T17:00:00+00:00",
+  "bgm_path": "inst_244",
+  "name": "ユメフェス"
+ },
+ {
+  "id": 60008,
+  "m_event_id": 60005,
+  "is_hide_complate": false,
+  "start_date": "2026-01-26T00:00:00+00:00",
+  "end_date": "2026-01-31T17:00:00+00:00",
+  "bgm_path": "inst_244",
+  "name": "ステラフェス"
+ },
+ {
+  "id": 60009,
+  "m_event_id": 60006,
+  "is_hide_complate": false,
+  "start_date": "2026-04-20T17:00:00+00:00",
+  "end_date": "2026-04-30T17:00:00+00:00",
+  "bgm_path": "inst_255",
+  "name": "ユメフェス"
+ },
+ {
+  "id": 60010,
+  "m_event_id": 60006,
+  "is_hide_complate": false,
+  "start_date": "2026-04-26T17:00:00+00:00",
+  "end_date": "2026-04-30T17:00:00+00:00",
+  "bgm_path": "inst_255",
+  "name": "ステラフェス"
+ },
+ {
+  "id": 60011,
+  "m_event_id": 60007,
+  "is_hide_complate": false,
+  "start_date": "2026-07-20T17:00:00+00:00",
+  "end_date": "2026-07-31T17:00:00+00:00",
+  "bgm_path": "inst_103",
+  "name": "ユメフェス"
+ },
+ {
+  "id": 60012,
+  "m_event_id": 60007,
+  "is_hide_complate": false,
+  "start_date": "2026-07-26T00:00:00+00:00",
+  "end_date": "2026-07-31T17:00:00+00:00",
+  "bgm_path": "inst_103",
+  "name": "ステラフェス"
+ },
+ {
+  "id": 69001,
+  "m_event_id": 69001,
+  "is_hide_complate": true,
+  "start_date": "2025-06-10T14:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00",
+  "bgm_path": "inst_1",
+  "name": "改幕公演～第零幕～"
+ }
+]

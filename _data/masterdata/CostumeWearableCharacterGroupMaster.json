@@ -1,0 +1,789 @@
+[
+ {
+  "id": 1,
+  "character_base_master_ids": [
+   104,
+   205,
+   303,
+   405
+  ]
+ },
+ {
+  "id": 2,
+  "character_base_master_ids": [
+   103,
+   105,
+   202
+  ]
+ },
+ {
+  "id": 3,
+  "character_base_master_ids": [
+   101,
+   102,
+   201,
+   203,
+   204,
+   302,
+   401,
+   403,
+   404
+  ]
+ },
+ {
+  "id": 4,
+  "character_base_master_ids": [
+   106,
+   301,
+   304,
+   305,
+   402
+  ]
+ },
+ {
+  "id": 10,
+  "character_base_master_ids": [
+   104,
+   205,
+   405
+  ]
+ },
+ {
+  "id": 11,
+  "character_base_master_ids": [
+   103,
+   104,
+   105,
+   202,
+   205,
+   303,
+   405
+  ]
+ },
+ {
+  "id": 12,
+  "character_base_master_ids": [
+   106,
+   301,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 13,
+  "character_base_master_ids": [
+   101,
+   102,
+   201,
+   203,
+   204,
+   302,
+   404
+  ]
+ },
+ {
+  "id": 14,
+  "character_base_master_ids": [
+   201,
+   203,
+   204,
+   302,
+   401,
+   403,
+   404
+  ]
+ },
+ {
+  "id": 15,
+  "character_base_master_ids": [
+   106,
+   301,
+   304,
+   305,
+   402
+  ]
+ },
+ {
+  "id": 16,
+  "character_base_master_ids": [
+   104,
+   105,
+   202,
+   205,
+   303,
+   405
+  ]
+ },
+ {
+  "id": 17,
+  "character_base_master_ids": [
+   101,
+   102,
+   201,
+   203,
+   204,
+   302,
+   401
+  ]
+ },
+ {
+  "id": 18,
+  "character_base_master_ids": [
+   103,
+   104,
+   105,
+   202,
+   205,
+   303,
+   405
+  ]
+ },
+ {
+  "id": 19,
+  "character_base_master_ids": [
+   106,
+   301,
+   304,
+   305,
+   402
+  ]
+ },
+ {
+  "id": 20,
+  "character_base_master_ids": [
+   103,
+   105,
+   202,
+   303
+  ]
+ },
+ {
+  "id": 21,
+  "character_base_master_ids": [
+   106,
+   301,
+   304,
+   305,
+   402
+  ]
+ },
+ {
+  "id": 22,
+  "character_base_master_ids": [
+   101,
+   102,
+   201,
+   203,
+   204,
+   302,
+   401,
+   403,
+   404
+  ]
+ },
+ {
+  "id": 23,
+  "character_base_master_ids": [
+   101,
+   201,
+   203,
+   204,
+   302,
+   401,
+   403,
+   404
+  ]
+ },
+ {
+  "id": 24,
+  "character_base_master_ids": [
+   301,
+   304,
+   305,
+   402
+  ]
+ },
+ {
+  "id": 25,
+  "character_base_master_ids": [
+   103,
+   105,
+   202,
+   205,
+   303,
+   405
+  ]
+ },
+ {
+  "id": 26,
+  "character_base_master_ids": [
+   906,
+   909
+  ]
+ },
+ {
+  "id": 27,
+  "character_base_master_ids": [
+   901,
+   902
+  ]
+ },
+ {
+  "id": 28,
+  "character_base_master_ids": [
+   104,
+   105,
+   106,
+   202,
+   203,
+   205,
+   303,
+   305,
+   405
+  ]
+ },
+ {
+  "id": 29,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   401,
+   402,
+   403
+  ]
+ },
+ {
+  "id": 30,
+  "character_base_master_ids": [
+   201,
+   204,
+   301,
+   302,
+   304,
+   404
+  ]
+ },
+ {
+  "id": 31,
+  "character_base_master_ids": [
+   101,
+   102,
+   302
+  ]
+ },
+ {
+  "id": 32,
+  "character_base_master_ids": [
+   201,
+   203,
+   204
+  ]
+ },
+ {
+  "id": 33,
+  "character_base_master_ids": [
+   401,
+   403,
+   404
+  ]
+ },
+ {
+  "id": 34,
+  "character_base_master_ids": [
+   103,
+   104,
+   105,
+   202,
+   205,
+   303,
+   405
+  ]
+ },
+ {
+  "id": 35,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 36,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   401,
+   402,
+   403,
+   404,
+   405,
+   901,
+   902,
+   904,
+   906,
+   909
+  ]
+ },
+ {
+  "id": 37,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   901,
+   902
+  ]
+ },
+ {
+  "id": 38,
+  "character_base_master_ids": [
+   201,
+   202,
+   203,
+   204,
+   205,
+   904
+  ]
+ },
+ {
+  "id": 39,
+  "character_base_master_ids": [
+   301,
+   302,
+   303,
+   304,
+   305,
+   909
+  ]
+ },
+ {
+  "id": 40,
+  "character_base_master_ids": [
+   401,
+   402,
+   403,
+   404,
+   405,
+   906
+  ]
+ },
+ {
+  "id": 41,
+  "character_base_master_ids": [
+   104,
+   205,
+   303,
+   405,
+   901,
+   902,
+   904,
+   906,
+   909
+  ]
+ },
+ {
+  "id": 42,
+  "character_base_master_ids": [
+   103,
+   105,
+   202,
+   901,
+   902,
+   904,
+   906,
+   909
+  ]
+ },
+ {
+  "id": 43,
+  "character_base_master_ids": [
+   101,
+   102,
+   201,
+   203,
+   204,
+   302,
+   401,
+   403,
+   404,
+   901,
+   902,
+   904,
+   906,
+   909
+  ]
+ },
+ {
+  "id": 44,
+  "character_base_master_ids": [
+   106,
+   301,
+   304,
+   305,
+   402,
+   901,
+   902,
+   904,
+   906,
+   909
+  ]
+ },
+ {
+  "id": 45,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 46,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 47,
+  "character_base_master_ids": [
+   101,
+   103,
+   104,
+   105,
+   204,
+   205,
+   303,
+   401,
+   405
+  ]
+ },
+ {
+  "id": 48,
+  "character_base_master_ids": [
+   102,
+   106,
+   203,
+   301,
+   302,
+   304,
+   305,
+   402,
+   403,
+   404
+  ]
+ },
+ {
+  "id": 49,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 50,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   201,
+   202,
+   203,
+   204,
+   205,
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 100,
+  "character_base_master_ids": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ]
+ },
+ {
+  "id": 101,
+  "character_base_master_ids": [
+   101
+  ]
+ },
+ {
+  "id": 102,
+  "character_base_master_ids": [
+   102
+  ]
+ },
+ {
+  "id": 103,
+  "character_base_master_ids": [
+   103
+  ]
+ },
+ {
+  "id": 104,
+  "character_base_master_ids": [
+   104
+  ]
+ },
+ {
+  "id": 105,
+  "character_base_master_ids": [
+   105
+  ]
+ },
+ {
+  "id": 106,
+  "character_base_master_ids": [
+   106
+  ]
+ },
+ {
+  "id": 200,
+  "character_base_master_ids": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ]
+ },
+ {
+  "id": 201,
+  "character_base_master_ids": [
+   201
+  ]
+ },
+ {
+  "id": 202,
+  "character_base_master_ids": [
+   202
+  ]
+ },
+ {
+  "id": 203,
+  "character_base_master_ids": [
+   203
+  ]
+ },
+ {
+  "id": 204,
+  "character_base_master_ids": [
+   204
+  ]
+ },
+ {
+  "id": 205,
+  "character_base_master_ids": [
+   205
+  ]
+ },
+ {
+  "id": 300,
+  "character_base_master_ids": [
+   301,
+   302,
+   303,
+   304,
+   305
+  ]
+ },
+ {
+  "id": 301,
+  "character_base_master_ids": [
+   301
+  ]
+ },
+ {
+  "id": 302,
+  "character_base_master_ids": [
+   302
+  ]
+ },
+ {
+  "id": 303,
+  "character_base_master_ids": [
+   303
+  ]
+ },
+ {
+  "id": 304,
+  "character_base_master_ids": [
+   304
+  ]
+ },
+ {
+  "id": 305,
+  "character_base_master_ids": [
+   305
+  ]
+ },
+ {
+  "id": 400,
+  "character_base_master_ids": [
+   401,
+   402,
+   403,
+   404,
+   405
+  ]
+ },
+ {
+  "id": 401,
+  "character_base_master_ids": [
+   401
+  ]
+ },
+ {
+  "id": 402,
+  "character_base_master_ids": [
+   402
+  ]
+ },
+ {
+  "id": 403,
+  "character_base_master_ids": [
+   403
+  ]
+ },
+ {
+  "id": 404,
+  "character_base_master_ids": [
+   404
+  ]
+ },
+ {
+  "id": 405,
+  "character_base_master_ids": [
+   405
+  ]
+ },
+ {
+  "id": 901,
+  "character_base_master_ids": [
+   901
+  ]
+ },
+ {
+  "id": 902,
+  "character_base_master_ids": [
+   902
+  ]
+ },
+ {
+  "id": 904,
+  "character_base_master_ids": [
+   904
+  ]
+ },
+ {
+  "id": 906,
+  "character_base_master_ids": [
+   906
+  ]
+ },
+ {
+  "id": 909,
+  "character_base_master_ids": [
+   909
+  ]
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "event_master_id": 50000,
+  "difficulty": 1,
+  "music_master_id": 160,
+  "notation_path": "30001",
+  "scroll_speed": 50,
+  "dugong_run_course_group_id": 1
+ },
+ {
+  "id": 2,
+  "event_master_id": 50000,
+  "difficulty": 2,
+  "music_master_id": 68,
+  "notation_path": "30002",
+  "scroll_speed": 100,
+  "dugong_run_course_group_id": 1
+ },
+ {
+  "id": 3,
+  "event_master_id": 50000,
+  "difficulty": 3,
+  "music_master_id": 48,
+  "notation_path": "30003",
+  "scroll_speed": 100,
+  "dugong_run_course_group_id": 1
+ },
+ {
+  "id": 4,
+  "event_master_id": null,
+  "difficulty": 1,
+  "music_master_id": 160,
+  "notation_path": "30001",
+  "scroll_speed": 60,
+  "dugong_run_course_group_id": 2
+ },
+ {
+  "id": 5,
+  "event_master_id": null,
+  "difficulty": 2,
+  "music_master_id": 68,
+  "notation_path": "30002",
+  "scroll_speed": 50,
+  "dugong_run_course_group_id": 2
+ },
+ {
+  "id": 6,
+  "event_master_id": null,
+  "difficulty": 3,
+  "music_master_id": 48,
+  "notation_path": "30003",
+  "scroll_speed": 25,
+  "dugong_run_course_group_id": 2
+ }
+]

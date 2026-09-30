@@ -1,0 +1,5159 @@
+[
+ {
+  "id": 10101,
+  "character_mission_category_level_master_id": 101,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10102,
+  "character_mission_category_level_master_id": 101,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 2,
+  "goal_count": 4
+ },
+ {
+  "id": 10103,
+  "character_mission_category_level_master_id": 101,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 3,
+  "goal_count": 7
+ },
+ {
+  "id": 10104,
+  "character_mission_category_level_master_id": 101,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 4,
+  "goal_count": 10
+ },
+ {
+  "id": 10105,
+  "character_mission_category_level_master_id": 101,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10106,
+  "character_mission_category_level_master_id": 101,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 2,
+  "goal_count": 3
+ },
+ {
+  "id": 10201,
+  "character_mission_category_level_master_id": 102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 1,
+  "goal_count": 3
+ },
+ {
+  "id": 10202,
+  "character_mission_category_level_master_id": 102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 2,
+  "goal_count": 6
+ },
+ {
+  "id": 10203,
+  "character_mission_category_level_master_id": 102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 3,
+  "goal_count": 10
+ },
+ {
+  "id": 10204,
+  "character_mission_category_level_master_id": 102,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10205,
+  "character_mission_category_level_master_id": 102,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 1,
+  "goal_count": 2
+ },
+ {
+  "id": 10206,
+  "character_mission_category_level_master_id": 102,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 2,
+  "goal_count": 3
+ },
+ {
+  "id": 10301,
+  "character_mission_category_level_master_id": 103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10302,
+  "character_mission_category_level_master_id": 103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 2,
+  "goal_count": 2
+ },
+ {
+  "id": 10303,
+  "character_mission_category_level_master_id": 103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 3,
+  "goal_count": 3
+ },
+ {
+  "id": 10401,
+  "character_mission_category_level_master_id": 104,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10402,
+  "character_mission_category_level_master_id": 104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10403,
+  "character_mission_category_level_master_id": 104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 2,
+  "goal_count": 2
+ },
+ {
+  "id": 10404,
+  "character_mission_category_level_master_id": 104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 3,
+  "goal_count": 3
+ },
+ {
+  "id": 10501,
+  "character_mission_category_level_master_id": 105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10502,
+  "character_mission_category_level_master_id": 105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 2,
+  "goal_count": 2
+ },
+ {
+  "id": 10503,
+  "character_mission_category_level_master_id": 105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 3,
+  "goal_count": 3
+ },
+ {
+  "id": 10504,
+  "character_mission_category_level_master_id": 105,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 1,
+  "goal_count": 1
+ },
+ {
+  "id": 10505,
+  "character_mission_category_level_master_id": 105,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 2,
+  "goal_count": 3
+ },
+ {
+  "id": 20101,
+  "character_mission_category_level_master_id": 201,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 5,
+  "goal_count": 20
+ },
+ {
+  "id": 20102,
+  "character_mission_category_level_master_id": 201,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 6,
+  "goal_count": 40
+ },
+ {
+  "id": 20103,
+  "character_mission_category_level_master_id": 201,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 7,
+  "goal_count": 60
+ },
+ {
+  "id": 20104,
+  "character_mission_category_level_master_id": 201,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 8,
+  "goal_count": 80
+ },
+ {
+  "id": 20105,
+  "character_mission_category_level_master_id": 201,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 3,
+  "goal_count": 5
+ },
+ {
+  "id": 20106,
+  "character_mission_category_level_master_id": 201,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 4,
+  "goal_count": 10
+ },
+ {
+  "id": 20201,
+  "character_mission_category_level_master_id": 202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 4,
+  "goal_count": 15
+ },
+ {
+  "id": 20202,
+  "character_mission_category_level_master_id": 202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 5,
+  "goal_count": 20
+ },
+ {
+  "id": 20203,
+  "character_mission_category_level_master_id": 202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 6,
+  "goal_count": 30
+ },
+ {
+  "id": 20204,
+  "character_mission_category_level_master_id": 202,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 2,
+  "goal_count": 2
+ },
+ {
+  "id": 20205,
+  "character_mission_category_level_master_id": 202,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 3,
+  "goal_count": 4
+ },
+ {
+  "id": 20206,
+  "character_mission_category_level_master_id": 202,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 4,
+  "goal_count": 5
+ },
+ {
+  "id": 20301,
+  "character_mission_category_level_master_id": 203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 4,
+  "goal_count": 4
+ },
+ {
+  "id": 20302,
+  "character_mission_category_level_master_id": 203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 5,
+  "goal_count": 5
+ },
+ {
+  "id": 20303,
+  "character_mission_category_level_master_id": 203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 6,
+  "goal_count": 6
+ },
+ {
+  "id": 20401,
+  "character_mission_category_level_master_id": 204,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 2,
+  "goal_count": 2
+ },
+ {
+  "id": 20402,
+  "character_mission_category_level_master_id": 204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 4,
+  "goal_count": 4
+ },
+ {
+  "id": 20403,
+  "character_mission_category_level_master_id": 204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 5,
+  "goal_count": 5
+ },
+ {
+  "id": 20404,
+  "character_mission_category_level_master_id": 204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 6,
+  "goal_count": 6
+ },
+ {
+  "id": 20501,
+  "character_mission_category_level_master_id": 205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 4,
+  "goal_count": 4
+ },
+ {
+  "id": 20502,
+  "character_mission_category_level_master_id": 205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 5,
+  "goal_count": 6
+ },
+ {
+  "id": 20503,
+  "character_mission_category_level_master_id": 205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 6,
+  "goal_count": 8
+ },
+ {
+  "id": 20504,
+  "character_mission_category_level_master_id": 205,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 3,
+  "goal_count": 5
+ },
+ {
+  "id": 20505,
+  "character_mission_category_level_master_id": 205,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 4,
+  "goal_count": 8
+ },
+ {
+  "id": 20506,
+  "character_mission_category_level_master_id": 205,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 1,
+  "goal_count": 2
+ },
+ {
+  "id": 30101,
+  "character_mission_category_level_master_id": 301,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 9,
+  "goal_count": 100
+ },
+ {
+  "id": 30102,
+  "character_mission_category_level_master_id": 301,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 10,
+  "goal_count": 125
+ },
+ {
+  "id": 30103,
+  "character_mission_category_level_master_id": 301,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 11,
+  "goal_count": 150
+ },
+ {
+  "id": 30104,
+  "character_mission_category_level_master_id": 301,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 5,
+  "goal_count": 20
+ },
+ {
+  "id": 30105,
+  "character_mission_category_level_master_id": 301,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 6,
+  "goal_count": 30
+ },
+ {
+  "id": 30106,
+  "character_mission_category_level_master_id": 301,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 7,
+  "goal_count": 40
+ },
+ {
+  "id": 30201,
+  "character_mission_category_level_master_id": 302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 7,
+  "goal_count": 40
+ },
+ {
+  "id": 30202,
+  "character_mission_category_level_master_id": 302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 8,
+  "goal_count": 50
+ },
+ {
+  "id": 30203,
+  "character_mission_category_level_master_id": 302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 9,
+  "goal_count": 60
+ },
+ {
+  "id": 30204,
+  "character_mission_category_level_master_id": 302,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 3,
+  "goal_count": 3
+ },
+ {
+  "id": 30205,
+  "character_mission_category_level_master_id": 302,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 5,
+  "goal_count": 7
+ },
+ {
+  "id": 30206,
+  "character_mission_category_level_master_id": 302,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 6,
+  "goal_count": 9
+ },
+ {
+  "id": 30301,
+  "character_mission_category_level_master_id": 303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 7,
+  "goal_count": 7
+ },
+ {
+  "id": 30302,
+  "character_mission_category_level_master_id": 303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 8,
+  "goal_count": 8
+ },
+ {
+  "id": 30303,
+  "character_mission_category_level_master_id": 303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 9,
+  "goal_count": 9
+ },
+ {
+  "id": 30401,
+  "character_mission_category_level_master_id": 304,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 3,
+  "goal_count": 3
+ },
+ {
+  "id": 30402,
+  "character_mission_category_level_master_id": 304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 7,
+  "goal_count": 7
+ },
+ {
+  "id": 30403,
+  "character_mission_category_level_master_id": 304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 8,
+  "goal_count": 8
+ },
+ {
+  "id": 30404,
+  "character_mission_category_level_master_id": 304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 9,
+  "goal_count": 9
+ },
+ {
+  "id": 30501,
+  "character_mission_category_level_master_id": 305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 7,
+  "goal_count": 10
+ },
+ {
+  "id": 30502,
+  "character_mission_category_level_master_id": 305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 8,
+  "goal_count": 12
+ },
+ {
+  "id": 30503,
+  "character_mission_category_level_master_id": 305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 9,
+  "goal_count": 15
+ },
+ {
+  "id": 30504,
+  "character_mission_category_level_master_id": 305,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 5,
+  "goal_count": 12
+ },
+ {
+  "id": 30505,
+  "character_mission_category_level_master_id": 305,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 6,
+  "goal_count": 17
+ },
+ {
+  "id": 30506,
+  "character_mission_category_level_master_id": 305,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 2,
+  "goal_count": 3
+ },
+ {
+  "id": 40101,
+  "character_mission_category_level_master_id": 401,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 12,
+  "goal_count": 175
+ },
+ {
+  "id": 40102,
+  "character_mission_category_level_master_id": 401,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 13,
+  "goal_count": 200
+ },
+ {
+  "id": 40103,
+  "character_mission_category_level_master_id": 401,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 14,
+  "goal_count": 250
+ },
+ {
+  "id": 40104,
+  "character_mission_category_level_master_id": 401,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 8,
+  "goal_count": 60
+ },
+ {
+  "id": 40105,
+  "character_mission_category_level_master_id": 401,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 9,
+  "goal_count": 80
+ },
+ {
+  "id": 40106,
+  "character_mission_category_level_master_id": 401,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 10,
+  "goal_count": 100
+ },
+ {
+  "id": 40201,
+  "character_mission_category_level_master_id": 402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 10,
+  "goal_count": 70
+ },
+ {
+  "id": 40202,
+  "character_mission_category_level_master_id": 402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 11,
+  "goal_count": 80
+ },
+ {
+  "id": 40203,
+  "character_mission_category_level_master_id": 402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 12,
+  "goal_count": 90
+ },
+ {
+  "id": 40204,
+  "character_mission_category_level_master_id": 402,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 4,
+  "goal_count": 4
+ },
+ {
+  "id": 40205,
+  "character_mission_category_level_master_id": 402,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 7,
+  "goal_count": 11
+ },
+ {
+  "id": 40206,
+  "character_mission_category_level_master_id": 402,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 8,
+  "goal_count": 13
+ },
+ {
+  "id": 40301,
+  "character_mission_category_level_master_id": 403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 10,
+  "goal_count": 10
+ },
+ {
+  "id": 40302,
+  "character_mission_category_level_master_id": 403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 11,
+  "goal_count": 11
+ },
+ {
+  "id": 40303,
+  "character_mission_category_level_master_id": 403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 12,
+  "goal_count": 12
+ },
+ {
+  "id": 40401,
+  "character_mission_category_level_master_id": 404,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 4,
+  "goal_count": 4
+ },
+ {
+  "id": 40402,
+  "character_mission_category_level_master_id": 404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 10,
+  "goal_count": 10
+ },
+ {
+  "id": 40403,
+  "character_mission_category_level_master_id": 404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 11,
+  "goal_count": 11
+ },
+ {
+  "id": 40404,
+  "character_mission_category_level_master_id": 404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 12,
+  "goal_count": 12
+ },
+ {
+  "id": 40501,
+  "character_mission_category_level_master_id": 405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 10,
+  "goal_count": 18
+ },
+ {
+  "id": 40502,
+  "character_mission_category_level_master_id": 405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 11,
+  "goal_count": 21
+ },
+ {
+  "id": 40503,
+  "character_mission_category_level_master_id": 405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 12,
+  "goal_count": 25
+ },
+ {
+  "id": 40504,
+  "character_mission_category_level_master_id": 405,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 7,
+  "goal_count": 23
+ },
+ {
+  "id": 40505,
+  "character_mission_category_level_master_id": 405,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 8,
+  "goal_count": 30
+ },
+ {
+  "id": 40506,
+  "character_mission_category_level_master_id": 405,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 3,
+  "goal_count": 4
+ },
+ {
+  "id": 50101,
+  "character_mission_category_level_master_id": 501,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 15,
+  "goal_count": 300
+ },
+ {
+  "id": 50102,
+  "character_mission_category_level_master_id": 501,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 16,
+  "goal_count": 400
+ },
+ {
+  "id": 50103,
+  "character_mission_category_level_master_id": 501,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 11,
+  "goal_count": 125
+ },
+ {
+  "id": 50104,
+  "character_mission_category_level_master_id": 501,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 12,
+  "goal_count": 150
+ },
+ {
+  "id": 50105,
+  "character_mission_category_level_master_id": 501,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 13,
+  "goal_count": 175
+ },
+ {
+  "id": 50106,
+  "character_mission_category_level_master_id": 501,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 14,
+  "goal_count": 200
+ },
+ {
+  "id": 50201,
+  "character_mission_category_level_master_id": 502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 13,
+  "goal_count": 100
+ },
+ {
+  "id": 50202,
+  "character_mission_category_level_master_id": 502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 14,
+  "goal_count": 125
+ },
+ {
+  "id": 50203,
+  "character_mission_category_level_master_id": 502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 15,
+  "goal_count": 150
+ },
+ {
+  "id": 50204,
+  "character_mission_category_level_master_id": 502,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 5,
+  "goal_count": 5
+ },
+ {
+  "id": 50205,
+  "character_mission_category_level_master_id": 502,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 9,
+  "goal_count": 15
+ },
+ {
+  "id": 50206,
+  "character_mission_category_level_master_id": 502,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 10,
+  "goal_count": 17
+ },
+ {
+  "id": 50301,
+  "character_mission_category_level_master_id": 503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 13,
+  "goal_count": 13
+ },
+ {
+  "id": 50302,
+  "character_mission_category_level_master_id": 503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 14,
+  "goal_count": 14
+ },
+ {
+  "id": 50303,
+  "character_mission_category_level_master_id": 503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 15,
+  "goal_count": 15
+ },
+ {
+  "id": 50401,
+  "character_mission_category_level_master_id": 504,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 5,
+  "goal_count": 5
+ },
+ {
+  "id": 50402,
+  "character_mission_category_level_master_id": 504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 13,
+  "goal_count": 13
+ },
+ {
+  "id": 50403,
+  "character_mission_category_level_master_id": 504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 14,
+  "goal_count": 14
+ },
+ {
+  "id": 50404,
+  "character_mission_category_level_master_id": 504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 15,
+  "goal_count": 15
+ },
+ {
+  "id": 50501,
+  "character_mission_category_level_master_id": 505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 13,
+  "goal_count": 30
+ },
+ {
+  "id": 50502,
+  "character_mission_category_level_master_id": 505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 14,
+  "goal_count": 35
+ },
+ {
+  "id": 50503,
+  "character_mission_category_level_master_id": 505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 15,
+  "goal_count": 40
+ },
+ {
+  "id": 50504,
+  "character_mission_category_level_master_id": 505,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 9,
+  "goal_count": 37
+ },
+ {
+  "id": 50505,
+  "character_mission_category_level_master_id": 505,
+  "character_mission_master_id": 10,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 10,
+  "goal_count": 45
+ },
+ {
+  "id": 60101,
+  "character_mission_category_level_master_id": 601,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 17,
+  "goal_count": 500
+ },
+ {
+  "id": 60102,
+  "character_mission_category_level_master_id": 601,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 18,
+  "goal_count": 600
+ },
+ {
+  "id": 60103,
+  "character_mission_category_level_master_id": 601,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 15,
+  "goal_count": 250
+ },
+ {
+  "id": 60104,
+  "character_mission_category_level_master_id": 601,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 16,
+  "goal_count": 300
+ },
+ {
+  "id": 60105,
+  "character_mission_category_level_master_id": 601,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 17,
+  "goal_count": 350
+ },
+ {
+  "id": 60106,
+  "character_mission_category_level_master_id": 601,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 18,
+  "goal_count": 400
+ },
+ {
+  "id": 60201,
+  "character_mission_category_level_master_id": 602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 16,
+  "goal_count": 175
+ },
+ {
+  "id": 60202,
+  "character_mission_category_level_master_id": 602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 17,
+  "goal_count": 200
+ },
+ {
+  "id": 60203,
+  "character_mission_category_level_master_id": 602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 18,
+  "goal_count": 225
+ },
+ {
+  "id": 60204,
+  "character_mission_category_level_master_id": 602,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 6,
+  "goal_count": 6
+ },
+ {
+  "id": 60205,
+  "character_mission_category_level_master_id": 602,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 11,
+  "goal_count": 19
+ },
+ {
+  "id": 60206,
+  "character_mission_category_level_master_id": 602,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 12,
+  "goal_count": 21
+ },
+ {
+  "id": 60301,
+  "character_mission_category_level_master_id": 603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 16,
+  "goal_count": 16
+ },
+ {
+  "id": 60302,
+  "character_mission_category_level_master_id": 603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 17,
+  "goal_count": 17
+ },
+ {
+  "id": 60303,
+  "character_mission_category_level_master_id": 603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 18,
+  "goal_count": 18
+ },
+ {
+  "id": 60401,
+  "character_mission_category_level_master_id": 604,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 6,
+  "goal_count": 6
+ },
+ {
+  "id": 60402,
+  "character_mission_category_level_master_id": 604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 16,
+  "goal_count": 16
+ },
+ {
+  "id": 60403,
+  "character_mission_category_level_master_id": 604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 17,
+  "goal_count": 17
+ },
+ {
+  "id": 60404,
+  "character_mission_category_level_master_id": 604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 18,
+  "goal_count": 18
+ },
+ {
+  "id": 60501,
+  "character_mission_category_level_master_id": 605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 16,
+  "goal_count": 46
+ },
+ {
+  "id": 60502,
+  "character_mission_category_level_master_id": 605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 17,
+  "goal_count": 53
+ },
+ {
+  "id": 60503,
+  "character_mission_category_level_master_id": 605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 18,
+  "goal_count": 60
+ },
+ {
+  "id": 60504,
+  "character_mission_category_level_master_id": 605,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 4,
+  "goal_count": 5
+ },
+ {
+  "id": 70101,
+  "character_mission_category_level_master_id": 701,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 19,
+  "goal_count": 800
+ },
+ {
+  "id": 70102,
+  "character_mission_category_level_master_id": 701,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 20,
+  "goal_count": 1000
+ },
+ {
+  "id": 70103,
+  "character_mission_category_level_master_id": 701,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 19,
+  "goal_count": 450
+ },
+ {
+  "id": 70104,
+  "character_mission_category_level_master_id": 701,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 20,
+  "goal_count": 500
+ },
+ {
+  "id": 70105,
+  "character_mission_category_level_master_id": 701,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 21,
+  "goal_count": 550
+ },
+ {
+  "id": 70106,
+  "character_mission_category_level_master_id": 701,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 22,
+  "goal_count": 600
+ },
+ {
+  "id": 70201,
+  "character_mission_category_level_master_id": 702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 19,
+  "goal_count": 250
+ },
+ {
+  "id": 70202,
+  "character_mission_category_level_master_id": 702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 20,
+  "goal_count": 275
+ },
+ {
+  "id": 70203,
+  "character_mission_category_level_master_id": 702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 21,
+  "goal_count": 300
+ },
+ {
+  "id": 70204,
+  "character_mission_category_level_master_id": 702,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 7,
+  "goal_count": 7
+ },
+ {
+  "id": 70205,
+  "character_mission_category_level_master_id": 702,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 13,
+  "goal_count": 23
+ },
+ {
+  "id": 70206,
+  "character_mission_category_level_master_id": 702,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 14,
+  "goal_count": 24
+ },
+ {
+  "id": 70301,
+  "character_mission_category_level_master_id": 703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 19,
+  "goal_count": 19
+ },
+ {
+  "id": 70302,
+  "character_mission_category_level_master_id": 703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 20,
+  "goal_count": 20
+ },
+ {
+  "id": 70303,
+  "character_mission_category_level_master_id": 703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 21,
+  "goal_count": 21
+ },
+ {
+  "id": 70401,
+  "character_mission_category_level_master_id": 704,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 7,
+  "goal_count": 7
+ },
+ {
+  "id": 70402,
+  "character_mission_category_level_master_id": 704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 19,
+  "goal_count": 19
+ },
+ {
+  "id": 70403,
+  "character_mission_category_level_master_id": 704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 20,
+  "goal_count": 20
+ },
+ {
+  "id": 70404,
+  "character_mission_category_level_master_id": 704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 21,
+  "goal_count": 21
+ },
+ {
+  "id": 70501,
+  "character_mission_category_level_master_id": 705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 19,
+  "goal_count": 68
+ },
+ {
+  "id": 70502,
+  "character_mission_category_level_master_id": 705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 20,
+  "goal_count": 76
+ },
+ {
+  "id": 70503,
+  "character_mission_category_level_master_id": 705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 21,
+  "goal_count": 85
+ },
+ {
+  "id": 80101,
+  "character_mission_category_level_master_id": 801,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 21,
+  "goal_count": 1250
+ },
+ {
+  "id": 80102,
+  "character_mission_category_level_master_id": 801,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 22,
+  "goal_count": 1500
+ },
+ {
+  "id": 80103,
+  "character_mission_category_level_master_id": 801,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 23,
+  "goal_count": 700
+ },
+ {
+  "id": 80104,
+  "character_mission_category_level_master_id": 801,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 24,
+  "goal_count": 800
+ },
+ {
+  "id": 80105,
+  "character_mission_category_level_master_id": 801,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 25,
+  "goal_count": 900
+ },
+ {
+  "id": 80106,
+  "character_mission_category_level_master_id": 801,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 26,
+  "goal_count": 1000
+ },
+ {
+  "id": 80201,
+  "character_mission_category_level_master_id": 802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 22,
+  "goal_count": 325
+ },
+ {
+  "id": 80202,
+  "character_mission_category_level_master_id": 802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 23,
+  "goal_count": 350
+ },
+ {
+  "id": 80203,
+  "character_mission_category_level_master_id": 802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 24,
+  "goal_count": 375
+ },
+ {
+  "id": 80204,
+  "character_mission_category_level_master_id": 802,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 8,
+  "goal_count": 8
+ },
+ {
+  "id": 80205,
+  "character_mission_category_level_master_id": 802,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 15,
+  "goal_count": 25
+ },
+ {
+  "id": 80206,
+  "character_mission_category_level_master_id": 802,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 16,
+  "goal_count": 26
+ },
+ {
+  "id": 80301,
+  "character_mission_category_level_master_id": 803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 22,
+  "goal_count": 22
+ },
+ {
+  "id": 80302,
+  "character_mission_category_level_master_id": 803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 23,
+  "goal_count": 23
+ },
+ {
+  "id": 80303,
+  "character_mission_category_level_master_id": 803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 24,
+  "goal_count": 24
+ },
+ {
+  "id": 80401,
+  "character_mission_category_level_master_id": 804,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 8,
+  "goal_count": 8
+ },
+ {
+  "id": 80402,
+  "character_mission_category_level_master_id": 804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 22,
+  "goal_count": 22
+ },
+ {
+  "id": 80403,
+  "character_mission_category_level_master_id": 804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 23,
+  "goal_count": 23
+ },
+ {
+  "id": 80404,
+  "character_mission_category_level_master_id": 804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 24,
+  "goal_count": 24
+ },
+ {
+  "id": 80501,
+  "character_mission_category_level_master_id": 805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 22,
+  "goal_count": 95
+ },
+ {
+  "id": 80502,
+  "character_mission_category_level_master_id": 805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 23,
+  "goal_count": 105
+ },
+ {
+  "id": 80503,
+  "character_mission_category_level_master_id": 805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 24,
+  "goal_count": 115
+ },
+ {
+  "id": 80504,
+  "character_mission_category_level_master_id": 805,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 5,
+  "goal_count": 6
+ },
+ {
+  "id": 90101,
+  "character_mission_category_level_master_id": 901,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 23,
+  "goal_count": 1750
+ },
+ {
+  "id": 90102,
+  "character_mission_category_level_master_id": 901,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 24,
+  "goal_count": 2000
+ },
+ {
+  "id": 90103,
+  "character_mission_category_level_master_id": 901,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 27,
+  "goal_count": 1200
+ },
+ {
+  "id": 90104,
+  "character_mission_category_level_master_id": 901,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 28,
+  "goal_count": 1400
+ },
+ {
+  "id": 90105,
+  "character_mission_category_level_master_id": 901,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 29,
+  "goal_count": 1600
+ },
+ {
+  "id": 90106,
+  "character_mission_category_level_master_id": 901,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 30,
+  "goal_count": 1800
+ },
+ {
+  "id": 90201,
+  "character_mission_category_level_master_id": 902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 25,
+  "goal_count": 400
+ },
+ {
+  "id": 90202,
+  "character_mission_category_level_master_id": 902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 26,
+  "goal_count": 425
+ },
+ {
+  "id": 90203,
+  "character_mission_category_level_master_id": 902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 27,
+  "goal_count": 450
+ },
+ {
+  "id": 90204,
+  "character_mission_category_level_master_id": 902,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 9,
+  "goal_count": 10
+ },
+ {
+  "id": 90205,
+  "character_mission_category_level_master_id": 902,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 17,
+  "goal_count": 27
+ },
+ {
+  "id": 90206,
+  "character_mission_category_level_master_id": 902,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 18,
+  "goal_count": 28
+ },
+ {
+  "id": 90301,
+  "character_mission_category_level_master_id": 903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 25,
+  "goal_count": 25
+ },
+ {
+  "id": 90302,
+  "character_mission_category_level_master_id": 903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 26,
+  "goal_count": 26
+ },
+ {
+  "id": 90303,
+  "character_mission_category_level_master_id": 903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 27,
+  "goal_count": 27
+ },
+ {
+  "id": 90401,
+  "character_mission_category_level_master_id": 904,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 9,
+  "goal_count": 9
+ },
+ {
+  "id": 90402,
+  "character_mission_category_level_master_id": 904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 25,
+  "goal_count": 25
+ },
+ {
+  "id": 90403,
+  "character_mission_category_level_master_id": 904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 26,
+  "goal_count": 26
+ },
+ {
+  "id": 90404,
+  "character_mission_category_level_master_id": 904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 27,
+  "goal_count": 27
+ },
+ {
+  "id": 90501,
+  "character_mission_category_level_master_id": 905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 25,
+  "goal_count": 126
+ },
+ {
+  "id": 90502,
+  "character_mission_category_level_master_id": 905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 26,
+  "goal_count": 138
+ },
+ {
+  "id": 90503,
+  "character_mission_category_level_master_id": 905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 27,
+  "goal_count": 150
+ },
+ {
+  "id": 100101,
+  "character_mission_category_level_master_id": 1001,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 25,
+  "goal_count": 2500
+ },
+ {
+  "id": 100102,
+  "character_mission_category_level_master_id": 1001,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 26,
+  "goal_count": 3000
+ },
+ {
+  "id": 100103,
+  "character_mission_category_level_master_id": 1001,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 31,
+  "goal_count": 2000
+ },
+ {
+  "id": 100104,
+  "character_mission_category_level_master_id": 1001,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 32,
+  "goal_count": 2300
+ },
+ {
+  "id": 100105,
+  "character_mission_category_level_master_id": 1001,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 5,
+  "stage_order": 33,
+  "goal_count": 2600
+ },
+ {
+  "id": 100106,
+  "character_mission_category_level_master_id": 1001,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 6,
+  "stage_order": 34,
+  "goal_count": 3000
+ },
+ {
+  "id": 100201,
+  "character_mission_category_level_master_id": 1002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 28,
+  "goal_count": 500
+ },
+ {
+  "id": 100202,
+  "character_mission_category_level_master_id": 1002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 29,
+  "goal_count": 550
+ },
+ {
+  "id": 100203,
+  "character_mission_category_level_master_id": 1002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 30,
+  "goal_count": 600
+ },
+ {
+  "id": 100204,
+  "character_mission_category_level_master_id": 1002,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 10,
+  "goal_count": 12
+ },
+ {
+  "id": 100205,
+  "character_mission_category_level_master_id": 1002,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 19,
+  "goal_count": 29
+ },
+ {
+  "id": 100206,
+  "character_mission_category_level_master_id": 1002,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 20,
+  "goal_count": 30
+ },
+ {
+  "id": 100301,
+  "character_mission_category_level_master_id": 1003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 28,
+  "goal_count": 28
+ },
+ {
+  "id": 100302,
+  "character_mission_category_level_master_id": 1003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 29,
+  "goal_count": 29
+ },
+ {
+  "id": 100303,
+  "character_mission_category_level_master_id": 1003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 30,
+  "goal_count": 30
+ },
+ {
+  "id": 100401,
+  "character_mission_category_level_master_id": 1004,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 10,
+  "goal_count": 10
+ },
+ {
+  "id": 100402,
+  "character_mission_category_level_master_id": 1004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 28,
+  "goal_count": 28
+ },
+ {
+  "id": 100403,
+  "character_mission_category_level_master_id": 1004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 29,
+  "goal_count": 29
+ },
+ {
+  "id": 100404,
+  "character_mission_category_level_master_id": 1004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 30,
+  "goal_count": 30
+ },
+ {
+  "id": 100501,
+  "character_mission_category_level_master_id": 1005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 28,
+  "goal_count": 165
+ },
+ {
+  "id": 100502,
+  "character_mission_category_level_master_id": 1005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 29,
+  "goal_count": 180
+ },
+ {
+  "id": 100503,
+  "character_mission_category_level_master_id": 1005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 30,
+  "goal_count": 200
+ },
+ {
+  "id": 100504,
+  "character_mission_category_level_master_id": 1005,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 6,
+  "goal_count": 7
+ },
+ {
+  "id": 110101,
+  "character_mission_category_level_master_id": 1101,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 27,
+  "goal_count": 3500
+ },
+ {
+  "id": 110102,
+  "character_mission_category_level_master_id": 1101,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 28,
+  "goal_count": 4000
+ },
+ {
+  "id": 110103,
+  "character_mission_category_level_master_id": 1101,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 35,
+  "goal_count": 3300
+ },
+ {
+  "id": 110201,
+  "character_mission_category_level_master_id": 1102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 31,
+  "goal_count": 650
+ },
+ {
+  "id": 110202,
+  "character_mission_category_level_master_id": 1102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 32,
+  "goal_count": 700
+ },
+ {
+  "id": 110203,
+  "character_mission_category_level_master_id": 1102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 33,
+  "goal_count": 750
+ },
+ {
+  "id": 110204,
+  "character_mission_category_level_master_id": 1102,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 11,
+  "goal_count": 14
+ },
+ {
+  "id": 110205,
+  "character_mission_category_level_master_id": 1102,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 21,
+  "goal_count": 32
+ },
+ {
+  "id": 110206,
+  "character_mission_category_level_master_id": 1102,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 22,
+  "goal_count": 34
+ },
+ {
+  "id": 110301,
+  "character_mission_category_level_master_id": 1103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 31,
+  "goal_count": 31
+ },
+ {
+  "id": 110302,
+  "character_mission_category_level_master_id": 1103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 32,
+  "goal_count": 32
+ },
+ {
+  "id": 110303,
+  "character_mission_category_level_master_id": 1103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 33,
+  "goal_count": 33
+ },
+ {
+  "id": 110401,
+  "character_mission_category_level_master_id": 1104,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 11,
+  "goal_count": 11
+ },
+ {
+  "id": 110402,
+  "character_mission_category_level_master_id": 1104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 31,
+  "goal_count": 31
+ },
+ {
+  "id": 110403,
+  "character_mission_category_level_master_id": 1104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 32,
+  "goal_count": 32
+ },
+ {
+  "id": 110404,
+  "character_mission_category_level_master_id": 1104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 33,
+  "goal_count": 33
+ },
+ {
+  "id": 110501,
+  "character_mission_category_level_master_id": 1105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 31,
+  "goal_count": 220
+ },
+ {
+  "id": 110502,
+  "character_mission_category_level_master_id": 1105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 32,
+  "goal_count": 240
+ },
+ {
+  "id": 110503,
+  "character_mission_category_level_master_id": 1105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 33,
+  "goal_count": 260
+ },
+ {
+  "id": 120101,
+  "character_mission_category_level_master_id": 1201,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 29,
+  "goal_count": 4500
+ },
+ {
+  "id": 120102,
+  "character_mission_category_level_master_id": 1201,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 30,
+  "goal_count": 5000
+ },
+ {
+  "id": 120103,
+  "character_mission_category_level_master_id": 1201,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 36,
+  "goal_count": 3600
+ },
+ {
+  "id": 120201,
+  "character_mission_category_level_master_id": 1202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 34,
+  "goal_count": 800
+ },
+ {
+  "id": 120202,
+  "character_mission_category_level_master_id": 1202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 35,
+  "goal_count": 850
+ },
+ {
+  "id": 120203,
+  "character_mission_category_level_master_id": 1202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 36,
+  "goal_count": 900
+ },
+ {
+  "id": 120204,
+  "character_mission_category_level_master_id": 1202,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 12,
+  "goal_count": 16
+ },
+ {
+  "id": 120205,
+  "character_mission_category_level_master_id": 1202,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 23,
+  "goal_count": 36
+ },
+ {
+  "id": 120206,
+  "character_mission_category_level_master_id": 1202,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 24,
+  "goal_count": 38
+ },
+ {
+  "id": 120301,
+  "character_mission_category_level_master_id": 1203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 34,
+  "goal_count": 34
+ },
+ {
+  "id": 120302,
+  "character_mission_category_level_master_id": 1203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 35,
+  "goal_count": 35
+ },
+ {
+  "id": 120303,
+  "character_mission_category_level_master_id": 1203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 36,
+  "goal_count": 36
+ },
+ {
+  "id": 120401,
+  "character_mission_category_level_master_id": 1204,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 12,
+  "goal_count": 12
+ },
+ {
+  "id": 120402,
+  "character_mission_category_level_master_id": 1204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 34,
+  "goal_count": 34
+ },
+ {
+  "id": 120403,
+  "character_mission_category_level_master_id": 1204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 35,
+  "goal_count": 35
+ },
+ {
+  "id": 120404,
+  "character_mission_category_level_master_id": 1204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 36,
+  "goal_count": 36
+ },
+ {
+  "id": 120501,
+  "character_mission_category_level_master_id": 1205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 34,
+  "goal_count": 280
+ },
+ {
+  "id": 120502,
+  "character_mission_category_level_master_id": 1205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 35,
+  "goal_count": 300
+ },
+ {
+  "id": 120503,
+  "character_mission_category_level_master_id": 1205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 36,
+  "goal_count": 320
+ },
+ {
+  "id": 120504,
+  "character_mission_category_level_master_id": 1205,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 7,
+  "goal_count": 8
+ },
+ {
+  "id": 130101,
+  "character_mission_category_level_master_id": 1301,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 31,
+  "goal_count": 5500
+ },
+ {
+  "id": 130102,
+  "character_mission_category_level_master_id": 1301,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 32,
+  "goal_count": 6000
+ },
+ {
+  "id": 130103,
+  "character_mission_category_level_master_id": 1301,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 37,
+  "goal_count": 3900
+ },
+ {
+  "id": 130201,
+  "character_mission_category_level_master_id": 1302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 37,
+  "goal_count": 950
+ },
+ {
+  "id": 130202,
+  "character_mission_category_level_master_id": 1302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 38,
+  "goal_count": 1000
+ },
+ {
+  "id": 130203,
+  "character_mission_category_level_master_id": 1302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 39,
+  "goal_count": 1050
+ },
+ {
+  "id": 130204,
+  "character_mission_category_level_master_id": 1302,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 13,
+  "goal_count": 18
+ },
+ {
+  "id": 130205,
+  "character_mission_category_level_master_id": 1302,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 25,
+  "goal_count": 41
+ },
+ {
+  "id": 130206,
+  "character_mission_category_level_master_id": 1302,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 26,
+  "goal_count": 44
+ },
+ {
+  "id": 130301,
+  "character_mission_category_level_master_id": 1303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 37,
+  "goal_count": 37
+ },
+ {
+  "id": 130302,
+  "character_mission_category_level_master_id": 1303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 38,
+  "goal_count": 38
+ },
+ {
+  "id": 130303,
+  "character_mission_category_level_master_id": 1303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 39,
+  "goal_count": 39
+ },
+ {
+  "id": 130401,
+  "character_mission_category_level_master_id": 1304,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 13,
+  "goal_count": 13
+ },
+ {
+  "id": 130402,
+  "character_mission_category_level_master_id": 1304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 37,
+  "goal_count": 37
+ },
+ {
+  "id": 130403,
+  "character_mission_category_level_master_id": 1304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 38,
+  "goal_count": 38
+ },
+ {
+  "id": 130404,
+  "character_mission_category_level_master_id": 1304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 39,
+  "goal_count": 39
+ },
+ {
+  "id": 130501,
+  "character_mission_category_level_master_id": 1305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 37,
+  "goal_count": 340
+ },
+ {
+  "id": 130502,
+  "character_mission_category_level_master_id": 1305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 38,
+  "goal_count": 360
+ },
+ {
+  "id": 130503,
+  "character_mission_category_level_master_id": 1305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 39,
+  "goal_count": 380
+ },
+ {
+  "id": 140101,
+  "character_mission_category_level_master_id": 1401,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 33,
+  "goal_count": 6500
+ },
+ {
+  "id": 140102,
+  "character_mission_category_level_master_id": 1401,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 34,
+  "goal_count": 7000
+ },
+ {
+  "id": 140103,
+  "character_mission_category_level_master_id": 1401,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 38,
+  "goal_count": 4200
+ },
+ {
+  "id": 140201,
+  "character_mission_category_level_master_id": 1402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 40,
+  "goal_count": 1100
+ },
+ {
+  "id": 140202,
+  "character_mission_category_level_master_id": 1402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 41,
+  "goal_count": 1150
+ },
+ {
+  "id": 140203,
+  "character_mission_category_level_master_id": 1402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 42,
+  "goal_count": 1200
+ },
+ {
+  "id": 140204,
+  "character_mission_category_level_master_id": 1402,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 14,
+  "goal_count": 20
+ },
+ {
+  "id": 140205,
+  "character_mission_category_level_master_id": 1402,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 27,
+  "goal_count": 47
+ },
+ {
+  "id": 140206,
+  "character_mission_category_level_master_id": 1402,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 28,
+  "goal_count": 50
+ },
+ {
+  "id": 140301,
+  "character_mission_category_level_master_id": 1403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 40,
+  "goal_count": 40
+ },
+ {
+  "id": 140302,
+  "character_mission_category_level_master_id": 1403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 41,
+  "goal_count": 41
+ },
+ {
+  "id": 140303,
+  "character_mission_category_level_master_id": 1403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 42,
+  "goal_count": 42
+ },
+ {
+  "id": 140401,
+  "character_mission_category_level_master_id": 1404,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 14,
+  "goal_count": 14
+ },
+ {
+  "id": 140402,
+  "character_mission_category_level_master_id": 1404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 40,
+  "goal_count": 40
+ },
+ {
+  "id": 140403,
+  "character_mission_category_level_master_id": 1404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 41,
+  "goal_count": 41
+ },
+ {
+  "id": 140404,
+  "character_mission_category_level_master_id": 1404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 42,
+  "goal_count": 42
+ },
+ {
+  "id": 140501,
+  "character_mission_category_level_master_id": 1405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 40,
+  "goal_count": 400
+ },
+ {
+  "id": 140502,
+  "character_mission_category_level_master_id": 1405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 41,
+  "goal_count": 420
+ },
+ {
+  "id": 140503,
+  "character_mission_category_level_master_id": 1405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 42,
+  "goal_count": 440
+ },
+ {
+  "id": 140504,
+  "character_mission_category_level_master_id": 1405,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 8,
+  "goal_count": 9
+ },
+ {
+  "id": 150101,
+  "character_mission_category_level_master_id": 1501,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 35,
+  "goal_count": 7500
+ },
+ {
+  "id": 150102,
+  "character_mission_category_level_master_id": 1501,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 36,
+  "goal_count": 8000
+ },
+ {
+  "id": 150103,
+  "character_mission_category_level_master_id": 1501,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 39,
+  "goal_count": 4500
+ },
+ {
+  "id": 150201,
+  "character_mission_category_level_master_id": 1502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 43,
+  "goal_count": 1300
+ },
+ {
+  "id": 150202,
+  "character_mission_category_level_master_id": 1502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 44,
+  "goal_count": 1400
+ },
+ {
+  "id": 150203,
+  "character_mission_category_level_master_id": 1502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 45,
+  "goal_count": 1500
+ },
+ {
+  "id": 150204,
+  "character_mission_category_level_master_id": 1502,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 15,
+  "goal_count": 23
+ },
+ {
+  "id": 150205,
+  "character_mission_category_level_master_id": 1502,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 29,
+  "goal_count": 53
+ },
+ {
+  "id": 150206,
+  "character_mission_category_level_master_id": 1502,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 30,
+  "goal_count": 56
+ },
+ {
+  "id": 150301,
+  "character_mission_category_level_master_id": 1503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 43,
+  "goal_count": 43
+ },
+ {
+  "id": 150302,
+  "character_mission_category_level_master_id": 1503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 44,
+  "goal_count": 44
+ },
+ {
+  "id": 150303,
+  "character_mission_category_level_master_id": 1503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 45,
+  "goal_count": 45
+ },
+ {
+  "id": 150401,
+  "character_mission_category_level_master_id": 1504,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 15,
+  "goal_count": 15
+ },
+ {
+  "id": 150402,
+  "character_mission_category_level_master_id": 1504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 43,
+  "goal_count": 43
+ },
+ {
+  "id": 150403,
+  "character_mission_category_level_master_id": 1504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 44,
+  "goal_count": 44
+ },
+ {
+  "id": 150404,
+  "character_mission_category_level_master_id": 1504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 45,
+  "goal_count": 45
+ },
+ {
+  "id": 150501,
+  "character_mission_category_level_master_id": 1505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 43,
+  "goal_count": 460
+ },
+ {
+  "id": 150502,
+  "character_mission_category_level_master_id": 1505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 44,
+  "goal_count": 480
+ },
+ {
+  "id": 150503,
+  "character_mission_category_level_master_id": 1505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 45,
+  "goal_count": 500
+ },
+ {
+  "id": 160101,
+  "character_mission_category_level_master_id": 1601,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 37,
+  "goal_count": 8500
+ },
+ {
+  "id": 160102,
+  "character_mission_category_level_master_id": 1601,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 38,
+  "goal_count": 9000
+ },
+ {
+  "id": 160103,
+  "character_mission_category_level_master_id": 1601,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 40,
+  "goal_count": 4800
+ },
+ {
+  "id": 160201,
+  "character_mission_category_level_master_id": 1602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 46,
+  "goal_count": 1600
+ },
+ {
+  "id": 160202,
+  "character_mission_category_level_master_id": 1602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 47,
+  "goal_count": 1700
+ },
+ {
+  "id": 160203,
+  "character_mission_category_level_master_id": 1602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 48,
+  "goal_count": 1800
+ },
+ {
+  "id": 160204,
+  "character_mission_category_level_master_id": 1602,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 16,
+  "goal_count": 26
+ },
+ {
+  "id": 160205,
+  "character_mission_category_level_master_id": 1602,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 31,
+  "goal_count": 59
+ },
+ {
+  "id": 160206,
+  "character_mission_category_level_master_id": 1602,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 32,
+  "goal_count": 62
+ },
+ {
+  "id": 160301,
+  "character_mission_category_level_master_id": 1603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 46,
+  "goal_count": 46
+ },
+ {
+  "id": 160302,
+  "character_mission_category_level_master_id": 1603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 47,
+  "goal_count": 47
+ },
+ {
+  "id": 160303,
+  "character_mission_category_level_master_id": 1603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 48,
+  "goal_count": 49
+ },
+ {
+  "id": 160401,
+  "character_mission_category_level_master_id": 1604,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 16,
+  "goal_count": 16
+ },
+ {
+  "id": 160402,
+  "character_mission_category_level_master_id": 1604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 46,
+  "goal_count": 46
+ },
+ {
+  "id": 160403,
+  "character_mission_category_level_master_id": 1604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 47,
+  "goal_count": 47
+ },
+ {
+  "id": 160404,
+  "character_mission_category_level_master_id": 1604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 48,
+  "goal_count": 48
+ },
+ {
+  "id": 160501,
+  "character_mission_category_level_master_id": 1605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 46,
+  "goal_count": 525
+ },
+ {
+  "id": 160502,
+  "character_mission_category_level_master_id": 1605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 47,
+  "goal_count": 550
+ },
+ {
+  "id": 160503,
+  "character_mission_category_level_master_id": 1605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 48,
+  "goal_count": 575
+ },
+ {
+  "id": 160504,
+  "character_mission_category_level_master_id": 1605,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 9,
+  "goal_count": 10
+ },
+ {
+  "id": 170101,
+  "character_mission_category_level_master_id": 1701,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 39,
+  "goal_count": 9500
+ },
+ {
+  "id": 170102,
+  "character_mission_category_level_master_id": 1701,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 40,
+  "goal_count": 10000
+ },
+ {
+  "id": 170103,
+  "character_mission_category_level_master_id": 1701,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 41,
+  "goal_count": 5100
+ },
+ {
+  "id": 170201,
+  "character_mission_category_level_master_id": 1702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 49,
+  "goal_count": 1900
+ },
+ {
+  "id": 170202,
+  "character_mission_category_level_master_id": 1702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 50,
+  "goal_count": 2000
+ },
+ {
+  "id": 170203,
+  "character_mission_category_level_master_id": 1702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 51,
+  "goal_count": 2100
+ },
+ {
+  "id": 170204,
+  "character_mission_category_level_master_id": 1702,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 17,
+  "goal_count": 29
+ },
+ {
+  "id": 170205,
+  "character_mission_category_level_master_id": 1702,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 33,
+  "goal_count": 65
+ },
+ {
+  "id": 170206,
+  "character_mission_category_level_master_id": 1702,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 34,
+  "goal_count": 68
+ },
+ {
+  "id": 170301,
+  "character_mission_category_level_master_id": 1703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 49,
+  "goal_count": 50
+ },
+ {
+  "id": 170302,
+  "character_mission_category_level_master_id": 1703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 50,
+  "goal_count": 51
+ },
+ {
+  "id": 170303,
+  "character_mission_category_level_master_id": 1703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 51,
+  "goal_count": 53
+ },
+ {
+  "id": 170401,
+  "character_mission_category_level_master_id": 1704,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 17,
+  "goal_count": 17
+ },
+ {
+  "id": 170402,
+  "character_mission_category_level_master_id": 1704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 49,
+  "goal_count": 49
+ },
+ {
+  "id": 170403,
+  "character_mission_category_level_master_id": 1704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 50,
+  "goal_count": 50
+ },
+ {
+  "id": 170404,
+  "character_mission_category_level_master_id": 1704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 51,
+  "goal_count": 51
+ },
+ {
+  "id": 170501,
+  "character_mission_category_level_master_id": 1705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 49,
+  "goal_count": 600
+ },
+ {
+  "id": 170502,
+  "character_mission_category_level_master_id": 1705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 50,
+  "goal_count": 625
+ },
+ {
+  "id": 170503,
+  "character_mission_category_level_master_id": 1705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 51,
+  "goal_count": 650
+ },
+ {
+  "id": 180101,
+  "character_mission_category_level_master_id": 1801,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 41,
+  "goal_count": 10500
+ },
+ {
+  "id": 180102,
+  "character_mission_category_level_master_id": 1801,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 42,
+  "goal_count": 11000
+ },
+ {
+  "id": 180103,
+  "character_mission_category_level_master_id": 1801,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 42,
+  "goal_count": 5400
+ },
+ {
+  "id": 180201,
+  "character_mission_category_level_master_id": 1802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 52,
+  "goal_count": 2200
+ },
+ {
+  "id": 180202,
+  "character_mission_category_level_master_id": 1802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 53,
+  "goal_count": 2300
+ },
+ {
+  "id": 180203,
+  "character_mission_category_level_master_id": 1802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 54,
+  "goal_count": 2400
+ },
+ {
+  "id": 180204,
+  "character_mission_category_level_master_id": 1802,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 18,
+  "goal_count": 32
+ },
+ {
+  "id": 180205,
+  "character_mission_category_level_master_id": 1802,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 35,
+  "goal_count": 71
+ },
+ {
+  "id": 180206,
+  "character_mission_category_level_master_id": 1802,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 36,
+  "goal_count": 74
+ },
+ {
+  "id": 180301,
+  "character_mission_category_level_master_id": 1803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 52,
+  "goal_count": 54
+ },
+ {
+  "id": 180302,
+  "character_mission_category_level_master_id": 1803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 53,
+  "goal_count": 55
+ },
+ {
+  "id": 180303,
+  "character_mission_category_level_master_id": 1803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 54,
+  "goal_count": 57
+ },
+ {
+  "id": 180401,
+  "character_mission_category_level_master_id": 1804,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 18,
+  "goal_count": 18
+ },
+ {
+  "id": 180402,
+  "character_mission_category_level_master_id": 1804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 52,
+  "goal_count": 52
+ },
+ {
+  "id": 180403,
+  "character_mission_category_level_master_id": 1804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 53,
+  "goal_count": 53
+ },
+ {
+  "id": 180404,
+  "character_mission_category_level_master_id": 1804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 54,
+  "goal_count": 54
+ },
+ {
+  "id": 180501,
+  "character_mission_category_level_master_id": 1805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 52,
+  "goal_count": 675
+ },
+ {
+  "id": 180502,
+  "character_mission_category_level_master_id": 1805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 53,
+  "goal_count": 700
+ },
+ {
+  "id": 180503,
+  "character_mission_category_level_master_id": 1805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 54,
+  "goal_count": 725
+ },
+ {
+  "id": 180504,
+  "character_mission_category_level_master_id": 1805,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 10,
+  "goal_count": 11
+ },
+ {
+  "id": 190101,
+  "character_mission_category_level_master_id": 1901,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 43,
+  "goal_count": 11500
+ },
+ {
+  "id": 190102,
+  "character_mission_category_level_master_id": 1901,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 44,
+  "goal_count": 12000
+ },
+ {
+  "id": 190103,
+  "character_mission_category_level_master_id": 1901,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 43,
+  "goal_count": 5700
+ },
+ {
+  "id": 190201,
+  "character_mission_category_level_master_id": 1902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 55,
+  "goal_count": 2500
+ },
+ {
+  "id": 190202,
+  "character_mission_category_level_master_id": 1902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 56,
+  "goal_count": 2600
+ },
+ {
+  "id": 190203,
+  "character_mission_category_level_master_id": 1902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 57,
+  "goal_count": 2700
+ },
+ {
+  "id": 190204,
+  "character_mission_category_level_master_id": 1902,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 19,
+  "goal_count": 35
+ },
+ {
+  "id": 190205,
+  "character_mission_category_level_master_id": 1902,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 37,
+  "goal_count": 77
+ },
+ {
+  "id": 190206,
+  "character_mission_category_level_master_id": 1902,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 38,
+  "goal_count": 80
+ },
+ {
+  "id": 190301,
+  "character_mission_category_level_master_id": 1903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 55,
+  "goal_count": 58
+ },
+ {
+  "id": 190302,
+  "character_mission_category_level_master_id": 1903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 56,
+  "goal_count": 59
+ },
+ {
+  "id": 190303,
+  "character_mission_category_level_master_id": 1903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 57,
+  "goal_count": 61
+ },
+ {
+  "id": 190401,
+  "character_mission_category_level_master_id": 1904,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 19,
+  "goal_count": 19
+ },
+ {
+  "id": 190402,
+  "character_mission_category_level_master_id": 1904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 55,
+  "goal_count": 55
+ },
+ {
+  "id": 190403,
+  "character_mission_category_level_master_id": 1904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 56,
+  "goal_count": 56
+ },
+ {
+  "id": 190404,
+  "character_mission_category_level_master_id": 1904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 57,
+  "goal_count": 57
+ },
+ {
+  "id": 190501,
+  "character_mission_category_level_master_id": 1905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 55,
+  "goal_count": 750
+ },
+ {
+  "id": 190502,
+  "character_mission_category_level_master_id": 1905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 56,
+  "goal_count": 775
+ },
+ {
+  "id": 190503,
+  "character_mission_category_level_master_id": 1905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 57,
+  "goal_count": 800
+ },
+ {
+  "id": 200101,
+  "character_mission_category_level_master_id": 2001,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 45,
+  "goal_count": 12500
+ },
+ {
+  "id": 200102,
+  "character_mission_category_level_master_id": 2001,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 46,
+  "goal_count": 13000
+ },
+ {
+  "id": 200103,
+  "character_mission_category_level_master_id": 2001,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 44,
+  "goal_count": 6000
+ },
+ {
+  "id": 200201,
+  "character_mission_category_level_master_id": 2002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 58,
+  "goal_count": 2850
+ },
+ {
+  "id": 200202,
+  "character_mission_category_level_master_id": 2002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 59,
+  "goal_count": 3000
+ },
+ {
+  "id": 200203,
+  "character_mission_category_level_master_id": 2002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 60,
+  "goal_count": 3150
+ },
+ {
+  "id": 200204,
+  "character_mission_category_level_master_id": 2002,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 20,
+  "goal_count": 38
+ },
+ {
+  "id": 200205,
+  "character_mission_category_level_master_id": 2002,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 5,
+  "stage_order": 39,
+  "goal_count": 84
+ },
+ {
+  "id": 200206,
+  "character_mission_category_level_master_id": 2002,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 6,
+  "stage_order": 40,
+  "goal_count": 88
+ },
+ {
+  "id": 200301,
+  "character_mission_category_level_master_id": 2003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 58,
+  "goal_count": 62
+ },
+ {
+  "id": 200302,
+  "character_mission_category_level_master_id": 2003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 59,
+  "goal_count": 63
+ },
+ {
+  "id": 200303,
+  "character_mission_category_level_master_id": 2003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 60,
+  "goal_count": 65
+ },
+ {
+  "id": 200401,
+  "character_mission_category_level_master_id": 2004,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 20,
+  "goal_count": 20
+ },
+ {
+  "id": 200402,
+  "character_mission_category_level_master_id": 2004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 58,
+  "goal_count": 58
+ },
+ {
+  "id": 200403,
+  "character_mission_category_level_master_id": 2004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 59,
+  "goal_count": 59
+ },
+ {
+  "id": 200404,
+  "character_mission_category_level_master_id": 2004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 60,
+  "goal_count": 60
+ },
+ {
+  "id": 200501,
+  "character_mission_category_level_master_id": 2005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 58,
+  "goal_count": 825
+ },
+ {
+  "id": 200502,
+  "character_mission_category_level_master_id": 2005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 59,
+  "goal_count": 850
+ },
+ {
+  "id": 200503,
+  "character_mission_category_level_master_id": 2005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 60,
+  "goal_count": 875
+ },
+ {
+  "id": 200504,
+  "character_mission_category_level_master_id": 2005,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 11,
+  "goal_count": 12
+ },
+ {
+  "id": 210101,
+  "character_mission_category_level_master_id": 2101,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 47,
+  "goal_count": 13500
+ },
+ {
+  "id": 210102,
+  "character_mission_category_level_master_id": 2101,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 45,
+  "goal_count": 6300
+ },
+ {
+  "id": 210201,
+  "character_mission_category_level_master_id": 2102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 61,
+  "goal_count": 3300
+ },
+ {
+  "id": 210202,
+  "character_mission_category_level_master_id": 2102,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 62,
+  "goal_count": 3450
+ },
+ {
+  "id": 210203,
+  "character_mission_category_level_master_id": 2102,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 41,
+  "goal_count": 92
+ },
+ {
+  "id": 210301,
+  "character_mission_category_level_master_id": 2103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 61,
+  "goal_count": 66
+ },
+ {
+  "id": 210302,
+  "character_mission_category_level_master_id": 2103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 62,
+  "goal_count": 67
+ },
+ {
+  "id": 210303,
+  "character_mission_category_level_master_id": 2103,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 63,
+  "goal_count": 69
+ },
+ {
+  "id": 210401,
+  "character_mission_category_level_master_id": 2104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 61,
+  "goal_count": 61
+ },
+ {
+  "id": 210402,
+  "character_mission_category_level_master_id": 2104,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 62,
+  "goal_count": 62
+ },
+ {
+  "id": 210501,
+  "character_mission_category_level_master_id": 2105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 61,
+  "goal_count": 900
+ },
+ {
+  "id": 210502,
+  "character_mission_category_level_master_id": 2105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 62,
+  "goal_count": 930
+ },
+ {
+  "id": 210503,
+  "character_mission_category_level_master_id": 2105,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 63,
+  "goal_count": 960
+ },
+ {
+  "id": 220101,
+  "character_mission_category_level_master_id": 2201,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 48,
+  "goal_count": 14000
+ },
+ {
+  "id": 220102,
+  "character_mission_category_level_master_id": 2201,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 46,
+  "goal_count": 6600
+ },
+ {
+  "id": 220201,
+  "character_mission_category_level_master_id": 2202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 63,
+  "goal_count": 3600
+ },
+ {
+  "id": 220202,
+  "character_mission_category_level_master_id": 2202,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 64,
+  "goal_count": 3750
+ },
+ {
+  "id": 220203,
+  "character_mission_category_level_master_id": 2202,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 42,
+  "goal_count": 96
+ },
+ {
+  "id": 220301,
+  "character_mission_category_level_master_id": 2203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 64,
+  "goal_count": 70
+ },
+ {
+  "id": 220302,
+  "character_mission_category_level_master_id": 2203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 65,
+  "goal_count": 71
+ },
+ {
+  "id": 220303,
+  "character_mission_category_level_master_id": 2203,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 66,
+  "goal_count": 73
+ },
+ {
+  "id": 220401,
+  "character_mission_category_level_master_id": 2204,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 21,
+  "goal_count": 21
+ },
+ {
+  "id": 220402,
+  "character_mission_category_level_master_id": 2204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 63,
+  "goal_count": 63
+ },
+ {
+  "id": 220403,
+  "character_mission_category_level_master_id": 2204,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 64,
+  "goal_count": 64
+ },
+ {
+  "id": 220501,
+  "character_mission_category_level_master_id": 2205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 64,
+  "goal_count": 990
+ },
+ {
+  "id": 220502,
+  "character_mission_category_level_master_id": 2205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 65,
+  "goal_count": 1020
+ },
+ {
+  "id": 220503,
+  "character_mission_category_level_master_id": 2205,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 66,
+  "goal_count": 1050
+ },
+ {
+  "id": 220504,
+  "character_mission_category_level_master_id": 2205,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 12,
+  "goal_count": 13
+ },
+ {
+  "id": 230101,
+  "character_mission_category_level_master_id": 2301,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 49,
+  "goal_count": 14500
+ },
+ {
+  "id": 230102,
+  "character_mission_category_level_master_id": 2301,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 47,
+  "goal_count": 6900
+ },
+ {
+  "id": 230201,
+  "character_mission_category_level_master_id": 2302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 65,
+  "goal_count": 3900
+ },
+ {
+  "id": 230202,
+  "character_mission_category_level_master_id": 2302,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 66,
+  "goal_count": 4050
+ },
+ {
+  "id": 230203,
+  "character_mission_category_level_master_id": 2302,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 21,
+  "goal_count": 40
+ },
+ {
+  "id": 230301,
+  "character_mission_category_level_master_id": 2303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 67,
+  "goal_count": 74
+ },
+ {
+  "id": 230302,
+  "character_mission_category_level_master_id": 2303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 68,
+  "goal_count": 75
+ },
+ {
+  "id": 230303,
+  "character_mission_category_level_master_id": 2303,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 69,
+  "goal_count": 77
+ },
+ {
+  "id": 230401,
+  "character_mission_category_level_master_id": 2304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 65,
+  "goal_count": 65
+ },
+ {
+  "id": 230402,
+  "character_mission_category_level_master_id": 2304,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 66,
+  "goal_count": 66
+ },
+ {
+  "id": 230501,
+  "character_mission_category_level_master_id": 2305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 67,
+  "goal_count": 1080
+ },
+ {
+  "id": 230502,
+  "character_mission_category_level_master_id": 2305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 68,
+  "goal_count": 1110
+ },
+ {
+  "id": 230503,
+  "character_mission_category_level_master_id": 2305,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 69,
+  "goal_count": 1140
+ },
+ {
+  "id": 240101,
+  "character_mission_category_level_master_id": 2401,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 50,
+  "goal_count": 15000
+ },
+ {
+  "id": 240102,
+  "character_mission_category_level_master_id": 2401,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 48,
+  "goal_count": 7200
+ },
+ {
+  "id": 240201,
+  "character_mission_category_level_master_id": 2402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 67,
+  "goal_count": 4200
+ },
+ {
+  "id": 240202,
+  "character_mission_category_level_master_id": 2402,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 68,
+  "goal_count": 4350
+ },
+ {
+  "id": 240203,
+  "character_mission_category_level_master_id": 2402,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 43,
+  "goal_count": 100
+ },
+ {
+  "id": 240301,
+  "character_mission_category_level_master_id": 2403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 70,
+  "goal_count": 78
+ },
+ {
+  "id": 240302,
+  "character_mission_category_level_master_id": 2403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 71,
+  "goal_count": 79
+ },
+ {
+  "id": 240303,
+  "character_mission_category_level_master_id": 2403,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 72,
+  "goal_count": 81
+ },
+ {
+  "id": 240401,
+  "character_mission_category_level_master_id": 2404,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 22,
+  "goal_count": 22
+ },
+ {
+  "id": 240402,
+  "character_mission_category_level_master_id": 2404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 67,
+  "goal_count": 67
+ },
+ {
+  "id": 240403,
+  "character_mission_category_level_master_id": 2404,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 68,
+  "goal_count": 68
+ },
+ {
+  "id": 240501,
+  "character_mission_category_level_master_id": 2405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 70,
+  "goal_count": 1170
+ },
+ {
+  "id": 240502,
+  "character_mission_category_level_master_id": 2405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 71,
+  "goal_count": 1200
+ },
+ {
+  "id": 240503,
+  "character_mission_category_level_master_id": 2405,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 72,
+  "goal_count": 1230
+ },
+ {
+  "id": 240504,
+  "character_mission_category_level_master_id": 2405,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 13,
+  "goal_count": 14
+ },
+ {
+  "id": 250101,
+  "character_mission_category_level_master_id": 2501,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 51,
+  "goal_count": 15550
+ },
+ {
+  "id": 250102,
+  "character_mission_category_level_master_id": 2501,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 49,
+  "goal_count": 7500
+ },
+ {
+  "id": 250201,
+  "character_mission_category_level_master_id": 2502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 69,
+  "goal_count": 4500
+ },
+ {
+  "id": 250202,
+  "character_mission_category_level_master_id": 2502,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 70,
+  "goal_count": 4700
+ },
+ {
+  "id": 250203,
+  "character_mission_category_level_master_id": 2502,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 44,
+  "goal_count": 104
+ },
+ {
+  "id": 250204,
+  "character_mission_category_level_master_id": 2502,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 22,
+  "goal_count": 42
+ },
+ {
+  "id": 250301,
+  "character_mission_category_level_master_id": 2503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 73,
+  "goal_count": 82
+ },
+ {
+  "id": 250302,
+  "character_mission_category_level_master_id": 2503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 74,
+  "goal_count": 83
+ },
+ {
+  "id": 250303,
+  "character_mission_category_level_master_id": 2503,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 75,
+  "goal_count": 85
+ },
+ {
+  "id": 250401,
+  "character_mission_category_level_master_id": 2504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 69,
+  "goal_count": 69
+ },
+ {
+  "id": 250402,
+  "character_mission_category_level_master_id": 2504,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 70,
+  "goal_count": 70
+ },
+ {
+  "id": 250501,
+  "character_mission_category_level_master_id": 2505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 73,
+  "goal_count": 1265
+ },
+ {
+  "id": 250502,
+  "character_mission_category_level_master_id": 2505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 74,
+  "goal_count": 1300
+ },
+ {
+  "id": 250503,
+  "character_mission_category_level_master_id": 2505,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 75,
+  "goal_count": 1335
+ },
+ {
+  "id": 260101,
+  "character_mission_category_level_master_id": 2601,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 52,
+  "goal_count": 16100
+ },
+ {
+  "id": 260102,
+  "character_mission_category_level_master_id": 2601,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 50,
+  "goal_count": 7800
+ },
+ {
+  "id": 260201,
+  "character_mission_category_level_master_id": 2602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 71,
+  "goal_count": 4900
+ },
+ {
+  "id": 260202,
+  "character_mission_category_level_master_id": 2602,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 72,
+  "goal_count": 5100
+ },
+ {
+  "id": 260203,
+  "character_mission_category_level_master_id": 2602,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 45,
+  "goal_count": 108
+ },
+ {
+  "id": 260301,
+  "character_mission_category_level_master_id": 2603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 76,
+  "goal_count": 86
+ },
+ {
+  "id": 260302,
+  "character_mission_category_level_master_id": 2603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 77,
+  "goal_count": 88
+ },
+ {
+  "id": 260303,
+  "character_mission_category_level_master_id": 2603,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 78,
+  "goal_count": 90
+ },
+ {
+  "id": 260401,
+  "character_mission_category_level_master_id": 2604,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 23,
+  "goal_count": 23
+ },
+ {
+  "id": 260402,
+  "character_mission_category_level_master_id": 2604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 71,
+  "goal_count": 71
+ },
+ {
+  "id": 260403,
+  "character_mission_category_level_master_id": 2604,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 72,
+  "goal_count": 72
+ },
+ {
+  "id": 260501,
+  "character_mission_category_level_master_id": 2605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 76,
+  "goal_count": 1370
+ },
+ {
+  "id": 260502,
+  "character_mission_category_level_master_id": 2605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 77,
+  "goal_count": 1405
+ },
+ {
+  "id": 260503,
+  "character_mission_category_level_master_id": 2605,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 78,
+  "goal_count": 1440
+ },
+ {
+  "id": 260504,
+  "character_mission_category_level_master_id": 2605,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 14,
+  "goal_count": 15
+ },
+ {
+  "id": 270101,
+  "character_mission_category_level_master_id": 2701,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 53,
+  "goal_count": 16650
+ },
+ {
+  "id": 270102,
+  "character_mission_category_level_master_id": 2701,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 51,
+  "goal_count": 8100
+ },
+ {
+  "id": 270201,
+  "character_mission_category_level_master_id": 2702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 73,
+  "goal_count": 5300
+ },
+ {
+  "id": 270202,
+  "character_mission_category_level_master_id": 2702,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 74,
+  "goal_count": 5500
+ },
+ {
+  "id": 270203,
+  "character_mission_category_level_master_id": 2702,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 46,
+  "goal_count": 112
+ },
+ {
+  "id": 270301,
+  "character_mission_category_level_master_id": 2703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 79,
+  "goal_count": 91
+ },
+ {
+  "id": 270302,
+  "character_mission_category_level_master_id": 2703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 80,
+  "goal_count": 93
+ },
+ {
+  "id": 270303,
+  "character_mission_category_level_master_id": 2703,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 81,
+  "goal_count": 95
+ },
+ {
+  "id": 270401,
+  "character_mission_category_level_master_id": 2704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 73,
+  "goal_count": 73
+ },
+ {
+  "id": 270402,
+  "character_mission_category_level_master_id": 2704,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 74,
+  "goal_count": 74
+ },
+ {
+  "id": 270501,
+  "character_mission_category_level_master_id": 2705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 79,
+  "goal_count": 1475
+ },
+ {
+  "id": 270502,
+  "character_mission_category_level_master_id": 2705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 80,
+  "goal_count": 1510
+ },
+ {
+  "id": 270503,
+  "character_mission_category_level_master_id": 2705,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 81,
+  "goal_count": 1545
+ },
+ {
+  "id": 280101,
+  "character_mission_category_level_master_id": 2801,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 54,
+  "goal_count": 17200
+ },
+ {
+  "id": 280102,
+  "character_mission_category_level_master_id": 2801,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 52,
+  "goal_count": 8400
+ },
+ {
+  "id": 280201,
+  "character_mission_category_level_master_id": 2802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 75,
+  "goal_count": 5700
+ },
+ {
+  "id": 280202,
+  "character_mission_category_level_master_id": 2802,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 76,
+  "goal_count": 5900
+ },
+ {
+  "id": 280203,
+  "character_mission_category_level_master_id": 2802,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 23,
+  "goal_count": 44
+ },
+ {
+  "id": 280301,
+  "character_mission_category_level_master_id": 2803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 82,
+  "goal_count": 96
+ },
+ {
+  "id": 280302,
+  "character_mission_category_level_master_id": 2803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 83,
+  "goal_count": 98
+ },
+ {
+  "id": 280303,
+  "character_mission_category_level_master_id": 2803,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 84,
+  "goal_count": 100
+ },
+ {
+  "id": 280401,
+  "character_mission_category_level_master_id": 2804,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 24,
+  "goal_count": 24
+ },
+ {
+  "id": 280402,
+  "character_mission_category_level_master_id": 2804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 75,
+  "goal_count": 75
+ },
+ {
+  "id": 280403,
+  "character_mission_category_level_master_id": 2804,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 76,
+  "goal_count": 76
+ },
+ {
+  "id": 280501,
+  "character_mission_category_level_master_id": 2805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 82,
+  "goal_count": 1580
+ },
+ {
+  "id": 280502,
+  "character_mission_category_level_master_id": 2805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 83,
+  "goal_count": 1615
+ },
+ {
+  "id": 280503,
+  "character_mission_category_level_master_id": 2805,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 84,
+  "goal_count": 1650
+ },
+ {
+  "id": 280504,
+  "character_mission_category_level_master_id": 2805,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 15,
+  "goal_count": 16
+ },
+ {
+  "id": 290101,
+  "character_mission_category_level_master_id": 2901,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 55,
+  "goal_count": 17750
+ },
+ {
+  "id": 290102,
+  "character_mission_category_level_master_id": 2901,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 53,
+  "goal_count": 8700
+ },
+ {
+  "id": 290201,
+  "character_mission_category_level_master_id": 2902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 77,
+  "goal_count": 6100
+ },
+ {
+  "id": 290202,
+  "character_mission_category_level_master_id": 2902,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 78,
+  "goal_count": 6300
+ },
+ {
+  "id": 290203,
+  "character_mission_category_level_master_id": 2902,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 47,
+  "goal_count": 116
+ },
+ {
+  "id": 290301,
+  "character_mission_category_level_master_id": 2903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 85,
+  "goal_count": 101
+ },
+ {
+  "id": 290302,
+  "character_mission_category_level_master_id": 2903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 86,
+  "goal_count": 103
+ },
+ {
+  "id": 290303,
+  "character_mission_category_level_master_id": 2903,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 87,
+  "goal_count": 105
+ },
+ {
+  "id": 290401,
+  "character_mission_category_level_master_id": 2904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 77,
+  "goal_count": 77
+ },
+ {
+  "id": 290402,
+  "character_mission_category_level_master_id": 2904,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 78,
+  "goal_count": 78
+ },
+ {
+  "id": 290501,
+  "character_mission_category_level_master_id": 2905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 85,
+  "goal_count": 1690
+ },
+ {
+  "id": 290502,
+  "character_mission_category_level_master_id": 2905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 86,
+  "goal_count": 1730
+ },
+ {
+  "id": 290503,
+  "character_mission_category_level_master_id": 2905,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 87,
+  "goal_count": 1770
+ },
+ {
+  "id": 300101,
+  "character_mission_category_level_master_id": 3001,
+  "character_mission_master_id": 1,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 56,
+  "goal_count": 18300
+ },
+ {
+  "id": 300102,
+  "character_mission_category_level_master_id": 3001,
+  "character_mission_master_id": 2,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 54,
+  "goal_count": 9000
+ },
+ {
+  "id": 300201,
+  "character_mission_category_level_master_id": 3002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 79,
+  "goal_count": 6500
+ },
+ {
+  "id": 300202,
+  "character_mission_category_level_master_id": 3002,
+  "character_mission_master_id": 3,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 80,
+  "goal_count": 6750
+ },
+ {
+  "id": 300203,
+  "character_mission_category_level_master_id": 3002,
+  "character_mission_master_id": 5,
+  "exclusion_no_sense_character": true,
+  "order": 3,
+  "stage_order": 48,
+  "goal_count": 120
+ },
+ {
+  "id": 300204,
+  "character_mission_category_level_master_id": 3002,
+  "character_mission_master_id": 4,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 24,
+  "goal_count": 46
+ },
+ {
+  "id": 300301,
+  "character_mission_category_level_master_id": 3003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 88,
+  "goal_count": 106
+ },
+ {
+  "id": 300302,
+  "character_mission_category_level_master_id": 3003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 89,
+  "goal_count": 108
+ },
+ {
+  "id": 300303,
+  "character_mission_category_level_master_id": 3003,
+  "character_mission_master_id": 6,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 90,
+  "goal_count": 110
+ },
+ {
+  "id": 300401,
+  "character_mission_category_level_master_id": 3004,
+  "character_mission_master_id": 7,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 25,
+  "goal_count": 25
+ },
+ {
+  "id": 300402,
+  "character_mission_category_level_master_id": 3004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 79,
+  "goal_count": 79
+ },
+ {
+  "id": 300403,
+  "character_mission_category_level_master_id": 3004,
+  "character_mission_master_id": 8,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 80,
+  "goal_count": 80
+ },
+ {
+  "id": 300501,
+  "character_mission_category_level_master_id": 3005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 1,
+  "stage_order": 88,
+  "goal_count": 1810
+ },
+ {
+  "id": 300502,
+  "character_mission_category_level_master_id": 3005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 2,
+  "stage_order": 89,
+  "goal_count": 1850
+ },
+ {
+  "id": 300503,
+  "character_mission_category_level_master_id": 3005,
+  "character_mission_master_id": 9,
+  "exclusion_no_sense_character": false,
+  "order": 3,
+  "stage_order": 90,
+  "goal_count": 1890
+ },
+ {
+  "id": 300504,
+  "character_mission_category_level_master_id": 3005,
+  "character_mission_master_id": 11,
+  "exclusion_no_sense_character": false,
+  "order": 4,
+  "stage_order": 16,
+  "goal_count": 17
+ }
+]

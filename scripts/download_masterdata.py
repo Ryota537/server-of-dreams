@@ -1,79 +1,92 @@
-"""Download the current MasterMemory master-data blob and unpack it into per-table JSON.
+"""Download the published master-data archive and unpack it into per-table JSON.
 
-    python -m scripts.download_masterdata                 # from the live API
-    python -m scripts.download_masterdata --file some.db  # unpack a local blob
+    python -m scripts.download_masterdata                  # from the GitHub release
+    python -m scripts.download_masterdata --file some.zip  # unpack a local archive
 
-Registers a throwaway account on the official server, reads the MasterDataManifest for
-the *current* master-data uri + SAS token (the publish timestamp changes on every update,
-so a hardcoded one always 404s), downloads the blob, and decodes each table's rows through
-its model into ``_data/masterdata/<Table>.json``. The ``/master-data`` route repacks them.
+Fetches the asset-of-dreams release zip -- a bundle of per-table ``<Table>.json``
+files that are already unpacked and keyed by field name -- and writes each entry
+into ``_data/masterdata/``. The ``/master-data`` route repacks them.
+
+The live official-server path is retained (commented out) but dead: the production
+endpoint now returns 410 GONE (end of service).
 """
 
 import argparse
-import json
+import io
 import sys
 import urllib.request
+import zipfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from helpers.mastermemory import unpack  # noqa: E402
-from helpers.msgpack import from_array  # noqa: E402
-from models.master_data import TABLES  # noqa: E402
-from scripts._sirius import MaintenanceError, master_data_manifest  # noqa: E402
-from models import MasterDataManifest
+# Only needed by the dead live-server path below.
+# from helpers.mastermemory import unpack
+# from helpers.msgpack import from_array
+# from models.master_data import TABLES
+# from scripts._sirius import MaintenanceError, master_data_manifest
+# from models import MasterDataManifest
 
 OUT = Path(__file__).resolve().parent.parent / "_data" / "masterdata"
 
+MASTERDATA_URL = (
+    "https://github.com/Ryota537/asset-of-dreams/releases/download/"
+    "1.96.0-7/2026-09-29_mastermemory_1790650219_1790650219.db.zip"
+)
 
-def _download_url(manifest: MasterDataManifest) -> str:
-    uri, sas = manifest.uri or "", manifest.sas_token or ""
-    if uri and sas:
-        sep = "&" if "?" in uri else "?"
-        return f"{uri}{sep}{sas.lstrip('?')}"
-    return uri
+
+# def _download_url(manifest: MasterDataManifest) -> str:
+#     uri, sas = manifest.uri or "", manifest.sas_token or ""
+#     if uri and sas:
+#         sep = "&" if "?" in uri else "?"
+#         return f"{uri}{sep}{sas.lstrip('?')}"
+#     return uri
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--file", default=None, help="unpack a local blob instead")
+    parser.add_argument("--file", default=None, help="unpack a local archive instead")
     args = parser.parse_args()
 
     if args.file:
-        db = Path(args.file).read_bytes()
-        print(f"read {args.file} ({len(db)} bytes)")
+        data = Path(args.file).read_bytes()
+        print(f"read {args.file} ({len(data)} bytes)")
     else:
-        try:
-            manifest: MasterDataManifest = master_data_manifest()
-        except MaintenanceError:
-            print("Server is in maintenance")
-            return
-        url = (
-            "https://assets-e.wds-stellarium.com/master-data/production/"
-            + _download_url(manifest)
+        # Live production master-data is dead -- the endpoint now returns 410 GONE
+        # (end of service). Kept for reference; we fetch the pre-unpacked archive
+        # from the asset-of-dreams GitHub release instead.
+        #
+        #     try:
+        #         manifest: MasterDataManifest = master_data_manifest()
+        #     except MaintenanceError:
+        #         print("Server is in maintenance")
+        #         return
+        #     url = (
+        #         "https://assets-e.wds-stellarium.com/master-data/production/"
+        #         + _download_url(manifest)
+        #     )
+        #     print(
+        #         f"master-data version {manifest.version} "
+        #         f"(publish {manifest.publish_timestamp})"
+        #     )
+        print(f"downloading {MASTERDATA_URL}")
+        req = urllib.request.Request(
+            MASTERDATA_URL, headers={"User-Agent": "server-of-dreams"}
         )
-        print(
-            f"master-data version {manifest.version} (publish {manifest.publish_timestamp})"
-        )
-        print(f"downloading {url}")
-        req = urllib.request.Request(url, headers={"User-Agent": "server-of-dreams"})
-        db = urllib.request.urlopen(req, timeout=120).read()
-        print(f"downloaded {len(db)} bytes")
+        data = urllib.request.urlopen(req, timeout=120).read()
+        print(f"downloaded {len(data)} bytes")
 
-    tables = unpack(db)
     OUT.mkdir(parents=True, exist_ok=True)
-    for name, rows in tables.items():
-        model = TABLES.get(name)
-        if model is None:
-            continue
-        keyed = [
-            from_array(model.__name__, row).model_dump(mode="json", by_alias=True)
-            for row in rows
-        ]
-        (OUT / f"{name}.json").write_text(
-            json.dumps(keyed, ensure_ascii=False, indent=1), encoding="utf-8"
-        )
-    print(f"unpacked {len(tables)} tables -> {OUT}")
+    count = 0
+    with zipfile.ZipFile(io.BytesIO(data)) as zf:
+        for info in zf.infolist():
+            if info.is_dir() or not info.filename.lower().endswith(".json"):
+                continue
+            (OUT / Path(info.filename).name).write_bytes(zf.read(info))
+            count += 1
+    # The archive's JSON is already keyed by field name, so unlike the live blob
+    # it needs no unpack/from_array pass -- we just drop the files into place.
+    print(f"unpacked {count} tables -> {OUT}")
 
 
 main()

@@ -1,0 +1,401 @@
+[
+ {
+  "id": 101,
+  "target_character_base_id": "101",
+  "loop_speed": 1.059999942779541,
+  "height": 158,
+  "size": 2
+ },
+ {
+  "id": 102,
+  "target_character_base_id": "102",
+  "loop_speed": 0.8899999856948853,
+  "height": 158,
+  "size": 2
+ },
+ {
+  "id": 103,
+  "target_character_base_id": "103",
+  "loop_speed": 0.8799999952316284,
+  "height": 154,
+  "size": 2
+ },
+ {
+  "id": 104,
+  "target_character_base_id": "104",
+  "loop_speed": 0.949999988079071,
+  "height": 146,
+  "size": 1
+ },
+ {
+  "id": 105,
+  "target_character_base_id": "105",
+  "loop_speed": 0.7699999809265137,
+  "height": 157,
+  "size": 2
+ },
+ {
+  "id": 106,
+  "target_character_base_id": "106",
+  "loop_speed": 1.2100000381469727,
+  "height": 165,
+  "size": 2
+ },
+ {
+  "id": 107,
+  "target_character_base_id": "107",
+  "loop_speed": 0.800000011920929,
+  "height": 164,
+  "size": 2
+ },
+ {
+  "id": 110,
+  "target_character_base_id": "110",
+  "loop_speed": 0.8500000238418579,
+  "height": 162,
+  "size": 2
+ },
+ {
+  "id": 111,
+  "target_character_base_id": "111",
+  "loop_speed": 0.75,
+  "height": 156,
+  "size": 2
+ },
+ {
+  "id": 201,
+  "target_character_base_id": "201",
+  "loop_speed": 0.9399999976158142,
+  "height": 165,
+  "size": 2
+ },
+ {
+  "id": 202,
+  "target_character_base_id": "202",
+  "loop_speed": 1.149999976158142,
+  "height": 154,
+  "size": 2
+ },
+ {
+  "id": 203,
+  "target_character_base_id": "203",
+  "loop_speed": 1.0700000524520874,
+  "height": 162,
+  "size": 2
+ },
+ {
+  "id": 204,
+  "target_character_base_id": "204",
+  "loop_speed": 1.1299999952316284,
+  "height": 158,
+  "size": 2
+ },
+ {
+  "id": 205,
+  "target_character_base_id": "205",
+  "loop_speed": 1.0299999713897705,
+  "height": 147,
+  "size": 1
+ },
+ {
+  "id": 206,
+  "target_character_base_id": "206",
+  "loop_speed": 0.7799999713897705,
+  "height": 156,
+  "size": 2
+ },
+ {
+  "id": 301,
+  "target_character_base_id": "301",
+  "loop_speed": 1.0,
+  "height": 159,
+  "size": 2
+ },
+ {
+  "id": 302,
+  "target_character_base_id": "302",
+  "loop_speed": 1.1799999475479126,
+  "height": 163,
+  "size": 2
+ },
+ {
+  "id": 303,
+  "target_character_base_id": "303",
+  "loop_speed": 0.8399999737739563,
+  "height": 151,
+  "size": 1
+ },
+ {
+  "id": 304,
+  "target_character_base_id": "304",
+  "loop_speed": 1.0499999523162842,
+  "height": 168,
+  "size": 2
+ },
+ {
+  "id": 305,
+  "target_character_base_id": "305",
+  "loop_speed": 0.8299999833106995,
+  "height": 155,
+  "size": 2
+ },
+ {
+  "id": 306,
+  "target_character_base_id": "306",
+  "loop_speed": 1.100000023841858,
+  "height": 155,
+  "size": 2
+ },
+ {
+  "id": 401,
+  "target_character_base_id": "401",
+  "loop_speed": 1.190000057220459,
+  "height": 158,
+  "size": 2
+ },
+ {
+  "id": 402,
+  "target_character_base_id": "402",
+  "loop_speed": 1.159999966621399,
+  "height": 156,
+  "size": 2
+ },
+ {
+  "id": 403,
+  "target_character_base_id": "403",
+  "loop_speed": 0.9900000095367432,
+  "height": 163,
+  "size": 2
+ },
+ {
+  "id": 404,
+  "target_character_base_id": "404",
+  "loop_speed": 1.100000023841858,
+  "height": 160,
+  "size": 2
+ },
+ {
+  "id": 405,
+  "target_character_base_id": "405",
+  "loop_speed": 0.7599999904632568,
+  "height": 151,
+  "size": 1
+ },
+ {
+  "id": 406,
+  "target_character_base_id": "406",
+  "loop_speed": 0.9700000286102295,
+  "height": 164,
+  "size": 2
+ },
+ {
+  "id": 407,
+  "target_character_base_id": "407",
+  "loop_speed": 0.8600000143051147,
+  "height": 159,
+  "size": 2
+ },
+ {
+  "id": 408,
+  "target_character_base_id": "408",
+  "loop_speed": 1.190000057220459,
+  "height": 150,
+  "size": 2
+ },
+ {
+  "id": 409,
+  "target_character_base_id": "409",
+  "loop_speed": 1.25,
+  "height": 150,
+  "size": 2
+ },
+ {
+  "id": 501,
+  "target_character_base_id": "501",
+  "loop_speed": 0.9300000071525574,
+  "height": 166,
+  "size": 2
+ },
+ {
+  "id": 502,
+  "target_character_base_id": "502",
+  "loop_speed": 1.1699999570846558,
+  "height": 146,
+  "size": 1
+ },
+ {
+  "id": 503,
+  "target_character_base_id": "503",
+  "loop_speed": 1.0700000524520874,
+  "height": 160,
+  "size": 2
+ },
+ {
+  "id": 504,
+  "target_character_base_id": "504",
+  "loop_speed": 0.9100000262260437,
+  "height": 162,
+  "size": 2
+ },
+ {
+  "id": 505,
+  "target_character_base_id": "505",
+  "loop_speed": 0.9599999785423279,
+  "height": 156,
+  "size": 2
+ },
+ {
+  "id": 506,
+  "target_character_base_id": "506",
+  "loop_speed": 1.0399999618530273,
+  "height": 146,
+  "size": 1
+ },
+ {
+  "id": 507,
+  "target_character_base_id": "507",
+  "loop_speed": 1.149999976158142,
+  "height": 146,
+  "size": 1
+ },
+ {
+  "id": 508,
+  "target_character_base_id": "508",
+  "loop_speed": 1.2000000476837158,
+  "height": 150,
+  "size": 1
+ },
+ {
+  "id": 509,
+  "target_character_base_id": "509",
+  "loop_speed": 1.0700000524520874,
+  "height": 165,
+  "size": 2
+ },
+ {
+  "id": 511,
+  "target_character_base_id": "511",
+  "loop_speed": 1.159999966621399,
+  "height": 154,
+  "size": 1
+ },
+ {
+  "id": 513,
+  "target_character_base_id": "513",
+  "loop_speed": 1.0700000524520874,
+  "height": 165,
+  "size": 2
+ },
+ {
+  "id": 514,
+  "target_character_base_id": "514",
+  "loop_speed": 1.0700000524520874,
+  "height": 147,
+  "size": 2
+ },
+ {
+  "id": 515,
+  "target_character_base_id": "515",
+  "loop_speed": 0.8899999856948853,
+  "height": 145,
+  "size": 2
+ },
+ {
+  "id": 516,
+  "target_character_base_id": "516",
+  "loop_speed": 1.0,
+  "height": 165,
+  "size": 2
+ },
+ {
+  "id": 517,
+  "target_character_base_id": "517",
+  "loop_speed": 0.949999988079071,
+  "height": 164,
+  "size": 2
+ },
+ {
+  "id": 518,
+  "target_character_base_id": "518",
+  "loop_speed": 1.0800000429153442,
+  "height": 170,
+  "size": 2
+ },
+ {
+  "id": 519,
+  "target_character_base_id": "519",
+  "loop_speed": 0.8899999856948853,
+  "height": 164,
+  "size": 2
+ },
+ {
+  "id": 520,
+  "target_character_base_id": "520",
+  "loop_speed": 1.25,
+  "height": 152,
+  "size": 1
+ },
+ {
+  "id": 521,
+  "target_character_base_id": "521",
+  "loop_speed": 1.100000023841858,
+  "height": 146,
+  "size": 1
+ },
+ {
+  "id": 522,
+  "target_character_base_id": "522",
+  "loop_speed": 1.0,
+  "height": 164,
+  "size": 2
+ },
+ {
+  "id": 601,
+  "target_character_base_id": "601",
+  "loop_speed": 1.159999966621399,
+  "height": 154,
+  "size": 1
+ },
+ {
+  "id": 602,
+  "target_character_base_id": "602",
+  "loop_speed": 0.75,
+  "height": 175,
+  "size": 2
+ },
+ {
+  "id": 901,
+  "target_character_base_id": "901",
+  "loop_speed": 1.0800000429153442,
+  "height": 157,
+  "size": 2
+ },
+ {
+  "id": 902,
+  "target_character_base_id": "902",
+  "loop_speed": 1.0,
+  "height": 160,
+  "size": 2
+ },
+ {
+  "id": 904,
+  "target_character_base_id": "904",
+  "loop_speed": 0.949999988079071,
+  "height": 162,
+  "size": 2
+ },
+ {
+  "id": 906,
+  "target_character_base_id": "906",
+  "loop_speed": 1.100000023841858,
+  "height": 156,
+  "size": 2
+ },
+ {
+  "id": 909,
+  "target_character_base_id": "909",
+  "loop_speed": 1.25,
+  "height": 154,
+  "size": 2
+ }
+]

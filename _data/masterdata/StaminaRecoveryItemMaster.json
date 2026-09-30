@@ -1,0 +1,662 @@
+[
+ {
+  "item_master_id": 110001,
+  "recovery_amount": 30,
+  "expired_at": null,
+  "is_force_show_list": true
+ },
+ {
+  "item_master_id": 110002,
+  "recovery_amount": 100,
+  "expired_at": null,
+  "is_force_show_list": true
+ },
+ {
+  "item_master_id": 110003,
+  "recovery_amount": 200,
+  "expired_at": null,
+  "is_force_show_list": true
+ },
+ {
+  "item_master_id": 111001,
+  "recovery_amount": 100,
+  "expired_at": "2023-10-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111002,
+  "recovery_amount": 100,
+  "expired_at": "2023-10-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111003,
+  "recovery_amount": 100,
+  "expired_at": "2023-11-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111004,
+  "recovery_amount": 100,
+  "expired_at": "2023-10-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111005,
+  "recovery_amount": 100,
+  "expired_at": "2023-11-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111006,
+  "recovery_amount": 100,
+  "expired_at": "2023-11-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111007,
+  "recovery_amount": 100,
+  "expired_at": "2023-12-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111008,
+  "recovery_amount": 100,
+  "expired_at": "2024-02-09T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111009,
+  "recovery_amount": 100,
+  "expired_at": "2023-12-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111010,
+  "recovery_amount": 100,
+  "expired_at": "2023-12-31T15:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111011,
+  "recovery_amount": 100,
+  "expired_at": "2024-01-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111012,
+  "recovery_amount": 100,
+  "expired_at": "2024-01-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111013,
+  "recovery_amount": 100,
+  "expired_at": "2024-01-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111014,
+  "recovery_amount": 100,
+  "expired_at": "2024-02-29T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111015,
+  "recovery_amount": 100,
+  "expired_at": "2024-02-18T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111016,
+  "recovery_amount": 100,
+  "expired_at": "2024-04-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111017,
+  "recovery_amount": 100,
+  "expired_at": "2024-09-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111018,
+  "recovery_amount": 100,
+  "expired_at": "2024-03-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111019,
+  "recovery_amount": 100,
+  "expired_at": "2024-03-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111020,
+  "recovery_amount": 100,
+  "expired_at": "2024-04-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111021,
+  "recovery_amount": 100,
+  "expired_at": "2024-04-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111022,
+  "recovery_amount": 100,
+  "expired_at": "2024-05-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111023,
+  "recovery_amount": 100,
+  "expired_at": "2024-06-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111024,
+  "recovery_amount": 100,
+  "expired_at": "2024-05-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111025,
+  "recovery_amount": 100,
+  "expired_at": "2024-05-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111026,
+  "recovery_amount": 100,
+  "expired_at": "2024-07-11T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111027,
+  "recovery_amount": 100,
+  "expired_at": "2024-06-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111028,
+  "recovery_amount": 100,
+  "expired_at": "2024-06-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111029,
+  "recovery_amount": 100,
+  "expired_at": "2024-07-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111030,
+  "recovery_amount": 100,
+  "expired_at": "2024-07-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111031,
+  "recovery_amount": 100,
+  "expired_at": "2024-08-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111032,
+  "recovery_amount": 100,
+  "expired_at": "2024-08-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111033,
+  "recovery_amount": 100,
+  "expired_at": "2024-09-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111034,
+  "recovery_amount": 100,
+  "expired_at": "2024-10-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111035,
+  "recovery_amount": 100,
+  "expired_at": "2024-09-01T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111036,
+  "recovery_amount": 100,
+  "expired_at": "2024-03-21T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111038,
+  "recovery_amount": 100,
+  "expired_at": "2024-09-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111039,
+  "recovery_amount": 100,
+  "expired_at": "2024-10-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111040,
+  "recovery_amount": 100,
+  "expired_at": "2024-10-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111041,
+  "recovery_amount": 100,
+  "expired_at": "2024-11-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111042,
+  "recovery_amount": 100,
+  "expired_at": "2024-11-21T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111043,
+  "recovery_amount": 100,
+  "expired_at": "2024-11-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111044,
+  "recovery_amount": 100,
+  "expired_at": "2024-12-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111045,
+  "recovery_amount": 100,
+  "expired_at": "2024-12-21T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111046,
+  "recovery_amount": 100,
+  "expired_at": "2024-12-31T15:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111047,
+  "recovery_amount": 100,
+  "expired_at": "2025-01-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111048,
+  "recovery_amount": 100,
+  "expired_at": "2025-01-21T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111049,
+  "recovery_amount": 100,
+  "expired_at": "2025-01-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111050,
+  "recovery_amount": 100,
+  "expired_at": "2025-02-09T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111051,
+  "recovery_amount": 100,
+  "expired_at": "2025-02-18T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111052,
+  "recovery_amount": 100,
+  "expired_at": "2025-02-28T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111053,
+  "recovery_amount": 100,
+  "expired_at": "2025-03-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111054,
+  "recovery_amount": 100,
+  "expired_at": "2025-03-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111055,
+  "recovery_amount": 100,
+  "expired_at": "2025-03-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111056,
+  "recovery_amount": 100,
+  "expired_at": "2025-04-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111057,
+  "recovery_amount": 100,
+  "expired_at": "2025-04-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111058,
+  "recovery_amount": 100,
+  "expired_at": "2025-04-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111059,
+  "recovery_amount": 100,
+  "expired_at": "2025-05-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111060,
+  "recovery_amount": 100,
+  "expired_at": "2025-05-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111061,
+  "recovery_amount": 100,
+  "expired_at": "2025-05-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111062,
+  "recovery_amount": 100,
+  "expired_at": "2025-06-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111063,
+  "recovery_amount": 100,
+  "expired_at": "2025-06-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111064,
+  "recovery_amount": 100,
+  "expired_at": "2025-06-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111065,
+  "recovery_amount": 100,
+  "expired_at": "2025-07-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111066,
+  "recovery_amount": 100,
+  "expired_at": "2025-07-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111067,
+  "recovery_amount": 100,
+  "expired_at": "2025-07-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111068,
+  "recovery_amount": 100,
+  "expired_at": "2025-08-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111069,
+  "recovery_amount": 100,
+  "expired_at": "2025-08-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111070,
+  "recovery_amount": 100,
+  "expired_at": "2025-08-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111071,
+  "recovery_amount": 100,
+  "expired_at": "2025-09-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111072,
+  "recovery_amount": 100,
+  "expired_at": "2025-09-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111073,
+  "recovery_amount": 100,
+  "expired_at": "2025-09-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111074,
+  "recovery_amount": 100,
+  "expired_at": "2025-10-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111075,
+  "recovery_amount": 100,
+  "expired_at": "2025-10-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111076,
+  "recovery_amount": 100,
+  "expired_at": "2025-10-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111077,
+  "recovery_amount": 100,
+  "expired_at": "2025-11-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111078,
+  "recovery_amount": 100,
+  "expired_at": "2025-11-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111079,
+  "recovery_amount": 100,
+  "expired_at": "2025-11-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111080,
+  "recovery_amount": 100,
+  "expired_at": "2025-12-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111081,
+  "recovery_amount": 100,
+  "expired_at": "2025-12-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111082,
+  "recovery_amount": 100,
+  "expired_at": "2025-12-31T15:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111083,
+  "recovery_amount": 100,
+  "expired_at": "2026-01-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111084,
+  "recovery_amount": 100,
+  "expired_at": "2026-01-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111085,
+  "recovery_amount": 100,
+  "expired_at": "2026-01-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111086,
+  "recovery_amount": 100,
+  "expired_at": "2026-02-09T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111087,
+  "recovery_amount": 100,
+  "expired_at": "2026-02-18T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111088,
+  "recovery_amount": 100,
+  "expired_at": "2026-02-28T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111089,
+  "recovery_amount": 100,
+  "expired_at": "2026-03-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111090,
+  "recovery_amount": 100,
+  "expired_at": "2026-03-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111091,
+  "recovery_amount": 100,
+  "expired_at": "2026-03-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111092,
+  "recovery_amount": 100,
+  "expired_at": "2026-04-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111093,
+  "recovery_amount": 100,
+  "expired_at": "2026-04-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111094,
+  "recovery_amount": 100,
+  "expired_at": "2026-04-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111095,
+  "recovery_amount": 100,
+  "expired_at": "2026-05-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111096,
+  "recovery_amount": 100,
+  "expired_at": "2026-05-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111097,
+  "recovery_amount": 100,
+  "expired_at": "2026-05-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111098,
+  "recovery_amount": 100,
+  "expired_at": "2026-06-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111099,
+  "recovery_amount": 100,
+  "expired_at": "2026-06-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111100,
+  "recovery_amount": 100,
+  "expired_at": "2026-06-30T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111101,
+  "recovery_amount": 100,
+  "expired_at": "2026-07-10T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111102,
+  "recovery_amount": 100,
+  "expired_at": "2026-07-20T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 111103,
+  "recovery_amount": 100,
+  "expired_at": "2026-07-31T17:00:00+00:00",
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 112001,
+  "recovery_amount": 100,
+  "expired_at": null,
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 112002,
+  "recovery_amount": 500,
+  "expired_at": null,
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 112003,
+  "recovery_amount": 100,
+  "expired_at": null,
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 112004,
+  "recovery_amount": 500,
+  "expired_at": null,
+  "is_force_show_list": false
+ },
+ {
+  "item_master_id": 112005,
+  "recovery_amount": 100,
+  "expired_at": null,
+  "is_force_show_list": false
+ }
+]

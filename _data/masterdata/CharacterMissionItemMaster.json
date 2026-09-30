@@ -1,0 +1,380 @@
+[
+ {
+  "id": 161001,
+  "item_master_id": 161001,
+  "character_base_master_id": 101,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161002,
+  "item_master_id": 161002,
+  "character_base_master_id": 102,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161003,
+  "item_master_id": 161003,
+  "character_base_master_id": 103,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161004,
+  "item_master_id": 161004,
+  "character_base_master_id": 104,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161005,
+  "item_master_id": 161005,
+  "character_base_master_id": 105,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161006,
+  "item_master_id": 161006,
+  "character_base_master_id": 106,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161007,
+  "item_master_id": 161007,
+  "character_base_master_id": 201,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161008,
+  "item_master_id": 161008,
+  "character_base_master_id": 202,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161009,
+  "item_master_id": 161009,
+  "character_base_master_id": 203,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161010,
+  "item_master_id": 161010,
+  "character_base_master_id": 204,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161011,
+  "item_master_id": 161011,
+  "character_base_master_id": 205,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161012,
+  "item_master_id": 161012,
+  "character_base_master_id": 301,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161013,
+  "item_master_id": 161013,
+  "character_base_master_id": 302,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161014,
+  "item_master_id": 161014,
+  "character_base_master_id": 303,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161015,
+  "item_master_id": 161015,
+  "character_base_master_id": 304,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161016,
+  "item_master_id": 161016,
+  "character_base_master_id": 305,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161017,
+  "item_master_id": 161017,
+  "character_base_master_id": 401,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161018,
+  "item_master_id": 161018,
+  "character_base_master_id": 402,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161019,
+  "item_master_id": 161019,
+  "character_base_master_id": 403,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161020,
+  "item_master_id": 161020,
+  "character_base_master_id": 404,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 161021,
+  "item_master_id": 161021,
+  "character_base_master_id": 405,
+  "character_mission_master_id": 7
+ },
+ {
+  "id": 162001,
+  "item_master_id": 162001,
+  "character_base_master_id": 101,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162002,
+  "item_master_id": 162002,
+  "character_base_master_id": 102,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162003,
+  "item_master_id": 162003,
+  "character_base_master_id": 103,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162004,
+  "item_master_id": 162004,
+  "character_base_master_id": 104,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162005,
+  "item_master_id": 162005,
+  "character_base_master_id": 105,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162006,
+  "item_master_id": 162006,
+  "character_base_master_id": 106,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162007,
+  "item_master_id": 162007,
+  "character_base_master_id": 201,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162008,
+  "item_master_id": 162008,
+  "character_base_master_id": 202,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162009,
+  "item_master_id": 162009,
+  "character_base_master_id": 203,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162010,
+  "item_master_id": 162010,
+  "character_base_master_id": 204,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162011,
+  "item_master_id": 162011,
+  "character_base_master_id": 205,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162012,
+  "item_master_id": 162012,
+  "character_base_master_id": 301,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162013,
+  "item_master_id": 162013,
+  "character_base_master_id": 302,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162014,
+  "item_master_id": 162014,
+  "character_base_master_id": 303,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162015,
+  "item_master_id": 162015,
+  "character_base_master_id": 304,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162016,
+  "item_master_id": 162016,
+  "character_base_master_id": 305,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162017,
+  "item_master_id": 162017,
+  "character_base_master_id": 401,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162018,
+  "item_master_id": 162018,
+  "character_base_master_id": 402,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162019,
+  "item_master_id": 162019,
+  "character_base_master_id": 403,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162020,
+  "item_master_id": 162020,
+  "character_base_master_id": 404,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 162021,
+  "item_master_id": 162021,
+  "character_base_master_id": 405,
+  "character_mission_master_id": 5
+ },
+ {
+  "id": 163001,
+  "item_master_id": 163001,
+  "character_base_master_id": 101,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163002,
+  "item_master_id": 163002,
+  "character_base_master_id": 102,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163003,
+  "item_master_id": 163003,
+  "character_base_master_id": 103,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163004,
+  "item_master_id": 163004,
+  "character_base_master_id": 104,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163005,
+  "item_master_id": 163005,
+  "character_base_master_id": 105,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163006,
+  "item_master_id": 163006,
+  "character_base_master_id": 106,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163007,
+  "item_master_id": 163007,
+  "character_base_master_id": 201,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163008,
+  "item_master_id": 163008,
+  "character_base_master_id": 202,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163009,
+  "item_master_id": 163009,
+  "character_base_master_id": 203,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163010,
+  "item_master_id": 163010,
+  "character_base_master_id": 204,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163011,
+  "item_master_id": 163011,
+  "character_base_master_id": 205,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163012,
+  "item_master_id": 163012,
+  "character_base_master_id": 301,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163013,
+  "item_master_id": 163013,
+  "character_base_master_id": 302,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163014,
+  "item_master_id": 163014,
+  "character_base_master_id": 303,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163015,
+  "item_master_id": 163015,
+  "character_base_master_id": 304,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163016,
+  "item_master_id": 163016,
+  "character_base_master_id": 305,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163017,
+  "item_master_id": 163017,
+  "character_base_master_id": 401,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163018,
+  "item_master_id": 163018,
+  "character_base_master_id": 402,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163019,
+  "item_master_id": 163019,
+  "character_base_master_id": 403,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163020,
+  "item_master_id": 163020,
+  "character_base_master_id": 404,
+  "character_mission_master_id": 6
+ },
+ {
+  "id": 163021,
+  "item_master_id": 163021,
+  "character_base_master_id": 405,
+  "character_mission_master_id": 6
+ }
+]

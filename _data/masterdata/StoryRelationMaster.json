@@ -1,0 +1,1165 @@
+[
+ {
+  "story_master_id": 10101,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   10102
+  ],
+  "side_story_character_master_ids": [
+   110010,
+   120010,
+   140010,
+   110020,
+   110040,
+   110050
+  ],
+  "related_story_master_ids": [
+   20003
+  ]
+ },
+ {
+  "story_master_id": 10102,
+  "previous_story_master_ids": [
+   10101
+  ],
+  "next_story_master_ids": [
+   10103
+  ],
+  "side_story_character_master_ids": [
+   140020,
+   140030,
+   140040,
+   140140
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10103,
+  "previous_story_master_ids": [
+   10102
+  ],
+  "next_story_master_ids": [
+   10104
+  ],
+  "side_story_character_master_ids": [
+   140980,
+   140990
+  ],
+  "related_story_master_ids": [
+   30002
+  ]
+ },
+ {
+  "story_master_id": 10104,
+  "previous_story_master_ids": [
+   10103
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141790,
+   141800,
+   141850,
+   141860,
+   141910,
+   141920
+  ],
+  "related_story_master_ids": [
+   20063
+  ]
+ },
+ {
+  "story_master_id": 10201,
+  "previous_story_master_ids": [
+   20001
+  ],
+  "next_story_master_ids": [
+   10202
+  ],
+  "side_story_character_master_ids": [
+   120070,
+   110090,
+   130100,
+   140060
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10202,
+  "previous_story_master_ids": [
+   10201
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140920,
+   140930
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10203,
+  "previous_story_master_ids": [
+   10202
+  ],
+  "next_story_master_ids": [
+   10204,
+   20057
+  ],
+  "side_story_character_master_ids": [
+   141610,
+   141620
+  ],
+  "related_story_master_ids": [
+   30006
+  ]
+ },
+ {
+  "story_master_id": 10204,
+  "previous_story_master_ids": [
+   10203
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142330,
+   142340,
+   142390,
+   142400,
+   142450,
+   142460
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10301,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   10302
+  ],
+  "side_story_character_master_ids": [
+   140100,
+   140090,
+   140280,
+   130280
+  ],
+  "related_story_master_ids": [
+   20007
+  ]
+ },
+ {
+  "story_master_id": 10302,
+  "previous_story_master_ids": [
+   10301
+  ],
+  "next_story_master_ids": [
+   10303
+  ],
+  "side_story_character_master_ids": [
+   140330,
+   140320
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10303,
+  "previous_story_master_ids": [
+   10302
+  ],
+  "next_story_master_ids": [
+   10304
+  ],
+  "side_story_character_master_ids": [
+   141180,
+   141190
+  ],
+  "related_story_master_ids": [
+   30004,
+   20007
+  ]
+ },
+ {
+  "story_master_id": 10304,
+  "previous_story_master_ids": [
+   10303
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141970,
+   141980,
+   142030,
+   142040,
+   142090,
+   142100
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10401,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   10402
+  ],
+  "side_story_character_master_ids": [
+   130170,
+   140130,
+   110190
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10402,
+  "previous_story_master_ids": [
+   10401
+  ],
+  "next_story_master_ids": [
+   10403
+  ],
+  "side_story_character_master_ids": [
+   140520,
+   140530
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10403,
+  "previous_story_master_ids": [
+   10402
+  ],
+  "next_story_master_ids": [
+   10404
+  ],
+  "side_story_character_master_ids": [
+   141410,
+   141420
+  ],
+  "related_story_master_ids": [
+   30005
+  ]
+ },
+ {
+  "story_master_id": 10404,
+  "previous_story_master_ids": [
+   10403
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142150,
+   142160,
+   142210,
+   142220,
+   142270,
+   142280
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 10501,
+  "previous_story_master_ids": [
+   10104,
+   10204,
+   10304,
+   10404
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142510,
+   142520
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20001,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   10201
+  ],
+  "side_story_character_master_ids": [
+   140150,
+   140160,
+   130220
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20002,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140170,
+   140180,
+   130230
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20003,
+  "previous_story_master_ids": [
+   10101
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140190,
+   140200,
+   130240
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20004,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140210,
+   140220,
+   130250,
+   120140
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20005,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140240,
+   140250,
+   130260
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20006,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140260,
+   140270,
+   130270
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20007,
+  "previous_story_master_ids": [
+   10301
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140280,
+   140290,
+   130280,
+   120070
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20008,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140300,
+   140310,
+   130290,
+   130160
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20009,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140340,
+   140350,
+   130300
+  ],
+  "related_story_master_ids": [
+   10101
+  ]
+ },
+ {
+  "story_master_id": 20010,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140360,
+   140370,
+   130310,
+   110150
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20011,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140380,
+   140390,
+   130320
+  ],
+  "related_story_master_ids": [
+   10302
+  ]
+ },
+ {
+  "story_master_id": 20012,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140400,
+   140410,
+   130330
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20013,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   20029
+  ],
+  "side_story_character_master_ids": [
+   140420,
+   140430,
+   130340,
+   140060
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20014,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140440,
+   140450,
+   130350
+  ],
+  "related_story_master_ids": [
+   10101,
+   20031
+  ]
+ },
+ {
+  "story_master_id": 20015,
+  "previous_story_master_ids": [
+   20008
+  ],
+  "next_story_master_ids": [
+   20033
+  ],
+  "side_story_character_master_ids": [
+   140460,
+   140470,
+   130360
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20016,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140480,
+   140490,
+   130370
+  ],
+  "related_story_master_ids": [
+   20004
+  ]
+ },
+ {
+  "story_master_id": 20017,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140500,
+   140510,
+   130380
+  ],
+  "related_story_master_ids": [
+   10101,
+   10102
+  ]
+ },
+ {
+  "story_master_id": 20018,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140540,
+   140550,
+   130390
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20019,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140560,
+   140570,
+   130400
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20020,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140880,
+   140890,
+   130560
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20021,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140600,
+   140610,
+   130420
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20022,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140620,
+   140630,
+   130430
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20023,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141100,
+   141110,
+   130650
+  ],
+  "related_story_master_ids": [
+   20042
+  ]
+ },
+ {
+  "story_master_id": 20024,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140660,
+   140670,
+   130450
+  ],
+  "related_story_master_ids": [
+   10101
+  ]
+ },
+ {
+  "story_master_id": 20025,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140680,
+   140690,
+   130460
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20026,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140700,
+   140710,
+   130470
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20027,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140720,
+   140730,
+   130480
+  ],
+  "related_story_master_ids": [
+   10101
+  ]
+ },
+ {
+  "story_master_id": 20028,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140740,
+   140750,
+   130490
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20029,
+  "previous_story_master_ids": [
+   20013
+  ],
+  "next_story_master_ids": [
+   20035
+  ],
+  "side_story_character_master_ids": [
+   140760,
+   140770,
+   130500
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20030,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140780,
+   140790,
+   130510
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20031,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140800,
+   140810,
+   130520
+  ],
+  "related_story_master_ids": [
+   20014
+  ]
+ },
+ {
+  "story_master_id": 20032,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140820,
+   140830,
+   130530
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20033,
+  "previous_story_master_ids": [
+   20015
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140840,
+   140850,
+   130540
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20034,
+  "previous_story_master_ids": [
+   30001
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140860,
+   140870,
+   130550
+  ],
+  "related_story_master_ids": [
+   10402
+  ]
+ },
+ {
+  "story_master_id": 20035,
+  "previous_story_master_ids": [
+   20029
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140940,
+   140950,
+   130580
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20036,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140960,
+   140970,
+   130590
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20037,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141000,
+   141010,
+   130600
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20038,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141040,
+   141050,
+   130620
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20039,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   20040
+  ],
+  "side_story_character_master_ids": [
+   141060,
+   141070,
+   130630
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20040,
+  "previous_story_master_ids": [
+   20039
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141120,
+   141130,
+   130660
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20041,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141160,
+   141170,
+   130680
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20042,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   140900,
+   140910,
+   130570
+  ],
+  "related_story_master_ids": [
+   20023
+  ]
+ },
+ {
+  "story_master_id": 20043,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141200,
+   141210,
+   130690
+  ],
+  "related_story_master_ids": [
+   20030
+  ]
+ },
+ {
+  "story_master_id": 20044,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   20045
+  ],
+  "side_story_character_master_ids": [
+   141260,
+   130710,
+   130720
+  ],
+  "related_story_master_ids": [
+   10103
+  ]
+ },
+ {
+  "story_master_id": 20045,
+  "previous_story_master_ids": [
+   20044
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141240,
+   141250,
+   141280,
+   141290,
+   141270,
+   141300
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20046,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141330,
+   141340,
+   130740
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20047,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141350,
+   141360,
+   130750
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20048,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141390,
+   141400,
+   130770
+  ],
+  "related_story_master_ids": [
+   20040
+  ]
+ },
+ {
+  "story_master_id": 20049,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   20052
+  ],
+  "side_story_character_master_ids": [
+   141430,
+   141440,
+   130780
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20050,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141470,
+   141480,
+   130800
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20051,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141490,
+   141500,
+   130810
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20052,
+  "previous_story_master_ids": [
+   20049
+  ],
+  "next_story_master_ids": [
+   20055
+  ],
+  "side_story_character_master_ids": [
+   141530,
+   141540,
+   130830
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20053,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141550,
+   141560,
+   130840
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20054,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141590,
+   141600,
+   130860
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20055,
+  "previous_story_master_ids": [
+   20052
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141630,
+   141640,
+   130870
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20056,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141670,
+   141680,
+   130890
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20057,
+  "previous_story_master_ids": [
+   10203
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141690,
+   141700,
+   130900
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20058,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141730,
+   141740,
+   130920
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20059,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141750,
+   141760
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20060,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141810,
+   141820
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20061,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141870,
+   141880
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20062,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141930,
+   141940
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20063,
+  "previous_story_master_ids": [
+   10104
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   141990,
+   142000
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20064,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142050,
+   142060
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20065,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142110,
+   142120
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20066,
+  "previous_story_master_ids": [
+   10304
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142170,
+   142180
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20067,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142230,
+   142240
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20068,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142290,
+   142300
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20069,
+  "previous_story_master_ids": [
+   10404
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142350,
+   142360
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20070,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142410,
+   142420
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 20071,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [
+   142470,
+   142480
+  ],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 30001,
+  "previous_story_master_ids": [],
+  "next_story_master_ids": [
+   20034
+  ],
+  "side_story_character_master_ids": [],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 30002,
+  "previous_story_master_ids": [
+   10103
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 30004,
+  "previous_story_master_ids": [
+   10303
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 30005,
+  "previous_story_master_ids": [
+   10403
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [],
+  "related_story_master_ids": []
+ },
+ {
+  "story_master_id": 30006,
+  "previous_story_master_ids": [
+   10203
+  ],
+  "next_story_master_ids": [],
+  "side_story_character_master_ids": [],
+  "related_story_master_ids": []
+ }
+]

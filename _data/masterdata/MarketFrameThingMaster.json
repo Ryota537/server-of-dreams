@@ -1,0 +1,1382 @@
+[
+ {
+  "id": 101,
+  "thing_id": 110002,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 35,
+  "display_type": 0
+ },
+ {
+  "id": 102,
+  "thing_id": 110003,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50,
+  "display_type": 2
+ },
+ {
+  "id": 103,
+  "thing_id": 140000,
+  "thing_type": 1,
+  "thing_quantity": 20,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100,
+  "display_type": 2
+ },
+ {
+  "id": 104,
+  "thing_id": 130064,
+  "thing_type": 1,
+  "thing_quantity": 5,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50,
+  "display_type": 2
+ },
+ {
+  "id": 105,
+  "thing_id": 510004,
+  "thing_type": 1,
+  "thing_quantity": 2,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 400,
+  "display_type": 2
+ },
+ {
+  "id": 106,
+  "thing_id": 110002,
+  "thing_type": 1,
+  "thing_quantity": 2,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 70,
+  "display_type": 0
+ },
+ {
+  "id": 107,
+  "thing_id": 140000,
+  "thing_type": 1,
+  "thing_quantity": 40,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 200,
+  "display_type": 2
+ },
+ {
+  "id": 108,
+  "thing_id": 130064,
+  "thing_type": 1,
+  "thing_quantity": 10,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100,
+  "display_type": 2
+ },
+ {
+  "id": 109,
+  "thing_id": 510004,
+  "thing_type": 1,
+  "thing_quantity": 3,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 600,
+  "display_type": 2
+ },
+ {
+  "id": 201,
+  "thing_id": 120002,
+  "thing_type": 1,
+  "thing_quantity": 100,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100000,
+  "display_type": 0
+ },
+ {
+  "id": 202,
+  "thing_id": 120002,
+  "thing_type": 1,
+  "thing_quantity": 200,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 200000,
+  "display_type": 0
+ },
+ {
+  "id": 301,
+  "thing_id": 130051,
+  "thing_type": 1,
+  "thing_quantity": 10,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100000,
+  "display_type": 1
+ },
+ {
+  "id": 302,
+  "thing_id": 130051,
+  "thing_type": 1,
+  "thing_quantity": 20,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 200000,
+  "display_type": 1
+ },
+ {
+  "id": 401,
+  "thing_id": 130021,
+  "thing_type": 1,
+  "thing_quantity": 750,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 75000,
+  "display_type": 0
+ },
+ {
+  "id": 402,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 750,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 75000,
+  "display_type": 0
+ },
+ {
+  "id": 403,
+  "thing_id": 130023,
+  "thing_type": 1,
+  "thing_quantity": 750,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 75000,
+  "display_type": 0
+ },
+ {
+  "id": 404,
+  "thing_id": 130024,
+  "thing_type": 1,
+  "thing_quantity": 750,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 75000,
+  "display_type": 0
+ },
+ {
+  "id": 405,
+  "thing_id": 130021,
+  "thing_type": 1,
+  "thing_quantity": 1500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 406,
+  "thing_id": 130022,
+  "thing_type": 1,
+  "thing_quantity": 1500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 407,
+  "thing_id": 130023,
+  "thing_type": 1,
+  "thing_quantity": 1500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 408,
+  "thing_id": 130024,
+  "thing_type": 1,
+  "thing_quantity": 1500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 501,
+  "thing_id": 130031,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 502,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 503,
+  "thing_id": 130033,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 504,
+  "thing_id": 130034,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 0
+ },
+ {
+  "id": 505,
+  "thing_id": 130031,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300000,
+  "display_type": 0
+ },
+ {
+  "id": 506,
+  "thing_id": 130032,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300000,
+  "display_type": 0
+ },
+ {
+  "id": 507,
+  "thing_id": 130033,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300000,
+  "display_type": 0
+ },
+ {
+  "id": 508,
+  "thing_id": 130034,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300000,
+  "display_type": 0
+ },
+ {
+  "id": 601,
+  "thing_id": 130061,
+  "thing_type": 1,
+  "thing_quantity": 250,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 10000,
+  "display_type": 0
+ },
+ {
+  "id": 602,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 250,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50000,
+  "display_type": 0
+ },
+ {
+  "id": 603,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 250,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100000,
+  "display_type": 2
+ },
+ {
+  "id": 604,
+  "thing_id": 130062,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100000,
+  "display_type": 0
+ },
+ {
+  "id": 605,
+  "thing_id": 130063,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 200000,
+  "display_type": 2
+ },
+ {
+  "id": 701,
+  "thing_id": 510001,
+  "thing_type": 1,
+  "thing_quantity": 10,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 20000,
+  "display_type": 0
+ },
+ {
+  "id": 702,
+  "thing_id": 510002,
+  "thing_type": 1,
+  "thing_quantity": 10,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100000,
+  "display_type": 0
+ },
+ {
+  "id": 703,
+  "thing_id": 510003,
+  "thing_type": 1,
+  "thing_quantity": 10,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 200000,
+  "display_type": 2
+ },
+ {
+  "id": 704,
+  "thing_id": 510001,
+  "thing_type": 1,
+  "thing_quantity": 40,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 80000,
+  "display_type": 0
+ },
+ {
+  "id": 705,
+  "thing_id": 510002,
+  "thing_type": 1,
+  "thing_quantity": 40,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 400000,
+  "display_type": 0
+ },
+ {
+  "id": 706,
+  "thing_id": 510003,
+  "thing_type": 1,
+  "thing_quantity": 40,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 800000,
+  "display_type": 2
+ },
+ {
+  "id": 707,
+  "thing_id": 510001,
+  "thing_type": 1,
+  "thing_quantity": 4,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 8000,
+  "display_type": 0
+ },
+ {
+  "id": 708,
+  "thing_id": 510002,
+  "thing_type": 1,
+  "thing_quantity": 4,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 40000,
+  "display_type": 0
+ },
+ {
+  "id": 709,
+  "thing_id": 510003,
+  "thing_type": 1,
+  "thing_quantity": 4,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 80000,
+  "display_type": 2
+ },
+ {
+  "id": 801,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130021,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 802,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130022,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 803,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130023,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 804,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130024,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 805,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 2000,
+  "required_thing_type": 1,
+  "required_thing_id": 130021,
+  "required_thing_quantity": 2000,
+  "display_type": 1
+ },
+ {
+  "id": 806,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 2000,
+  "required_thing_type": 1,
+  "required_thing_id": 130022,
+  "required_thing_quantity": 2000,
+  "display_type": 1
+ },
+ {
+  "id": 807,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 2000,
+  "required_thing_type": 1,
+  "required_thing_id": 130023,
+  "required_thing_quantity": 2000,
+  "display_type": 1
+ },
+ {
+  "id": 808,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 2000,
+  "required_thing_type": 1,
+  "required_thing_id": 130024,
+  "required_thing_quantity": 2000,
+  "display_type": 1
+ },
+ {
+  "id": 809,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100000,
+  "display_type": 1
+ },
+ {
+  "id": 810,
+  "thing_id": 130025,
+  "thing_type": 1,
+  "thing_quantity": 2000,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 200000,
+  "display_type": 1
+ },
+ {
+  "id": 901,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 1,
+  "required_thing_id": 130031,
+  "required_thing_quantity": 500,
+  "display_type": 1
+ },
+ {
+  "id": 902,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 1,
+  "required_thing_id": 130032,
+  "required_thing_quantity": 500,
+  "display_type": 1
+ },
+ {
+  "id": 903,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 1,
+  "required_thing_id": 130033,
+  "required_thing_quantity": 500,
+  "display_type": 1
+ },
+ {
+  "id": 904,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 1,
+  "required_thing_id": 130034,
+  "required_thing_quantity": 500,
+  "display_type": 1
+ },
+ {
+  "id": 905,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130031,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 906,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130032,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 907,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130033,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 908,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 1,
+  "required_thing_id": 130034,
+  "required_thing_quantity": 1000,
+  "display_type": 1
+ },
+ {
+  "id": 909,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 150000,
+  "display_type": 1
+ },
+ {
+  "id": 910,
+  "thing_id": 130035,
+  "thing_type": 1,
+  "thing_quantity": 1000,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300000,
+  "display_type": 1
+ },
+ {
+  "id": 1001,
+  "thing_id": 130041,
+  "thing_type": 1,
+  "thing_quantity": 200,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 10000,
+  "display_type": 0
+ },
+ {
+  "id": 1002,
+  "thing_id": 130041,
+  "thing_type": 1,
+  "thing_quantity": 400,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 20000,
+  "display_type": 0
+ },
+ {
+  "id": 1101,
+  "thing_id": 130081,
+  "thing_type": 1,
+  "thing_quantity": 500,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50000,
+  "display_type": 0
+ },
+ {
+  "id": 1102,
+  "thing_id": 310010,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 10000,
+  "display_type": 0
+ },
+ {
+  "id": 1103,
+  "thing_id": 310020,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 10000,
+  "display_type": 0
+ },
+ {
+  "id": 1104,
+  "thing_id": 310030,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 10000,
+  "display_type": 0
+ },
+ {
+  "id": 1105,
+  "thing_id": 310040,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 10000,
+  "display_type": 0
+ },
+ {
+  "id": 1201,
+  "thing_id": 130082,
+  "thing_type": 1,
+  "thing_quantity": 100,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 100000,
+  "display_type": 0
+ },
+ {
+  "id": 1202,
+  "thing_id": 320010,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50000,
+  "display_type": 2
+ },
+ {
+  "id": 1203,
+  "thing_id": 320020,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50000,
+  "display_type": 2
+ },
+ {
+  "id": 1204,
+  "thing_id": 320030,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50000,
+  "display_type": 2
+ },
+ {
+  "id": 1205,
+  "thing_id": 320040,
+  "thing_type": 4,
+  "thing_quantity": 1,
+  "required_thing_type": 12,
+  "required_thing_id": 0,
+  "required_thing_quantity": 50000,
+  "display_type": 2
+ },
+ {
+  "id": 1301,
+  "thing_id": 154067,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1302,
+  "thing_id": 154020,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1303,
+  "thing_id": 154014,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1304,
+  "thing_id": 154002,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1305,
+  "thing_id": 154003,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1306,
+  "thing_id": 154004,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1307,
+  "thing_id": 154016,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1308,
+  "thing_id": 154015,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1309,
+  "thing_id": 154005,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1310,
+  "thing_id": 154006,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1311,
+  "thing_id": 154007,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1312,
+  "thing_id": 154008,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1313,
+  "thing_id": 154009,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1314,
+  "thing_id": 154039,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1315,
+  "thing_id": 154010,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1316,
+  "thing_id": 154031,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1317,
+  "thing_id": 154011,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1318,
+  "thing_id": 154012,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1319,
+  "thing_id": 154047,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1320,
+  "thing_id": 154037,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1321,
+  "thing_id": 154013,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1401,
+  "thing_id": 154067,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1402,
+  "thing_id": 154020,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1403,
+  "thing_id": 154014,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1404,
+  "thing_id": 154002,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1405,
+  "thing_id": 154003,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1406,
+  "thing_id": 154004,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1407,
+  "thing_id": 154016,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1408,
+  "thing_id": 154015,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1409,
+  "thing_id": 154005,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1410,
+  "thing_id": 154006,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1411,
+  "thing_id": 154007,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1412,
+  "thing_id": 154008,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1413,
+  "thing_id": 154009,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1414,
+  "thing_id": 154039,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1415,
+  "thing_id": 154010,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1416,
+  "thing_id": 154031,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1417,
+  "thing_id": 154011,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1418,
+  "thing_id": 154012,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1419,
+  "thing_id": 154047,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1420,
+  "thing_id": 154037,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1421,
+  "thing_id": 154013,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 300,
+  "display_type": 0
+ },
+ {
+  "id": 1501,
+  "thing_id": 151001,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1502,
+  "thing_id": 151002,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1503,
+  "thing_id": 151003,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1504,
+  "thing_id": 151004,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1505,
+  "thing_id": 151005,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1506,
+  "thing_id": 151006,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1507,
+  "thing_id": 151007,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1508,
+  "thing_id": 151008,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1509,
+  "thing_id": 151009,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1510,
+  "thing_id": 151010,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1511,
+  "thing_id": 151011,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1512,
+  "thing_id": 151012,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1513,
+  "thing_id": 151013,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1514,
+  "thing_id": 151014,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1515,
+  "thing_id": 151015,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1516,
+  "thing_id": 151016,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1517,
+  "thing_id": 151017,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1518,
+  "thing_id": 151018,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1519,
+  "thing_id": 151019,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1520,
+  "thing_id": 151020,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ },
+ {
+  "id": 1521,
+  "thing_id": 151021,
+  "thing_type": 1,
+  "thing_quantity": 1,
+  "required_thing_type": 13,
+  "required_thing_id": 0,
+  "required_thing_quantity": 480,
+  "display_type": 2
+ }
+]

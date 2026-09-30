@@ -1,0 +1,47 @@
+[
+ {
+  "id": 1,
+  "priority": 0,
+  "selection_type": 1,
+  "default_bgm_name": null,
+  "default_bgm_path": null,
+  "start_date": "2024-08-23T17:00:00+00:00",
+  "end_date": "2100-01-01T00:00:00+00:00"
+ },
+ {
+  "id": 11,
+  "priority": 1,
+  "selection_type": 2,
+  "default_bgm_name": null,
+  "default_bgm_path": null,
+  "start_date": "2024-07-12T17:00:00+00:00",
+  "end_date": "2024-07-26T00:00:00+00:00"
+ },
+ {
+  "id": 12,
+  "priority": 1,
+  "selection_type": 2,
+  "default_bgm_name": null,
+  "default_bgm_path": null,
+  "start_date": "2024-07-26T00:00:00+00:00",
+  "end_date": "2024-08-09T17:00:00+00:00"
+ },
+ {
+  "id": 13,
+  "priority": 1,
+  "selection_type": 2,
+  "default_bgm_name": null,
+  "default_bgm_path": null,
+  "start_date": "2024-08-09T17:00:00+00:00",
+  "end_date": "2024-08-23T17:00:00+00:00"
+ },
+ {
+  "id": 14,
+  "priority": 1,
+  "selection_type": 2,
+  "default_bgm_name": null,
+  "default_bgm_path": null,
+  "start_date": "2025-07-26T00:00:00+00:00",
+  "end_date": "2025-08-09T17:00:00+00:00"
+ }
+]
