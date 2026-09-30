@@ -1792,11 +1792,45 @@ def upsert_connect_with_account(user_id: int, row: dict) -> ExecutableQuery:
 
 
 def upsert_connect_with_password(user_id: int, row: dict) -> ExecutableQuery:
-    cols = ["id"]
-    vals = [user_id] + [row.get(k) for k in cols]
+    cols = ["id", "passwordHash", "linkageCode", "confirmationCode", "confirmationExpiresAt"]
+    # the expires column is NOT NULL: a caller that only sets the password leaves it at 0
+    # rather than passing NULL through.
+    vals = [user_id] + [
+        (0 if k == "confirmationExpiresAt" and row.get(k) is None else row.get(k))
+        for k in cols
+    ]
     return ExecutableQuery(
-        'INSERT INTO "connect_with_password" ("userId", "id") VALUES ($1, $2)',
+        'INSERT INTO "connect_with_password" '
+        '("userId", "id", "passwordHash", "linkageCode", "confirmationCode", '
+        '"confirmationExpiresAt") '
+        "VALUES ($1, $2, $3, $4, $5, $6) "
+        'ON CONFLICT ("userId") DO UPDATE SET '
+        '"id" = EXCLUDED."id", '
+        '"passwordHash" = EXCLUDED."passwordHash", '
+        '"linkageCode" = EXCLUDED."linkageCode", '
+        # re-registering the password must not wipe a confirmation code the player may
+        # have just read out to support
+        '"confirmationCode" = COALESCE(EXCLUDED."confirmationCode", '
+        '"connect_with_password"."confirmationCode"), '
+        '"confirmationExpiresAt" = CASE WHEN EXCLUDED."confirmationCode" IS NULL '
+        'THEN "connect_with_password"."confirmationExpiresAt" '
+        'ELSE EXCLUDED."confirmationExpiresAt" END',
         *vals,
+    )
+
+
+def set_connect_with_password_confirmation(
+    user_id: int, confirmation_code: str, expires_at: int
+) -> ExecutableQuery:
+    # only the short-lived confirmation code is refreshed; password and linkage code are
+    # left untouched so asking for a code again does not invalidate the pairing.
+    return ExecutableQuery(
+        'UPDATE "connect_with_password" '
+        'SET "confirmationCode" = $2, "confirmationExpiresAt" = $3 '
+        'WHERE "userId" = $1',
+        user_id,
+        confirmation_code,
+        expires_at,
     )
 
 

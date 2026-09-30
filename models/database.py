@@ -1248,6 +1248,10 @@ class ConnectWithAccountModel(BaseModel):
 class ConnectWithPasswordModel(BaseModel):
     userId: int
     id: int
+    passwordHash: Optional[str] = None
+    linkageCode: Optional[str] = None
+    confirmationCode: Optional[str] = None
+    confirmationExpiresAt: int = 0
 
 
 class TournamentDetailModel(BaseModel):

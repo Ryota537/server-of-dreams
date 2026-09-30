@@ -31,7 +31,7 @@ db = PostgresqlDatabase(
     port=CONFIG.port,
 )
 
-version = 2  # ONLY UPDATE ON CHANGED TABLE. NEW TABLES DON'T TOUCH VERSION
+version = 3  # ONLY UPDATE ON CHANGED TABLE. NEW TABLES DON'T TOUCH VERSION
 
 
 class BaseModel(Model):
@@ -2289,8 +2289,12 @@ class ConnectWithAccount(BaseModel):
 
 class ConnectWithPassword(BaseModel):
     rowId = AutoField()
-    userId = BigIntegerField(index=True)
+    userId = BigIntegerField(index=True, unique=True)
     id = BigIntegerField(constraints=[SQL("DEFAULT 0")])
+    passwordHash = TextField(null=True)
+    linkageCode = TextField(null=True)
+    confirmationCode = TextField(null=True)
+    confirmationExpiresAt = BigIntegerField(constraints=[SQL("DEFAULT 0")])
 
     class Meta:
         table_name = "connect_with_password"
