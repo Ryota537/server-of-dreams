@@ -46,8 +46,9 @@ python main.py
 
 2026/09/28 - EOS 🫡 (some server side math just got very very hard or impossible...)
 
+2026/09/30 - Add account takeovers, fix character level up math
+
 ## Priority Todo
-- Broken character level up calculations (perhaps in Sirius Shared? reverse engineer it)
 - Player rating history log
 - Player rank calculations (live end)
 - Senses voice ids (live start)
