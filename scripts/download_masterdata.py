@@ -3,12 +3,9 @@
     python -m scripts.download_masterdata                  # from the GitHub release
     python -m scripts.download_masterdata --file some.zip  # unpack a local archive
 
-Fetches the asset-of-dreams release zip -- a bundle of per-table ``<Table>.json``
-files that are already unpacked and keyed by field name -- and writes each entry
-into ``_data/masterdata/``. The ``/master-data`` route repacks them.
-
-The live official-server path is retained (commented out) but dead: the production
-endpoint now returns 410 GONE (end of service).
+Fetches the published release zip -- a bundle of per-table ``<Table>.json`` files that are
+already unpacked and keyed by field name -- and writes each entry into ``_data/masterdata/``.
+The ``/master-data`` route repacks them.
 """
 
 import argparse
@@ -21,25 +18,16 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-# Only needed by the dead live-server path below.
-# from helpers.mastermemory import unpack
-# from helpers.msgpack import from_array
-# from models.master_data import TABLES
-# from scripts._sirius import MaintenanceError, master_data_manifest
-# from models import MasterDataManifest
-
 OUT = Path(__file__).resolve().parent.parent / "_data" / "masterdata"
 
 
 def _fix_character_stats(out_dir: Path) -> int:
     """Correct swapped actor base stats before saving.
 
-    The published archive (and the client dump our models derive from) label the Status
-    Key(0)/Key(2) fields backwards, so ``CharacterMaster.min_level_status`` arrives with
-    vocal and concentration swapped. The game's real order is vocal=0, expression=1,
-    concentration=2 (confirmed by the client's own ``PartySlotDetail.current_status_*``
-    named fields and OpenSiriusServer). models/keys.py Status/LiveStatus are fixed to that
-    order; here we swap the stored values to match. Returns the number of rows corrected.
+    The published archive labels the master-data Status Key(0)/Key(2) fields backwards, so
+    ``CharacterMaster.min_level_status`` arrives with vocal and concentration swapped. The
+    real order is vocal=0, expression=1, concentration=2 (see ``models/keys.py`` Status);
+    here we swap the stored values to match. Returns the number of rows corrected.
     """
     path = out_dir / "CharacterMaster.json"
     if not path.is_file():
@@ -64,14 +52,6 @@ MASTERDATA_URL = (
 )
 
 
-# def _download_url(manifest: MasterDataManifest) -> str:
-#     uri, sas = manifest.uri or "", manifest.sas_token or ""
-#     if uri and sas:
-#         sep = "&" if "?" in uri else "?"
-#         return f"{uri}{sep}{sas.lstrip('?')}"
-#     return uri
-
-
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--file", default=None, help="unpack a local archive instead")
@@ -81,23 +61,6 @@ def main() -> None:
         data = Path(args.file).read_bytes()
         print(f"read {args.file} ({len(data)} bytes)")
     else:
-        # Live production master-data is dead -- the endpoint now returns 410 GONE
-        # (end of service). Kept for reference; we fetch the pre-unpacked archive
-        # from the asset-of-dreams GitHub release instead.
-        #
-        #     try:
-        #         manifest: MasterDataManifest = master_data_manifest()
-        #     except MaintenanceError:
-        #         print("Server is in maintenance")
-        #         return
-        #     url = (
-        #         "https://assets-e.wds-stellarium.com/master-data/production/"
-        #         + _download_url(manifest)
-        #     )
-        #     print(
-        #         f"master-data version {manifest.version} "
-        #         f"(publish {manifest.publish_timestamp})"
-        #     )
         print(f"downloading {MASTERDATA_URL}")
         req = urllib.request.Request(
             MASTERDATA_URL, headers={"User-Agent": "server-of-dreams"}

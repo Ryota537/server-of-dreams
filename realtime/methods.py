@@ -19,8 +19,8 @@ Two consequences worth remembering:
   same value in ``ICircleHub`` and ``ICommonHub``; ``OnJoin`` likewise in both
   receivers. Always pair an id with the hub it arrived on.
 
-The tables below mirror ``dump.cs``. ``_METHOD_NAMES`` is built by hashing them,
-so the ids are computed rather than copied -- a stale literal cannot drift.
+The tables below mirror the client's hub interfaces. ``_METHOD_NAMES`` is built by hashing
+them, so the ids are computed rather than copied -- a stale literal cannot drift.
 """
 
 from __future__ import annotations
@@ -37,7 +37,7 @@ def fnv1a32(name: str) -> int:
 
 
 # --------------------------------------------------------------------------- #
-# Method tables (from dump.cs, namespace SiriusRealtime.Shared.*)
+# Method tables (from the client's hub interfaces)
 # --------------------------------------------------------------------------- #
 MULTI_LIVE_HUB = [
     "CreatePrivateHallAsync",

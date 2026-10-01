@@ -5,9 +5,9 @@ The game's serializer writes ``[MessagePackObject]`` types as **arrays indexed b
 ``max(key) + 1``. ``MultiLiveUser`` therefore always goes out as 14 elements even
 when the last few are nil.
 
-Layouts come from ``dump.cs`` (namespace ``SiriusRealtime.Shared.*``) and are
-cross-checked against a live capture in ``realtime/tests``. Field ORDER matters:
-getting one wrong shifts every following value and the client misreads silently.
+Layouts come from the client's serialized realtime types and are cross-checked against a
+live capture in ``realtime/tests``. Field ORDER matters: getting one wrong shifts every
+following value and the client misreads silently.
 """
 
 from __future__ import annotations
@@ -16,7 +16,7 @@ from typing import Any, Optional
 
 
 # --------------------------------------------------------------------------- #
-# Enums (values from dump.cs)
+# Enums (values from the client)
 # --------------------------------------------------------------------------- #
 class MultiLiveHallType:
     None_ = 0
@@ -89,7 +89,7 @@ def multi_live_character(
 ) -> list:
     """``MultiLiveCharacter``: the player's full on-screen appearance.
 
-    Eleven elements, NOT twelve -- the capture sends exactly 11 and ``dump.cs`` stops
+    Eleven elements, NOT twelve -- the capture sends exactly 11 and the type stops
     at ``Key(10)``. This is what the client sends when joining and what the server
     fans out in ``OnJoin``, which is why a guest's appearance is only visible to
     others if the server actually carries it.

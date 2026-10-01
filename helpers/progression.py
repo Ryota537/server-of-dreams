@@ -1,8 +1,7 @@
 """Lesson/course lifecycles and player-rank / daily-usage accounting.
 
-Ported from the yumesute-preservation-server overrides. Unknown limits are not enforced;
-lesson star points and rank XP per stamina are explicit preservation policy (``constants.yml``),
-not a reverse engineering of every modifier.
+Unknown limits are not enforced; lesson star points and rank XP per stamina are explicit
+policy constants (``constants.yml``), not a reverse engineering of every modifier.
 """
 
 import time

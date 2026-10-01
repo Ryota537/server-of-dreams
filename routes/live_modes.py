@@ -1,9 +1,9 @@
 """Master-driven Anthology/audition progression + lesson & music-course lives.
 
-Ported from the yumesute-preservation-server overrides. These wrap the upstream
-``routes.lives`` Start/Finish/Retire handlers (via a per-request bound app that shares the
-active transaction) and layer progression on top, so the base live logic stays untouched.
-Installed by prepending the router, so these take precedence over the base handlers.
+These wrap the ``routes.lives`` Start/Finish/Retire handlers (via a per-request bound app
+that shares the active transaction) and layer progression on top, so the base live logic
+stays untouched. Installed by prepending the router, so these take precedence over the base
+handlers.
 """
 
 from contextlib import asynccontextmanager

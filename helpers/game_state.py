@@ -1,9 +1,8 @@
 """Per-account transactional state for multi-step gameplay writes.
 
-Ported from the yumesute-preservation-server overrides (which were written against this
-backend). A ``State`` caches the caller's rows for the duration of one advisory-locked
-transaction, tracks what it changed, and can emit the ``present`` diff the client expects.
-Costs/limits come from master data. Mutations are atomic and serialized per account.
+A ``State`` caches the caller's rows for the duration of one advisory-locked transaction,
+tracks what it changed, and can emit the ``present`` diff the client expects. Costs/limits
+come from master data. Mutations are atomic and serialized per account.
 """
 
 import struct

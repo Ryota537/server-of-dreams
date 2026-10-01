@@ -2,7 +2,7 @@
 
 Files under ``/Notations/{music}/{difficulty}.enc`` and ``.../music_config.enc`` are
 AES-256-CBC with the IV prepended as the first 16 bytes. Both decrypt to CSV, but the
-keys and post-processing differ (both keys are baked into libil2cpp):
+keys and post-processing differ (both keys are baked into the client):
 
     notation:     brotli.decompress(decrypt_aes(content, NOTATION_KEY))  -> note chart
     music_config: decrypt_aes(content, MUSIC_CONFIG_KEY)                 -> cue-sheet CSV
@@ -14,7 +14,7 @@ from typing import Optional
 import brotli
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 
-# keys baked into the client (libil2cpp) for downloadable assets
+# keys baked into the client for downloadable assets
 NOTATION_KEY = b"k8teTB%QH.v-hY+e)7wees8bxYSLQdAg"
 MUSIC_CONFIG_KEY = b"X)|9Vs+&AB5qKBrzqWq)quqEjFug8LaK"
 

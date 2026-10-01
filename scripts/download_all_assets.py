@@ -1,4 +1,4 @@
-"""Download every game asset from the asset-of-dreams GitHub release into ``_data/assets/``.
+"""Download every game asset from the published release into ``_data/assets/``.
 
     python -m scripts.download_all_assets --dry-run                        # list zips + destinations
     python -m scripts.download_all_assets                                  # download + extract everything
@@ -6,21 +6,16 @@
     python -m scripts.download_all_assets --only 2d-assets --platform android
 
 The live CDN (assets-e.wds-stellarium.com) is dead (EOS), so rather than crawling it
-bundle-by-bundle we pull the pre-packaged release zips published by
-``github.com/Ryota537/asset-of-dreams`` and unpack each into place:
+bundle-by-bundle we pull the pre-packaged release zips and unpack each into place:
 
     <kind>-<platform>[-N].zip -> _data/assets/<kind>/<platform>/   (catalog.json + *.bundle)
     notations.zip             -> _data/assets/Notations/
     scenes.zip                -> _data/assets/scenes/
     static-assets.zip         -> _data/assets/static-assets/
 
-``notations``/``scenes``/``static-assets`` are resources the old crawler never fetched.
 The masterdata zip in the same release is skipped -- that belongs to
 ``scripts.download_masterdata``. Already-extracted files are skipped, so a re-run resumes.
 This is the entire game -- expect many tens of GB.
-
-The old per-bundle crawlers survive as ``download_all_assets_deprecated`` and
-``download_asset_catalogs_deprecated`` (both dead: they hit the EOS CDN).
 """
 
 from __future__ import annotations

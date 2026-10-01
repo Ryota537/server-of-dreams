@@ -1,10 +1,10 @@
 """Episode scene scripts.
 
-The vendored ``_data/episodes/<id>.json`` files (from wds-sirius/Adv-Resource) each hold an
-episode's metadata plus its ``EpisodeDetail`` -- the full script, one entry per scene line.
-The client fetches that script as a msgpack ``.bin`` (an ``EpisodeDetailResult[]``); this packs
-it on demand and caches the result. ``bin_hashes.json`` (the repo's manifest/BinHash.json) maps
-each episode id to its ``"<id>_<hash>"`` blob name, used to build the download URL.
+The vendored ``_data/episodes/<id>.json`` files each hold an episode's metadata plus its
+``EpisodeDetail`` -- the full script, one entry per scene line. The client fetches that script
+as a msgpack ``.bin`` (an ``EpisodeDetailResult[]``); this packs it on demand and caches the
+result. ``bin_hashes.json`` maps each episode id to its ``"<id>_<hash>"`` blob name, used to
+build the download URL.
 """
 
 import json

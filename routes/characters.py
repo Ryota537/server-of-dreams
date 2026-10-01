@@ -316,8 +316,7 @@ async def characters_enhance_sense_level(
                 else cm.secondary_character_base_master_id
             )
             # the cost table starts at level 1, and so does a sense -- a secondary that was
-            # never initialised reads 0 but stands at that same first step (deliberately
-            # kept from our prior impl; the reference used the raw 0)
+            # never initialised reads 0 but stands at that same first step, so clamp to 1
             current = max(1, row[field])
             if not base or not current < levelTo <= max_sense_level(cm):
                 raise gs.Rejected()
