@@ -15,9 +15,12 @@ KEYS = {
         (12, "selection_type", "CharacterSelectionTypes", False, "enum", False),
     ),
     "LiveStatus": (
-        (0, "vocal", "int", False, "prim", False),
+        # NB: distinct from the master-data "Status" above. The live-engine status
+        # (Sirius.LiveEngine.Models.Status) has concentration at Key 0 and vocal at Key 2 --
+        # the reverse of SiriusApi.Shared.Status. Confirmed against the il2cpp dump.
+        (0, "concentration", "int", False, "prim", False),
         (1, "expression", "int", False, "prim", False),
-        (2, "concentration", "int", False, "prim", False),
+        (2, "vocal", "int", False, "prim", False),
         (3, "total_status", "int", False, "prim", False),
     ),
     "Fault": (
@@ -2949,6 +2952,9 @@ KEYS = {
         (0, "live_units", "LiveUnitWithOrder", True, "model", True),
     ),
     "Status": (
+        # master-data / API status (SiriusApi.Shared.Status): vocal at Key 0, concentration
+        # at Key 2 -- the reverse of the live-engine "LiveStatus" below. Confirmed against
+        # the client's named PartySlotDetail fields and the il2cpp dump.
         (0, "vocal", "int", False, "prim", False),
         (1, "expression", "int", False, "prim", False),
         (2, "concentration", "int", False, "prim", False),
