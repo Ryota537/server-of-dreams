@@ -8,20 +8,29 @@ from db.user import (
     delete_active_lives,
     get_active_live,
     get_lives,
+    get_sp_rates,
     get_users,
     next_live_id,
     update_live_result,
     update_player_rate,
+    update_sp_rate_point,
     upsert_live,
+    upsert_sp_rate,
 )
 from helpers.cache import cache
 from helpers.live import build_live_time_event, build_live_unit
 from helpers.live_drops import grant_frames, resolve_frames
-from helpers.live_rate import chart_live_rate, chart_live_rate_result, total_rate
+from helpers.live_rate import (
+    chart_live_rate,
+    chart_live_rate_result,
+    olivier_sp_rate_points,
+    total_rate,
+)
 from helpers.live_result import (
     achievement_rate,
     clear_lamp,
     good_or_worse_count,
+    non_perfect_star_count,
     play_totals,
     rate_grade,
 )
@@ -32,7 +41,7 @@ from helpers.stamina import adjust_and_check_stamina
 from helpers.things import present_type
 from helpers.user_data import build_present, current_user_id, data_object
 from models import *
-from models.database import LiveModel
+from models.database import LiveModel, SpRateModel
 
 router = APIRouter(tags=["Lives"])
 
@@ -242,6 +251,60 @@ async def lives_finish_and_validate(request: Request):
         if total_after != total_before:
             await conn.execute(update_player_rate(user_id, total_after))
 
+        # Olivier (difficulty 5) clears award star-badge points (SpRate) instead of a live
+        # rate: keep the chart's best points and report the before/after per-chart + total.
+        sp_rate_update_result = None
+        this_points = olivier_sp_rate_points(
+            live_master_id,
+            this_rate,
+            new_lamp,
+            non_perfect_star_count(payload.base_score_blocks),
+        )
+        if this_points is not None:
+            sp_rows = await conn.fetch(get_sp_rates(user_id))
+            existing_sp = next(
+                (r for r in sp_rows if r.liveMasterId == live_master_id), None
+            )
+            before_best = existing_sp.point if existing_sp is not None else 0
+            before_total = sum(r.point for r in sp_rows)
+            new_best = max(before_best, this_points)
+            after_total = before_total - before_best + new_best
+            if existing_sp is not None:
+                sp_id = existing_sp.id
+                if new_best != before_best:
+                    await conn.execute(
+                        update_sp_rate_point(user_id, sp_id, new_best)
+                    )
+            else:
+                sp_id = max((r.id for r in sp_rows), default=0) + 1
+                await conn.execute(
+                    upsert_sp_rate(
+                        user_id,
+                        {
+                            "id": sp_id,
+                            "liveMasterId": live_master_id,
+                            "point": new_best,
+                        },
+                    )
+                )
+            sp_rate_update_result = SpRateUpdateResult(
+                best_ever=before_best,
+                this_time=this_points,
+                best_ever_total=before_total,
+                this_time_total=after_total,
+            )
+            present.append(
+                data_object(
+                    "SpRate",
+                    SpRateModel(
+                        userId=user_id,
+                        id=sp_id,
+                        liveMasterId=live_master_id,
+                        point=new_best,
+                    ),
+                )
+            )
+
     # refresh what this finish changed for the client: drop rewards + the player rating
     refresh: set = set()
     if live_drops:
@@ -267,6 +330,7 @@ async def lives_finish_and_validate(request: Request):
             total_rate_before=total_before,
             total_rate_after=total_after,
         ),
+        sp_rate_update_result=sp_rate_update_result,
         # TODO: calculate player rank pts
         player_rank_point_result=PlayerRankPointResult(
             rank_before=user.playerRank,

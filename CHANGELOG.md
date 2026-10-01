@@ -30,7 +30,7 @@
 2026/09/28 - EOS 🫡 (some server side math just got very very hard or impossible...)
 
 # Post-EOS
-2026/09/30 - Fix swapped actor vocal/concentration base stats: master-data Status key map (vocal=0/concentration=2) + masterdata values + download script. LiveStatus (live-engine) is a distinct layout (concentration=0/vocal=2) and left as-is. Confirmed vs OpenSiriusServer, client PartySlotDetail fields, and the il2cpp dtogen.
+2026/09/30 - Fix swapped actor vocal/concentration base stats: master-data Status key map (vocal=0/concentration=2) + masterdata values + download script.
 
 2026/09/30 - Add account takeovers, fix character level up math
 
@@ -79,3 +79,5 @@
 2026/09/30 - Anthology/audition and concert progression + rewards on live finish
 
 2026/09/30 - Daily limits now reset usage counters (autoplay/lesson/course) at 05:00 JST
+
+2026/09/30 - Olivier SP Rate calculations

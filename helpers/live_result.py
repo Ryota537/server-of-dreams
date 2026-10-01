@@ -90,6 +90,16 @@ def good_or_worse_count(base_score_blocks: list[BaseScoreBlock]) -> int:
     )
 
 
+def non_perfect_star_count(base_score_blocks: list[BaseScoreBlock]) -> int:
+    """Notes judged below PERFECT* -- everything except the top judgement. Used for the
+    Olivier star-badge (SpRate) loss-count bonus."""
+    return sum(
+        1
+        for b in (base_score_blocks or [])
+        if int(b.timing_type) != int(TimingTypes.PERFECT_STAR)
+    )
+
+
 def achievement_rate(base_score_blocks: list[BaseScoreBlock]) -> float:
     blocks = base_score_blocks or []
     total = len(blocks)

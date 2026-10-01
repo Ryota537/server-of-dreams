@@ -244,6 +244,15 @@ def add_watch_record(
     )
 
 
+def update_sp_rate_point(user_id: int, sp_rate_id: int, point: int) -> ExecutableQuery:
+    return ExecutableQuery(
+        'UPDATE "sp_rate" SET "point" = $3 WHERE "userId" = $1 AND "id" = $2',
+        user_id,
+        sp_rate_id,
+        point,
+    )
+
+
 def breakthrough_poster(
     user_id: int, poster_id: int, max_phase: int
 ) -> ExecutableQuery:

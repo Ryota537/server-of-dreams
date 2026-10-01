@@ -578,6 +578,8 @@ async def build_live_unit(conn, user_id: int, party_id: int, live_master_id: int
         star_act_sense_light_count=star_act_sense_light_count,
         max_principal=principal_max,
         # base_score_difficulty_auto_coefficient: per-difficulty, server-set (tutorial 0.95).
+        # Alternative seen elsewhere -- COULD BE ACCURATE, NEEDS CHECKING:
+        #   1.05 when live_master_id % 10 == 4, else 1.0
         base_score_difficulty_auto_coefficient=0.95,
         is_first_play_olivier=is_first_olivier,
         u_active_live_id=live_id,
