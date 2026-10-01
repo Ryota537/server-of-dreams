@@ -81,3 +81,5 @@
 2026/09/30 - Daily limits now reset usage counters (autoplay/lesson/course) at 05:00 JST
 
 2026/09/30 - Olivier SP Rate calculations
+
+2026/09/30 - Add grant_music_tickets config option (new/imported accounts start with 100000 song tickets)

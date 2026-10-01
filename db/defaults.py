@@ -15,6 +15,8 @@ import time
 from pathlib import Path
 
 import db.user as db_user
+from helpers.config import config
+from helpers.shops import MUSIC_UNLOCK_ITEM_ID
 from helpers.user_hash import hash_id
 
 _SEED = json.loads(
@@ -78,3 +80,8 @@ async def create_default_user_data(conn, user_id: int, name: str) -> None:
             args_seq.append(query.args)
         if sql is not None:  # one batched round-trip per table instead of one per row
             await conn.execute_batch(sql, args_seq)
+
+    if config.get("grant_music_tickets"):
+        await conn.execute(
+            db_user.increment_item_stock(user_id, MUSIC_UNLOCK_ITEM_ID, 100_000)
+        )

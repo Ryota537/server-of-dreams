@@ -16,6 +16,10 @@ stamina_recovery_seconds: 80
 # catalogs are always locally served
 local_assets: false
 
+# when true, every new/imported account starts with 100000 song tickets (歌劇目録, item
+# 130001) so songs can be unlocked freely. songs still have their normal unlock conditions.
+grant_music_tickets: false
+
 # base URL the client is told to connect to
 # if using mitm_redirect_sirius_to_local and not a domain, keep this as official
 # url so https still applies
