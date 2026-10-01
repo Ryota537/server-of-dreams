@@ -83,3 +83,5 @@
 2026/09/30 - Olivier SP Rate calculations
 
 2026/09/30 - Add grant_music_tickets config option (new/imported accounts start with 100000 song tickets)
+
+2026/10/01 - Document confirmed daily limits from the client (auto-play 30/50 w/ Star Pass, music-course free 2); client enforces them, server reports the counters

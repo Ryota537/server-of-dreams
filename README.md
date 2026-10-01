@@ -32,7 +32,6 @@ python main.py
 
 ## Help Requested
 Please open an issue if you know how!
-- Unknown where to find max autoPlayTimes, dailyLessonTimes, or musicCourseFreeChallengeTimes (we default to all 0 for now).
 - Unknown where to find login bonuses or banners (not in master data?)
 
 A lot of game resources may be in downloaded asset bundles? Confirmation would help us a lot :)
