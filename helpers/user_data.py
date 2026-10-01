@@ -52,10 +52,16 @@ _CAMELMAP: dict = {}
 
 def _camelmap(type_name: str) -> dict:
     if type_name not in _CAMELMAP:
-        _CAMELMAP[type_name] = {
+        mapping = {
             _camel(attr): (key, base, arr, kind, nn)
             for key, attr, base, arr, kind, nn in KEYS[type_name]
         }
+        if type_name == "AuditionClear":
+            # the DB "userId" column is the account id, but AuditionClear also has its own
+            # game field user_id (string, Key 4); dropping the collision keeps the account
+            # id from being written into that slot
+            mapping.pop("userId", None)
+        _CAMELMAP[type_name] = mapping
     return _CAMELMAP[type_name]
 
 
@@ -63,6 +69,9 @@ def _conv(base, is_array, kind, v):
     if v is None:
         return None
     if is_array:
+        # a C# byte[] serializes as a MessagePack bin, not an array of integers
+        if base == "byte":
+            return bytes(v) if isinstance(v, (list, bytes, bytearray)) else v
         return [_conv(base, False, kind, x) for x in v]
     if kind == "model":
         return _to_array(base, v) if isinstance(v, dict) else v

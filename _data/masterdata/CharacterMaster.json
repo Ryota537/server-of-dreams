@@ -8,9 +8,9 @@
   "rarity": 1,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 53,
+   "concentration": 61,
    "expression": 66,
-   "vocal": 61
+   "vocal": 53
   },
   "star_act_master_id": 110011,
   "awaken_star_act_master_id": null,
@@ -54,9 +54,9 @@
   "rarity": 1,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 69,
+   "concentration": 51,
    "expression": 60,
-   "vocal": 51
+   "vocal": 69
   },
   "star_act_master_id": 110021,
   "awaken_star_act_master_id": null,
@@ -100,9 +100,9 @@
   "rarity": 1,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 64,
+   "concentration": 56,
    "expression": 60,
-   "vocal": 56
+   "vocal": 64
   },
   "star_act_master_id": 110031,
   "awaken_star_act_master_id": null,
@@ -146,9 +146,9 @@
   "rarity": 1,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 57,
+   "concentration": 62,
    "expression": 61,
-   "vocal": 62
+   "vocal": 57
   },
   "star_act_master_id": 110041,
   "awaken_star_act_master_id": null,
@@ -188,9 +188,9 @@
   "rarity": 1,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 58,
+   "concentration": 61,
    "expression": 61,
-   "vocal": 61
+   "vocal": 58
   },
   "star_act_master_id": 110051,
   "awaken_star_act_master_id": null,
@@ -230,9 +230,9 @@
   "rarity": 1,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 61,
+   "concentration": 62,
    "expression": 57,
-   "vocal": 62
+   "vocal": 61
   },
   "star_act_master_id": 110061,
   "awaken_star_act_master_id": null,
@@ -272,9 +272,9 @@
   "rarity": 1,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 56,
+   "concentration": 70,
    "expression": 54,
-   "vocal": 70
+   "vocal": 56
   },
   "star_act_master_id": 110071,
   "awaken_star_act_master_id": null,
@@ -314,9 +314,9 @@
   "rarity": 1,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 59,
+   "concentration": 45,
    "expression": 76,
-   "vocal": 45
+   "vocal": 59
   },
   "star_act_master_id": 110081,
   "awaken_star_act_master_id": null,
@@ -356,9 +356,9 @@
   "rarity": 1,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 49,
+   "concentration": 68,
    "expression": 63,
-   "vocal": 68
+   "vocal": 49
   },
   "star_act_master_id": 110091,
   "awaken_star_act_master_id": null,
@@ -402,9 +402,9 @@
   "rarity": 1,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 62,
+   "concentration": 56,
    "expression": 62,
-   "vocal": 56
+   "vocal": 62
   },
   "star_act_master_id": 110101,
   "awaken_star_act_master_id": null,
@@ -448,9 +448,9 @@
   "rarity": 1,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 61,
+   "concentration": 66,
    "expression": 53,
-   "vocal": 66
+   "vocal": 61
   },
   "star_act_master_id": 110111,
   "awaken_star_act_master_id": null,
@@ -490,9 +490,9 @@
   "rarity": 1,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 52,
+   "concentration": 62,
    "expression": 66,
-   "vocal": 62
+   "vocal": 52
   },
   "star_act_master_id": 110121,
   "awaken_star_act_master_id": null,
@@ -536,9 +536,9 @@
   "rarity": 1,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 65,
+   "concentration": 63,
    "expression": 52,
-   "vocal": 63
+   "vocal": 65
   },
   "star_act_master_id": 110131,
   "awaken_star_act_master_id": null,
@@ -586,9 +586,9 @@
   "rarity": 1,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 73,
+   "concentration": 47,
    "expression": 60,
-   "vocal": 47
+   "vocal": 73
   },
   "star_act_master_id": 110141,
   "awaken_star_act_master_id": null,
@@ -636,9 +636,9 @@
   "rarity": 1,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 51,
+   "concentration": 69,
    "expression": 60,
-   "vocal": 69
+   "vocal": 51
   },
   "star_act_master_id": 110151,
   "awaken_star_act_master_id": null,
@@ -686,9 +686,9 @@
   "rarity": 1,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 67,
+   "concentration": 59,
    "expression": 54,
-   "vocal": 59
+   "vocal": 67
   },
   "star_act_master_id": 110161,
   "awaken_star_act_master_id": null,
@@ -732,9 +732,9 @@
   "rarity": 1,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 69,
+   "concentration": 50,
    "expression": 61,
-   "vocal": 50
+   "vocal": 69
   },
   "star_act_master_id": 110171,
   "awaken_star_act_master_id": null,
@@ -778,9 +778,9 @@
   "rarity": 1,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 59,
+   "concentration": 63,
    "expression": 58,
-   "vocal": 63
+   "vocal": 59
   },
   "star_act_master_id": 110181,
   "awaken_star_act_master_id": null,
@@ -824,9 +824,9 @@
   "rarity": 1,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 51,
+   "concentration": 66,
    "expression": 63,
-   "vocal": 66
+   "vocal": 51
   },
   "star_act_master_id": 110191,
   "awaken_star_act_master_id": null,
@@ -870,9 +870,9 @@
   "rarity": 1,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 61,
+   "concentration": 49,
    "expression": 70,
-   "vocal": 49
+   "vocal": 61
   },
   "star_act_master_id": 110201,
   "awaken_star_act_master_id": null,
@@ -916,9 +916,9 @@
   "rarity": 1,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 68,
+   "concentration": 69,
    "expression": 43,
-   "vocal": 69
+   "vocal": 68
   },
   "star_act_master_id": 110211,
   "awaken_star_act_master_id": null,
@@ -958,9 +958,9 @@
   "rarity": 2,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 67,
+   "concentration": 80,
    "expression": 78,
-   "vocal": 80
+   "vocal": 67
   },
   "star_act_master_id": 120011,
   "awaken_star_act_master_id": null,
@@ -1008,9 +1008,9 @@
   "rarity": 2,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 85,
+   "concentration": 62,
    "expression": 78,
-   "vocal": 62
+   "vocal": 85
   },
   "star_act_master_id": 120021,
   "awaken_star_act_master_id": null,
@@ -1054,9 +1054,9 @@
   "rarity": 2,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 66,
    "expression": 73,
-   "vocal": 66
+   "vocal": 86
   },
   "star_act_master_id": 120031,
   "awaken_star_act_master_id": null,
@@ -1104,9 +1104,9 @@
   "rarity": 2,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 69,
+   "concentration": 84,
    "expression": 72,
-   "vocal": 84
+   "vocal": 69
   },
   "star_act_master_id": 120041,
   "awaken_star_act_master_id": null,
@@ -1154,9 +1154,9 @@
   "rarity": 2,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 80,
+   "concentration": 71,
    "expression": 74,
-   "vocal": 71
+   "vocal": 80
   },
   "star_act_master_id": 120051,
   "awaken_star_act_master_id": null,
@@ -1204,9 +1204,9 @@
   "rarity": 2,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 72,
+   "concentration": 75,
    "expression": 78,
-   "vocal": 75
+   "vocal": 72
   },
   "star_act_master_id": 120061,
   "awaken_star_act_master_id": null,
@@ -1254,9 +1254,9 @@
   "rarity": 2,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 72,
+   "concentration": 81,
    "expression": 72,
-   "vocal": 81
+   "vocal": 72
   },
   "star_act_master_id": 120071,
   "awaken_star_act_master_id": null,
@@ -1300,9 +1300,9 @@
   "rarity": 2,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 71,
+   "concentration": 67,
    "expression": 87,
-   "vocal": 67
+   "vocal": 71
   },
   "star_act_master_id": 120081,
   "awaken_star_act_master_id": null,
@@ -1350,9 +1350,9 @@
   "rarity": 2,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 71,
+   "concentration": 78,
    "expression": 76,
-   "vocal": 78
+   "vocal": 71
   },
   "star_act_master_id": 120091,
   "awaken_star_act_master_id": null,
@@ -1400,9 +1400,9 @@
   "rarity": 2,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 66,
    "expression": 75,
-   "vocal": 66
+   "vocal": 84
   },
   "star_act_master_id": 120101,
   "awaken_star_act_master_id": null,
@@ -1450,9 +1450,9 @@
   "rarity": 2,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 71,
+   "concentration": 83,
    "expression": 71,
-   "vocal": 83
+   "vocal": 71
   },
   "star_act_master_id": 120111,
   "awaken_star_act_master_id": null,
@@ -1500,9 +1500,9 @@
   "rarity": 2,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 68,
+   "concentration": 73,
    "expression": 84,
-   "vocal": 73
+   "vocal": 68
   },
   "star_act_master_id": 120121,
   "awaken_star_act_master_id": null,
@@ -1550,9 +1550,9 @@
   "rarity": 2,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 81,
+   "concentration": 74,
    "expression": 70,
-   "vocal": 74
+   "vocal": 81
   },
   "star_act_master_id": 120131,
   "awaken_star_act_master_id": null,
@@ -1600,9 +1600,9 @@
   "rarity": 2,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 64,
    "expression": 78,
-   "vocal": 64
+   "vocal": 83
   },
   "star_act_master_id": 120141,
   "awaken_star_act_master_id": null,
@@ -1650,9 +1650,9 @@
   "rarity": 2,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 63,
+   "concentration": 91,
    "expression": 71,
-   "vocal": 91
+   "vocal": 63
   },
   "star_act_master_id": 120151,
   "awaken_star_act_master_id": null,
@@ -1700,9 +1700,9 @@
   "rarity": 2,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 89,
+   "concentration": 69,
    "expression": 67,
-   "vocal": 69
+   "vocal": 89
   },
   "star_act_master_id": 120161,
   "awaken_star_act_master_id": null,
@@ -1750,9 +1750,9 @@
   "rarity": 2,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 79,
+   "concentration": 67,
    "expression": 79,
-   "vocal": 67
+   "vocal": 79
   },
   "star_act_master_id": 120171,
   "awaken_star_act_master_id": null,
@@ -1800,9 +1800,9 @@
   "rarity": 2,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 71,
+   "concentration": 85,
    "expression": 69,
-   "vocal": 85
+   "vocal": 71
   },
   "star_act_master_id": 120181,
   "awaken_star_act_master_id": null,
@@ -1850,9 +1850,9 @@
   "rarity": 2,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 73,
+   "concentration": 76,
    "expression": 76,
-   "vocal": 76
+   "vocal": 73
   },
   "star_act_master_id": 120191,
   "awaken_star_act_master_id": null,
@@ -1900,9 +1900,9 @@
   "rarity": 2,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 77,
+   "concentration": 60,
    "expression": 88,
-   "vocal": 60
+   "vocal": 77
   },
   "star_act_master_id": 120201,
   "awaken_star_act_master_id": null,
@@ -1950,9 +1950,9 @@
   "rarity": 2,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 78,
+   "concentration": 86,
    "expression": 61,
-   "vocal": 86
+   "vocal": 78
   },
   "star_act_master_id": 120211,
   "awaken_star_act_master_id": null,
@@ -2000,9 +2000,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 80,
+   "concentration": 98,
    "expression": 92,
-   "vocal": 98
+   "vocal": 80
   },
   "star_act_master_id": 130011,
   "awaken_star_act_master_id": 130011,
@@ -2058,9 +2058,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 97,
+   "concentration": 84,
    "expression": 89,
-   "vocal": 84
+   "vocal": 97
   },
   "star_act_master_id": 130021,
   "awaken_star_act_master_id": 130021,
@@ -2104,9 +2104,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 83,
    "expression": 91,
-   "vocal": 83
+   "vocal": 96
   },
   "star_act_master_id": 130031,
   "awaken_star_act_master_id": 130031,
@@ -2158,9 +2158,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 99,
    "expression": 87,
-   "vocal": 99
+   "vocal": 84
   },
   "star_act_master_id": 130041,
   "awaken_star_act_master_id": 130041,
@@ -2208,9 +2208,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 88,
    "expression": 92,
-   "vocal": 88
+   "vocal": 90
   },
   "star_act_master_id": 130051,
   "awaken_star_act_master_id": 130051,
@@ -2258,9 +2258,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 90,
    "expression": 93,
-   "vocal": 90
+   "vocal": 87
   },
   "star_act_master_id": 130061,
   "awaken_star_act_master_id": 130061,
@@ -2312,9 +2312,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 103,
    "expression": 83,
-   "vocal": 103
+   "vocal": 84
   },
   "star_act_master_id": 130071,
   "awaken_star_act_master_id": 130071,
@@ -2366,9 +2366,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 77,
    "expression": 100,
-   "vocal": 77
+   "vocal": 93
   },
   "star_act_master_id": 130081,
   "awaken_star_act_master_id": 130081,
@@ -2420,9 +2420,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 82,
+   "concentration": 91,
    "expression": 97,
-   "vocal": 91
+   "vocal": 82
   },
   "star_act_master_id": 130091,
   "awaken_star_act_master_id": 130091,
@@ -2474,9 +2474,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 83,
    "expression": 93,
-   "vocal": 83
+   "vocal": 94
   },
   "star_act_master_id": 130101,
   "awaken_star_act_master_id": 130101,
@@ -2524,9 +2524,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 96,
    "expression": 83,
-   "vocal": 96
+   "vocal": 91
   },
   "star_act_master_id": 130111,
   "awaken_star_act_master_id": 130111,
@@ -2578,9 +2578,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 80,
+   "concentration": 95,
    "expression": 95,
-   "vocal": 95
+   "vocal": 80
   },
   "star_act_master_id": 130121,
   "awaken_star_act_master_id": 130121,
@@ -2632,9 +2632,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 95,
+   "concentration": 93,
    "expression": 82,
-   "vocal": 93
+   "vocal": 95
   },
   "star_act_master_id": 130131,
   "awaken_star_act_master_id": 130131,
@@ -2686,9 +2686,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 75,
    "expression": 96,
-   "vocal": 75
+   "vocal": 99
   },
   "star_act_master_id": 130141,
   "awaken_star_act_master_id": 130141,
@@ -2740,9 +2740,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 85,
+   "concentration": 101,
    "expression": 84,
-   "vocal": 101
+   "vocal": 85
   },
   "star_act_master_id": 130151,
   "awaken_star_act_master_id": 130151,
@@ -2790,9 +2790,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 86,
    "expression": 85,
-   "vocal": 86
+   "vocal": 99
   },
   "star_act_master_id": 130161,
   "awaken_star_act_master_id": 130161,
@@ -2844,9 +2844,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 95,
+   "concentration": 78,
    "expression": 97,
-   "vocal": 78
+   "vocal": 95
   },
   "star_act_master_id": 130171,
   "awaken_star_act_master_id": 130171,
@@ -2898,9 +2898,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 95,
    "expression": 82,
-   "vocal": 95
+   "vocal": 93
   },
   "star_act_master_id": 130181,
   "awaken_star_act_master_id": 130181,
@@ -2952,9 +2952,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 93,
    "expression": 94,
-   "vocal": 93
+   "vocal": 83
   },
   "star_act_master_id": 130191,
   "awaken_star_act_master_id": 130191,
@@ -3006,9 +3006,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 89,
+   "concentration": 82,
    "expression": 99,
-   "vocal": 82
+   "vocal": 89
   },
   "star_act_master_id": 130201,
   "awaken_star_act_master_id": 130201,
@@ -3052,9 +3052,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 97,
    "expression": 79,
-   "vocal": 97
+   "vocal": 94
   },
   "star_act_master_id": 130211,
   "awaken_star_act_master_id": 130211,
@@ -3110,9 +3110,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 81,
    "expression": 90,
-   "vocal": 81
+   "vocal": 99
   },
   "star_act_master_id": 130221,
   "awaken_star_act_master_id": 130221,
@@ -3164,9 +3164,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 82,
    "expression": 94,
-   "vocal": 82
+   "vocal": 94
   },
   "star_act_master_id": 130231,
   "awaken_star_act_master_id": 130231,
@@ -3222,9 +3222,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 94,
    "expression": 90,
-   "vocal": 94
+   "vocal": 86
   },
   "star_act_master_id": 130241,
   "awaken_star_act_master_id": 130241,
@@ -3276,9 +3276,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 89,
    "expression": 85,
-   "vocal": 89
+   "vocal": 96
   },
   "star_act_master_id": 130251,
   "awaken_star_act_master_id": 130251,
@@ -3330,9 +3330,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 77,
    "expression": 97,
-   "vocal": 77
+   "vocal": 96
   },
   "star_act_master_id": 130261,
   "awaken_star_act_master_id": 130261,
@@ -3384,9 +3384,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 91,
    "expression": 96,
-   "vocal": 91
+   "vocal": 83
   },
   "star_act_master_id": 130271,
   "awaken_star_act_master_id": 130271,
@@ -3442,9 +3442,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 92,
+   "concentration": 68,
    "expression": 112,
-   "vocal": 68
+   "vocal": 92
   },
   "star_act_master_id": 130281,
   "awaken_star_act_master_id": 130281,
@@ -3492,9 +3492,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 93,
    "expression": 94,
-   "vocal": 93
+   "vocal": 83
   },
   "star_act_master_id": 130291,
   "awaken_star_act_master_id": 130291,
@@ -3542,9 +3542,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 95,
+   "concentration": 86,
    "expression": 89,
-   "vocal": 86
+   "vocal": 95
   },
   "star_act_master_id": 130301,
   "awaken_star_act_master_id": 130301,
@@ -3596,9 +3596,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 97,
    "expression": 79,
-   "vocal": 97
+   "vocal": 94
   },
   "star_act_master_id": 130311,
   "awaken_star_act_master_id": 130311,
@@ -3658,9 +3658,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 86,
    "expression": 85,
-   "vocal": 86
+   "vocal": 99
   },
   "star_act_master_id": 130321,
   "awaken_star_act_master_id": 130321,
@@ -3712,9 +3712,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 99,
    "expression": 87,
-   "vocal": 99
+   "vocal": 84
   },
   "star_act_master_id": 130331,
   "awaken_star_act_master_id": 130331,
@@ -3770,9 +3770,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 96,
    "expression": 87,
-   "vocal": 96
+   "vocal": 87
   },
   "star_act_master_id": 130341,
   "awaken_star_act_master_id": 130341,
@@ -3824,9 +3824,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 86,
    "expression": 90,
-   "vocal": 86
+   "vocal": 94
   },
   "star_act_master_id": 130351,
   "awaken_star_act_master_id": 130351,
@@ -3882,9 +3882,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 95,
    "expression": 82,
-   "vocal": 95
+   "vocal": 93
   },
   "star_act_master_id": 130361,
   "awaken_star_act_master_id": 130361,
@@ -3932,9 +3932,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 80,
+   "concentration": 76,
    "expression": 114,
-   "vocal": 76
+   "vocal": 80
   },
   "star_act_master_id": 130371,
   "awaken_star_act_master_id": 130371,
@@ -3990,9 +3990,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 104,
+   "concentration": 79,
    "expression": 87,
-   "vocal": 79
+   "vocal": 104
   },
   "star_act_master_id": 130381,
   "awaken_star_act_master_id": 130381,
@@ -4040,9 +4040,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 88,
+   "concentration": 79,
    "expression": 103,
-   "vocal": 79
+   "vocal": 88
   },
   "star_act_master_id": 130391,
   "awaken_star_act_master_id": 130391,
@@ -4094,9 +4094,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 92,
    "expression": 91,
-   "vocal": 92
+   "vocal": 87
   },
   "star_act_master_id": 130401,
   "awaken_star_act_master_id": 130401,
@@ -4152,9 +4152,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 98,
    "expression": 86,
-   "vocal": 98
+   "vocal": 86
   },
   "star_act_master_id": 130421,
   "awaken_star_act_master_id": 130421,
@@ -4206,9 +4206,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 69,
+   "concentration": 120,
    "expression": 84,
-   "vocal": 120
+   "vocal": 69
   },
   "star_act_master_id": 130431,
   "awaken_star_act_master_id": 130431,
@@ -4260,9 +4260,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 70,
    "expression": 110,
-   "vocal": 70
+   "vocal": 90
   },
   "star_act_master_id": 130451,
   "awaken_star_act_master_id": 130451,
@@ -4314,9 +4314,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 93,
    "expression": 91,
-   "vocal": 93
+   "vocal": 86
   },
   "star_act_master_id": 130461,
   "awaken_star_act_master_id": 130461,
@@ -4368,9 +4368,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 75,
    "expression": 96,
-   "vocal": 75
+   "vocal": 99
   },
   "star_act_master_id": 130471,
   "awaken_star_act_master_id": 130471,
@@ -4422,9 +4422,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 81,
+   "concentration": 97,
    "expression": 88,
-   "vocal": 97
+   "vocal": 81
   },
   "star_act_master_id": 130481,
   "awaken_star_act_master_id": 130481,
@@ -4480,9 +4480,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 81,
+   "concentration": 99,
    "expression": 90,
-   "vocal": 99
+   "vocal": 81
   },
   "star_act_master_id": 130491,
   "awaken_star_act_master_id": 130491,
@@ -4538,9 +4538,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 103,
    "expression": 83,
-   "vocal": 103
+   "vocal": 84
   },
   "star_act_master_id": 130501,
   "awaken_star_act_master_id": 130501,
@@ -4596,9 +4596,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 80,
+   "concentration": 92,
    "expression": 93,
-   "vocal": 92
+   "vocal": 80
   },
   "star_act_master_id": 130511,
   "awaken_star_act_master_id": 130511,
@@ -4654,9 +4654,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 103,
+   "concentration": 94,
    "expression": 72,
-   "vocal": 94
+   "vocal": 103
   },
   "star_act_master_id": 130521,
   "awaken_star_act_master_id": 130521,
@@ -4708,9 +4708,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 88,
    "expression": 99,
-   "vocal": 88
+   "vocal": 83
   },
   "star_act_master_id": 130531,
   "awaken_star_act_master_id": 130531,
@@ -4766,9 +4766,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 81,
+   "concentration": 96,
    "expression": 93,
-   "vocal": 96
+   "vocal": 81
   },
   "star_act_master_id": 130541,
   "awaken_star_act_master_id": 130541,
@@ -4824,9 +4824,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 89,
+   "concentration": 82,
    "expression": 99,
-   "vocal": 82
+   "vocal": 89
   },
   "star_act_master_id": 130551,
   "awaken_star_act_master_id": 130551,
@@ -4878,9 +4878,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 104,
    "expression": 75,
-   "vocal": 104
+   "vocal": 91
   },
   "star_act_master_id": 130561,
   "awaken_star_act_master_id": 130561,
@@ -4932,9 +4932,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 86,
    "expression": 85,
-   "vocal": 86
+   "vocal": 99
   },
   "star_act_master_id": 130571,
   "awaken_star_act_master_id": 130571,
@@ -4990,9 +4990,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 77,
    "expression": 100,
-   "vocal": 77
+   "vocal": 93
   },
   "star_act_master_id": 130581,
   "awaken_star_act_master_id": 130581,
@@ -5044,9 +5044,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 95,
+   "concentration": 93,
    "expression": 82,
-   "vocal": 93
+   "vocal": 95
   },
   "star_act_master_id": 130591,
   "awaken_star_act_master_id": 130591,
@@ -5098,9 +5098,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 82,
+   "concentration": 91,
    "expression": 97,
-   "vocal": 91
+   "vocal": 82
   },
   "star_act_master_id": 130601,
   "awaken_star_act_master_id": 130601,
@@ -5156,9 +5156,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 113,
+   "concentration": 83,
    "expression": 74,
-   "vocal": 83
+   "vocal": 113
   },
   "star_act_master_id": 130611,
   "awaken_star_act_master_id": 130611,
@@ -5206,9 +5206,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 80,
+   "concentration": 98,
    "expression": 92,
-   "vocal": 98
+   "vocal": 80
   },
   "star_act_master_id": 130621,
   "awaken_star_act_master_id": 130621,
@@ -5260,9 +5260,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 82,
    "expression": 92,
-   "vocal": 82
+   "vocal": 96
   },
   "star_act_master_id": 130631,
   "awaken_star_act_master_id": 130631,
@@ -5314,9 +5314,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 119,
+   "concentration": 80,
    "expression": 73,
-   "vocal": 80
+   "vocal": 119
   },
   "star_act_master_id": 130641,
   "awaken_star_act_master_id": 130641,
@@ -5368,9 +5368,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 71,
    "expression": 102,
-   "vocal": 71
+   "vocal": 96
   },
   "star_act_master_id": 130651,
   "awaken_star_act_master_id": 130651,
@@ -5422,9 +5422,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 96,
    "expression": 88,
-   "vocal": 96
+   "vocal": 86
   },
   "star_act_master_id": 130661,
   "awaken_star_act_master_id": 130661,
@@ -5476,9 +5476,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 104,
+   "concentration": 84,
    "expression": 82,
-   "vocal": 84
+   "vocal": 104
   },
   "star_act_master_id": 130671,
   "awaken_star_act_master_id": 130671,
@@ -5530,9 +5530,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 96,
    "expression": 83,
-   "vocal": 96
+   "vocal": 91
   },
   "star_act_master_id": 130681,
   "awaken_star_act_master_id": 130681,
@@ -5584,9 +5584,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 88,
    "expression": 92,
-   "vocal": 88
+   "vocal": 90
   },
   "star_act_master_id": 130691,
   "awaken_star_act_master_id": 130691,
@@ -5638,9 +5638,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 84,
    "expression": 95,
-   "vocal": 84
+   "vocal": 91
   },
   "star_act_master_id": 130701,
   "awaken_star_act_master_id": 130701,
@@ -5692,9 +5692,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 100,
    "expression": 84,
-   "vocal": 100
+   "vocal": 86
   },
   "star_act_master_id": 130711,
   "awaken_star_act_master_id": 130711,
@@ -5746,9 +5746,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 82,
+   "concentration": 92,
    "expression": 96,
-   "vocal": 92
+   "vocal": 82
   },
   "star_act_master_id": 130721,
   "awaken_star_act_master_id": 130721,
@@ -5800,9 +5800,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 92,
+   "concentration": 86,
    "expression": 92,
-   "vocal": 86
+   "vocal": 92
   },
   "star_act_master_id": 130731,
   "awaken_star_act_master_id": 130731,
@@ -5854,9 +5854,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 94,
    "expression": 90,
-   "vocal": 94
+   "vocal": 86
   },
   "star_act_master_id": 130741,
   "awaken_star_act_master_id": 130741,
@@ -5908,9 +5908,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 82,
+   "concentration": 91,
    "expression": 97,
-   "vocal": 91
+   "vocal": 82
   },
   "star_act_master_id": 130751,
   "awaken_star_act_master_id": 130751,
@@ -5962,9 +5962,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 125,
+   "concentration": 79,
    "expression": 70,
-   "vocal": 79
+   "vocal": 125
   },
   "star_act_master_id": 130761,
   "awaken_star_act_master_id": 130761,
@@ -6016,9 +6016,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 82,
    "expression": 92,
-   "vocal": 82
+   "vocal": 96
   },
   "star_act_master_id": 130771,
   "awaken_star_act_master_id": 130771,
@@ -6070,9 +6070,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 94,
    "expression": 68,
-   "vocal": 94
+   "vocal": 109
   },
   "star_act_master_id": 130781,
   "awaken_star_act_master_id": 130781,
@@ -6124,9 +6124,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 82,
    "expression": 92,
-   "vocal": 82
+   "vocal": 96
   },
   "star_act_master_id": 130791,
   "awaken_star_act_master_id": 130791,
@@ -6178,9 +6178,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 77,
    "expression": 104,
-   "vocal": 77
+   "vocal": 87
   },
   "star_act_master_id": 130801,
   "awaken_star_act_master_id": 130801,
@@ -6232,9 +6232,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 80,
+   "concentration": 103,
    "expression": 87,
-   "vocal": 103
+   "vocal": 80
   },
   "star_act_master_id": 130811,
   "awaken_star_act_master_id": 130811,
@@ -6286,9 +6286,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 104,
    "expression": 60,
-   "vocal": 104
+   "vocal": 109
   },
   "star_act_master_id": 130821,
   "awaken_star_act_master_id": 130821,
@@ -6340,9 +6340,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 100,
+   "concentration": 62,
    "expression": 112,
-   "vocal": 62
+   "vocal": 100
   },
   "star_act_master_id": 130831,
   "awaken_star_act_master_id": 130831,
@@ -6394,9 +6394,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 79,
    "expression": 100,
-   "vocal": 79
+   "vocal": 91
   },
   "star_act_master_id": 130841,
   "awaken_star_act_master_id": 130841,
@@ -6448,9 +6448,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 86,
    "expression": 90,
-   "vocal": 86
+   "vocal": 94
   },
   "star_act_master_id": 130851,
   "awaken_star_act_master_id": 130851,
@@ -6502,9 +6502,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 125,
+   "concentration": 84,
    "expression": 66,
-   "vocal": 84
+   "vocal": 125
   },
   "star_act_master_id": 130861,
   "awaken_star_act_master_id": 130861,
@@ -6556,9 +6556,9 @@
   "rarity": 3,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 91,
    "expression": 96,
-   "vocal": 91
+   "vocal": 83
   },
   "star_act_master_id": 130871,
   "awaken_star_act_master_id": 130871,
@@ -6610,9 +6610,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 101,
    "expression": 85,
-   "vocal": 101
+   "vocal": 84
   },
   "star_act_master_id": 130881,
   "awaken_star_act_master_id": 130881,
@@ -6664,9 +6664,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 90,
    "expression": 93,
-   "vocal": 90
+   "vocal": 87
   },
   "star_act_master_id": 130891,
   "awaken_star_act_master_id": 130891,
@@ -6718,9 +6718,9 @@
   "rarity": 3,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 88,
+   "concentration": 79,
    "expression": 103,
-   "vocal": 79
+   "vocal": 88
   },
   "star_act_master_id": 130901,
   "awaken_star_act_master_id": 130901,
@@ -6772,9 +6772,9 @@
   "rarity": 3,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 78,
+   "concentration": 106,
    "expression": 86,
-   "vocal": 106
+   "vocal": 78
   },
   "star_act_master_id": 130911,
   "awaken_star_act_master_id": 130911,
@@ -6826,9 +6826,9 @@
   "rarity": 3,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 88,
+   "concentration": 91,
    "expression": 91,
-   "vocal": 91
+   "vocal": 88
   },
   "star_act_master_id": 130921,
   "awaken_star_act_master_id": 130921,
@@ -6880,9 +6880,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 107,
+   "concentration": 120,
    "expression": 118,
-   "vocal": 120
+   "vocal": 107
   },
   "star_act_master_id": 140011,
   "awaken_star_act_master_id": 140011,
@@ -6946,9 +6946,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 119,
    "expression": 110,
-   "vocal": 119
+   "vocal": 116
   },
   "star_act_master_id": 140021,
   "awaken_star_act_master_id": 140021,
@@ -7004,9 +7004,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 113,
+   "concentration": 116,
    "expression": 116,
-   "vocal": 116
+   "vocal": 113
   },
   "star_act_master_id": 140031,
   "awaken_star_act_master_id": 140031,
@@ -7062,9 +7062,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 122,
    "expression": 114,
-   "vocal": 122
+   "vocal": 109
   },
   "star_act_master_id": 140041,
   "awaken_star_act_master_id": 140041,
@@ -7120,9 +7120,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 111,
+   "concentration": 118,
    "expression": 116,
-   "vocal": 118
+   "vocal": 111
   },
   "star_act_master_id": 140051,
   "awaken_star_act_master_id": 140051,
@@ -7178,9 +7178,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 119,
+   "concentration": 108,
    "expression": 118,
-   "vocal": 108
+   "vocal": 119
   },
   "star_act_master_id": 140061,
   "awaken_star_act_master_id": 140061,
@@ -7236,9 +7236,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 119,
    "expression": 114,
-   "vocal": 119
+   "vocal": 112
   },
   "star_act_master_id": 140071,
   "awaken_star_act_master_id": 140071,
@@ -7294,9 +7294,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 107,
+   "concentration": 117,
    "expression": 121,
-   "vocal": 117
+   "vocal": 107
   },
   "star_act_master_id": 140081,
   "awaken_star_act_master_id": 140081,
@@ -7348,9 +7348,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 121,
    "expression": 106,
-   "vocal": 121
+   "vocal": 118
   },
   "star_act_master_id": 140091,
   "awaken_star_act_master_id": 140091,
@@ -7410,9 +7410,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 110,
+   "concentration": 126,
    "expression": 109,
-   "vocal": 126
+   "vocal": 110
   },
   "star_act_master_id": 140101,
   "awaken_star_act_master_id": 140101,
@@ -7468,9 +7468,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 117,
+   "concentration": 110,
    "expression": 118,
-   "vocal": 110
+   "vocal": 117
   },
   "star_act_master_id": 140111,
   "awaken_star_act_master_id": 140111,
@@ -7522,9 +7522,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 114,
+   "concentration": 118,
    "expression": 113,
-   "vocal": 118
+   "vocal": 114
   },
   "star_act_master_id": 140121,
   "awaken_star_act_master_id": 140121,
@@ -7580,9 +7580,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 126,
    "expression": 101,
-   "vocal": 126
+   "vocal": 118
   },
   "star_act_master_id": 140131,
   "awaken_star_act_master_id": 140131,
@@ -7642,9 +7642,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 119,
+   "concentration": 111,
    "expression": 115,
-   "vocal": 111
+   "vocal": 119
   },
   "star_act_master_id": 140141,
   "awaken_star_act_master_id": 140141,
@@ -7704,9 +7704,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 102,
    "expression": 125,
-   "vocal": 102
+   "vocal": 118
   },
   "star_act_master_id": 140151,
   "awaken_star_act_master_id": 140151,
@@ -7762,9 +7762,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 123,
    "expression": 106,
-   "vocal": 123
+   "vocal": 116
   },
   "star_act_master_id": 140161,
   "awaken_star_act_master_id": 140161,
@@ -7820,9 +7820,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 104,
    "expression": 125,
-   "vocal": 104
+   "vocal": 116
   },
   "star_act_master_id": 140171,
   "awaken_star_act_master_id": 140171,
@@ -7882,9 +7882,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 108,
+   "concentration": 118,
    "expression": 119,
-   "vocal": 118
+   "vocal": 108
   },
   "star_act_master_id": 140181,
   "awaken_star_act_master_id": 140181,
@@ -7940,9 +7940,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 133,
+   "concentration": 121,
    "expression": 90,
-   "vocal": 121
+   "vocal": 133
   },
   "star_act_master_id": 140191,
   "awaken_star_act_master_id": 140191,
@@ -7998,9 +7998,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 124,
+   "concentration": 106,
    "expression": 115,
-   "vocal": 106
+   "vocal": 124
   },
   "star_act_master_id": 140201,
   "awaken_star_act_master_id": 140201,
@@ -8060,9 +8060,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 124,
+   "concentration": 100,
    "expression": 121,
-   "vocal": 100
+   "vocal": 124
   },
   "star_act_master_id": 140211,
   "awaken_star_act_master_id": 140211,
@@ -8122,9 +8122,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 106,
+   "concentration": 99,
    "expression": 138,
-   "vocal": 99
+   "vocal": 106
   },
   "star_act_master_id": 140221,
   "awaken_star_act_master_id": 140221,
@@ -8184,9 +8184,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 144,
    "expression": 107,
-   "vocal": 144
+   "vocal": 94
   },
   "star_act_master_id": 140241,
   "awaken_star_act_master_id": 140241,
@@ -8242,9 +8242,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 149,
+   "concentration": 105,
    "expression": 93,
-   "vocal": 105
+   "vocal": 149
   },
   "star_act_master_id": 140251,
   "awaken_star_act_master_id": 140251,
@@ -8304,9 +8304,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 107,
+   "concentration": 93,
    "expression": 146,
-   "vocal": 93
+   "vocal": 107
   },
   "star_act_master_id": 140261,
   "awaken_star_act_master_id": 140261,
@@ -8366,9 +8366,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 98,
+   "concentration": 125,
    "expression": 119,
-   "vocal": 125
+   "vocal": 98
   },
   "star_act_master_id": 140271,
   "awaken_star_act_master_id": 140271,
@@ -8428,9 +8428,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 105,
+   "concentration": 96,
    "expression": 144,
-   "vocal": 96
+   "vocal": 105
   },
   "star_act_master_id": 140281,
   "awaken_star_act_master_id": 140281,
@@ -8486,9 +8486,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 154,
    "expression": 108,
-   "vocal": 154
+   "vocal": 87
   },
   "star_act_master_id": 140291,
   "awaken_star_act_master_id": 140291,
@@ -8548,9 +8548,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 92,
+   "concentration": 136,
    "expression": 117,
-   "vocal": 136
+   "vocal": 92
   },
   "star_act_master_id": 140301,
   "awaken_star_act_master_id": 140301,
@@ -8610,9 +8610,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 124,
+   "concentration": 111,
    "expression": 110,
-   "vocal": 111
+   "vocal": 124
   },
   "star_act_master_id": 140311,
   "awaken_star_act_master_id": 140311,
@@ -8672,9 +8672,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 192,
+   "concentration": 71,
    "expression": 92,
-   "vocal": 71
+   "vocal": 192
   },
   "star_act_master_id": 140321,
   "awaken_star_act_master_id": 140321,
@@ -8738,9 +8738,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 78,
+   "concentration": 92,
    "expression": 177,
-   "vocal": 92
+   "vocal": 78
   },
   "star_act_master_id": 140331,
   "awaken_star_act_master_id": 140331,
@@ -8800,9 +8800,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 142,
    "expression": 115,
-   "vocal": 142
+   "vocal": 90
   },
   "star_act_master_id": 140341,
   "awaken_star_act_master_id": 140341,
@@ -8862,9 +8862,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 94,
    "expression": 134,
-   "vocal": 94
+   "vocal": 116
   },
   "star_act_master_id": 140351,
   "awaken_star_act_master_id": 140351,
@@ -8924,9 +8924,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 124,
    "expression": 122,
-   "vocal": 124
+   "vocal": 96
   },
   "star_act_master_id": 140361,
   "awaken_star_act_master_id": 140361,
@@ -8986,9 +8986,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 120,
    "expression": 128,
-   "vocal": 120
+   "vocal": 94
   },
   "star_act_master_id": 140371,
   "awaken_star_act_master_id": 140371,
@@ -9048,9 +9048,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 142,
    "expression": 107,
-   "vocal": 142
+   "vocal": 96
   },
   "star_act_master_id": 140381,
   "awaken_star_act_master_id": 140381,
@@ -9106,9 +9106,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 148,
+   "concentration": 104,
    "expression": 94,
-   "vocal": 104
+   "vocal": 148
   },
   "star_act_master_id": 140391,
   "awaken_star_act_master_id": 140391,
@@ -9164,9 +9164,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 155,
    "expression": 100,
-   "vocal": 155
+   "vocal": 93
   },
   "star_act_master_id": 140401,
   "awaken_star_act_master_id": 140401,
@@ -9226,9 +9226,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 101,
    "expression": 132,
-   "vocal": 101
+   "vocal": 109
   },
   "star_act_master_id": 140411,
   "awaken_star_act_master_id": 140411,
@@ -9288,9 +9288,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 120,
+   "concentration": 104,
    "expression": 121,
-   "vocal": 104
+   "vocal": 120
   },
   "star_act_master_id": 140421,
   "awaken_star_act_master_id": 140421,
@@ -9346,9 +9346,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 114,
+   "concentration": 80,
    "expression": 157,
-   "vocal": 80
+   "vocal": 114
   },
   "star_act_master_id": 140431,
   "awaken_star_act_master_id": 140431,
@@ -9408,9 +9408,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 122,
+   "concentration": 109,
    "expression": 114,
-   "vocal": 109
+   "vocal": 122
   },
   "star_act_master_id": 140441,
   "awaken_star_act_master_id": 140441,
@@ -9470,9 +9470,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 148,
    "expression": 117,
-   "vocal": 148
+   "vocal": 84
   },
   "star_act_master_id": 140451,
   "awaken_star_act_master_id": 140451,
@@ -9536,9 +9536,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 129,
+   "concentration": 87,
    "expression": 128,
-   "vocal": 87
+   "vocal": 129
   },
   "star_act_master_id": 140461,
   "awaken_star_act_master_id": 140461,
@@ -9598,9 +9598,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 113,
+   "concentration": 116,
    "expression": 116,
-   "vocal": 116
+   "vocal": 113
   },
   "star_act_master_id": 140471,
   "awaken_star_act_master_id": 140471,
@@ -9660,9 +9660,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 103,
+   "concentration": 131,
    "expression": 111,
-   "vocal": 131
+   "vocal": 103
   },
   "star_act_master_id": 140481,
   "awaken_star_act_master_id": 140481,
@@ -9722,9 +9722,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 121,
+   "concentration": 107,
    "expression": 117,
-   "vocal": 107
+   "vocal": 121
   },
   "star_act_master_id": 140491,
   "awaken_star_act_master_id": 140491,
@@ -9780,9 +9780,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 151,
+   "concentration": 106,
    "expression": 90,
-   "vocal": 106
+   "vocal": 151
   },
   "star_act_master_id": 140501,
   "awaken_star_act_master_id": 140501,
@@ -9838,9 +9838,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 150,
+   "concentration": 116,
    "expression": 83,
-   "vocal": 116
+   "vocal": 150
   },
   "star_act_master_id": 140511,
   "awaken_star_act_master_id": 140511,
@@ -9896,9 +9896,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 98,
    "expression": 156,
-   "vocal": 98
+   "vocal": 83
   },
   "star_act_master_id": 140521,
   "awaken_star_act_master_id": 140521,
@@ -9962,9 +9962,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 179,
+   "concentration": 75,
    "expression": 95,
-   "vocal": 75
+   "vocal": 179
   },
   "star_act_master_id": 140531,
   "awaken_star_act_master_id": 140531,
@@ -10024,9 +10024,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 133,
+   "concentration": 123,
    "expression": 89,
-   "vocal": 123
+   "vocal": 133
   },
   "star_act_master_id": 140541,
   "awaken_star_act_master_id": 140541,
@@ -10082,9 +10082,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 85,
+   "concentration": 144,
    "expression": 119,
-   "vocal": 144
+   "vocal": 85
   },
   "star_act_master_id": 140551,
   "awaken_star_act_master_id": 140551,
@@ -10140,9 +10140,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 138,
    "expression": 118,
-   "vocal": 138
+   "vocal": 90
   },
   "star_act_master_id": 140561,
   "awaken_star_act_master_id": 140561,
@@ -10202,9 +10202,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 87,
    "expression": 144,
-   "vocal": 87
+   "vocal": 116
   },
   "star_act_master_id": 140571,
   "awaken_star_act_master_id": 140571,
@@ -10264,9 +10264,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 111,
+   "concentration": 100,
    "expression": 131,
-   "vocal": 100
+   "vocal": 111
   },
   "star_act_master_id": 140601,
   "awaken_star_act_master_id": 140601,
@@ -10322,9 +10322,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 143,
+   "concentration": 108,
    "expression": 94,
-   "vocal": 108
+   "vocal": 143
   },
   "star_act_master_id": 140611,
   "awaken_star_act_master_id": 140611,
@@ -10380,9 +10380,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 128,
    "expression": 124,
-   "vocal": 128
+   "vocal": 91
   },
   "star_act_master_id": 140621,
   "awaken_star_act_master_id": 140621,
@@ -10438,9 +10438,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 117,
+   "concentration": 88,
    "expression": 142,
-   "vocal": 88
+   "vocal": 117
   },
   "star_act_master_id": 140631,
   "awaken_star_act_master_id": 140631,
@@ -10496,9 +10496,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 89,
+   "concentration": 145,
    "expression": 113,
-   "vocal": 145
+   "vocal": 89
   },
   "star_act_master_id": 140661,
   "awaken_star_act_master_id": 140661,
@@ -10558,9 +10558,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 128,
+   "concentration": 120,
    "expression": 94,
-   "vocal": 120
+   "vocal": 128
   },
   "star_act_master_id": 140671,
   "awaken_star_act_master_id": 140671,
@@ -10620,9 +10620,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 82,
    "expression": 150,
-   "vocal": 82
+   "vocal": 118
   },
   "star_act_master_id": 140681,
   "awaken_star_act_master_id": 140681,
@@ -10678,9 +10678,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 145,
    "expression": 108,
-   "vocal": 145
+   "vocal": 93
   },
   "star_act_master_id": 140691,
   "awaken_star_act_master_id": 140691,
@@ -10736,9 +10736,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 114,
+   "concentration": 94,
    "expression": 136,
-   "vocal": 94
+   "vocal": 114
   },
   "star_act_master_id": 140701,
   "awaken_star_act_master_id": 140701,
@@ -10798,9 +10798,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 150,
+   "concentration": 107,
    "expression": 90,
-   "vocal": 107
+   "vocal": 150
   },
   "star_act_master_id": 140711,
   "awaken_star_act_master_id": 140711,
@@ -10856,9 +10856,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 94,
    "expression": 138,
-   "vocal": 94
+   "vocal": 112
   },
   "star_act_master_id": 140721,
   "awaken_star_act_master_id": 140721,
@@ -10918,9 +10918,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 133,
    "expression": 114,
-   "vocal": 133
+   "vocal": 96
   },
   "star_act_master_id": 140731,
   "awaken_star_act_master_id": 140731,
@@ -10976,9 +10976,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 136,
    "expression": 124,
-   "vocal": 136
+   "vocal": 86
   },
   "star_act_master_id": 140741,
   "awaken_star_act_master_id": 140741,
@@ -11038,9 +11038,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 121,
+   "concentration": 91,
    "expression": 132,
-   "vocal": 91
+   "vocal": 121
   },
   "star_act_master_id": 140751,
   "awaken_star_act_master_id": 140751,
@@ -11100,9 +11100,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 117,
+   "concentration": 89,
    "expression": 140,
-   "vocal": 89
+   "vocal": 117
   },
   "star_act_master_id": 140761,
   "awaken_star_act_master_id": 140761,
@@ -11162,9 +11162,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 125,
+   "concentration": 123,
    "expression": 94,
-   "vocal": 123
+   "vocal": 125
   },
   "star_act_master_id": 140771,
   "awaken_star_act_master_id": 140771,
@@ -11220,9 +11220,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 91,
    "expression": 146,
-   "vocal": 91
+   "vocal": 109
   },
   "star_act_master_id": 140781,
   "awaken_star_act_master_id": 140781,
@@ -11282,9 +11282,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 127,
+   "concentration": 124,
    "expression": 92,
-   "vocal": 124
+   "vocal": 127
   },
   "star_act_master_id": 140791,
   "awaken_star_act_master_id": 140791,
@@ -11340,9 +11340,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 149,
+   "concentration": 106,
    "expression": 92,
-   "vocal": 106
+   "vocal": 149
   },
   "star_act_master_id": 140801,
   "awaken_star_act_master_id": 140801,
@@ -11402,9 +11402,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 121,
+   "concentration": 86,
    "expression": 139,
-   "vocal": 86
+   "vocal": 121
   },
   "star_act_master_id": 140811,
   "awaken_star_act_master_id": 140811,
@@ -11460,9 +11460,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 139,
+   "concentration": 109,
    "expression": 96,
-   "vocal": 109
+   "vocal": 139
   },
   "star_act_master_id": 140821,
   "awaken_star_act_master_id": 140821,
@@ -11518,9 +11518,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 94,
    "expression": 139,
-   "vocal": 94
+   "vocal": 112
   },
   "star_act_master_id": 140831,
   "awaken_star_act_master_id": 140831,
@@ -11576,9 +11576,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 146,
+   "concentration": 114,
    "expression": 87,
-   "vocal": 114
+   "vocal": 146
   },
   "star_act_master_id": 140841,
   "awaken_star_act_master_id": 140841,
@@ -11638,9 +11638,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 121,
+   "concentration": 86,
    "expression": 140,
-   "vocal": 86
+   "vocal": 121
   },
   "star_act_master_id": 140851,
   "awaken_star_act_master_id": 140851,
@@ -11696,9 +11696,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 148,
+   "concentration": 124,
    "expression": 78,
-   "vocal": 124
+   "vocal": 148
   },
   "star_act_master_id": 140861,
   "awaken_star_act_master_id": 140861,
@@ -11754,9 +11754,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 96,
    "expression": 128,
-   "vocal": 96
+   "vocal": 118
   },
   "star_act_master_id": 140871,
   "awaken_star_act_master_id": 140871,
@@ -11812,9 +11812,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 106,
+   "concentration": 121,
    "expression": 118,
-   "vocal": 121
+   "vocal": 106
   },
   "star_act_master_id": 140881,
   "awaken_star_act_master_id": 140881,
@@ -11874,9 +11874,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 111,
+   "concentration": 125,
    "expression": 109,
-   "vocal": 125
+   "vocal": 111
   },
   "star_act_master_id": 140891,
   "awaken_star_act_master_id": 140891,
@@ -11936,9 +11936,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 154,
    "expression": 112,
-   "vocal": 154
+   "vocal": 84
   },
   "star_act_master_id": 140901,
   "awaken_star_act_master_id": 140901,
@@ -11994,9 +11994,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 142,
+   "concentration": 126,
    "expression": 81,
-   "vocal": 126
+   "vocal": 142
   },
   "star_act_master_id": 140911,
   "awaken_star_act_master_id": 140911,
@@ -12052,9 +12052,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 78,
+   "concentration": 86,
    "expression": 191,
-   "vocal": 86
+   "vocal": 78
   },
   "star_act_master_id": 140921,
   "awaken_star_act_master_id": 140921,
@@ -12114,9 +12114,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 78,
+   "concentration": 97,
    "expression": 168,
-   "vocal": 97
+   "vocal": 78
   },
   "star_act_master_id": 140931,
   "awaken_star_act_master_id": 140931,
@@ -12176,9 +12176,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 111,
+   "concentration": 94,
    "expression": 139,
-   "vocal": 94
+   "vocal": 111
   },
   "star_act_master_id": 140941,
   "awaken_star_act_master_id": 140941,
@@ -12234,9 +12234,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 124,
+   "concentration": 85,
    "expression": 138,
-   "vocal": 85
+   "vocal": 124
   },
   "star_act_master_id": 140951,
   "awaken_star_act_master_id": 140951,
@@ -12300,9 +12300,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 143,
+   "concentration": 107,
    "expression": 95,
-   "vocal": 107
+   "vocal": 143
   },
   "star_act_master_id": 140961,
   "awaken_star_act_master_id": 140961,
@@ -12362,9 +12362,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 140,
    "expression": 121,
-   "vocal": 140
+   "vocal": 86
   },
   "star_act_master_id": 140971,
   "awaken_star_act_master_id": 140971,
@@ -12420,9 +12420,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 194,
+   "concentration": 73,
    "expression": 90,
-   "vocal": 73
+   "vocal": 194
   },
   "star_act_master_id": 140981,
   "awaken_star_act_master_id": 140981,
@@ -12482,9 +12482,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 76,
+   "concentration": 93,
    "expression": 182,
-   "vocal": 93
+   "vocal": 76
   },
   "star_act_master_id": 140991,
   "awaken_star_act_master_id": 140991,
@@ -12548,9 +12548,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 95,
    "expression": 137,
-   "vocal": 95
+   "vocal": 112
   },
   "star_act_master_id": 141001,
   "awaken_star_act_master_id": 141001,
@@ -12610,9 +12610,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 134,
+   "concentration": 121,
    "expression": 90,
-   "vocal": 121
+   "vocal": 134
   },
   "star_act_master_id": 141011,
   "awaken_star_act_master_id": 141011,
@@ -12668,9 +12668,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 127,
+   "concentration": 120,
    "expression": 95,
-   "vocal": 120
+   "vocal": 127
   },
   "star_act_master_id": 141021,
   "awaken_star_act_master_id": 141021,
@@ -12730,9 +12730,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 125,
    "expression": 128,
-   "vocal": 125
+   "vocal": 90
   },
   "star_act_master_id": 141031,
   "awaken_star_act_master_id": 141031,
@@ -12792,9 +12792,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 146,
    "expression": 114,
-   "vocal": 146
+   "vocal": 87
   },
   "star_act_master_id": 141041,
   "awaken_star_act_master_id": 141041,
@@ -12850,9 +12850,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 131,
+   "concentration": 124,
    "expression": 90,
-   "vocal": 124
+   "vocal": 131
   },
   "star_act_master_id": 141051,
   "awaken_star_act_master_id": 141051,
@@ -12908,9 +12908,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 145,
    "expression": 106,
-   "vocal": 145
+   "vocal": 94
   },
   "star_act_master_id": 141061,
   "awaken_star_act_master_id": 141061,
@@ -12966,9 +12966,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 122,
+   "concentration": 91,
    "expression": 131,
-   "vocal": 91
+   "vocal": 122
   },
   "star_act_master_id": 141071,
   "awaken_star_act_master_id": 141071,
@@ -13024,9 +13024,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 121,
+   "concentration": 82,
    "expression": 146,
-   "vocal": 82
+   "vocal": 121
   },
   "star_act_master_id": 141081,
   "awaken_star_act_master_id": 141081,
@@ -13082,9 +13082,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 98,
+   "concentration": 149,
    "expression": 98,
-   "vocal": 149
+   "vocal": 98
   },
   "star_act_master_id": 141091,
   "awaken_star_act_master_id": 141091,
@@ -13140,9 +13140,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 120,
    "expression": 121,
-   "vocal": 120
+   "vocal": 99
   },
   "star_act_master_id": 141101,
   "awaken_star_act_master_id": 141101,
@@ -13198,9 +13198,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 130,
+   "concentration": 113,
    "expression": 99,
-   "vocal": 113
+   "vocal": 130
   },
   "star_act_master_id": 141111,
   "awaken_star_act_master_id": 141111,
@@ -13256,9 +13256,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 145,
+   "concentration": 108,
    "expression": 93,
-   "vocal": 108
+   "vocal": 145
   },
   "star_act_master_id": 141121,
   "awaken_star_act_master_id": 141121,
@@ -13314,9 +13314,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 133,
+   "concentration": 119,
    "expression": 92,
-   "vocal": 119
+   "vocal": 133
   },
   "star_act_master_id": 141131,
   "awaken_star_act_master_id": 141131,
@@ -13372,9 +13372,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 134,
+   "concentration": 115,
    "expression": 94,
-   "vocal": 115
+   "vocal": 134
   },
   "star_act_master_id": 141141,
   "awaken_star_act_master_id": 141141,
@@ -13430,9 +13430,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 102,
+   "concentration": 122,
    "expression": 115,
-   "vocal": 122
+   "vocal": 102
   },
   "star_act_master_id": 141151,
   "awaken_star_act_master_id": 141151,
@@ -13488,9 +13488,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 98,
    "expression": 127,
-   "vocal": 98
+   "vocal": 116
   },
   "star_act_master_id": 141161,
   "awaken_star_act_master_id": 141161,
@@ -13546,9 +13546,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 142,
+   "concentration": 102,
    "expression": 100,
-   "vocal": 102
+   "vocal": 142
   },
   "star_act_master_id": 141171,
   "awaken_star_act_master_id": 141171,
@@ -13604,9 +13604,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 88,
+   "concentration": 189,
    "expression": 76,
-   "vocal": 189
+   "vocal": 88
   },
   "star_act_master_id": 141181,
   "awaken_star_act_master_id": 141181,
@@ -13666,9 +13666,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 188,
+   "concentration": 81,
    "expression": 83,
-   "vocal": 81
+   "vocal": 188
   },
   "star_act_master_id": 141191,
   "awaken_star_act_master_id": 141191,
@@ -13728,9 +13728,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 130,
+   "concentration": 118,
    "expression": 95,
-   "vocal": 118
+   "vocal": 130
   },
   "star_act_master_id": 141201,
   "awaken_star_act_master_id": 141201,
@@ -13786,9 +13786,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 99,
+   "concentration": 133,
    "expression": 110,
-   "vocal": 133
+   "vocal": 99
   },
   "star_act_master_id": 141211,
   "awaken_star_act_master_id": 141211,
@@ -13844,9 +13844,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 134,
+   "concentration": 117,
    "expression": 93,
-   "vocal": 117
+   "vocal": 134
   },
   "star_act_master_id": 141221,
   "awaken_star_act_master_id": 141221,
@@ -13902,9 +13902,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 100,
+   "concentration": 122,
    "expression": 118,
-   "vocal": 122
+   "vocal": 100
   },
   "star_act_master_id": 141231,
   "awaken_star_act_master_id": 141231,
@@ -13960,9 +13960,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 105,
+   "concentration": 119,
    "expression": 121,
-   "vocal": 119
+   "vocal": 105
   },
   "star_act_master_id": 141241,
   "awaken_star_act_master_id": 141241,
@@ -14022,9 +14022,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 120,
+   "concentration": 116,
    "expression": 109,
-   "vocal": 116
+   "vocal": 120
   },
   "star_act_master_id": 141251,
   "awaken_star_act_master_id": 141251,
@@ -14084,9 +14084,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 119,
+   "concentration": 126,
    "expression": 100,
-   "vocal": 126
+   "vocal": 119
   },
   "star_act_master_id": 141261,
   "awaken_star_act_master_id": 141261,
@@ -14146,9 +14146,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 123,
    "expression": 110,
-   "vocal": 123
+   "vocal": 112
   },
   "star_act_master_id": 141271,
   "awaken_star_act_master_id": 141271,
@@ -14208,9 +14208,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 105,
    "expression": 122,
-   "vocal": 105
+   "vocal": 118
   },
   "star_act_master_id": 141281,
   "awaken_star_act_master_id": 141281,
@@ -14270,9 +14270,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 134,
+   "concentration": 118,
    "expression": 92,
-   "vocal": 118
+   "vocal": 134
   },
   "star_act_master_id": 141291,
   "awaken_star_act_master_id": 141291,
@@ -14332,9 +14332,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 96,
+   "concentration": 124,
    "expression": 122,
-   "vocal": 124
+   "vocal": 96
   },
   "star_act_master_id": 141301,
   "awaken_star_act_master_id": 141301,
@@ -14394,9 +14394,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 131,
+   "concentration": 126,
    "expression": 88,
-   "vocal": 126
+   "vocal": 131
   },
   "star_act_master_id": 141311,
   "awaken_star_act_master_id": 141311,
@@ -14452,9 +14452,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 154,
    "expression": 108,
-   "vocal": 154
+   "vocal": 87
   },
   "star_act_master_id": 141321,
   "awaken_star_act_master_id": 141321,
@@ -14510,9 +14510,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 149,
+   "concentration": 106,
    "expression": 92,
-   "vocal": 106
+   "vocal": 149
   },
   "star_act_master_id": 141331,
   "awaken_star_act_master_id": 141331,
@@ -14568,9 +14568,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 107,
+   "concentration": 96,
    "expression": 142,
-   "vocal": 96
+   "vocal": 107
   },
   "star_act_master_id": 141341,
   "awaken_star_act_master_id": 141341,
@@ -14626,9 +14626,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 140,
+   "concentration": 100,
    "expression": 102,
-   "vocal": 100
+   "vocal": 140
   },
   "star_act_master_id": 141351,
   "awaken_star_act_master_id": 141351,
@@ -14684,9 +14684,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 120,
    "expression": 131,
-   "vocal": 120
+   "vocal": 91
   },
   "star_act_master_id": 141361,
   "awaken_star_act_master_id": 141361,
@@ -14742,9 +14742,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 126,
+   "concentration": 85,
    "expression": 136,
-   "vocal": 85
+   "vocal": 126
   },
   "star_act_master_id": 141371,
   "awaken_star_act_master_id": 141371,
@@ -14800,9 +14800,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 95,
    "expression": 132,
-   "vocal": 95
+   "vocal": 116
   },
   "star_act_master_id": 141381,
   "awaken_star_act_master_id": 141381,
@@ -14858,9 +14858,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 145,
    "expression": 106,
-   "vocal": 145
+   "vocal": 94
   },
   "star_act_master_id": 141391,
   "awaken_star_act_master_id": 141391,
@@ -14916,9 +14916,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 103,
+   "concentration": 105,
    "expression": 133,
-   "vocal": 105
+   "vocal": 103
   },
   "star_act_master_id": 141401,
   "awaken_star_act_master_id": 141401,
@@ -14974,9 +14974,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 76,
+   "concentration": 94,
    "expression": 179,
-   "vocal": 94
+   "vocal": 76
   },
   "star_act_master_id": 141411,
   "awaken_star_act_master_id": 141411,
@@ -15036,9 +15036,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 183,
    "expression": 77,
-   "vocal": 183
+   "vocal": 90
   },
   "star_act_master_id": 141421,
   "awaken_star_act_master_id": 141421,
@@ -15098,9 +15098,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 144,
+   "concentration": 111,
    "expression": 91,
-   "vocal": 111
+   "vocal": 144
   },
   "star_act_master_id": 141431,
   "awaken_star_act_master_id": 141431,
@@ -15156,9 +15156,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 94,
    "expression": 134,
-   "vocal": 94
+   "vocal": 116
   },
   "star_act_master_id": 141441,
   "awaken_star_act_master_id": 141441,
@@ -15214,9 +15214,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 158,
+   "concentration": 84,
    "expression": 96,
-   "vocal": 84
+   "vocal": 158
   },
   "star_act_master_id": 141451,
   "awaken_star_act_master_id": 141451,
@@ -15272,9 +15272,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 122,
+   "concentration": 91,
    "expression": 131,
-   "vocal": 91
+   "vocal": 122
   },
   "star_act_master_id": 141461,
   "awaken_star_act_master_id": 141461,
@@ -15330,9 +15330,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 156,
+   "concentration": 114,
    "expression": 109,
-   "vocal": 114
+   "vocal": 156
   },
   "star_act_master_id": 141471,
   "awaken_star_act_master_id": 141471,
@@ -15388,9 +15388,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 104,
    "expression": 159,
-   "vocal": 104
+   "vocal": 118
   },
   "star_act_master_id": 141481,
   "awaken_star_act_master_id": 141481,
@@ -15446,9 +15446,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 144,
    "expression": 121,
-   "vocal": 144
+   "vocal": 112
   },
   "star_act_master_id": 141491,
   "awaken_star_act_master_id": 141491,
@@ -15504,9 +15504,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 135,
+   "concentration": 94,
    "expression": 153,
-   "vocal": 94
+   "vocal": 135
   },
   "star_act_master_id": 141501,
   "awaken_star_act_master_id": 141501,
@@ -15562,9 +15562,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 91,
+   "concentration": 161,
    "expression": 87,
-   "vocal": 161
+   "vocal": 91
   },
   "star_act_master_id": 141511,
   "awaken_star_act_master_id": 141511,
@@ -15620,9 +15620,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 159,
+   "concentration": 85,
    "expression": 94,
-   "vocal": 85
+   "vocal": 159
   },
   "star_act_master_id": 141521,
   "awaken_star_act_master_id": 141521,
@@ -15678,9 +15678,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 86,
+   "concentration": 174,
    "expression": 85,
-   "vocal": 174
+   "vocal": 86
   },
   "star_act_master_id": 141531,
   "awaken_star_act_master_id": 141531,
@@ -15736,9 +15736,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 168,
+   "concentration": 81,
    "expression": 94,
-   "vocal": 81
+   "vocal": 168
   },
   "star_act_master_id": 141541,
   "awaken_star_act_master_id": 141541,
@@ -15794,9 +15794,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 147,
+   "concentration": 134,
    "expression": 99,
-   "vocal": 134
+   "vocal": 147
   },
   "star_act_master_id": 141551,
   "awaken_star_act_master_id": 141551,
@@ -15852,9 +15852,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 106,
+   "concentration": 164,
    "expression": 111,
-   "vocal": 164
+   "vocal": 106
   },
   "star_act_master_id": 141561,
   "awaken_star_act_master_id": 141561,
@@ -15910,9 +15910,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 158,
+   "concentration": 86,
    "expression": 94,
-   "vocal": 86
+   "vocal": 158
   },
   "star_act_master_id": 141571,
   "awaken_star_act_master_id": 141571,
@@ -15968,9 +15968,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 72,
+   "concentration": 105,
    "expression": 167,
-   "vocal": 105
+   "vocal": 72
   },
   "star_act_master_id": 141581,
   "awaken_star_act_master_id": 141581,
@@ -16026,9 +16026,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 173,
    "expression": 83,
-   "vocal": 173
+   "vocal": 90
   },
   "star_act_master_id": 141591,
   "awaken_star_act_master_id": 141591,
@@ -16084,9 +16084,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 88,
+   "concentration": 93,
    "expression": 156,
-   "vocal": 93
+   "vocal": 88
   },
   "star_act_master_id": 141601,
   "awaken_star_act_master_id": 141601,
@@ -16142,9 +16142,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 186,
+   "concentration": 74,
    "expression": 92,
-   "vocal": 74
+   "vocal": 186
   },
   "star_act_master_id": 141611,
   "awaken_star_act_master_id": 141611,
@@ -16204,9 +16204,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 81,
+   "concentration": 97,
    "expression": 162,
-   "vocal": 97
+   "vocal": 81
   },
   "star_act_master_id": 141621,
   "awaken_star_act_master_id": 141621,
@@ -16266,9 +16266,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 159,
+   "concentration": 114,
    "expression": 107,
-   "vocal": 114
+   "vocal": 159
   },
   "star_act_master_id": 141631,
   "awaken_star_act_master_id": 141631,
@@ -16324,9 +16324,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 128,
+   "concentration": 98,
    "expression": 156,
-   "vocal": 98
+   "vocal": 128
   },
   "star_act_master_id": 141641,
   "awaken_star_act_master_id": 141641,
@@ -16382,9 +16382,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 98,
+   "concentration": 166,
    "expression": 119,
-   "vocal": 166
+   "vocal": 98
   },
   "star_act_master_id": 141651,
   "awaken_star_act_master_id": 141651,
@@ -16440,9 +16440,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 122,
+   "concentration": 96,
    "expression": 165,
-   "vocal": 96
+   "vocal": 122
   },
   "star_act_master_id": 141661,
   "awaken_star_act_master_id": 141661,
@@ -16498,9 +16498,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 82,
    "expression": 173,
-   "vocal": 82
+   "vocal": 90
   },
   "star_act_master_id": 141671,
   "awaken_star_act_master_id": 141671,
@@ -16556,9 +16556,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 194,
+   "concentration": 76,
    "expression": 86,
-   "vocal": 76
+   "vocal": 194
   },
   "star_act_master_id": 141681,
   "awaken_star_act_master_id": 141681,
@@ -16614,9 +16614,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 100,
+   "concentration": 163,
    "expression": 120,
-   "vocal": 163
+   "vocal": 100
   },
   "star_act_master_id": 141691,
   "awaken_star_act_master_id": 141691,
@@ -16672,9 +16672,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 117,
+   "concentration": 108,
    "expression": 155,
-   "vocal": 108
+   "vocal": 117
   },
   "star_act_master_id": 141701,
   "awaken_star_act_master_id": 141701,
@@ -16730,9 +16730,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 85,
+   "concentration": 87,
    "expression": 171,
-   "vocal": 87
+   "vocal": 85
   },
   "star_act_master_id": 141711,
   "awaken_star_act_master_id": 141711,
@@ -16788,9 +16788,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 167,
+   "concentration": 88,
    "expression": 87,
-   "vocal": 88
+   "vocal": 167
   },
   "star_act_master_id": 141721,
   "awaken_star_act_master_id": 141721,
@@ -16846,9 +16846,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 161,
+   "concentration": 116,
    "expression": 104,
-   "vocal": 116
+   "vocal": 161
   },
   "star_act_master_id": 141731,
   "awaken_star_act_master_id": 141731,
@@ -16904,9 +16904,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 133,
    "expression": 134,
-   "vocal": 133
+   "vocal": 109
   },
   "star_act_master_id": 141741,
   "awaken_star_act_master_id": 141741,
@@ -16962,9 +16962,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 123,
+   "concentration": 107,
    "expression": 148,
-   "vocal": 107
+   "vocal": 123
   },
   "star_act_master_id": 141751,
   "awaken_star_act_master_id": 141751,
@@ -17020,9 +17020,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 146,
+   "concentration": 129,
    "expression": 104,
-   "vocal": 129
+   "vocal": 146
   },
   "star_act_master_id": 141761,
   "awaken_star_act_master_id": 141761,
@@ -17078,9 +17078,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 174,
    "expression": 81,
-   "vocal": 174
+   "vocal": 90
   },
   "star_act_master_id": 141771,
   "awaken_star_act_master_id": 141771,
@@ -17136,9 +17136,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 87,
+   "concentration": 85,
    "expression": 173,
-   "vocal": 85
+   "vocal": 87
   },
   "star_act_master_id": 141781,
   "awaken_star_act_master_id": 141781,
@@ -17194,9 +17194,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 100,
+   "concentration": 155,
    "expression": 127,
-   "vocal": 155
+   "vocal": 100
   },
   "star_act_master_id": 141791,
   "awaken_star_act_master_id": 141791,
@@ -17256,9 +17256,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 150,
+   "concentration": 124,
    "expression": 105,
-   "vocal": 124
+   "vocal": 150
   },
   "star_act_master_id": 141801,
   "awaken_star_act_master_id": 141801,
@@ -17318,9 +17318,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 95,
+   "concentration": 161,
    "expression": 127,
-   "vocal": 161
+   "vocal": 95
   },
   "star_act_master_id": 141811,
   "awaken_star_act_master_id": 141811,
@@ -17376,9 +17376,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 119,
+   "concentration": 102,
    "expression": 161,
-   "vocal": 102
+   "vocal": 119
   },
   "star_act_master_id": 141821,
   "awaken_star_act_master_id": 141821,
@@ -17434,9 +17434,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 82,
+   "concentration": 88,
    "expression": 177,
-   "vocal": 88
+   "vocal": 82
   },
   "star_act_master_id": 141831,
   "awaken_star_act_master_id": 141831,
@@ -17492,9 +17492,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 90,
+   "concentration": 174,
    "expression": 81,
-   "vocal": 174
+   "vocal": 90
   },
   "star_act_master_id": 141841,
   "awaken_star_act_master_id": 141841,
@@ -17550,9 +17550,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 188,
+   "concentration": 71,
    "expression": 94,
-   "vocal": 71
+   "vocal": 188
   },
   "star_act_master_id": 141851,
   "awaken_star_act_master_id": 141851,
@@ -17608,9 +17608,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 98,
+   "concentration": 156,
    "expression": 83,
-   "vocal": 156
+   "vocal": 98
   },
   "star_act_master_id": 141861,
   "awaken_star_act_master_id": 141861,
@@ -17666,9 +17666,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 160,
+   "concentration": 136,
    "expression": 88,
-   "vocal": 136
+   "vocal": 160
   },
   "star_act_master_id": 141871,
   "awaken_star_act_master_id": 141871,
@@ -17724,9 +17724,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 133,
+   "concentration": 92,
    "expression": 159,
-   "vocal": 92
+   "vocal": 133
   },
   "star_act_master_id": 141881,
   "awaken_star_act_master_id": 141881,
@@ -17782,9 +17782,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 97,
+   "concentration": 171,
    "expression": 77,
-   "vocal": 171
+   "vocal": 97
   },
   "star_act_master_id": 141891,
   "awaken_star_act_master_id": 141891,
@@ -17898,9 +17898,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 164,
+   "concentration": 87,
    "expression": 90,
-   "vocal": 87
+   "vocal": 164
   },
   "star_act_master_id": 141911,
   "awaken_star_act_master_id": 141911,
@@ -17956,9 +17956,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 74,
+   "concentration": 98,
    "expression": 176,
-   "vocal": 98
+   "vocal": 74
   },
   "star_act_master_id": 141921,
   "awaken_star_act_master_id": 141921,
@@ -18014,9 +18014,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 102,
+   "concentration": 135,
    "expression": 141,
-   "vocal": 135
+   "vocal": 102
   },
   "star_act_master_id": 141931,
   "awaken_star_act_master_id": 141931,
@@ -18072,9 +18072,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 138,
+   "concentration": 132,
    "expression": 107,
-   "vocal": 132
+   "vocal": 138
   },
   "star_act_master_id": 141941,
   "awaken_star_act_master_id": 141941,
@@ -18130,9 +18130,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 165,
+   "concentration": 88,
    "expression": 87,
-   "vocal": 88
+   "vocal": 165
   },
   "star_act_master_id": 141951,
   "awaken_star_act_master_id": 141951,
@@ -18188,9 +18188,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 174,
+   "concentration": 86,
    "expression": 85,
-   "vocal": 86
+   "vocal": 174
   },
   "star_act_master_id": 141961,
   "awaken_star_act_master_id": 141961,
@@ -18246,9 +18246,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 163,
+   "concentration": 118,
    "expression": 102,
-   "vocal": 118
+   "vocal": 163
   },
   "star_act_master_id": 141971,
   "awaken_star_act_master_id": 141971,
@@ -18308,9 +18308,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 130,
    "expression": 133,
-   "vocal": 130
+   "vocal": 112
   },
   "star_act_master_id": 141981,
   "awaken_star_act_master_id": 141981,
@@ -18370,9 +18370,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 140,
    "expression": 128,
-   "vocal": 140
+   "vocal": 109
   },
   "star_act_master_id": 141991,
   "awaken_star_act_master_id": 141991,
@@ -18428,9 +18428,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 122,
+   "concentration": 109,
    "expression": 147,
-   "vocal": 109
+   "vocal": 122
   },
   "star_act_master_id": 142001,
   "awaken_star_act_master_id": 142001,
@@ -18486,9 +18486,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 176,
    "expression": 78,
-   "vocal": 176
+   "vocal": 93
   },
   "star_act_master_id": 142011,
   "awaken_star_act_master_id": 142011,
@@ -18544,9 +18544,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 83,
+   "concentration": 96,
    "expression": 161,
-   "vocal": 96
+   "vocal": 83
   },
   "star_act_master_id": 142021,
   "awaken_star_act_master_id": 142021,
@@ -18602,9 +18602,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 182,
+   "concentration": 80,
    "expression": 88,
-   "vocal": 80
+   "vocal": 182
   },
   "star_act_master_id": 142031,
   "awaken_star_act_master_id": 142031,
@@ -18660,9 +18660,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 162,
+   "concentration": 79,
    "expression": 99,
-   "vocal": 79
+   "vocal": 162
   },
   "star_act_master_id": 142041,
   "awaken_star_act_master_id": 142041,
@@ -18718,9 +18718,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 94,
+   "concentration": 172,
    "expression": 130,
-   "vocal": 172
+   "vocal": 94
   },
   "star_act_master_id": 142051,
   "awaken_star_act_master_id": 142051,
@@ -18776,9 +18776,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 164,
+   "concentration": 122,
    "expression": 105,
-   "vocal": 122
+   "vocal": 164
   },
   "star_act_master_id": 142061,
   "awaken_star_act_master_id": 142061,
@@ -18834,9 +18834,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 81,
+   "concentration": 94,
    "expression": 200,
-   "vocal": 94
+   "vocal": 81
   },
   "star_act_master_id": 142071,
   "awaken_star_act_master_id": 142071,
@@ -18892,9 +18892,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 184,
+   "concentration": 79,
    "expression": 105,
-   "vocal": 79
+   "vocal": 184
   },
   "star_act_master_id": 142081,
   "awaken_star_act_master_id": 142081,
@@ -18950,9 +18950,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 168,
+   "concentration": 84,
    "expression": 108,
-   "vocal": 84
+   "vocal": 168
   },
   "star_act_master_id": 142091,
   "awaken_star_act_master_id": 142091,
@@ -19008,9 +19008,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 93,
+   "concentration": 210,
    "expression": 78,
-   "vocal": 210
+   "vocal": 93
   },
   "star_act_master_id": 142101,
   "awaken_star_act_master_id": 142101,
@@ -19066,9 +19066,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 97,
+   "concentration": 197,
    "expression": 97,
-   "vocal": 197
+   "vocal": 97
   },
   "star_act_master_id": 142111,
   "awaken_star_act_master_id": 142111,
@@ -19124,9 +19124,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 204,
+   "concentration": 82,
    "expression": 110,
-   "vocal": 82
+   "vocal": 204
   },
   "star_act_master_id": 142121,
   "awaken_star_act_master_id": 142121,
@@ -19182,9 +19182,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 205,
+   "concentration": 71,
    "expression": 104,
-   "vocal": 71
+   "vocal": 205
   },
   "star_act_master_id": 142131,
   "awaken_star_act_master_id": 142131,
@@ -19240,9 +19240,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 166,
    "expression": 78,
-   "vocal": 166
+   "vocal": 116
   },
   "star_act_master_id": 142141,
   "awaken_star_act_master_id": 142141,
@@ -19298,9 +19298,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 137,
+   "concentration": 107,
    "expression": 174,
-   "vocal": 107
+   "vocal": 137
   },
   "star_act_master_id": 142151,
   "awaken_star_act_master_id": 142151,
@@ -19360,9 +19360,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 160,
    "expression": 146,
-   "vocal": 160
+   "vocal": 109
   },
   "star_act_master_id": 142161,
   "awaken_star_act_master_id": 142161,
@@ -19422,9 +19422,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 105,
+   "concentration": 179,
    "expression": 134,
-   "vocal": 179
+   "vocal": 105
   },
   "star_act_master_id": 142171,
   "awaken_star_act_master_id": 142171,
@@ -19480,9 +19480,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 174,
+   "concentration": 133,
    "expression": 110,
-   "vocal": 133
+   "vocal": 174
   },
   "star_act_master_id": 142181,
   "awaken_star_act_master_id": 142181,
@@ -19538,9 +19538,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 194,
+   "concentration": 76,
    "expression": 104,
-   "vocal": 76
+   "vocal": 194
   },
   "star_act_master_id": 142191,
   "awaken_star_act_master_id": 142191,
@@ -19596,9 +19596,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 84,
+   "concentration": 106,
    "expression": 171,
-   "vocal": 106
+   "vocal": 84
   },
   "star_act_master_id": 142201,
   "awaken_star_act_master_id": 142201,
@@ -19654,9 +19654,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 197,
+   "concentration": 87,
    "expression": 88,
-   "vocal": 87
+   "vocal": 197
   },
   "star_act_master_id": 142211,
   "awaken_star_act_master_id": 142211,
@@ -19712,9 +19712,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 112,
+   "concentration": 168,
    "expression": 81,
-   "vocal": 168
+   "vocal": 112
   },
   "star_act_master_id": 142221,
   "awaken_star_act_master_id": 142221,
@@ -19770,9 +19770,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 132,
+   "concentration": 94,
    "expression": 169,
-   "vocal": 94
+   "vocal": 132
   },
   "star_act_master_id": 142231,
   "awaken_star_act_master_id": 142231,
@@ -19828,9 +19828,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 157,
+   "concentration": 133,
    "expression": 101,
-   "vocal": 133
+   "vocal": 157
   },
   "star_act_master_id": 142241,
   "awaken_star_act_master_id": 142241,
@@ -19886,9 +19886,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 98,
+   "concentration": 202,
    "expression": 77,
-   "vocal": 202
+   "vocal": 98
   },
   "star_act_master_id": 142251,
   "awaken_star_act_master_id": 142251,
@@ -19944,9 +19944,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 195,
+   "concentration": 80,
    "expression": 98,
-   "vocal": 80
+   "vocal": 195
   },
   "star_act_master_id": 142261,
   "awaken_star_act_master_id": 142261,
@@ -20002,9 +20002,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 102,
+   "concentration": 195,
    "expression": 77,
-   "vocal": 195
+   "vocal": 102
   },
   "star_act_master_id": 142271,
   "awaken_star_act_master_id": 142271,
@@ -20060,9 +20060,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 76,
+   "concentration": 106,
    "expression": 190,
-   "vocal": 106
+   "vocal": 76
   },
   "star_act_master_id": 142281,
   "awaken_star_act_master_id": 142281,
@@ -20118,9 +20118,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 113,
+   "concentration": 162,
    "expression": 139,
-   "vocal": 162
+   "vocal": 113
   },
   "star_act_master_id": 142291,
   "awaken_star_act_master_id": 142291,
@@ -20176,9 +20176,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 147,
+   "concentration": 148,
    "expression": 117,
-   "vocal": 148
+   "vocal": 147
   },
   "star_act_master_id": 142301,
   "awaken_star_act_master_id": 142301,
@@ -20234,9 +20234,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 157,
+   "concentration": 129,
    "expression": 104,
-   "vocal": 129
+   "vocal": 157
   },
   "star_act_master_id": 142311,
   "awaken_star_act_master_id": 142311,
@@ -20292,9 +20292,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 175,
+   "concentration": 112,
    "expression": 106,
-   "vocal": 112
+   "vocal": 175
   },
   "star_act_master_id": 142321,
   "awaken_star_act_master_id": 142321,
@@ -20350,9 +20350,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 127,
+   "concentration": 120,
    "expression": 167,
-   "vocal": 120
+   "vocal": 127
   },
   "star_act_master_id": 142331,
   "awaken_star_act_master_id": 142331,
@@ -20408,9 +20408,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 147,
+   "concentration": 104,
    "expression": 166,
-   "vocal": 104
+   "vocal": 147
   },
   "star_act_master_id": 142341,
   "awaken_star_act_master_id": 142341,
@@ -20466,9 +20466,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 162,
+   "concentration": 129,
    "expression": 113,
-   "vocal": 129
+   "vocal": 162
   },
   "star_act_master_id": 142351,
   "awaken_star_act_master_id": 142351,
@@ -20524,9 +20524,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 111,
+   "concentration": 179,
    "expression": 117,
-   "vocal": 179
+   "vocal": 111
   },
   "star_act_master_id": 142361,
   "awaken_star_act_master_id": 142361,
@@ -20582,9 +20582,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 102,
+   "concentration": 156,
    "expression": 134,
-   "vocal": 156
+   "vocal": 102
   },
   "star_act_master_id": 142371,
   "awaken_star_act_master_id": 142371,
@@ -20640,9 +20640,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 133,
+   "concentration": 91,
    "expression": 174,
-   "vocal": 91
+   "vocal": 133
   },
   "star_act_master_id": 142381,
   "awaken_star_act_master_id": 142381,
@@ -20698,9 +20698,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 101,
+   "concentration": 170,
    "expression": 124,
-   "vocal": 170
+   "vocal": 101
   },
   "star_act_master_id": 142391,
   "awaken_star_act_master_id": 142391,
@@ -20756,9 +20756,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 162,
+   "concentration": 122,
    "expression": 107,
-   "vocal": 122
+   "vocal": 162
   },
   "star_act_master_id": 142401,
   "awaken_star_act_master_id": 142401,
@@ -20814,9 +20814,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 155,
+   "concentration": 137,
    "expression": 111,
-   "vocal": 137
+   "vocal": 155
   },
   "star_act_master_id": 142411,
   "awaken_star_act_master_id": 142411,
@@ -20872,9 +20872,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 109,
+   "concentration": 164,
    "expression": 133,
-   "vocal": 164
+   "vocal": 109
   },
   "star_act_master_id": 142421,
   "awaken_star_act_master_id": 142421,
@@ -20930,9 +20930,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 133,
+   "concentration": 101,
    "expression": 159,
-   "vocal": 101
+   "vocal": 133
   },
   "star_act_master_id": 142431,
   "awaken_star_act_master_id": 142431,
@@ -20988,9 +20988,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 110,
+   "concentration": 146,
    "expression": 133,
-   "vocal": 146
+   "vocal": 110
   },
   "star_act_master_id": 142441,
   "awaken_star_act_master_id": 142441,
@@ -21046,9 +21046,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 158,
+   "concentration": 137,
    "expression": 98,
-   "vocal": 137
+   "vocal": 158
   },
   "star_act_master_id": 142451,
   "awaken_star_act_master_id": 142451,
@@ -21104,9 +21104,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 101,
+   "concentration": 160,
    "expression": 131,
-   "vocal": 160
+   "vocal": 101
   },
   "star_act_master_id": 142461,
   "awaken_star_act_master_id": 142461,
@@ -21162,9 +21162,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 187,
    "expression": 156,
-   "vocal": 187
+   "vocal": 116
   },
   "star_act_master_id": 142471,
   "awaken_star_act_master_id": 142471,
@@ -21224,9 +21224,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 193,
+   "concentration": 140,
    "expression": 124,
-   "vocal": 140
+   "vocal": 193
   },
   "star_act_master_id": 142481,
   "awaken_star_act_master_id": 142481,
@@ -21286,9 +21286,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 118,
+   "concentration": 200,
    "expression": 143,
-   "vocal": 200
+   "vocal": 118
   },
   "star_act_master_id": 142491,
   "awaken_star_act_master_id": 142491,
@@ -21348,9 +21348,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 183,
+   "concentration": 145,
    "expression": 127,
-   "vocal": 145
+   "vocal": 183
   },
   "star_act_master_id": 142501,
   "awaken_star_act_master_id": 142501,
@@ -21410,9 +21410,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 147,
+   "concentration": 131,
    "expression": 176,
-   "vocal": 131
+   "vocal": 147
   },
   "star_act_master_id": 142511,
   "awaken_star_act_master_id": 142511,
@@ -21472,9 +21472,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 116,
+   "concentration": 183,
    "expression": 160,
-   "vocal": 183
+   "vocal": 116
   },
   "star_act_master_id": 142521,
   "awaken_star_act_master_id": 142521,
@@ -21534,9 +21534,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 155,
+   "concentration": 133,
    "expression": 141,
-   "vocal": 133
+   "vocal": 155
   },
   "star_act_master_id": 150011,
   "awaken_star_act_master_id": 150012,
@@ -21592,9 +21592,9 @@
   "rarity": 4,
   "attribute": 2,
   "min_level_status": {
-   "concentration": 139,
+   "concentration": 152,
    "expression": 139,
-   "vocal": 152
+   "vocal": 139
   },
   "star_act_master_id": 150021,
   "awaken_star_act_master_id": 150022,
@@ -21650,9 +21650,9 @@
   "rarity": 4,
   "attribute": 1,
   "min_level_status": {
-   "concentration": 167,
+   "concentration": 145,
    "expression": 156,
-   "vocal": 145
+   "vocal": 167
   },
   "star_act_master_id": 150031,
   "awaken_star_act_master_id": 150032,
@@ -21708,9 +21708,9 @@
   "rarity": 4,
   "attribute": 3,
   "min_level_status": {
-   "concentration": 148,
+   "concentration": 154,
    "expression": 167,
-   "vocal": 154
+   "vocal": 148
   },
   "star_act_master_id": 150041,
   "awaken_star_act_master_id": 150042,
@@ -21766,9 +21766,9 @@
   "rarity": 4,
   "attribute": 4,
   "min_level_status": {
-   "concentration": 161,
+   "concentration": 144,
    "expression": 150,
-   "vocal": 144
+   "vocal": 161
   },
   "star_act_master_id": 150051,
   "awaken_star_act_master_id": 150052,

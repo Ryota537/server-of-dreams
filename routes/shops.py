@@ -3,15 +3,14 @@ import time
 from typing import Optional
 
 from fastapi import APIRouter, Request
-from core import YumeApp
 
+from core import YumeApp
 from db.user import (
     consume_exchange_limit,
     consume_market_refresh,
     consume_permanent_market_limit,
     get_market_things,
     get_markets,
-    get_musics,
     purchase_market_thing,
     record_jewel_shop_purchase,
     release_music_olivier,
@@ -19,6 +18,8 @@ from db.user import (
     roll_over_market,
     touch_viewed_shop,
 )
+from helpers import game_state as gs
+from helpers.cache import cache
 from helpers.msgpack import fault, read_request, respond
 from helpers.music_unlock import apply_unlocks
 from helpers.shops import (
@@ -34,12 +35,12 @@ from helpers.shops import (
     live_music_master_id,
     market_frame,
     market_reset,
-    permanent_market_thing,
     period_until,
+    permanent_market_thing,
     refresh_cost,
     roll_market,
 )
-from helpers.things import grant_thing, grant_things_consolidated, present_type
+from helpers.things import grant_things_consolidated, present_type
 from helpers.user_data import build_present, current_user_id
 from models import *
 
@@ -244,44 +245,46 @@ async def shops_exchange_market_things(request: Request):
 # /api/Shops/ExchangeMusic/{mMusicId}
 @router.post("/api/Shops/ExchangeMusic/{mMusicId}", name="Shops_ExchangeMusic")
 async def shops_exchange_music(request: Request, mMusicId: int):
-    app: YumeApp = request.app
-    user_id = current_user_id(request)
-    payload = {}  # no payload -- the music is the path segment
-    if user_id is None:
-        return respond(ReceivedThing())
-
+    # only songs whose unlock condition is a store exchange (10) or a story unlock (11) can
+    # be bought; a story-gated song requires all its story episodes to have been read first
     try:
-        async with app.acquire_db() as conn:
-            async with conn.transaction():
-                owned = next(
-                    (
-                        m
-                        for m in await conn.fetch(get_musics(user_id))
-                        if m.musicMasterId == mMusicId and m.isPossession
-                    ),
-                    None,
+        async with gs.transaction(request) as s:
+            m = gs.master("music_master", mMusicId)
+            row = await s.one("Music", musicMasterId=mMusicId)
+            if (
+                not m
+                or m.invisible
+                or int(m.unlock_condition_type) not in (10, 11)
+                or (row and row["isPossession"])
+            ):
+                raise gs.Rejected()
+            if int(m.unlock_condition_type) == 11:
+                episodes = [
+                    e
+                    for e in cache.episode_master
+                    if e.story_master_id == m.story_master_id
+                ]
+                read = {e["episodeMasterId"] for e in await s.rows("Episode")}
+                if not episodes or any(e.id_ not in read for e in episodes):
+                    raise gs.Rejected()
+            await s.pay({MUSIC_UNLOCK_ITEM_ID: MUSIC_UNLOCK_COST})
+            if row:
+                await s.update("Music", row, isPossession=True)
+            else:
+                await s.insert(
+                    "Music",
+                    musicMasterId=mMusicId,
+                    isPossession=True,
+                    stellaReleased=False,
+                    olivierReleaseStatus=0,
+                    vocalVersion=0,
                 )
-                if owned is not None:
-                    raise _Rejected("AlreadyPurchased")
-
-                spent = await charge(
-                    conn,
-                    user_id,
-                    int(ThingTypes.Item),
-                    MUSIC_UNLOCK_ITEM_ID,
-                    MUSIC_UNLOCK_COST,
-                )
-                if spent is None:
-                    raise _Rejected("NotEnoughThing")
-
-                received = await grant_thing(
-                    conn, user_id, int(ThingTypes.Music), mMusicId, 1
-                )
-    except _Rejected as rejected:
-        return respond(ReceivedThing(), faults=[fault(rejected.code)])
-
-    present = await build_present(app, user_id, *sorted(set(spent) | {"Music"}))
-    return respond(received, present=present)
+        return respond(
+            ReceivedThing(type=ThingTypes.Music, id_=mMusicId, quantity=1),
+            present=s.present(),
+        )
+    except gs.Rejected:
+        return respond(ReceivedThing())
 
 
 # /api/Shops/ExchangeMusicScore/{mLiveId}

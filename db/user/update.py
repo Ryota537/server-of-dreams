@@ -76,6 +76,174 @@ def update_party_name(user_id: int, party_id: int, name: str) -> ExecutableQuery
     )
 
 
+def update_user_profile_edit(user_id: int, fields: dict) -> ExecutableQuery:
+    """Update the client-editable columns of the account-singleton UserProfile."""
+    cols = [
+        "name",
+        "introduction",
+        "mainUCharacterId",
+        "mNameplateId",
+        "mNameColorId",
+        "mTrophyId1",
+        "mTrophyId2",
+        "mTrophyId3",
+        "isPublicPlayerRate",
+        "displayAwakeningStatus",
+        "mainCharacterMasterId",
+        "nameBaseColorMasterId",
+        "iconFrameMasterId",
+        "homeSkinMasterId",
+    ]
+    sets = ", ".join(f'"{c}" = ${i + 2}' for i, c in enumerate(cols))
+    return ExecutableQuery(
+        f'UPDATE "user_profile" SET {sets} WHERE "userId" = $1',
+        user_id,
+        *[fields.get(c) for c in cols],
+    )
+
+
+def update_home_display_preference(user_id: int, fields: dict) -> ExecutableQuery:
+    """Update the account-singleton HomeDisplayPreference."""
+    cols = [
+        "homeCharacterBaseMasterId",
+        "memberCharacterBaseMasterId",
+        "storyCharacterBaseMasterId",
+        "shopCharacterBaseMasterId",
+        "homeCostumeMasterId",
+        "memberCostumeMasterId",
+        "storyCostumeMasterId",
+        "shopCostumeMasterId",
+        "illustCharacterMasterId",
+        "displayAwakeningStatus",
+        "homeCharacterDisplayType",
+        "loginBonusCharacterBaseMasterId",
+        "loginBonusCostumeMasterId",
+    ]
+    sets = ", ".join(f'"{c}" = ${i + 2}' for i, c in enumerate(cols))
+    return ExecutableQuery(
+        f'UPDATE "home_display_preference" SET {sets} WHERE "userId" = $1',
+        user_id,
+        *[fields.get(c) for c in cols],
+    )
+
+
+def set_home_bgm(
+    user_id: int, master_id: int, selection_type: int, detail_master_id
+) -> ExecutableQuery:
+    """Replace the caller's Home BGM selection (a per-user singleton, keyed on userId with
+    no id column, so the old row is deleted in the same statement)."""
+    return ExecutableQuery(
+        'WITH d AS (DELETE FROM "home_b_g_m" WHERE "userId" = $1) '
+        'INSERT INTO "home_b_g_m" ("userId", "homeBGMMasterId", "selectionType", '
+        '"homeBGMDetailMasterId") VALUES ($1, $2, $3, $4)',
+        user_id,
+        master_id,
+        selection_type,
+        detail_master_id,
+    )
+
+
+def update_character_base_costume(
+    user_id: int, character_base_master_id: int, costume_master_id: int
+) -> ExecutableQuery:
+    return ExecutableQuery(
+        'UPDATE "character_base" SET "costumeMasterId" = $3 '
+        'WHERE "userId" = $1 AND "characterBaseMasterId" = $2',
+        user_id,
+        character_base_master_id,
+        costume_master_id,
+    )
+
+
+def update_character_base_portal(
+    user_id: int,
+    character_base_master_id: int,
+    portal_character_id: int,
+    display_awakening: bool,
+) -> ExecutableQuery:
+    return ExecutableQuery(
+        'UPDATE "character_base" SET "portalCharacterId" = $3, '
+        '"portalDisplayAwakeningStatus" = $4 '
+        'WHERE "userId" = $1 AND "characterBaseMasterId" = $2',
+        user_id,
+        character_base_master_id,
+        portal_character_id,
+        display_awakening,
+    )
+
+
+def update_accessory_level(
+    user_id: int, accessory_id: int, level: int
+) -> ExecutableQuery:
+    return ExecutableQuery(
+        'UPDATE "accessory" SET "level" = $3 WHERE "userId" = $1 AND "id" = $2',
+        user_id,
+        accessory_id,
+        level,
+    )
+
+
+def update_poster_released_episode(
+    user_id: int, poster_id: int, released_episode: int
+) -> ExecutableQuery:
+    """Raise a poster's unlocked story chapter, never lowering it (the cap is enforced in
+    SQL so a stale request can't roll it back)."""
+    return ExecutableQuery(
+        'UPDATE "poster" SET "releasedEpisode" = $3 '
+        'WHERE "userId" = $1 AND "id" = $2 AND "releasedEpisode" < $3',
+        user_id,
+        poster_id,
+        released_episode,
+    )
+
+
+def set_stamp_favorites(
+    user_id: int, stamp_id: int, favorite_ids: list
+) -> ExecutableQuery:
+    return ExecutableQuery(
+        'UPDATE "stamp" SET "favoriteStampMasterIds" = $3 '
+        'WHERE "userId" = $1 AND "id" = $2',
+        user_id,
+        stamp_id,
+        favorite_ids,
+    )
+
+
+def set_favorite_costumes(
+    user_id: int, character_base_master_id: int, favorite_ids: list, new_id: int
+) -> ExecutableQuery:
+    """Set the favorite costumes for one character base, creating the row on first use
+    (FavoriteCostume is not seeded on a fresh account)."""
+    return ExecutableQuery(
+        "WITH upd AS ("
+        '  UPDATE "favorite_costume" SET "favoriteCostumeMasterIds" = $3 '
+        '  WHERE "userId" = $1 AND "characterBaseMasterId" = $2 RETURNING 1'
+        ") "
+        'INSERT INTO "favorite_costume" ("userId", "id", "characterBaseMasterId", '
+        '"favoriteCostumeMasterIds") SELECT $1, $4, $2, $3 '
+        "WHERE NOT EXISTS (SELECT 1 FROM upd)",
+        user_id,
+        character_base_master_id,
+        favorite_ids,
+        new_id,
+    )
+
+
+def add_watch_record(
+    user_id: int, table: str, column: str, new_id: int, master_id: int
+) -> ExecutableQuery:
+    """Record a watched MV/theater story once. No unique constraint on (userId, masterId),
+    so a repeat view inserts nothing rather than duplicating."""
+    return ExecutableQuery(
+        f'INSERT INTO "{table}" ("userId", "id", "{column}") '
+        f"SELECT $1, $2, $3 WHERE NOT EXISTS ("
+        f'  SELECT 1 FROM "{table}" WHERE "userId" = $1 AND "{column}" = $3)',
+        user_id,
+        new_id,
+        master_id,
+    )
+
+
 def breakthrough_poster(
     user_id: int, poster_id: int, max_phase: int
 ) -> ExecutableQuery:

@@ -222,3 +222,4 @@ config.yml
 # files that can be downloaded from server
 # when EOS these can be uncommented as there will no longer be any updates to these files
 _data/assets
+_data/photos

@@ -12,7 +12,17 @@ from helpers.config import config, database
 from helpers.master_data import master_data_db
 from helpers.msgpack import common_response, fault
 from realtime.dispatcher import RealtimeRouter, build_service
-from routes import routers
+from routes import live_modes, routers
+
+_PRESERVATION_TABLES = (
+    'CREATE TABLE IF NOT EXISTS preservation_live_context ('
+    '"userId" bigint PRIMARY KEY REFERENCES accounts("userId") ON DELETE CASCADE, '
+    'mode text NOT NULL, "masterId" integer NOT NULL, '
+    "extra jsonb NOT NULL DEFAULT '{}'::jsonb)",
+    'CREATE TABLE IF NOT EXISTS preservation_course_run ('
+    '"userId" bigint PRIMARY KEY REFERENCES accounts("userId") ON DELETE CASCADE, '
+    "data jsonb NOT NULL)",
+)
 
 # The realtime StreamingHub channel is a second listener (HTTP/2 + gRPC) that the
 # game connects to separately from the REST API. It is built here so both can share
@@ -30,6 +40,9 @@ async def lifespan(app: "YumeApp"):
     load_master_data()  # master data JSON -> models (helpers.cache.cache)
     if app.config is not None:
         await app.yume_setup()
+        async with app.acquire_db() as conn:  # live/course progression bookkeeping tables
+            for _sql in _PRESERVATION_TABLES:
+                await conn.conn.execute(_sql)
     if _realtime_cfg.get("auto_start"):
         await realtime_service.start()
     yield
@@ -48,6 +61,8 @@ app = YumeApp(
 for _r in routers:
     app.include_router(_r)
 app.include_router(RealtimeRouter(realtime_service).router)
+# prepend the live/lesson/course overrides so they take precedence over the base handlers
+live_modes.install(app)
 
 
 # master-data blob the client fetches from assets-e (redirected here): repacked from

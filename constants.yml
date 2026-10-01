@@ -1,0 +1,14 @@
+# Hardcoded server constants; some of these MAY only exist in server-side logic,
+# but others MAY be in masterdata that we haven't found.
+
+# Player-rank XP awarded per 1 stamina spent on a live (rank progression at finish).
+rank_xp_per_stamina: 4.5
+
+# Lessons.
+lesson_star_points: 250   # character star points granted for a cleared lesson
+lesson_rank_xp: 1500      # player-rank XP granted for a cleared lesson
+
+# Music-course lives.
+course_free_attempts: 2            # free stage-0 attempts before an entry fee applies
+waive_missing_course_tickets: true # let a run start even if the entry-fee item is missing
+unlimited_attempts: false          # ignore all daily/attempt limits when true

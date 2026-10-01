@@ -2,14 +2,15 @@ import time
 from typing import Optional
 
 from fastapi import APIRouter, Request
-from core import YumeApp
 
+from core import YumeApp
 from db.user import (
     get_users,
     mark_game_hint_read,
     update_user_splash_last_displayed_at,
     update_user_tutorial_status,
 )
+from helpers import game_state as gs
 from helpers.msgpack import read_request, respond
 from helpers.stamina import (
     adjust_and_check_stamina,
@@ -19,6 +20,11 @@ from helpers.user_data import build_present, current_user_id, data_object
 from models import *
 
 router = APIRouter(tags=["Player"])
+
+
+def _camel(name: str) -> str:
+    parts = name.split("_")
+    return parts[0] + "".join(p.title() for p in parts[1:])
 
 
 # /api/Player/RecoverStaminaByJewel?times=
@@ -50,9 +56,28 @@ async def player_set_home_bgm(
     selectionType: Optional[int] = None,
     mHomeBGMDetailId: Optional[int] = None,
 ):
-    app: YumeApp = request.app
-    payload = {}  # no payload
-    return respond(BooleanResult())
+    detail_id = mHomeBGMDetailId or None
+    try:
+        if mHomeBGMId is None or selectionType is None:
+            raise gs.Rejected()
+        m = gs.master("home_b_g_m_master", mHomeBGMId)
+        detail = gs.master("home_b_g_m_detail_master", detail_id) if detail_id else None
+        if (
+            not m
+            or selectionType not in (0, 1, 2)
+            or (detail_id and (not detail or detail.home_bgm_master_id != mHomeBGMId))
+        ):
+            raise gs.Rejected()
+        async with gs.transaction(request) as s:
+            values = dict(selectionType=selectionType, homeBGMDetailMasterId=detail_id)
+            row = await s.one("HomeBGM", homeBGMMasterId=mHomeBGMId)
+            if row:
+                await s.update("HomeBGM", row, **values)
+            else:
+                await s.insert("HomeBGM", homeBGMMasterId=mHomeBGMId, **values)
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
+        return respond(BooleanResult())
 
 
 # /api/Player/UpdateCapedPlayerRankAnnounce
@@ -91,9 +116,35 @@ async def player_update_game_hint_read(request: Request):
     "/api/Player/UpdateHomeDisplayPreference", name="Player_UpdateHomeDisplayPreference"
 )
 async def player_update_home_display_preference(request: Request):
-    app: YumeApp = request.app
-    payload = await read_request(request, UpdateHomeDisplayPreferencePayload)
-    return respond(BooleanResult())
+    try:
+        payload = await read_request(request, UpdateHomeDisplayPreferencePayload)
+        if payload is None:
+            raise gs.Rejected()
+        values = {_camel(k): v for k, v in payload.model_dump().items()}
+        # the client's login-bonus field is a spine costume (a different master namespace);
+        # the row stores it as the plain loginBonusCostumeMasterId column
+        values["loginBonusCostumeMasterId"] = values.pop("loginBonusSpineCostumeMasterId")
+        values["homeCharacterDisplayType"] = int(values["homeCharacterDisplayType"])
+        async with gs.transaction(request) as s:
+            for prefix in ("home", "member", "story", "shop", "loginBonus"):
+                base = values[prefix + "CharacterBaseMasterId"]
+                costume = values[prefix + "CostumeMasterId"]
+                if base and not await s.one("CharacterBase", characterBaseMasterId=base):
+                    raise gs.Rejected()
+                if base and costume and prefix != "loginBonus":
+                    await gs.costume_owned(s, base, costume)
+            if values["illustCharacterMasterId"] and not await s.one(
+                "Character", characterMasterId=values["illustCharacterMasterId"]
+            ):
+                raise gs.Rejected()
+            row = await s.one("HomeDisplayPreference")
+            if row:
+                await s.update("HomeDisplayPreference", row, **values)
+            else:
+                await s.insert("HomeDisplayPreference", **values)
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
+        return respond(BooleanResult())
 
 
 # /api/Player/UpdateSplashLastDisplayTime

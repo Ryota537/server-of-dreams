@@ -15,9 +15,9 @@ KEYS = {
         (12, "selection_type", "CharacterSelectionTypes", False, "enum", False),
     ),
     "LiveStatus": (
-        (0, "concentration", "int", False, "prim", False),
+        (0, "vocal", "int", False, "prim", False),
         (1, "expression", "int", False, "prim", False),
-        (2, "vocal", "int", False, "prim", False),
+        (2, "concentration", "int", False, "prim", False),
         (3, "total_status", "int", False, "prim", False),
     ),
     "Fault": (
@@ -2949,9 +2949,9 @@ KEYS = {
         (0, "live_units", "LiveUnitWithOrder", True, "model", True),
     ),
     "Status": (
-        (0, "concentration", "int", False, "prim", False),
+        (0, "vocal", "int", False, "prim", False),
         (1, "expression", "int", False, "prim", False),
-        (2, "vocal", "int", False, "prim", False),
+        (2, "concentration", "int", False, "prim", False),
     ),
     "StoryEvent": (
         (0, "id_", "long", False, "prim", False),

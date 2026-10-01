@@ -1,85 +1,67 @@
-from typing import Optional
-
 from fastapi import APIRouter, Request, Response
 from starlette.exceptions import HTTPException
-from core import YumeApp
 
-from db.user import get_episodes, update_episode_read_all, upsert_episode
+from helpers.cache import cache
+from helpers.character_enhance import character_master
 from helpers.episodes import (
+    _local_meta,
     episode_read_reward_things,
     episode_readall_reward_things,
     episode_result,
     episode_scene_bin,
     scene_bin_name,
 )
-from helpers.msgpack import read_request, respond
-from helpers.things import grant_things_consolidated, present_type
-from helpers.user_data import build_present, current_user_id, data_object
+from helpers.game_state import Rejected, character_progress, transaction
+from helpers.msgpack import respond
 from models import *
-from models.database import EpisodeModel
 
 router = APIRouter(tags=["Episodes"])
 
 
-async def _complete_read(
-    app: YumeApp, user_id: int, episode_master_id: int, read_all: bool
-):
-    """Read (skip) grants the read reward (the episode's package) once. ReadAll additionally
-    grants the read-all reward (the 歌劇目録 catalogue item) once. Each is granted only if not
-    already claimed, so read-then-readall gives the read-all reward exactly once and doesn't
-    re-grant the read reward. Returns the granted ReceivedThing[] + present (Episode +
-    resources). Missions are not handled yet."""
-    # TODO: verify the caller has this episode unlocked (release conditions) before rewarding.
-    things: list[tuple[int, int, int]] = []
-    final_read_all = read_all
-    async with app.acquire_db() as conn:
-        episodes = await conn.fetch(get_episodes(user_id))
-        existing = next(
-            (e for e in episodes if e.episodeMasterId == episode_master_id), None
-        )
-        if existing is None:  # first read -> read reward (+ read-all reward if ReadAll)
-            things = list(episode_read_reward_things(episode_master_id))
-            if read_all:
-                things += episode_readall_reward_things(episode_master_id)
-            await conn.execute(
-                upsert_episode(
-                    user_id,
-                    {"episodeMasterId": episode_master_id, "hasReadAll": read_all},
-                )
+async def read_story(request: Request, eid: int, read_all: bool):
+    """Grant an episode's read reward once (ReadAll additionally grants the read-all reward).
+    Character episodes are gated on the character having the episode released, and advance the
+    character's reading progress + character mission on first read."""
+    try:
+        async with transaction(request) as s:
+            relation = next(
+                (
+                    e
+                    for e in cache.character_episode_master
+                    if e.episode_master_id == eid
+                ),
+                None,
             )
-        else:
-            final_read_all = existing.hasReadAll or read_all
-            if read_all and not existing.hasReadAll:  # read before, now read-all
-                things = list(episode_readall_reward_things(episode_master_id))
-                await conn.execute(
-                    update_episode_read_all(user_id, episode_master_id, True)
+            char = None
+            if relation:
+                char = await s.one(
+                    "Character", characterMasterId=relation.character_master_id
                 )
-
-        result = (
-            await grant_things_consolidated(conn, user_id, things) if things else []
-        )
-
-    present = [
-        data_object(
-            "Episode",
-            EpisodeModel(
-                userId=user_id,
-                episodeMasterId=episode_master_id,
-                hasReadAll=final_read_all,
-            ),
-        )
-    ]
-    if result:
-        # only the granted items belong in present, not the whole inventory (item row id ==
-        # item master id, so we can scope the Item refresh to the ids we just granted).
-        item_ids = {int(r.id_) for r in result if present_type(int(r.type)) == "Item"}
-        specs: list = [
-            t for t in {present_type(int(r.type)) for r in result} if t and t != "Item"
-        ]
-        if item_ids:
-            specs.append(("Item", item_ids))
-        present += await build_present(app, user_id, *specs)
-    return respond(result, present=present)
+                if not char or char["releasedEpisodeOrder"] < int(
+                    relation.episode_order
+                ):
+                    raise Rejected()
+            existing = await s.one("Episode", episodeMasterId=eid)
+            rewards: list = []
+            if not existing:
+                rewards += episode_read_reward_things(eid)
+                if read_all:
+                    rewards += episode_readall_reward_things(eid)
+                await s.insert(
+                    "Episode", id=eid, episodeMasterId=eid, hasReadAll=read_all
+                )
+                if char:
+                    order = max(char["readEpisodeOrder"], int(relation.episode_order))
+                    await s.update("Character", char, readEpisodeOrder=order)
+                    cm = character_master(relation.character_master_id)
+                    await character_progress(s, cm.character_base_master_id, 4, 1)
+            elif read_all and not existing["hasReadAll"]:
+                rewards += episode_readall_reward_things(eid)
+                await s.update("Episode", existing, hasReadAll=True)
+            result = await s.grant(rewards)
+        return respond(result, present=s.present())
+    except Rejected:
+        return respond([])
 
 
 # Scene script blob: EpisodeDetailResult[] packed to msgpack, served as the .bin the client
@@ -104,21 +86,13 @@ async def episodes_scene_bin(request: Request, filename: str) -> Response:
 # /api/Episodes/{episodeMasterId}/Read  (read by skipping -> has_read_all = false)
 @router.post("/api/Episodes/{episodeMasterId}/Read", name="Episodes_CompleteRead")
 async def episodes_complete_read(request: Request, episodeMasterId: int):
-    app: YumeApp = request.app
-    user_id = current_user_id(request)
-    if user_id is None:
-        return respond([])
-    return await _complete_read(app, user_id, episodeMasterId, read_all=False)
+    return await read_story(request, episodeMasterId, False)
 
 
 # /api/Episodes/{episodeMasterId}/ReadAll  (read all the text -> has_read_all = true)
 @router.post("/api/Episodes/{episodeMasterId}/ReadAll", name="Episodes_CompleteReadAll")
 async def episodes_complete_read_all(request: Request, episodeMasterId: int):
-    app: YumeApp = request.app
-    user_id = current_user_id(request)
-    if user_id is None:
-        return respond([])
-    return await _complete_read(app, user_id, episodeMasterId, read_all=True)
+    return await read_story(request, episodeMasterId, True)
 
 
 # /api/Episodes/{episodeMasterId}/GetDetails
@@ -126,11 +100,11 @@ async def episodes_complete_read_all(request: Request, episodeMasterId: int):
     "/api/Episodes/{episodeMasterId}/GetDetails", name="Episodes_GetEpisodeDetail"
 )
 async def episodes_get_episode_detail(request: Request, episodeMasterId: int):
-    app: YumeApp = request.app
-    # TODO: verify the caller has this episode unlocked (release conditions) before serving it.
     # Returns a single EpisodeResult (title/storyType/order + EpisodeDetailAssetSource); the
-    # client downloads that asset source to get the EpisodeDetailResult[] script. Uses the
-    # common response envelope -- ParseWithoutCommonResponse just reads its `result`. An episode
-    # we don't have vendored yields an empty EpisodeResult.
+    # client downloads that asset source to get the EpisodeDetailResult[] script. Local
+    # metadata fills in the title/order/story type when available.
     result = episode_result(episodeMasterId)
+    metadata = _local_meta(episodeMasterId)
+    if result and metadata:
+        result.episode_title, result.episode_order, result.story_type = metadata
     return respond(result if result is not None else EpisodeResult())

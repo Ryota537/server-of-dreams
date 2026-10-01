@@ -15,38 +15,8 @@ python -m scripts.download_all_assets   # https://github.com/Ryota537/asset-of-d
 python main.py
 ```
 
-## Roadmap
-2026/07/17 - EOS announced (RIP)
-
-2026/07/17 - Development begins
-
-2026/07/18 - Masterdata/assets routes implemented
-
-2026/07/18 - Account registration and tutorial implemented
-
-2026/07/18 - Basic friends system implemented
-
-2026/07/18 - Game hints and splash read statuses implemented
-
-2026/07/19 - Inbox receive/bulk receive implemented
-
-2026/07/19 - Live start and stamina
-
-2026/07/19 - Live end, drops, ratings, clear lamps
-
-2026/07/19 - Episodes (and read rewards)
-
-2026/07/20 - Party Edits (no triple cast)
-
-2026/07/20 - Gacha Pulls (exclude non pickup gachas and reroll gachas)
-
-2026/07/20 - Music Shop + Market
-
-2026/07/20 - Character Level Up, Awakening, Sense Enhance, Talent Bloom
-
-2026/09/28 - EOS 🫡 (some server side math just got very very hard or impossible...)
-
-2026/09/30 - Add account takeovers, fix character level up math
+## Changelog
+[Changelog](CHANGELOG.md)
 
 ## Priority Todo
 - Player rating history log
@@ -71,6 +41,10 @@ A lot of game resources may be in downloaded asset bundles? Confirmation would h
 POST https://lb-api.wds-stellarium.com/api/Home/CheckEexternalPayment -> no electronic external payments
 
 # Credits
+All contributors on this repository, plus...
+
 - [t-wy](https://github.com/t-wy) for user ID hashing
 - [wds-sirius/Adv-Resource](https://github.com/wds-sirius/Adv-Resource) for episode data and archive (`_data/episodes/`)
 - [assets-of-dreams](https://github.com/Ryota537/asset-of-dreams) for archived game assets
+- [Alehero](https://github.com/Alehero/yumesute-preservation-server) for their work on some features
+- [ulong32](https://github.com/Alehero/yumesute-preservation-server/issues/1) for figuring out the Olivier SpRate math

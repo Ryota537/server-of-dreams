@@ -13,6 +13,7 @@ endpoint now returns 410 GONE (end of service).
 
 import argparse
 import io
+import json
 import sys
 import urllib.request
 import zipfile
@@ -28,6 +29,34 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 # from models import MasterDataManifest
 
 OUT = Path(__file__).resolve().parent.parent / "_data" / "masterdata"
+
+
+def _fix_character_stats(out_dir: Path) -> int:
+    """Correct swapped actor base stats before saving.
+
+    The published archive (and the client dump our models derive from) label the Status
+    Key(0)/Key(2) fields backwards, so ``CharacterMaster.min_level_status`` arrives with
+    vocal and concentration swapped. The game's real order is vocal=0, expression=1,
+    concentration=2 (confirmed by the client's own ``PartySlotDetail.current_status_*``
+    named fields and OpenSiriusServer). models/keys.py Status/LiveStatus are fixed to that
+    order; here we swap the stored values to match. Returns the number of rows corrected.
+    """
+    path = out_dir / "CharacterMaster.json"
+    if not path.is_file():
+        return 0
+    rows = json.loads(path.read_text(encoding="utf-8"))
+    fixed = 0
+    for row in rows:
+        status = row.get("min_level_status")
+        if isinstance(status, dict) and "vocal" in status and "concentration" in status:
+            status["vocal"], status["concentration"] = (
+                status["concentration"],
+                status["vocal"],
+            )
+            fixed += 1
+    path.write_text(json.dumps(rows, ensure_ascii=False, indent=1), encoding="utf-8")
+    return fixed
+
 
 MASTERDATA_URL = (
     "https://github.com/Ryota537/asset-of-dreams/releases/download/"
@@ -86,7 +115,8 @@ def main() -> None:
             count += 1
     # The archive's JSON is already keyed by field name, so unlike the live blob
     # it needs no unpack/from_array pass -- we just drop the files into place.
-    print(f"unpacked {count} tables -> {OUT}")
+    fixed = _fix_character_stats(OUT)
+    print(f"unpacked {count} tables -> {OUT} (corrected {fixed} actor stat rows)")
 
 
 main()

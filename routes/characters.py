@@ -1,8 +1,10 @@
+import math
+from collections import Counter
 from typing import Optional
 
 from fastapi import APIRouter, Request
-from core import YumeApp
 
+from core import YumeApp
 from db.user import (
     get_characters,
     get_items,
@@ -10,12 +12,11 @@ from db.user import (
     increment_item_stocks,
     update_character_awakening,
     update_character_level,
-    update_character_sense_level,
-    update_character_talent_stage,
 )
+from helpers import game_state as gs
+from helpers.cache import cache
 from helpers.character_enhance import (
     awakening_cost,
-    bloom_cost,
     bloom_rewards,
     character_master,
     max_awakening_phase,
@@ -29,10 +30,10 @@ from helpers.character_level import (
     experience_item,
     experience_to_reach,
     level_cap,
+    released_max_level,
     spend_from_pool,
 )
 from helpers.msgpack import fault, read_request, read_request_list, respond
-from helpers.things import grant_things_consolidated, present_type
 from helpers.user_data import build_present, current_user_id
 from models import *
 
@@ -78,57 +79,73 @@ def _experience_pool(stock: dict) -> dict:
     }
 
 
+def _actor_item_experience(costs: dict, bonus: float) -> int:
+    # official one/two-item captures round each item before multiplying quantity
+    return sum(
+        n * math.floor(experience_item(i).acquirable_experience * (1 + bonus / 100))
+        for i, n in costs.items()
+    )
+
+
+def _actor_experience(level: int, current: int, gained: int, cap: int, rarity):
+    # the master curve is for rarity 4; lower rarities pay a fraction of each level's step
+    factor = {1: 0.3, 2: 0.5, 3: 0.8, 4: 1.0}[int(rarity)]
+    levels = {x.level: x.experience_to_level_up for x in cache.character_level_master}
+    experience = current + gained
+    while level < cap:
+        need = math.floor(levels[level] * factor)
+        if need <= 0 or experience < need:
+            break
+        experience -= need
+        level += 1
+    return level, experience
+
+
 # /api/Characters/{characterId}/AddExperience
 @router.post(
     "/api/Characters/{characterId}/AddExperience", name="Characters_AddExperience"
 )
 async def characters_add_experience(request: Request, characterId: int):
-    app: YumeApp = request.app
-    user_id = current_user_id(request)
-    payloads = await read_request_list(request, UseExperienceItemsPayload)
-    if user_id is None or not payloads:
+    try:
+        payloads = await read_request_list(request, UseExperienceItemsPayload)
+        costs: Counter = Counter()
+        raw = 0
+        bonus_gain = 0
+        for entry in payloads or []:
+            item = experience_item(entry.item_master_id)
+            if not item or entry.quantity < 0:
+                raise gs.Rejected()
+            costs[entry.item_master_id] += entry.quantity
+            raw += item.acquirable_experience * entry.quantity
+            bonus_gain += item.acquirable_experience_bonus * entry.quantity
+        if raw <= 0:
+            raise gs.Rejected()
+        async with gs.transaction(request) as s:
+            row = await s.one("Character", id=characterId)
+            user = await s.one("User")
+            bonus = await s.one("UserBonus")
+            if not row or not user or not bonus:
+                raise gs.Rejected()
+            cm = character_master(row["characterMasterId"])
+            cap = min(user["playerRank"], released_max_level())
+            if row["level"] >= cap:
+                raise gs.Rejected()
+            gained = _actor_item_experience(costs, bonus["experienceBonus"])
+            level, exp = _actor_experience(
+                row["level"], row["currentExperience"], gained, cap, cm.rarity
+            )
+            delta = level - row["level"]
+            await s.pay(costs)
+            await s.update("Character", row, level=level, currentExperience=exp)
+            await s.update(
+                "UserBonus",
+                bonus,
+                experienceBonus=gs.f32(bonus["experienceBonus"] + bonus_gain),
+            )
+            await gs.level_missions(s, cm, delta, level)
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
         return respond(BooleanResult())
-
-    # the client may list an item more than once, and lists the ones it isn't using at
-    # quantity 0 -- fold the entries so a single stock check covers the whole batch
-    use: dict = {}
-    gained = 0
-    for entry in payloads:
-        master = experience_item(entry.item_master_id)
-        if master is None:
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-        if entry.quantity <= 0:
-            continue
-        use[entry.item_master_id] = use.get(entry.item_master_id, 0) + entry.quantity
-        gained += master.acquirable_experience * entry.quantity
-    if not use:
-        return respond(BooleanResult())
-
-    async with app.acquire_db() as conn, conn.transaction():
-        user = await conn.fetchrow(get_users(user_id))
-        character = await _character(conn, user_id, characterId)
-        if user is None or character is None:
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-        if not await _pay_items(conn, user_id, use):
-            return respond(BooleanResult(), faults=[fault("NotEnoughThing")])
-
-        # a character sitting at the cap still takes the exp -- it banks against the next
-        # player rank uncap instead of being thrown away
-        level, experience = apply_experience(
-            character.level,
-            character.currentExperience,
-            gained,
-            level_cap(user),
-            character_rarity(character.characterMasterId),
-        )
-        await conn.execute(
-            update_character_level(user_id, characterId, level, experience)
-        )
-
-    present = await build_present(
-        app, user_id, ("Character", {characterId}), ("Item", set(use))
-    )
-    return respond(BooleanResult(is_success=True), present=present)
 
 
 # /api/Characters/{characterId}/Awaken
@@ -170,46 +187,48 @@ async def characters_awaken(request: Request, characterId: int):
     "/api/Characters/{characterId}/BloomTalent/{stageTo}", name="Characters_BloomTalent"
 )
 async def characters_bloom_talent(request: Request, characterId: int, stageTo: int):
-    """Bloom a character's talent up to ``stageTo``, paying for every stage on the way."""
-    app: YumeApp = request.app
-    user_id = current_user_id(request)
-    payload = {}  # no payload -- the target stage is a path segment
-    if user_id is None:
+    """Bloom a character's talent up to ``stageTo``, paying for every stage on the way.
+    Owned pieces are spent first, generic pieces cover any shortfall."""
+    from helpers.character_enhance import _bloom_step, _generic_piece, _piece
+
+    try:
+        async with gs.transaction(request) as s:
+            row = await s.one("Character", id=characterId)
+            if not row:
+                raise gs.Rejected()
+            cm = character_master(row["characterMasterId"])
+            if not cm or not row["talentStage"] < stageTo <= max_talent_stage(cm):
+                raise gs.Rejected()
+            stock = {r["itemMasterId"]: r["stock"] for r in await s.rows("Item")}
+            costs: Counter = Counter()
+            remaining = stock.copy()
+            for stage in range(row["talentStage"], stageTo):
+                step = _bloom_step(cm.rarity, stage)
+                piece = _piece(cm.id_, step.talent_bloom_item_type)
+                own = min(
+                    remaining.get(piece.item_master_id, 0), step.required_piece_amount
+                )
+                costs[piece.item_master_id] += own
+                remaining[piece.item_master_id] = (
+                    remaining.get(piece.item_master_id, 0) - own
+                )
+                short = step.required_piece_amount - own
+                if short:
+                    generic, _ = _generic_piece(cm, step, piece)
+                    if not generic or cm.forbid_generic_item_bloom:
+                        raise gs.Rejected()
+                    costs[generic] += short
+                if step.required_item_master_id:
+                    costs[step.required_item_master_id] += step.required_item_amount or 0
+            await s.pay(costs)
+            delta = stageTo - row["talentStage"]
+            rewards = bloom_rewards(cm, row["talentStage"], stageTo)
+            await s.update("Character", row, talentStage=stageTo)
+            await s.grant(rewards)
+            await gs.character_progress(s, cm.character_base_master_id, 6, delta)
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
         return respond(BooleanResult())
-
-    rewards: list = []
-    received: list = []
-    async with app.acquire_db() as conn, conn.transaction():
-        character = await _character(conn, user_id, characterId)
-        master = character_master(character.characterMasterId) if character else None
-        if character is None or master is None:
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-        if not character.talentStage < stageTo <= max_talent_stage(master):
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-
-        stock = await _item_stock(conn, user_id)
-        # what the bill is depends on what's owned -- own pieces first, generic for the rest
-        cost = bloom_cost(master, character.talentStage, stageTo, stock)
-        if cost is None or not await _pay_items(conn, user_id, cost, stock):
-            return respond(BooleanResult(), faults=[fault("NotEnoughThing")])
-        await conn.execute(update_character_talent_stage(user_id, characterId, stageTo))
-
-        rewards = bloom_rewards(master, character.talentStage, stageTo)
-        if rewards:
-            received = await grant_things_consolidated(conn, user_id, rewards)
-
-    refresh = {present_type(int(r.type)) for r in received}
-    refresh.discard(None)
-    refresh.discard("Item")  # the item ids are reported alongside the ones just spent
-    items = set(cost) | {tid for tt, tid, _ in rewards if tt == int(ThingTypes.Item)}
-    present = await build_present(
-        app,
-        user_id,
-        ("Character", {characterId}),
-        ("Item", items),
-        *sorted(refresh),
-    )
-    return respond(BooleanResult(is_success=True), present=present)
 
 
 # /api/Characters/BulkLevelUp
@@ -283,41 +302,37 @@ async def characters_enhance_sense_level(
 ):
     """Raise a sense to ``levelTo``. ``priority`` picks which of a dual character's two
     senses is being enhanced -- they level independently, out of the same item group."""
-    app: YumeApp = request.app
-    user_id = current_user_id(request)
-    payload = {}  # no payload -- target level and sense are path/query
-    if user_id is None:
+    pr = priority if priority is not None else 1
+    try:
+        async with gs.transaction(request) as s:
+            row = await s.one("Character", id=characterId)
+            if not row or pr not in (1, 2):
+                raise gs.Rejected()
+            cm = character_master(row["characterMasterId"])
+            field = "senseLevel" if pr == 1 else "secondarySenseLevel"
+            base = (
+                cm.character_base_master_id
+                if pr == 1
+                else cm.secondary_character_base_master_id
+            )
+            # the cost table starts at level 1, and so does a sense -- a secondary that was
+            # never initialised reads 0 but stands at that same first step (deliberately
+            # kept from our prior impl; the reference used the raw 0)
+            current = max(1, row[field])
+            if not base or not current < levelTo <= max_sense_level(cm):
+                raise gs.Rejected()
+            costs = sense_enhance_cost(cm, current, levelTo)
+            if not costs:
+                raise gs.Rejected()
+            delta = levelTo - current
+            await s.pay(costs)
+            await s.update("Character", row, **{field: levelTo})
+            await gs.character_progress(s, base, 5, delta)
+            if levelTo >= 2:
+                await gs.mission_progress(s, 14, create=True, absolute=1)
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
         return respond(BooleanResult())
-    secondary = priority == int(SenseFirePriority.Secondary)
-
-    async with app.acquire_db() as conn, conn.transaction():
-        character = await _character(conn, user_id, characterId)
-        master = character_master(character.characterMasterId) if character else None
-        if character is None or master is None:
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-        if secondary and master.secondary_sense_master_id is None:
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-        # the cost table starts at level 1, and so does a sense -- a secondary that was never
-        # initialised reads 0 in its column but is standing at the same first step
-        current = max(
-            1, character.secondarySenseLevel if secondary else character.senseLevel
-        )
-        if not current < levelTo <= max_sense_level(master):
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-
-        cost = sense_enhance_cost(master, current, levelTo)
-        if cost is None:
-            return respond(BooleanResult(), faults=[fault("InvalidRequest")])
-        if not await _pay_items(conn, user_id, cost):
-            return respond(BooleanResult(), faults=[fault("NotEnoughThing")])
-        await conn.execute(
-            update_character_sense_level(user_id, characterId, levelTo, secondary)
-        )
-
-    present = await build_present(
-        app, user_id, ("Character", {characterId}), ("Item", set(cost))
-    )
-    return respond(BooleanResult(is_success=True), present=present)
 
 
 # /api/Characters/LinkCharacter?mCharacterBaseId=&linkedMCharacterBaseId=
@@ -353,9 +368,47 @@ async def characters_receive_link_character_reward(
 async def characters_release_side_story(
     request: Request, characterMasterId: int, order: Optional[int] = None
 ):
-    app: YumeApp = request.app
-    payload = {}  # no payload
-    return respond(BooleanResult())
+    target = order if order is not None else 1
+    try:
+        async with gs.transaction(request) as s:
+            row = await s.one("Character", characterMasterId=characterMasterId)
+            cm = character_master(characterMasterId)
+            episode = next(
+                (
+                    e
+                    for e in cache.character_episode_master
+                    if e.character_master_id == characterMasterId
+                    and int(e.episode_order) == target
+                ),
+                None,
+            )
+            if (
+                not row
+                or not cm
+                or not episode
+                or row["level"] < episode.required_character_level
+                or target != row["releasedEpisodeOrder"] + 1
+            ):
+                raise gs.Rejected()
+            gid = (
+                cm.first_episode_release_item_group_id
+                if target == 1
+                else cm.second_episode_release_item_group_id
+            )
+            group = gs.master("character_episode_release_item_group_master", gid)
+            if not group:
+                raise gs.Rejected()
+            costs: Counter = Counter()
+            for i in group.items or []:
+                if i.order == target:
+                    costs[i.item_master_id] += i.required_quantity
+            if not costs:
+                raise gs.Rejected()
+            await s.pay(costs)
+            await s.update("Character", row, releasedEpisodeOrder=target)
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
+        return respond(BooleanResult())
 
 
 # /api/Characters/SetFavorite
@@ -374,9 +427,16 @@ async def characters_set_character_favorite(request: Request):
 async def characters_set_costume(
     request: Request, characterBaseMasterId: int, costumeMasterId: int
 ):
-    app: YumeApp = request.app
-    payload = {}  # no payload
-    return respond(BooleanResult())
+    try:
+        async with gs.transaction(request) as s:
+            await gs.costume_owned(s, characterBaseMasterId, costumeMasterId)
+            base = await s.one(
+                "CharacterBase", characterBaseMasterId=characterBaseMasterId
+            )
+            await s.update("CharacterBase", base, costumeMasterId=costumeMasterId)
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
+        return respond(BooleanResult())
 
 
 # /api/Characters/Portal/SetCharacter
@@ -384,9 +444,27 @@ async def characters_set_costume(
     "/api/Characters/Portal/SetCharacter", name="Characters_SetPortalMCharacter"
 )
 async def characters_set_portal_mcharacter(request: Request):
-    app: YumeApp = request.app
-    payload = await read_request(request, ActorPortalCharacterPayload)
-    return respond(BooleanResult())
+    try:
+        payload = await read_request(request, ActorPortalCharacterPayload)
+        if payload is None:
+            raise gs.Rejected()
+        async with gs.transaction(request) as s:
+            if not character_master(payload.character_id) or not await s.one(
+                "Character", characterMasterId=payload.character_id
+            ):
+                raise gs.Rejected()
+            base = await s.one(
+                "CharacterBase", characterBaseMasterId=payload.character_base_id
+            )
+            await s.update(
+                "CharacterBase",
+                base,
+                portalCharacterId=payload.character_id,
+                portalDisplayAwakeningStatus=bool(payload.is_awakening),
+            )
+        return respond(BooleanResult(is_success=True), present=s.present())
+    except gs.Rejected:
+        return respond(BooleanResult())
 
 
 # /api/Characters/{characterId}/SwitchCharacterDisplayAwakeningStatusAsync
