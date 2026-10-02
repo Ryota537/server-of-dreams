@@ -57,16 +57,31 @@ def catalog_hash(kind: str, platform: str) -> Optional[Tuple[bytes, str]]:
     return _hash_cache[key]
 
 
+def catalog_raw(kind: str, platform: str) -> Optional[Tuple[bytes, str]]:
+    raw = _catalog(kind, platform)
+    if raw is None:
+        return None
+    return raw, _content_md5(raw)
+
+
 def local_assets_enabled() -> bool:
     return bool(config["local_assets"])
+
+
+def bundle_path(kind: str, platform: str, rel_path: str) -> Optional[Path]:
+    """Return local Path if file exists inside asset directory, else None."""
+    path = (ASSETS / kind / platform.lower() / rel_path).resolve()
+    root = (ASSETS / kind / platform.lower()).resolve()
+    if root not in path.parents or not path.is_file():
+        return None
+    return path
 
 
 def bundle(kind: str, platform: str, rel_path: str) -> Optional[Tuple[bytes, str]]:
     """A local asset bundle and its Content-MD5, or None if not downloaded. Not
     memoized -- there are tens of thousands of bundles."""
-    path = (ASSETS / kind / platform.lower() / rel_path).resolve()
-    root = (ASSETS / kind / platform.lower()).resolve()
-    if root not in path.parents or not path.is_file():  # stay inside the asset dir
+    path = bundle_path(kind, platform, rel_path)
+    if path is None:
         return None
     body = path.read_bytes()
     return body, _content_md5(body)
@@ -74,6 +89,15 @@ def bundle(kind: str, platform: str, rel_path: str) -> Optional[Tuple[bytes, str
 
 def official_url(kind: str, platform: str, version: str, rel_path: str) -> str:
     return f"{OFFICIAL_ASSET_URL}/{kind}/{platform}/{version}/{rel_path}"
+
+
+def notation_path(music_id: str, filename: str) -> Optional[Path]:
+    """Return local Path if notation file exists, else None."""
+    path = (ASSETS / "Notations" / music_id / filename).resolve()
+    root = (ASSETS / "Notations").resolve()
+    if root not in path.parents or not path.is_file():
+        return None
+    return path
 
 
 def notation(music_id: str, filename: str) -> Optional[Tuple[bytes, str]]:
