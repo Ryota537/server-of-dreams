@@ -26,6 +26,22 @@ grant_music_tickets: false
 # official url: https://lb-api.wds-stellarium.com
 api_endpoint: http://127.0.0.1:8080
 
+# Cloudflare R2 multi-account storage integration (split assets across free tier accounts)
+# Each free Cloudflare account gets 10 GB storage with 0 egress fees.
+r2_storage:
+  enabled: false
+  # mode: "proxy" (stream from R2 to client, 200 OK) or "redirect" (HTTP 302 Found)
+  mode: "proxy"
+  routes:
+    # Map category to public R2 custom domain or r2.dev URL:
+    cri: "https://r2-cri.example.com"          # Account 1 (~8 GB)
+    2d: "https://r2-2d.example.com"            # Account 2 (~8 GB)
+    3d: "https://r2-3d.example.com"            # Account 3 (~9 GB)
+    # Prefix-specific routing is supported (useful to split large categories like 3d):
+    # "3d:theatrecontrollers": "https://r2-3d-b.example.com"
+    static: "https://r2-static.example.com"    # Account 4 or static assets
+    notations: "https://r2-cri.example.com/Notations"
+
 # /api/Environment URLs handed to the client
 # NOTE: change all to same endpoint if hosting on a domain (merged assets-e into api server)
 master_data_url: https://assets-e.wds-stellarium.com/master-data/production

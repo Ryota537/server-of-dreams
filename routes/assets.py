@@ -17,6 +17,7 @@ from helpers.assets import (
     official_notation_url,
     official_url,
 )
+from helpers.r2_storage import serve_r2_asset
 
 router = APIRouter(tags=["Assets"], include_in_schema=False)
 
@@ -44,6 +45,12 @@ def _octet(result) -> Response:
     "/production/static-assets/{filepath:path}", name="Assets_StaticAssets"
 )
 async def asset_static(filepath: str) -> Response:
+    # 1. Check Cloudflare R2 multi-account storage first
+    r2_res = await serve_r2_asset("static-assets", filepath)
+    if r2_res is not None:
+        return r2_res
+
+    # 2. Local disk asset
     path = (ASSETS / "static-assets" / filepath).resolve()
     root = (ASSETS / "static-assets").resolve()
     if root in path.parents and path.is_file():
@@ -65,6 +72,11 @@ async def asset_static(filepath: str) -> Response:
 # raw encrypted bytes (local if downloaded, else a redirect to the real CDN).
 @router.get("/production/Notations/{music_id}/{filename}", name="Assets_Notation")
 async def asset_notation(music_id: str, filename: str) -> Response:
+    # 1. Check Cloudflare R2 multi-account storage first
+    r2_res = await serve_r2_asset("notations", f"{music_id}/{filename}")
+    if r2_res is not None:
+        return r2_res
+
     if local_assets_enabled():
         local = notation_path(music_id, filename)
         if local is not None:
@@ -91,6 +103,11 @@ async def asset_production(
     elif filepath.endswith(".json"):
         result = catalog_raw(kind, platform)
     else:
+        # Check Cloudflare R2 multi-account storage first
+        r2_res = await serve_r2_asset(kind, filepath)
+        if r2_res is not None:
+            return r2_res
+
         if local_assets_enabled():
             local = bundle_path(kind, platform, filepath)
             if local is not None:
