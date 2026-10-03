@@ -6,11 +6,14 @@ A live's rewards come from a chain of masterdata:
             -> LiveDropFrameMaster.rewards        (the things that frame drops)
 
 Each frame is gated by a FrameLotCondition (unconditional, or thresholds on stamina spent /
-score / star-acts / achievement rate). Every frame whose condition is met drops its rewards.
-``grant_frames`` collects the rewards of one or many frames, consolidates identical resources,
-and batch-grants them (see ``grant_things_consolidated``), returning the per-reward
-``LiveDropThing`` list for the result screen.
+score / star-acts / achievement rate) and by its availability window. Every frame that is
+currently available and whose condition is met drops its rewards. ``grant_frames`` collects
+the rewards of one or many frames, consolidates identical resources, and batch-grants them
+(see ``grant_things_consolidated``), returning the per-reward ``LiveDropThing`` list for the
+result screen.
 """
+
+from datetime import datetime, timezone
 
 from helpers.cache import cache
 from helpers.things import grant_things_consolidated
@@ -26,6 +29,28 @@ def _build() -> None:
         return
     _SETTING.update({m.id_: m for m in cache.live_setting_master})
     _FRAME_GROUP.update({m.id_: m for m in cache.live_drop_frame_group_master})
+
+
+def _frame_available(frame, now: datetime) -> bool:
+    """Whether a frame is inside its availability window -- start-inclusive, end-exclusive.
+
+    A permanent frame carries no dates and always drops; a seasonal frame (a past New Year
+    lottery ticket, an Easter egg, ...) only drops between its start and end, so an expired
+    one no longer appears on normal results. Reward amounts and already-owned items are
+    untouched -- this gates only whether the frame is offered at all.
+    """
+
+    def instant(value: str):
+        if not value:
+            return None
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+
+    try:
+        start, end = instant(frame.start_date), instant(frame.end_date)
+    except (ValueError, TypeError):
+        return False
+    return (start is None or start <= now) and (end is None or now < end)
 
 
 def _frame_condition_met(
@@ -68,10 +93,12 @@ def resolve_frames(
     if group is None or not group.drop_frames:
         return []
     frames = sorted(group.drop_frames, key=lambda f: f.order)
+    now = datetime.now(timezone.utc)
     return [
         f
         for f in frames
-        if _frame_condition_met(
+        if _frame_available(f, now)
+        and _frame_condition_met(
             f,
             stamina_consumed=stamina_consumed,
             score=score,

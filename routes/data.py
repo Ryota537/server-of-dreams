@@ -6,6 +6,7 @@ from core import YumeApp
 from helpers.daily import refresh_daily_limits
 from helpers.master_data import master_data_manifest
 from helpers.msgpack import read_request, respond
+from helpers.music_unlock import ensure_default_music
 from helpers.user_data import current_user_id, user_data
 from models import *
 
@@ -25,4 +26,5 @@ async def data_get_user_data(request: Request):
     app: YumeApp = request.app
     user_id = current_user_id(request)
     await refresh_daily_limits(app, user_id)
+    await ensure_default_music(app, user_id)
     return respond(await user_data(app, user_id))

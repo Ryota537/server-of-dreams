@@ -32,13 +32,14 @@ Olivier release (music.olivierReleaseStatus, OlivierReleaseStatuses):
 
 from typing import Optional
 
-from db.user import get_lives, get_musics, update_music_releases
+from db.user import get_lives, get_musics, update_music_releases, upsert_music
 from helpers.cache import cache
 from models.enums import (
     AchievementRateGrades,
     ClearLamps,
     LiveUnlockConditionTypes,
     MusicDifficulties,
+    MusicUnlockConditionTypes,
     OlivierReleaseStatuses,
 )
 
@@ -249,3 +250,73 @@ async def granted_music_state(
             music_master_id, int(OlivierReleaseStatuses.None_), stella
         ),
     )
+
+
+# The dummy song and hidden entries are excluded; everything else of this type is owned from
+# the start.
+DEFAULT_MUSIC_UNLOCK_TYPE = int(MusicUnlockConditionTypes.Default)
+DUMMY_MUSIC_ID = 9999
+
+_DEFAULT_MUSIC_IDS: set[int] = set()
+
+
+def default_music_master_ids() -> set[int]:
+    """Songs the client treats as owned from the start (MusicUnlockConditionTypes.Default).
+
+    The game lets these be played without a Music row, but Stella/Olivier release is derived
+    from Music rows, so a default song that has none can never release its Stella. These are
+    the ids whose rows :func:`ensure_default_music` backfills.
+    """
+    if not _DEFAULT_MUSIC_IDS:
+        _DEFAULT_MUSIC_IDS.update(
+            m.id_
+            for m in cache.music_master
+            if int(m.unlock_condition_type) == DEFAULT_MUSIC_UNLOCK_TYPE
+            and not m.invisible
+            and m.id_ != DUMMY_MUSIC_ID
+        )
+    return _DEFAULT_MUSIC_IDS
+
+
+async def ensure_default_music(app, user_id) -> None:
+    """Materialize a Music row for every default song the user is missing one for.
+
+    Runs on data fetch under the per-account advisory lock, so new, existing and imported
+    accounts all get backfilled -- without this, clearing a default song's Extra chart has no
+    Music row to flip, so its Stella release is computed and then dropped. Each new row starts
+    at the release state the user's current progress has already earned for it.
+    """
+    if user_id is None:
+        return
+    ids = default_music_master_ids()
+    if not ids:
+        return
+    async with app.acquire_db() as conn, conn.transaction():
+        await conn.conn.execute("SELECT pg_advisory_xact_lock($1)", user_id)
+        musics = await conn.fetch(get_musics(user_id))
+        missing = ids - {m.musicMasterId for m in musics}
+        if not missing:
+            return
+        progress = MusicProgress(await conn.fetch(get_lives(user_id)), musics)
+        next_id = max((m.id for m in musics), default=0) + 1
+        sql = None
+        args_seq = []
+        for offset, music_master_id in enumerate(sorted(missing)):
+            stella = progress.stella_released(music_master_id, True, False)
+            query = upsert_music(
+                user_id,
+                {
+                    "id": next_id + offset,
+                    "musicMasterId": music_master_id,
+                    "stellaReleased": stella,
+                    "vocalVersion": 0,
+                    "olivierReleaseStatus": progress.olivier_status(
+                        music_master_id, int(OlivierReleaseStatuses.None_), stella
+                    ),
+                    "isPossession": True,
+                },
+            )
+            sql = query.sql
+            args_seq.append(query.args)
+        if sql is not None:
+            await conn.execute_batch(sql, args_seq)

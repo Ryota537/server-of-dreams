@@ -85,3 +85,9 @@
 2026/09/30 - Add grant_music_tickets config option (new/imported accounts start with 100000 song tickets)
 
 2026/10/01 - Document confirmed daily limits from the client (auto-play 30/50 w/ Star Pass, music-course free 2); client enforces them, server reports the counters
+
+2026/10/03 - Fix: materialize Music rows for default songs on data fetch so clearing a default song's Extra chart can release its Stella (previously only shop-bought songs had rows)
+
+2026/10/03 - Fix: live-drop frames now honor their availability window (start-inclusive/end-exclusive); expired seasonal drops no longer appear, permanent drops unaffected
+
+2026/10/03 - Extend service-end (2026-09-29) content end dates to the permanent sentinel (2100-01-01) at master-data load time, for both server logic and the client blob, so shops/schedules/Anthology content stays available post-shutdown (fixes performance-menu error 81); genuinely time-limited past events keep their own dates
