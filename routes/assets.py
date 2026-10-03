@@ -104,8 +104,10 @@ async def asset_production(
         result = catalog_raw(kind, platform)
     else:
         # Check Cloudflare R2 multi-account storage first (supports category, platform, and prefix filters)
-        full_rel_path = f"{platform}/{version}/{filepath}"
-        r2_res = await serve_r2_asset(kind, full_rel_path, platform=platform)
+        # We strip the version segment so R2 bucket structure matches local disk (_data/assets/) exactly:
+        # e.g., "cri-assets/android/musicvideo...bundle" instead of needing "1.96.0" in the bucket.
+        r2_subpath = f"{platform.lower()}/{filepath}"
+        r2_res = await serve_r2_asset(kind, r2_subpath, platform=platform)
         if r2_res is not None:
             return r2_res
 

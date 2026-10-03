@@ -123,9 +123,9 @@ def resolve_r2_target_url(category: str, subpath: str, platform: Optional[str] =
     if platform_clean and platform_clean in routes:
         return f"{str(routes[platform_clean]).rstrip('/')}/{subpath_clean}"
 
-    # 4. Default fallback route if provided
+    # 3. Default fallback route if provided
     if "default" in routes:
-        return f"{str(routes['default']).rstrip('/')}/{category}/{subpath_clean}"
+        return f"{str(routes['default']).rstrip('/')}/{clean_category}/{subpath_clean}"
 
     return None
 
