@@ -100,7 +100,8 @@ class Room:
         # The code a friend types to join a private hall. Derived from the hall id so
         # it is stable for the hall's whole life -- the real server's code is
         # unrelated to the id, but only stability matters to the client.
-        self.key_code = _key_code_for(hall_id) if private else 0
+        is_team_challenge = (hall_type == 21) or (live_setting_master_id == 21)
+        self.key_code = _key_code_for(hall_id, is_team_challenge=is_team_challenge) if private else 0
         self._next_member_id = itertools.count(1)
         self.members: dict[int, RoomMember] = {}
         self.selected_music_id: int = 0
@@ -453,14 +454,17 @@ class HubRegistry:
         return value
 
 
-def _key_code_for(hall_id: str) -> int:
+def _key_code_for(hall_id: str, is_team_challenge: bool = False) -> int:
     """A stable key code derived from the hall id.
 
-    Eight digits, because the capture shows codes that long (``11414371`` for a team
-    challenge hall) alongside six-digit ones -- so the field is a plain int, not a
-    fixed-width code. Only stability for the hall's life matters to the client.
+    The official client specifies:
+    - MultiLivePrivateHallIdDigits = 6 (normal private rooms: 100_000 - 999_999)
+    - TeamChallengeHallIdDigits = 8 (team challenge: 10_000_000 - 99_999_999)
     """
-    return int(hall_id[:8], 16) % 100_000_000
+    raw = int(hall_id[:8], 16)
+    if is_team_challenge:
+        return 10_000_000 + (raw % 90_000_000)
+    return 100_000 + (raw % 900_000)
 
 
 __all__ = ["HubRegistry", "HubSession", "MAX_MEMBERS", "Room", "RoomMember"]
