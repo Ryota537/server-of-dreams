@@ -103,8 +103,9 @@ async def asset_production(
     elif filepath.endswith(".json"):
         result = catalog_raw(kind, platform)
     else:
-        # Check Cloudflare R2 multi-account storage first
-        r2_res = await serve_r2_asset(kind, filepath)
+        # Check Cloudflare R2 multi-account storage first (supports category, platform, and prefix filters)
+        full_rel_path = f"{platform}/{version}/{filepath}"
+        r2_res = await serve_r2_asset(kind, full_rel_path, platform=platform)
         if r2_res is not None:
             return r2_res
 

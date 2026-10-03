@@ -48,22 +48,23 @@ def get_r2_mode() -> str:
     return "proxy" if mode == "proxy" else "redirect"
 
 
-def resolve_r2_target_url(category: str, subpath: str) -> Optional[str]:
-    """Find matching R2 account base URL for a given asset category and path.
+def resolve_r2_target_url(category: str, subpath: str, platform: Optional[str] = None) -> Optional[str]:
+    """Find matching R2 account base URL for a given asset category, platform, and path.
 
-    Categories can be:
-    - "cri-assets" (or alias "cri")
-    - "2d-assets" (or alias "2d")
-    - "3d-assets" (or alias "3d")
-    - "static-assets" (or alias "static")
-    - "notations"
-
-    Prefix rules inside routes are also supported, e.g.:
-    routes:
-      cri: "https://r2-cri.example.com"
-      2d: "https://r2-2d.example.com"
-      3d_characters: "https://r2-3d-a.example.com"  # matched by prefix if configured
-      3d: "https://r2-3d-b.example.com"             # fallback 3d bucket
+    Filter syntax supported in routes:
+    1. Category + Platform + Prefix:
+       "3d:android:characters": "https://..."
+       "3d:android": "https://..."
+       "3d:ios": "https://..."
+    2. Category + Prefix:
+       "3d:theatrecontrollers": "https://..."
+    3. Category only:
+       "3d": "https://..."
+       "2d": "https://..."
+       "cri": "https://..."
+    4. Platform only:
+       "android": "https://..."
+       "ios": "https://..."
     """
     settings = _get_r2_settings()
     routes = settings.get("routes", {})
@@ -72,16 +73,38 @@ def resolve_r2_target_url(category: str, subpath: str) -> Optional[str]:
 
     clean_category = category.lower().replace("-assets", "").replace("_assets", "")
     subpath_clean = subpath.lstrip("/").replace("\\", "/")
+    platform_clean = platform.lower() if platform else ""
 
-    # 1. Exact match on category + prefix if specified with colon or slash
-    # e.g., "3d:characters": "https://..."
+    # Check more specific routes first (order: 3 parts -> 2 parts -> 1 part)
+    # 1. Multi-segment match: e.g. "3d:android:characters" or "3d:android" or "3d:theatre"
     for key, base_url in routes.items():
-        key_lower = str(key).lower()
-        if ":" in key_lower:
-            cat_prefix, match_prefix = key_lower.split(":", 1)
-            cat_prefix = cat_prefix.replace("-assets", "")
-            if cat_prefix in (clean_category, category.lower()) and subpath_clean.lower().startswith(match_prefix.lower()):
-                return f"{str(base_url).rstrip('/')}/{subpath_clean}"
+        parts = [p.strip().lower() for p in str(key).split(":")]
+        if len(parts) == 3:
+            # cat:platform:prefix
+            c_part, p_part, prefix_part = parts
+            c_part = c_part.replace("-assets", "")
+            if c_part in (clean_category, category.lower()) and p_part == platform_clean:
+                # check if remaining path or subpath starts with prefix
+                if prefix_part in subpath_clean.lower():
+                    return f"{str(base_url).rstrip('/')}/{subpath_clean}"
+        elif len(parts) == 2:
+            # could be cat:platform or cat:prefix or platform:cat
+            part1, part2 = parts
+            part1_clean = part1.replace("-assets", "")
+            # Is part1 a category?
+            if part1_clean in (clean_category, category.lower()):
+                # Is part2 a platform?
+                if part2 in ("android", "ios"):
+                    if part2 == platform_clean:
+                        return f"{str(base_url).rstrip('/')}/{subpath_clean}"
+                else:
+                    # part2 is a prefix
+                    if part2 in subpath_clean.lower():
+                        return f"{str(base_url).rstrip('/')}/{subpath_clean}"
+            # Is part1 a platform?
+            elif part1 in ("android", "ios") and part1 == platform_clean:
+                if part2.replace("-assets", "") in (clean_category, category.lower()):
+                    return f"{str(base_url).rstrip('/')}/{subpath_clean}"
 
     # 2. Match standard category or its aliases
     alias_map = {
@@ -96,7 +119,11 @@ def resolve_r2_target_url(category: str, subpath: str) -> Optional[str]:
         if cand in routes:
             return f"{str(routes[cand]).rstrip('/')}/{subpath_clean}"
 
-    # 3. Default fallback route if provided
+    # 3. Match pure platform rule if specified (e.g. "android": "https://...")
+    if platform_clean and platform_clean in routes:
+        return f"{str(routes[platform_clean]).rstrip('/')}/{subpath_clean}"
+
+    # 4. Default fallback route if provided
     if "default" in routes:
         return f"{str(routes['default']).rstrip('/')}/{category}/{subpath_clean}"
 
@@ -130,7 +157,7 @@ def _sync_stream_r2(url: str, chunk_size: int = 65536) -> tuple[int, dict, Itera
     return resp.status, headers, _iterator()
 
 
-async def serve_r2_asset(category: str, subpath: str) -> Optional[Response]:
+async def serve_r2_asset(category: str, subpath: str, platform: Optional[str] = None) -> Optional[Response]:
     """Resolve asset from Cloudflare R2 if configured and enabled.
 
     Returns:
@@ -141,7 +168,7 @@ async def serve_r2_asset(category: str, subpath: str) -> Optional[Response]:
     if not r2_enabled():
         return None
 
-    target_url = resolve_r2_target_url(category, subpath)
+    target_url = resolve_r2_target_url(category, subpath, platform=platform)
     if not target_url:
         return None
 

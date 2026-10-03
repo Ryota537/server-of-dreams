@@ -33,12 +33,21 @@ r2_storage:
   # mode: "proxy" (stream from R2 to client, 200 OK) or "redirect" (HTTP 302 Found)
   mode: "proxy"
   routes:
-    # Map category to public R2 custom domain or r2.dev URL:
+    # 1. Map whole category:
     cri: "https://r2-cri.example.com"          # Account 1 (~8 GB)
     2d: "https://r2-2d.example.com"            # Account 2 (~8 GB)
-    3d: "https://r2-3d.example.com"            # Account 3 (~9 GB)
-    # Prefix-specific routing is supported (useful to split large categories like 3d):
+
+    # 2. Filter per-platform (e.g. separate Android & iOS buckets):
+    # "3d:android": "https://r2-3d-android.example.com"
+    # "3d:ios": "https://r2-3d-ios.example.com"
+
+    # 3. Filter per-platform and sub-folder prefix:
+    # "3d:android:characters": "https://r2-3d-chars.example.com"
+
+    # 4. Filter per category & sub-folder prefix:
     # "3d:theatrecontrollers": "https://r2-3d-b.example.com"
+    3d: "https://r2-3d.example.com"            # Account 3 (~9 GB)
+
     static: "https://r2-static.example.com"    # Account 4 or static assets
     notations: "https://r2-cri.example.com/Notations"
 
