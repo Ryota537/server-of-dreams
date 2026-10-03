@@ -18,6 +18,30 @@ python main.py
 ## Changelog
 [Changelog](CHANGELOG.md)
 
+## Features
+✅ Done · 🚧 WIP · ❌ No
+
+| Feature | | Feature | |
+|---|:--:|---|:--:|
+| Registration, tutorial & account import | ✅ | Character upgrades (level/awaken/sense/talent) | ✅ |
+| Master data & asset serving | ✅ | Star-rank rewards | ✅ |
+| Friends & inbox | ✅ | Accessory upgrades | ✅ |
+| Gacha (pickup + reroll) | ✅ | Actor side stories | ✅ |
+| Live play & scoring | ✅ | Episodes & read rewards | ✅ |
+| Live drops (date-windowed) | ✅ | Missions & character missions | ✅ |
+| Olivier SP Rate | ✅ | Anthology & auditions | ✅ |
+| Stella / Olivier unlocks | ✅ | Comics & theater/MV records | ✅ |
+| Song & chart purchases | ✅ | Customization & profile | ✅ |
+| Shops & market | ✅ | Photos & albums | ✅ |
+| Lessons & music courses | ✅ | Service-end date extension | ✅ |
+| Player-rank XP & stamina | ✅ | Daily limit resets | ✅ |
+| **Multiplayer (co-op, circles, Theater League)** | **🚧** | Poster (levels/breaks/stories) | ❌ |
+| Login bonuses | ❌ | Live events & rankings | ❌ |
+| Mission Pass | ❌ | Roulette | ❌ |
+| Flash sale | ❌ | Triple-cast parties | ❌ |
+| Banners | ❌ | Friend-invitation missions | ❌ |
+| Player rating history | ❌ | External payments | ❌ |
+
 ## Priority Todo
 - Player rating history log
 - Player rank calculations (live end)
