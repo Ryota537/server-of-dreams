@@ -236,7 +236,7 @@ def _position_senses(
             slot.bonusAbilityEnableFlags,
         )
         cancel_sense = any(
-            getattr(e[0], "type", None) == EffectTypes.FinalPerformanceUpCancelSense
+            getattr(e.master, "type", None) == EffectTypes.FinalPerformanceUpCancelSense
             for e in effects
         )
         pos_sense[slot.position] = {
@@ -632,7 +632,7 @@ async def build_live_unit(conn, user_id: int, party_id: int, live_master_id: int
             selection_type=ch.selectionType,
         )
         cancel_sense = any(
-            getattr(e[0], "type", None) == EffectTypes.FinalPerformanceUpCancelSense
+            getattr(e.master, "type", None) == EffectTypes.FinalPerformanceUpCancelSense
             for e in effects
         )
         if cm is not None and sm is not None:

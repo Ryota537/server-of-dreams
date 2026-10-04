@@ -2,6 +2,7 @@ import unittest
 from unittest.mock import MagicMock
 
 from helpers.effects import (
+    AppliedEffect,
     EffectSourceTypes,
     base_stat_bonus,
     collect_slot_effects,
@@ -145,15 +146,15 @@ class TestStatusCalculation(unittest.TestCase):
             return em
 
         effects = [
-            (make_eff(EffectTypes.BaseVocalUp, 3, 50), 1, EffectSourceTypes.Other),
-            (make_eff(EffectTypes.BaseExpressionUp, 3, 40), 1, EffectSourceTypes.Other),
-            (make_eff(EffectTypes.BaseConcentrationUp, 3, 30), 1, EffectSourceTypes.Other),
-            (make_eff(EffectTypes.VocalUp, 3, 400), 1, EffectSourceTypes.Accessory),
-            (make_eff(EffectTypes.ExpressionUp, 3, 300), 1, EffectSourceTypes.Accessory),
-            (make_eff(EffectTypes.ConcentrationUp, 3, 200), 1, EffectSourceTypes.Accessory),
-            (make_eff(EffectTypes.VocalUp, 1, 1500), 1, EffectSourceTypes.Poster),
-            (make_eff(EffectTypes.PerformanceUp, 1, 2500), 1, EffectSourceTypes.Album),
-            (make_eff(EffectTypes.PerformanceUp, 1, 5000), 1, EffectSourceTypes.Poster),
+            AppliedEffect(make_eff(EffectTypes.BaseVocalUp, 3, 50), 1, EffectSourceTypes.Other),
+            AppliedEffect(make_eff(EffectTypes.BaseExpressionUp, 3, 40), 1, EffectSourceTypes.Other),
+            AppliedEffect(make_eff(EffectTypes.BaseConcentrationUp, 3, 30), 1, EffectSourceTypes.Other),
+            AppliedEffect(make_eff(EffectTypes.VocalUp, 3, 400), 1, EffectSourceTypes.Accessory),
+            AppliedEffect(make_eff(EffectTypes.ExpressionUp, 3, 300), 1, EffectSourceTypes.Accessory),
+            AppliedEffect(make_eff(EffectTypes.ConcentrationUp, 3, 200), 1, EffectSourceTypes.Accessory),
+            AppliedEffect(make_eff(EffectTypes.VocalUp, 1, 1500), 1, EffectSourceTypes.Poster),
+            AppliedEffect(make_eff(EffectTypes.PerformanceUp, 1, 2500), 1, EffectSourceTypes.Album),
+            AppliedEffect(make_eff(EffectTypes.PerformanceUp, 1, 5000), 1, EffectSourceTypes.Poster),
         ]
 
         # Base stat bonus (type 3)
@@ -187,8 +188,8 @@ class TestStatusCalculation(unittest.TestCase):
         # Normal cap is 20000 (200%). If Album has 15000 and Poster has 10000,
         # Album should get 15000 and Poster should be capped to 5000 (remaining cap).
         effects = [
-            (make_eff(EffectTypes.PerformanceUp, 1, 15000), 1, EffectSourceTypes.Album),
-            (make_eff(EffectTypes.PerformanceUp, 1, 10000), 1, EffectSourceTypes.Poster),
+            AppliedEffect(make_eff(EffectTypes.PerformanceUp, 1, 15000), 1, EffectSourceTypes.Album),
+            AppliedEffect(make_eff(EffectTypes.PerformanceUp, 1, 10000), 1, EffectSourceTypes.Poster),
         ]
         perf_pcts = performance_percent_bonuses_by_source(effects)
         self.assertEqual(perf_pcts[int(EffectSourceTypes.Album)], 15000)
@@ -316,7 +317,7 @@ class TestStatusCalculation(unittest.TestCase):
         detail.value = 200.0  # 200% -> 2.0x
         em.details = [detail]
 
-        effs = [(em, 14, EffectSourceTypes.Poster)]
+        effs = [AppliedEffect(em, 14, EffectSourceTypes.Poster)]
         mult = final_performance_multiplier(effs)
         self.assertEqual(mult, 2.0)
 
@@ -346,7 +347,7 @@ class TestStatusCalculation(unittest.TestCase):
         detail_dec.value = 1.0
         em_dec.details = [detail_dec]
 
-        reductions = decrease_require_lights([(em_dec, 1, EffectSourceTypes.BloomBonus)])
+        reductions = decrease_require_lights([AppliedEffect(em_dec, 1, EffectSourceTypes.BloomBonus)])
         self.assertEqual(reductions.get(SenseLightTypes.Amplification), 1)
 
         # Mock start lights (FireTimingTypes.StartLive)
@@ -358,7 +359,7 @@ class TestStatusCalculation(unittest.TestCase):
         detail_light.value = 2.0
         em_light.details = [detail_light]
 
-        lights = start_lights([(em_light, 1, EffectSourceTypes.Poster)], sense_type=0)
+        lights = start_lights([AppliedEffect(em_light, 1, EffectSourceTypes.Poster)], sense_type=0)
         self.assertEqual(lights, [SenseLightTypes.Amplification, SenseLightTypes.Amplification])
 
         # Test _live_time_event with opening star act condition

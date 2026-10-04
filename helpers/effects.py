@@ -14,19 +14,28 @@
 """
 
 from collections import Counter
-from typing import Optional
+from typing import NamedTuple, Optional
 
 from helpers.cache import cache
 from models import Effect, EffectTargetValue
 from models.enums import (
     CalculationTypes,
     EffectSourceTypes,
+    EffectTargetRanges,
     EffectTypes,
     FireTimingTypes,
     PosterEffectTypes,
     SenseLightTypes,
     TriggerType,
 )
+
+
+class AppliedEffect(NamedTuple):
+    """One collected effect: its master, the level used to pick the detail value, and its origin."""
+
+    master: object
+    level: int
+    source: EffectSourceTypes = EffectSourceTypes.Other
 
 
 _EM: dict = {}
@@ -166,17 +175,17 @@ def collect_slot_effects(
         for eo in sense_master.pre_effects or []:
             em = _em(eo.effect_master_id)
             if em is not None:
-                raw.append((em, sense_level, EffectSourceTypes.Other))
+                raw.append(AppliedEffect(em, sense_level, EffectSourceTypes.Other))
         for br in sense_master.branches or []:
             for eo in br.branch_effects or []:
                 em = _em(eo.effect_master_id)
                 if em is not None:
-                    raw.append((em, sense_level, EffectSourceTypes.Other))
+                    raw.append(AppliedEffect(em, sense_level, EffectSourceTypes.Other))
     if star_act_master is not None:
         for eo in star_act_master.pre_effects or []:
             em = _em(eo.effect_master_id)
             if em is not None:
-                raw.append((em, sense_level, EffectSourceTypes.Other))
+                raw.append(AppliedEffect(em, sense_level, EffectSourceTypes.Other))
     if accessory is not None:
         am = _am(accessory.accessoryMasterId)
         if am is not None:
@@ -184,12 +193,12 @@ def collect_slot_effects(
                 ae = _aem(faeid)
                 em = _em(ae.effect_master_id) if ae is not None else None
                 if em is not None:
-                    raw.append((em, accessory.level, EffectSourceTypes.Accessory))
+                    raw.append(AppliedEffect(em, accessory.level, EffectSourceTypes.Accessory))
         for aeid in accessory.accessoryEffects or []:
             ae = _aem(aeid)
             em = _em(ae.effect_master_id) if ae is not None else None
             if em is not None:
-                raw.append((em, accessory.level, EffectSourceTypes.Accessory))
+                raw.append(AppliedEffect(em, accessory.level, EffectSourceTypes.Accessory))
     if poster is not None:
         # poster abilities unlocked at the poster's level and enabled by the slot's
         # BonusAbilityEnableFlags (bit frame_number-1). bonus_flags==0 -> treat as all enabled.
@@ -205,44 +214,38 @@ def collect_slot_effects(
                 for eo in br.branch_effects or []:
                     em = _em(eo.effect_master_id)
                     if em is not None:
-                        raw.append((em, p_lvl, EffectSourceTypes.Poster))
-    return [e for e in raw if _conditions_met(e[0], comp)]
+                        raw.append(AppliedEffect(em, p_lvl, EffectSourceTypes.Poster))
+    return [e for e in raw if _conditions_met(e.master, comp)]
+
+
+# EffectConditions (1..5) -> the actor attribute that must equal the condition value.
+_ACTOR_COND_KEY = {
+    1: "character_base_master_id",
+    2: "company",
+    3: "attribute",
+    4: "sense_type",
+    5: "character_master_id",
+}
 
 
 def filter_target_effects(effects: list, actor_dict: dict) -> list:
     """Filter effects whose target conditions match the individual actor."""
-    out = []
-    for e in effects:
-        em = e[0]
-        match = True
-        for c in em.conditions or []:
-            cond = int(c.condition)
-            val = c.value
-            if cond == 1 and actor_dict.get("character_base_master_id") != val:
-                match = False
-                break
-            elif cond == 2 and actor_dict.get("company") != val:
-                match = False
-                break
-            elif cond == 3 and actor_dict.get("attribute") != val:
-                match = False
-                break
-            elif cond == 4 and actor_dict.get("sense_type") != val:
-                match = False
-                break
-            elif cond == 5 and actor_dict.get("character_master_id") != val:
-                match = False
-                break
-        if match:
-            out.append(e)
-    return out
+    return [
+        e
+        for e in effects
+        if all(
+            actor_dict.get(_ACTOR_COND_KEY[int(c.condition)]) == c.value
+            for c in e.master.conditions or []
+            if int(c.condition) in _ACTOR_COND_KEY
+        )
+    ]
 
 
 def range_split(effects: list) -> tuple:
     """(self_or_none effects, all-range effects). All-range effects apply to every actor
     (EffectTargetRanges.All == 2), so they are aggregated party-wide."""
-    own = [e for e in effects if int(e[0].range) != 2]
-    every = [e for e in effects if int(e[0].range) == 2]
+    own = [e for e in effects if int(e.master.range) != int(EffectTargetRanges.All)]
+    every = [e for e in effects if int(e.master.range) == int(EffectTargetRanges.All)]
     return own, every
 
 
@@ -253,8 +256,8 @@ def album_effects(album_level: int, comp: Optional[dict] = None) -> list:
         if ae.level <= album_level:
             em = _em(ae.effect_master_id)
             if em is not None:
-                out.append((em, album_level, EffectSourceTypes.Album))
-    return [e for e in out if _conditions_met(e[0], comp)]
+                out.append(AppliedEffect(em, album_level, EffectSourceTypes.Album))
+    return [e for e in out if _conditions_met(e.master, comp)]
 
 
 _BLOOM_GROUP: dict = {}
@@ -278,8 +281,8 @@ def bloom_effects(
         if bb.phase <= bloom_stage:
             em = _em(bb.effect_master_id)
             if em is not None:
-                out.append((em, bloom_stage, EffectSourceTypes.BloomBonus))
-    return [e for e in out if _conditions_met(e[0], comp)]
+                out.append(AppliedEffect(em, bloom_stage, EffectSourceTypes.BloomBonus))
+    return [e for e in out if _conditions_met(e.master, comp)]
 
 
 _CIRCLE_BY_COMPANY: dict = {}
@@ -300,13 +303,30 @@ def circle_effects(
         if cd.level <= level:
             em = _em(cd.effect_master_id)
             if em is not None:
-                out.append((em, cd.level, EffectSourceTypes.Other))
-    return [e for e in out if _conditions_met(e[0], comp)]
+                # No dedicated EffectSourceTypes member for circle support; it is capped as Other.
+                out.append(AppliedEffect(em, cd.level, EffectSourceTypes.Other))
+    return [e for e in out if _conditions_met(e.master, comp)]
+
+
+def _leader_condition_met(detail, member_cats: set) -> bool:
+    """A LeaderSense detail applies when it has no conditions, or when any one condition has all of
+    its listed categories on the member (a condition listing no category always matches)."""
+    if not detail.conditions:
+        return True
+    for cond in detail.conditions:
+        req = [
+            cid
+            for cid in (getattr(cond, f"category_master_id{i}") for i in range(1, 6))
+            if cid is not None
+        ]
+        if all(cid in member_cats for cid in req):
+            return True
+    return False
 
 
 def leader_sense_effects(leader_cm, member_cm) -> list:
     """Effects granted to member_cm by leader_cm's LeaderSenseMaster.
-    Returns [(EffectMaster, level=1, EffectSourceTypes.LeaderSense)].
+    Returns [AppliedEffect(EffectMaster, level=1, EffectSourceTypes.LeaderSense)].
     """
     if leader_cm is None or not leader_cm.leader_sense_master_id or member_cm is None:
         return []
@@ -317,46 +337,9 @@ def leader_sense_effects(leader_cm, member_cm) -> list:
     out: list = []
     for detail in lsm.details:
         em = _em(detail.effect_master_id)
-        if em is None:
-            continue
-        matched = False
-        if not detail.conditions:
-            matched = True
-        else:
-            for cond in detail.conditions:
-                req = [
-                    cid
-                    for cid in [
-                        cond.category_master_id1,
-                        cond.category_master_id2,
-                        cond.category_master_id3,
-                        cond.category_master_id4,
-                        cond.category_master_id5,
-                    ]
-                    if cid is not None
-                ]
-                if not req or all(cid in member_cats for cid in req):
-                    matched = True
-                    break
-        if matched:
-            out.append((em, 1, EffectSourceTypes.LeaderSense))
+        if em is not None and _leader_condition_met(detail, member_cats):
+            out.append(AppliedEffect(em, 1, EffectSourceTypes.LeaderSense))
     return out
-
-
-def _source_of(e: tuple) -> int:
-    return int(e[2]) if len(e) >= 3 else int(EffectSourceTypes.Other)
-
-
-def sum_by_type(effects: list, effect_type, calc_type: Optional[int] = None) -> float:
-    """GetEffectValue: sum of an effect type's detail values across the collected effects,
-    optionally filtered by calculation_type (1: PercentageAddition, 3: FixedAddition)."""
-    t = int(effect_type)
-    c = int(calc_type) if calc_type is not None else None
-    return sum(
-        _detail_value(e[0], e[1])
-        for e in effects
-        if int(e[0].type) == t and (c is None or int(e[0].calculation_type) == c)
-    )
 
 
 def sum_by_type_and_source(
@@ -365,37 +348,50 @@ def sum_by_type_and_source(
     calc_type: Optional[int] = None,
     source_type: Optional[int] = None,
 ) -> float:
-    """GetEffectValue: sum of an effect type's detail values filtered by calculation_type
-    and source_type."""
+    """GetEffectValue: sum of an effect type's detail values, optionally filtered by
+    calculation_type (CalculationTypes) and source_type (EffectSourceTypes)."""
     t = int(effect_type)
     c = int(calc_type) if calc_type is not None else None
-    s = int(source_type) if source_type is not None else None
+    src = int(source_type) if source_type is not None else None
     return sum(
-        _detail_value(e[0], e[1])
+        _detail_value(e.master, e.level)
         for e in effects
-        if int(e[0].type) == t
-        and (c is None or int(e[0].calculation_type) == c)
-        and (s is None or _source_of(e) == s)
+        if int(e.master.type) == t
+        and (c is None or int(e.master.calculation_type) == c)
+        and (src is None or int(e.source) == src)
+    )
+
+
+def sum_by_type(effects: list, effect_type, calc_type: Optional[int] = None) -> float:
+    """sum_by_type_and_source without the source filter."""
+    return sum_by_type_and_source(effects, effect_type, calc_type)
+
+
+def _fixed_sums(effects: list, effect_types: tuple) -> tuple:
+    return tuple(
+        int(sum_by_type(effects, t, CalculationTypes.FixedAddition)) for t in effect_types
     )
 
 
 def base_stat_bonus(effects: list) -> tuple:
-    """Per-component flat Base<Component>Up sums (FixedAddition, type 3) -> (vocal, expression, concentration)."""
-    return (
-        int(sum_by_type(effects, EffectTypes.BaseVocalUp, 3)),
-        int(sum_by_type(effects, EffectTypes.BaseExpressionUp, 3)),
-        int(sum_by_type(effects, EffectTypes.BaseConcentrationUp, 3)),
+    """Per-component flat Base<Component>Up sums (FixedAddition) -> (vocal, expression, concentration)."""
+    return _fixed_sums(
+        effects,
+        (
+            EffectTypes.BaseVocalUp,
+            EffectTypes.BaseExpressionUp,
+            EffectTypes.BaseConcentrationUp,
+        ),
     )
 
 
 def component_flat_bonus(effects: list) -> tuple:
-    """Per-component flat <Component>Up sums (FixedAddition, type 3) -> (vocal, expression, concentration).
+    """Per-component flat <Component>Up sums (FixedAddition) -> (vocal, expression, concentration).
     E.g. flat stat additions from equipped accessories, posters, or circle/album flat bonuses.
     """
-    return (
-        int(sum_by_type(effects, EffectTypes.VocalUp, 3)),
-        int(sum_by_type(effects, EffectTypes.ExpressionUp, 3)),
-        int(sum_by_type(effects, EffectTypes.ConcentrationUp, 3)),
+    return _fixed_sums(
+        effects,
+        (EffectTypes.VocalUp, EffectTypes.ExpressionUp, EffectTypes.ConcentrationUp),
     )
 
 
@@ -411,15 +407,15 @@ def max_principal(effects: list) -> int:
     flat = 0.0
     pct = 0.0
     for e in effects:
-        em, lv = e[0], e[1]
+        em, lv = e.master, e.level
         if int(em.type) != int(EffectTypes.PrincipalGaugeLimitUp):
             continue
         if int(em.fire_timing_type) != int(FireTimingTypes.Passive):
             continue
         v = _detail_value(em, lv)
-        if int(em.calculation_type) == 3:  # FixedAddition
+        if int(em.calculation_type) == int(CalculationTypes.FixedAddition):
             flat += v
-        elif int(em.calculation_type) == 1:  # PercentageAddition (/10000)
+        elif int(em.calculation_type) == int(CalculationTypes.PercentageAddition):  # /10000
             pct += v
     return int(_BASE_MAX_PRINCIPAL * (1 + pct / 10000) + flat)
 
@@ -428,7 +424,7 @@ def base_correction(effects: list) -> float:
     """BaseCorrection (type 4, PercentageAddition, Self) -> percent points on the character base
     (the leaf's w5 term; value 200 = +2%). Bloom 'performance up' bonuses are BaseCorrection.
     """
-    return sum_by_type(effects, EffectTypes.BaseCorrection, 1) / 100.0
+    return sum_by_type(effects, EffectTypes.BaseCorrection, CalculationTypes.PercentageAddition) / 100.0
 
 
 # Constants.Character: caps on the status/performance percent, raised by the matching *LimitUp.
@@ -452,16 +448,16 @@ def component_percent_bonuses_by_source(effects: list) -> dict:
     Album -> Poster -> Accessory -> BloomBonus -> Other -> LeaderSense.
     Returns {source_type: (vocal_bps, expression_bps, concentration_bps)}.
     """
-    v_cap = _STATUS_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.VocalLimitUp, 1)
-    e_cap = _STATUS_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.ExpressionLimitUp, 1)
-    c_cap = _STATUS_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.ConcentrationLimitUp, 1)
+    v_cap = _STATUS_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.VocalLimitUp, CalculationTypes.PercentageAddition)
+    e_cap = _STATUS_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.ExpressionLimitUp, CalculationTypes.PercentageAddition)
+    c_cap = _STATUS_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.ConcentrationLimitUp, CalculationTypes.PercentageAddition)
 
     res: dict = {}
     for src in SOURCE_PRIORITY:
         s_int = int(src)
-        v_raw = sum_by_type_and_source(effects, EffectTypes.VocalUp, 1, s_int)
-        e_raw = sum_by_type_and_source(effects, EffectTypes.ExpressionUp, 1, s_int)
-        c_raw = sum_by_type_and_source(effects, EffectTypes.ConcentrationUp, 1, s_int)
+        v_raw = sum_by_type_and_source(effects, EffectTypes.VocalUp, CalculationTypes.PercentageAddition, s_int)
+        e_raw = sum_by_type_and_source(effects, EffectTypes.ExpressionUp, CalculationTypes.PercentageAddition, s_int)
+        c_raw = sum_by_type_and_source(effects, EffectTypes.ConcentrationUp, CalculationTypes.PercentageAddition, s_int)
 
         v_val = min(v_raw, v_cap)
         e_val = min(e_raw, e_cap)
@@ -481,11 +477,11 @@ def performance_percent_bonuses_by_source(effects: list) -> dict:
     (10000 = 100%), capped in source priority order.
     Returns {source_type: perf_bps}.
     """
-    cap = _PERFORMANCE_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.PerformanceLimitUp, 1)
+    cap = _PERFORMANCE_PERCENT_LIMIT + sum_by_type(effects, EffectTypes.PerformanceLimitUp, CalculationTypes.PercentageAddition)
     res: dict = {}
     for src in SOURCE_PRIORITY:
         s_int = int(src)
-        raw = sum_by_type_and_source(effects, EffectTypes.PerformanceUp, 1, s_int)
+        raw = sum_by_type_and_source(effects, EffectTypes.PerformanceUp, CalculationTypes.PercentageAddition, s_int)
         val = min(raw, cap)
         cap -= val
         if val:
@@ -497,8 +493,8 @@ def final_performance_multiplier(effects: list) -> float:
     """Multiplication factor from CalculationTypes.Multiplication (e.g. FinalPerformanceUpCancelSense)."""
     mult = 1.0
     for e in effects:
-        em = e[0]
-        lvl = e[1]
+        em = e.master
+        lvl = e.level
         if (
             getattr(em, "calculation_type", None) == CalculationTypes.Multiplication
             and getattr(em, "type", None) == EffectTypes.FinalPerformanceUpCancelSense
@@ -514,15 +510,15 @@ def percent_bonus(effects: list) -> tuple:
     Returns (vocal, expression, concentration) in basis units.
     """
     perf = min(
-        sum_by_type(effects, EffectTypes.PerformanceUp, 1),
+        sum_by_type(effects, EffectTypes.PerformanceUp, CalculationTypes.PercentageAddition),
         _PERFORMANCE_PERCENT_LIMIT
-        + sum_by_type(effects, EffectTypes.PerformanceLimitUp, 1),
+        + sum_by_type(effects, EffectTypes.PerformanceLimitUp, CalculationTypes.PercentageAddition),
     )
 
     def _comp(up, limit_up) -> float:
         return min(
-            sum_by_type(effects, up, 1),
-            _STATUS_PERCENT_LIMIT + sum_by_type(effects, limit_up, 1),
+            sum_by_type(effects, up, CalculationTypes.PercentageAddition),
+            _STATUS_PERCENT_LIMIT + sum_by_type(effects, limit_up, CalculationTypes.PercentageAddition),
         )
 
     return (
@@ -553,7 +549,7 @@ def added_lights(effects: list, sense_type) -> list:
     """Extra lights granted to a sense by passive AddSenseLight* effects."""
     lights: list = []
     for e in effects:
-        em, lv = e[0], e[1]
+        em, lv = e.master, e.level
         if int(em.fire_timing_type) == int(FireTimingTypes.StartLive):
             continue
         light = _light_of(int(em.type), sense_type)
@@ -566,7 +562,7 @@ def start_lights(effects: list, sense_type: int = 0) -> list:
     """Lights granted at live start by StartLive AddSenseLight* effects."""
     lights: list = []
     for e in effects:
-        em, lv = e[0], e[1]
+        em, lv = e.master, e.level
         if int(em.fire_timing_type) != int(FireTimingTypes.StartLive):
             continue
         light = _light_of(int(em.type), sense_type)
@@ -587,7 +583,7 @@ def decrease_require_lights(effects: list) -> dict:
     """Light count reductions for star act from DecreaseRequire*Light effects."""
     reductions: dict = {}
     for e in effects:
-        em, lv = e[0], e[1]
+        em, lv = e.master, e.level
         light_type = _DECREASE_LIGHT_TYPE_MAP.get(int(em.type))
         if light_type is not None:
             reductions[light_type] = reductions.get(light_type, 0) + int(_detail_value(em, lv))
@@ -599,13 +595,13 @@ def start_effects(effects: list, actor_id: int, start_order: int = 0) -> list:
     result: list = []
     order = start_order
     for e in effects:
-        em, lv = e[0], e[1]
+        em, lv = e.master, e.level
         if int(em.fire_timing_type) != int(FireTimingTypes.StartLive):
             continue
         order += 1
         value = _detail_value(em, lv)
         # range Self -> this actor; All -> every actor (target_actor_id=None)
-        target = actor_id if int(em.range) == 1 else None
+        target = actor_id if int(em.range) == int(EffectTargetRanges.Self) else None
         result.append(
             Effect(
                 order=order,
