@@ -41,7 +41,6 @@ from helpers.effects import (
     leader_sense_effects,
     max_principal,
     party_composition,
-    percent_bonus,
     performance_percent_bonuses_by_source,
     range_split,
     start_effects,
@@ -163,21 +162,6 @@ def _calculate_slot_status(
         vocal=v_final,
         total_status=c_final + e_final + v_final,
     )
-
-
-def _base_status(
-    character_master,
-    level: int,
-    bonus: tuple = (0, 0, 0),
-    percent: tuple = (0, 0, 0),
-    intrinsic: float = 0.0,
-) -> LiveStatus:
-    v, e, c = _character_base_status(character_master, level, bonus, 0, intrinsic)
-    v_f = v * (10000 + percent[0]) // 10000
-    e_f = e * (10000 + percent[1]) // 10000
-    c_f = c * (10000 + percent[2]) // 10000
-    return LiveStatus(concentration=c_f, expression=e_f, vocal=v_f, total_status=c_f + e_f + v_f)
-
 
 
 def _party_composition(slots, chars, character_master, sense_master) -> dict:
@@ -599,12 +583,6 @@ async def build_live_unit(conn, user_id: int, party_id: int, live_master_id: int
         )
         char_v, char_e, char_c = _character_base_status(
             cm, ch.level, base_stat_bonus(effects), story_bonus, intrinsic
-        )
-        base_status = LiveStatus(
-            concentration=char_c,
-            expression=char_e,
-            vocal=char_v,
-            total_status=char_c + char_e + char_v,
         )
         mult = final_performance_multiplier(effects)
         current_status = _calculate_slot_status(

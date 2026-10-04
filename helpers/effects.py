@@ -505,31 +505,6 @@ def final_performance_multiplier(effects: list) -> float:
     return mult
 
 
-def percent_bonus(effects: list) -> tuple:
-    """Legacy aggregated Performance % applied to the base status.
-    Returns (vocal, expression, concentration) in basis units.
-    """
-    perf = min(
-        sum_by_type(effects, EffectTypes.PerformanceUp, CalculationTypes.PercentageAddition),
-        _PERFORMANCE_PERCENT_LIMIT
-        + sum_by_type(effects, EffectTypes.PerformanceLimitUp, CalculationTypes.PercentageAddition),
-    )
-
-    def _comp(up, limit_up) -> float:
-        return min(
-            sum_by_type(effects, up, CalculationTypes.PercentageAddition),
-            _STATUS_PERCENT_LIMIT + sum_by_type(effects, limit_up, CalculationTypes.PercentageAddition),
-        )
-
-    return (
-        int(_comp(EffectTypes.VocalUp, EffectTypes.VocalLimitUp) + perf),
-        int(_comp(EffectTypes.ExpressionUp, EffectTypes.ExpressionLimitUp) + perf),
-        int(
-            _comp(EffectTypes.ConcentrationUp, EffectTypes.ConcentrationLimitUp) + perf
-        ),
-    )
-
-
 def _light_of(effect_type: int, sense_type) -> Optional[SenseLightTypes]:
     if effect_type == int(EffectTypes.AddSenseLightSelf):
         try:

@@ -288,7 +288,6 @@ class EffectTargetRanges(_Enum):
     All = 2
 
 
-
 class EffectTypes(_Enum):
     BaseVocalUp = 1
     BaseExpressionUp = 2
