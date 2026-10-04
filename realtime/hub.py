@@ -404,16 +404,19 @@ class MultiLiveHubHandler:
         if room is None:
             return HubError(GRPC_UNKNOWN, "not in a room")
         session.status = D.MultiLiveUserStatus.ReadyGame
+        logger.info("room %s: member %s ready_game", room.hall_id, session.member_id)
 
         active = room.active_sessions()
         all_ready = all(
-            s.status >= D.MultiLiveUserStatus.ReadyGame or s.difficulty > 0
+            s.status == D.MultiLiveUserStatus.ReadyGame
             for _mid, s in active
         )
-        if all_ready and active and not getattr(room, "_go_game_sent", False):
-            room._go_game_sent = True
-            logger.info("room %s: all members ready -> OnGoGame", room.hall_id)
-            self.registry.broadcast_to_room(room, "OnGoGame", None)
+        if all_ready and active and not room.game_started:
+            room.game_started = True
+            for _member_id, connected in active:
+                connected.status = D.MultiLiveUserStatus.PlayingGame
+            logger.info("room %s: all members ready -> broadcasting OnPlayGame", room.hall_id)
+            self.registry.broadcast_to_room(room, "OnPlayGame", None)
 
         return None
 
@@ -429,11 +432,12 @@ class MultiLiveHubHandler:
         room = self._room(session)
         if room is None:
             return HubError(GRPC_UNKNOWN, "not in a room")
-        room.game_started = True
-        for _member_id, connected in room.active_sessions():
-            connected.status = D.MultiLiveUserStatus.PlayingGame
-        self.registry.broadcast_to_room(room, "OnPlayGame", None)
-        logger.info("room %s: game started", room.hall_id)
+        if not room.game_started:
+            room.game_started = True
+            for _member_id, connected in room.active_sessions():
+                connected.status = D.MultiLiveUserStatus.PlayingGame
+            self.registry.broadcast_to_room(room, "OnPlayGame", None)
+            logger.info("room %s: game started", room.hall_id)
         return None
 
     def sync_in_game_status(self, session: HubSession, args):
