@@ -107,6 +107,7 @@ class Room:
         self.selected_music_id: int = 0
         self.multi_live_id: int = 0
         self.game_started: bool = False
+        self._go_game_sent: bool = False
         # When the last connection left, or None while someone is still connected.
         self.empty_since: Optional[float] = None
 
