@@ -1892,7 +1892,7 @@ class MultiLiveAdditionalScoreBlock(BaseModel):
 
 
 class MultiLiveInformation(BaseModel):
-    scores: Dictionary = Field(default_factory=lambda: Dictionary())
+    scores: dict = Field(default_factory=dict)
 
 
 class MultiLiveRestriction(BaseModel):
