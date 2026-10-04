@@ -273,10 +273,20 @@ class EffectConditions(_Enum):
     CharacterBaseGroup = 8
 
 
+class EffectSourceTypes(_Enum):
+    Album = 1
+    Poster = 2
+    Accessory = 3
+    BloomBonus = 4
+    Other = 5
+    LeaderSense = 6
+
+
 class EffectTargetRanges(_Enum):
     None_ = 0
     Self = 1
     All = 2
+
 
 
 class EffectTypes(_Enum):
