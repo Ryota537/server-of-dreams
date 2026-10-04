@@ -8,6 +8,7 @@ from db.user import (
     delete_active_lives,
     get_active_live,
     get_lives,
+    get_partys,
     get_sp_rates,
     get_users,
     next_live_id,
@@ -554,10 +555,49 @@ async def lives_start_lesson(request: Request):
 @router.post("/api/Lives/StartMultiLive", name="Lives_StartMultiLive")
 async def lives_start_multi_live(request: Request):
     app: YumeApp = request.app
+    user_id = current_user_id(request)
     payload = await read_request(request, StartMultiLivePayload)
-    # scripted: time_events = build_live_time_event(conn, user_id, party_id,
-    #   music_master_id, league_master.sense_notation_master_id)  # league/multi source TBD
-    return respond(LiveUnit())
+    present: list = []
+    unit = LiveUnit()
+    if user_id is not None and payload is not None:
+        async with app.acquire_db() as conn:
+            user = await conn.fetchrow(get_users(user_id))
+            stamina_spent = False
+            if (
+                user is not None
+                and payload.use_stamina
+                and not _is_long_version(payload.live_master_id)
+            ):
+                cost = _stamina_cost(
+                    payload.live_master_id, payload.stamina_consumption_ratio
+                )
+                if cost > 0 and await adjust_and_check_stamina(
+                    conn, user_id, -cost, user.playerRank
+                ):
+                    stamina_spent = True
+                    user = await conn.fetchrow(get_users(user_id))
+
+            party_id = payload.party_id
+            if not party_id:
+                parties = await conn.fetch(get_partys(user_id))
+                party_id = parties[0].id if parties else 1
+
+            await conn.execute(delete_active_lives(user_id))
+            unit, live_id = await build_live_unit(
+                conn, user_id, party_id, payload.live_master_id
+            )
+            await conn.execute(
+                create_active_live(
+                    user_id,
+                    live_id,
+                    payload.live_master_id,
+                    party_id,
+                    0,
+                    stamina_spent,
+                )
+            )
+            present = [data_object("User", user)] if user is not None and stamina_spent else []
+    return respond(unit, present=present)
 
 
 # /api/Lives/StartMultiRoomLive
