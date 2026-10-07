@@ -486,12 +486,33 @@ class MultiLiveHubHandler:
         if room is None:
             return HubError(GRPC_UNKNOWN, "not in a room")
         room.game_started = False
-        for _member_id, connected in room.active_sessions():
-            connected.is_exit_game = False
-            connected.score = 0
-            connected.clear_lamp = 0
-        self.registry.broadcast_to_room(room, "OnExitAllGames", room.fetch_users_result())
-        logger.info("room %s: final results shown", room.hall_id)
+
+        # Calculate MVP member ID(s) based on highest live score
+        max_score = -1
+        mvp_ids: list[int] = []
+        for _mid, s in room.active_sessions():
+            mid = s.member_id or 1
+            if s.score > max_score:
+                max_score = s.score
+                mvp_ids = [mid]
+            elif s.score == max_score and max_score > 0:
+                mvp_ids.append(mid)
+        if not mvp_ids:
+            mvp_ids = [room.host_member_id]
+
+        fetch_result = room.fetch_users_result()
+        is_team_challenge = (room.hall_type == 21) or (room.live_setting_master_id == 21)
+        event_name = (
+            "OnExitAllGamesForTeamChallenge" if is_team_challenge else "OnExitAllGames"
+        )
+        # Client signature: OnExitAllGames(int[] mvpMemberIds, MultiLiveFetchUsersResult multiLiveFetchUsersResult)
+        self.registry.broadcast_to_room(room, event_name, [mvp_ids, fetch_result])
+        logger.info(
+            "room %s: final results shown (mvp: %s, users: %d)",
+            room.hall_id,
+            mvp_ids,
+            len(fetch_result[1]) if len(fetch_result) > 1 else 0,
+        )
         return None
 
     def continue_play(self, session: HubSession, args):

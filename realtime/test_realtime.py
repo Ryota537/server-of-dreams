@@ -287,7 +287,11 @@ async def main() -> int:
 
         await host.call("EntryFinalResultAsync", None)
         await settle(guest)
-        check("OnExitAllGames carries the roster", len(guest.broadcasts("OnExitAllGames")) == 1)
+        exit_broadcasts = guest.broadcasts("OnExitAllGames")
+        check("OnExitAllGames carries the roster", len(exit_broadcasts) == 1)
+        check("OnExitAllGames carries [mvp_ids, fetch_result]",
+              isinstance(exit_broadcasts[0], list) and len(exit_broadcasts[0]) == 2
+              and isinstance(exit_broadcasts[0][0], list) and isinstance(exit_broadcasts[0][1], list))
 
         # --- continue play ---------------------------------------------- #
         print("\ncontinue play")
