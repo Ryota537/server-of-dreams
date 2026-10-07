@@ -76,6 +76,22 @@ def official_url(kind: str, platform: str, version: str, rel_path: str) -> str:
     return f"{OFFICIAL_ASSET_URL}/{kind}/{platform}/{version}/{rel_path}"
 
 
+def static_content(rel_path: str) -> Optional[Tuple[bytes, str]]:
+    """A local static-content file (event/gacha banner textures, under static-assets/Resources)
+    and its Content-MD5, or None if not downloaded. Served raw -- the client reads the png /
+    astc.gz as-is. Not memoized (thousands of banners)."""
+    path = (ASSETS / "static-assets" / rel_path).resolve()
+    root = (ASSETS / "static-assets").resolve()
+    if root not in path.parents or not path.is_file():  # stay inside the dir
+        return None
+    body = path.read_bytes()
+    return body, _content_md5(body)
+
+
+def official_static_url(rel_path: str) -> str:
+    return f"{OFFICIAL_ASSET_URL}/static-assets/{rel_path}"
+
+
 def notation(music_id: str, filename: str) -> Optional[Tuple[bytes, str]]:
     """A local encrypted notation/music_config .enc and its Content-MD5, or None if absent.
 

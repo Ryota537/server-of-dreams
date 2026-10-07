@@ -9,7 +9,9 @@ from helpers.assets import (
     local_assets_enabled,
     notation,
     official_notation_url,
+    official_static_url,
     official_url,
+    static_content,
 )
 
 router = APIRouter(tags=["Assets"], include_in_schema=False)
@@ -35,6 +37,19 @@ async def asset_notation(music_id: str, filename: str) -> Response:
         if local is not None:
             return _octet(local)
     return RedirectResponse(official_notation_url(music_id, filename), status_code=302)
+
+
+# Static content (event/gacha banner textures) the client fetches from static_content_url
+# (.../production/static-assets), NOT from the Addressables asset_url. Must be matched before
+# the generic /production/{kind}/... route below (else kind=static-assets mis-parses). Served
+# raw (png/astc.gz): local when downloaded, else a redirect to the official CDN.
+@router.get("/production/static-assets/{filepath:path}", name="Assets_StaticContent")
+async def asset_static_content(filepath: str) -> Response:
+    if local_assets_enabled():
+        local = static_content(filepath)
+        if local is not None:
+            return _octet(local)
+    return RedirectResponse(official_static_url(filepath), status_code=302)
 
 
 # Everything the client fetches from assets-e (redirected here). kind is
