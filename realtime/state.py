@@ -108,6 +108,7 @@ class Room:
         self.multi_live_id: int = 0
         self.game_started: bool = False
         self._go_game_sent: bool = False
+        self._exit_all_sent: bool = False
         # When the last connection left, or None while someone is still connected.
         self.empty_since: Optional[float] = None
 

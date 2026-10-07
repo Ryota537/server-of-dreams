@@ -479,12 +479,14 @@ class MultiLiveHubHandler:
                 sum(1 for _mid, s in room.active_sessions() if s.is_exit_game),
             ],
         )
+        active_sessions = list(room.active_sessions())
+        all_exited = bool(active_sessions) and all(s.is_exit_game for _mid, s in active_sessions)
+        if all_exited and not getattr(room, "_exit_all_sent", False):
+            self._broadcast_exit_all_games(room)
         return None
 
-    def entry_final_result(self, session: HubSession, args):
-        room = self._room(session)
-        if room is None:
-            return HubError(GRPC_UNKNOWN, "not in a room")
+    def _broadcast_exit_all_games(self, room: Room) -> None:
+        room._exit_all_sent = True
         room.game_started = False
 
         # Calculate MVP member ID(s) based on highest live score
@@ -513,6 +515,13 @@ class MultiLiveHubHandler:
             mvp_ids,
             len(fetch_result[1]) if len(fetch_result) > 1 else 0,
         )
+
+    def entry_final_result(self, session: HubSession, args):
+        room = self._room(session)
+        if room is None:
+            return HubError(GRPC_UNKNOWN, "not in a room")
+        if not getattr(room, "_exit_all_sent", False):
+            self._broadcast_exit_all_games(room)
         return None
 
     def continue_play(self, session: HubSession, args):
@@ -530,6 +539,7 @@ class MultiLiveHubHandler:
         room.selected_music_id = 0
         room.multi_live_id = 0
         room._go_game_sent = False
+        room._exit_all_sent = False
         for _member_id, connected in room.active_sessions():
             connected.reset_for_new_game()
         return D.multi_live_join_result(
