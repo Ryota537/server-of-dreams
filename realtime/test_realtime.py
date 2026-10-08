@@ -260,14 +260,30 @@ async def main() -> int:
         await settle(guest)
         check("OnSelectMusic fan-out", [1, 252, False] in guest.broadcasts("OnSelectMusic"),
               f"got {guest.broadcasts('OnSelectMusic')}")
+        check("Host alone selects music does not trigger OnLotMusic",
+              len(host.broadcasts("OnLotMusic")) == 0)
+
+        await guest.call("SelectMusicAsync", [253, False, False])
+        await settle(host, guest)
+        check("All members selected music triggers OnLotMusic",
+              len(host.broadcasts("OnLotMusic")) == 1 and len(guest.broadcasts("OnLotMusic")) == 1)
+
         await host.call("SelectDifficultyAsync", [1, False])
         await settle(guest)
         check("OnSelectDifficulty fan-out", [1, 1] in guest.broadcasts("OnSelectDifficulty"),
               f"got {guest.broadcasts('OnSelectDifficulty')}")
+        check("Host alone selects difficulty does not broadcast OnGoGame yet",
+              len(host.broadcasts("OnGoGame")) == 1)  # only the 1 from decide_member
+
+        await guest.call("SelectDifficultyAsync", [2, False])
+        await settle(host, guest)
+        check("All members selected difficulty triggers OnGoGame to both",
+              len(host.broadcasts("OnGoGame")) == 2 and len(guest.broadcasts("OnGoGame")) == 2)
 
         # --- game lifecycle --------------------------------------------- #
         print("\ngame lifecycle")
         await host.call("ReadyGameAsync", None)
+        await guest.call("ReadyGameAsync", None)
         await host.call("BeforeGameCalculateAsync", None)
         await host.call("StartGameAsync", None)
         await settle(host, guest)

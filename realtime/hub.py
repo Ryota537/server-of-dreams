@@ -304,6 +304,18 @@ class MultiLiveHubHandler:
         for _member_id, connected in room.active_sessions():
             connected.is_ready_decide_member = True
             connected.status = D.MultiLiveUserStatus.Joined
+            connected.selected_music_id = 0
+            connected.is_random_music = False
+            connected.difficulty = 0
+            connected.score = 0
+            connected.clear_lamp = 0
+            connected.is_exit_game = False
+        room.selected_music_id = 0
+        room.multi_live_id = 0
+        room.game_started = False
+        room._go_game_sent = False
+        room._lot_music_sent = False
+        room._exit_all_sent = False
         self.registry.broadcast_to_room(room, "OnReadyGroup", False)
         self.registry.broadcast_to_room(room, "OnGoGame", None)
         logger.info("room %s: host decided the roster", room.hall_id)
@@ -325,44 +337,50 @@ class MultiLiveHubHandler:
         self.registry.broadcast_to_room(
             room, "OnSelectMusic", [session.member_id, p["music_id"], p["is_random"]]
         )
+        self._try_lot_music(room, p.get("music_id"))
+        return None
 
-        # When all connected members have selected music, perform the lottery (OnLotMusic)
-        active = room.active_sessions()
+    def _try_lot_music(self, room: Room, fallback_music_id: Optional[int] = None) -> None:
+        if getattr(room, "_lot_music_sent", False):
+            return
+        active = list(room.active_sessions())
+        if not active:
+            return
         all_selected = all(
-            s.status >= D.MultiLiveUserStatus.SelectedMusic or s.selected_music_id > 0
+            (s.selected_music_id > 0 or s.is_random_music)
             for _mid, s in active
         )
-        if all_selected and active:
-            # Pick from non-random selections if available, else any chosen music_id, or fallback
+        if not all_selected:
+            return
+
+        room._lot_music_sent = True
+        picked_candidates = [
+            s.selected_music_id
+            for _mid, s in active
+            if s.selected_music_id and not s.is_random_music
+        ]
+        if not picked_candidates:
             picked_candidates = [
-                s.selected_music_id
-                for _mid, s in active
-                if s.selected_music_id and not s.is_random_music
+                s.selected_music_id for _mid, s in active if s.selected_music_id
             ]
-            if not picked_candidates:
-                picked_candidates = [
-                    s.selected_music_id for _mid, s in active if s.selected_music_id
-                ]
-            lot_music_id = random.choice(picked_candidates) if picked_candidates else room.selected_music_id
-            if not lot_music_id:
-                lot_music_id = p["music_id"] or 10071
-            room.selected_music_id = lot_music_id
+        lot_music_id = random.choice(picked_candidates) if picked_candidates else room.selected_music_id
+        if not lot_music_id:
+            lot_music_id = fallback_music_id or 10071
+        room.selected_music_id = lot_music_id
 
-            if not room.multi_live_id:
-                # Generate unique multi_live_id timestamp-based
-                room.multi_live_id = int(time.time() * 1000) % 2_000_000_000
+        if not room.multi_live_id:
+            # Generate unique multi_live_id timestamp-based
+            room.multi_live_id = int(time.time() * 1000) % 2_000_000_000
 
-            logger.info(
-                "room %s: all members selected music -> OnLotMusic(musicId=%s, multiLiveId=%s)",
-                room.hall_id,
-                room.selected_music_id,
-                room.multi_live_id,
-            )
-            self.registry.broadcast_to_room(
-                room, "OnLotMusic", [room.selected_music_id, room.multi_live_id]
-            )
-
-        return None
+        logger.info(
+            "room %s: all members selected music -> OnLotMusic(musicId=%s, multiLiveId=%s)",
+            room.hall_id,
+            room.selected_music_id,
+            room.multi_live_id,
+        )
+        self.registry.broadcast_to_room(
+            room, "OnLotMusic", [room.selected_music_id, room.multi_live_id]
+        )
 
     def select_stamp(self, session: HubSession, args):
         room = self._room(session)
@@ -385,13 +403,12 @@ class MultiLiveHubHandler:
         self.registry.broadcast_to_room(
             room, "OnSelectDifficulty", [session.member_id, p["difficulty"]]
         )
+        self._try_lot_music(room)
 
-        active = room.active_sessions()
-        all_diff = all(
-            s.status >= D.MultiLiveUserStatus.SelectedDifficulty or s.difficulty > 0
-            for _mid, s in active
-        )
-        if all_diff and active and not getattr(room, "_go_game_sent", False):
+        # When all active connected members have selected difficulty, broadcast OnGoGame
+        active = list(room.active_sessions())
+        all_diff = bool(active) and all(s.difficulty > 0 for _mid, s in active)
+        if all_diff and not getattr(room, "_go_game_sent", False):
             room._go_game_sent = True
             logger.info("room %s: all members selected difficulty -> OnGoGame", room.hall_id)
             self.registry.broadcast_to_room(room, "OnGoGame", None)
@@ -406,12 +423,11 @@ class MultiLiveHubHandler:
         session.status = D.MultiLiveUserStatus.ReadyGame
         logger.info("room %s: member %s ready_game", room.hall_id, session.member_id)
 
-        active = room.active_sessions()
-        all_ready = all(
-            s.status == D.MultiLiveUserStatus.ReadyGame
-            for _mid, s in active
+        active = list(room.active_sessions())
+        all_ready = bool(active) and all(
+            s.status == D.MultiLiveUserStatus.ReadyGame for _mid, s in active
         )
-        if all_ready and active and not room.game_started:
+        if all_ready and not room.game_started:
             room.game_started = True
             for _member_id, connected in active:
                 connected.status = D.MultiLiveUserStatus.PlayingGame
@@ -539,6 +555,7 @@ class MultiLiveHubHandler:
         room.selected_music_id = 0
         room.multi_live_id = 0
         room._go_game_sent = False
+        room._lot_music_sent = False
         room._exit_all_sent = False
         for _member_id, connected in room.active_sessions():
             connected.reset_for_new_game()
