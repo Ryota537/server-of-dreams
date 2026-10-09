@@ -275,6 +275,27 @@ class MultiLiveHubHandler:
         return None
 
     # -- member selection -------------------------------------------------- #
+    def _do_decide_member(self, room: Room) -> None:
+        """Commit the roster and move everyone on to music selection."""
+        for _member_id, connected in room.active_sessions():
+            connected.is_ready_decide_member = True
+            connected.status = D.MultiLiveUserStatus.Joined
+            connected.selected_music_id = 0
+            connected.is_random_music = False
+            connected.difficulty = 0
+            connected.score = 0
+            connected.clear_lamp = 0
+            connected.is_exit_game = False
+        room.selected_music_id = 0
+        room.multi_live_id = 0
+        room.game_started = False
+        room._go_game_sent = False
+        room._lot_music_sent = False
+        room._exit_all_sent = False
+        self.registry.broadcast_to_room(room, "OnReadyGroup", False)
+        self.registry.broadcast_to_room(room, "OnGoGame", None)
+        logger.info("room %s: decided the roster -> OnGoGame", room.hall_id)
+
     def ready_for_decide_member(self, session: HubSession, args):
         room = self._room(session)
         if room is None:
@@ -283,6 +304,20 @@ class MultiLiveHubHandler:
         self.registry.broadcast_to_room(
             room, "OnReadyDecideMember", [session.member_id, session.is_ready_decide_member]
         )
+
+        # In a public room, when multiple members are present and all active connected
+        # members have pressed 準備完了 (is_ready_decide_member=True), automatically
+        # advance to music selection. If only 1 player is in the room, do not advance.
+        if not room.is_private and session.is_ready_decide_member:
+            active = list(room.active_sessions())
+            if len(active) >= 2 and all(s.is_ready_decide_member for _mid, s in active):
+                logger.info(
+                    "public room %s: all %d members are ready -> auto deciding roster",
+                    room.hall_id,
+                    len(active),
+                )
+                self._do_decide_member(room)
+
         return None
 
     def decide_member(self, session: HubSession, args):
@@ -301,24 +336,7 @@ class MultiLiveHubHandler:
                 session.member_id, room.host_member_id,
             )
             return None
-        for _member_id, connected in room.active_sessions():
-            connected.is_ready_decide_member = True
-            connected.status = D.MultiLiveUserStatus.Joined
-            connected.selected_music_id = 0
-            connected.is_random_music = False
-            connected.difficulty = 0
-            connected.score = 0
-            connected.clear_lamp = 0
-            connected.is_exit_game = False
-        room.selected_music_id = 0
-        room.multi_live_id = 0
-        room.game_started = False
-        room._go_game_sent = False
-        room._lot_music_sent = False
-        room._exit_all_sent = False
-        self.registry.broadcast_to_room(room, "OnReadyGroup", False)
-        self.registry.broadcast_to_room(room, "OnGoGame", None)
-        logger.info("room %s: host decided the roster", room.hall_id)
+        self._do_decide_member(room)
         return None
 
     # -- music / difficulty ------------------------------------------------ #
