@@ -35,12 +35,13 @@ python main.py
 | Shops & market | ✅ | Photos & albums | ✅ |
 | Lessons & music courses | ✅ | Service-end date extension | ✅ |
 | Player-rank XP & stamina | ✅ | Daily limit resets | ✅ |
-| **Multiplayer (co-op, circles, Theater League)** | **🚧** | Poster (levels/breaks/stories) | ❌ |
-| Login bonuses | ❌ | Live events & rankings | ❌ |
-| Mission Pass | ❌ | Roulette | ❌ |
-| Flash sale | ❌ | Triple-cast parties | ❌ |
-| Banners | ❌ | Friend-invitation missions | ❌ |
-| Player rating history | ❌ | External payments | ❌ |
+| Music bookmarks | ✅ | **Multiplayer (co-op, circles, Theater League)** | **🚧** |
+| Poster (levels/breaks/stories) | ❌ | Login bonuses | ❌ |
+| Live events & rankings | ❌ | Mission Pass | ❌ |
+| Roulette | ❌ | Flash sale | ❌ |
+| Triple-cast parties | ❌ | Banners | ❌ |
+| Friend-invitation missions | ❌ | Player rating history | ❌ |
+| External payments | ❌ | | |
 
 ## Priority Todo
 - Player rating history log

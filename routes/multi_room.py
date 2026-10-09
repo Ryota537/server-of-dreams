@@ -50,7 +50,9 @@ async def multi_room_get_multi_room_detail(
 async def multi_room_get_multi_rooms(request: Request):
     app: YumeApp = request.app
     payload = {}  # no payload
-    return respond([MultiRoomInformationResult()])
+    # we don't host rooms -- return an empty list rather than a placeholder room, which the
+    # client rejects as invalid (it's the request the level-10 unlock walkthrough makes).
+    return respond([])
 
 
 # /api/MultiRoom/GetSearchMultiRooms?HashedRoomId=&LiveMasterId=

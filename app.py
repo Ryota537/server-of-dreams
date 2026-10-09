@@ -22,6 +22,10 @@ _PRESERVATION_TABLES = (
     'CREATE TABLE IF NOT EXISTS preservation_course_run ('
     '"userId" bigint PRIMARY KEY REFERENCES accounts("userId") ON DELETE CASCADE, '
     "data jsonb NOT NULL)",
+    # auto-play flag added to the transient active-live row (see db.user.create_active_live);
+    # kept here too so existing databases gain the column without re-running database_setup.
+    'ALTER TABLE active_live ADD COLUMN IF NOT EXISTS "isAutoPlay" '
+    "boolean NOT NULL DEFAULT false",
 )
 
 # The realtime StreamingHub channel is a second listener (HTTP/2 + gRPC) that the

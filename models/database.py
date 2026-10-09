@@ -415,6 +415,7 @@ class ActiveLiveModel(BaseModel):
     partyId: int
     liveSettingMasterId: int = 0
     staminaSpent: bool = False
+    isAutoPlay: bool = False
 
 
 class MusicModel(BaseModel):

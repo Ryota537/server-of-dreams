@@ -91,3 +91,9 @@
 2026/10/03 - Fix: live-drop frames now honor their availability window (start-inclusive/end-exclusive); expired seasonal drops no longer appear, permanent drops unaffected
 
 2026/10/03 - Extend service-end (2026-09-29) content end dates to the permanent sentinel (2100-01-01) at master-data load time, for both server logic and the client blob, so shops/schedules/Anthology content stays available post-shutdown (fixes performance-menu error 81); genuinely time-limited past events keep their own dates
+
+2026/10/09 - Fix: Music/EditBookmark now persists bookmarks (validates song + 3-bit flag, serialized per account/song, dedupes); previously returned success without saving
+
+2026/10/09 - Fix: /api/MultiRooms returns an empty list instead of a placeholder room (the client rejects the placeholder as invalid)
+
+2026/10/09 - Fix: AUTO-play runs no longer bank a 101% All Perfect record; auto is tracked on active_live and skips lamp/rate/grade/high-score updates (still counts as a play and drops rewards). Adds active_live.isAutoPlay (self-migrates on startup)

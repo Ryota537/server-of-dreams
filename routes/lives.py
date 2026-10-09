@@ -15,6 +15,7 @@ from db.user import (
     update_player_rate,
     update_sp_rate_point,
     upsert_live,
+    upsert_music_bookmark,
     upsert_sp_rate,
 )
 from helpers.cache import cache
@@ -41,7 +42,7 @@ from helpers.stamina import adjust_and_check_stamina
 from helpers.things import present_type
 from helpers.user_data import build_present, current_user_id, data_object
 from models import *
-from models.database import LiveModel, SpRateModel
+from models.database import LiveModel, MusicBookmarkModel, SpRateModel
 
 router = APIRouter(tags=["Lives"])
 
@@ -103,8 +104,53 @@ async def lives_calculate_time_events(request: Request):
 @router.post("/api/Lives/Music/EditBookmark", name="Lives_EditBookmark")
 async def lives_edit_bookmark(request: Request):
     app: YumeApp = request.app
+    user_id = current_user_id(request)
     payload = await read_request(request, EditBookmarkPayload)
-    return respond(BooleanResult())
+    if user_id is None or payload is None or payload.music_master_id <= 0:
+        return respond(BooleanResult())
+    music_id = payload.music_master_id
+    flag = int(payload.bookmark_flag)
+    # the flag is a 3-bit mask (Bookmark1/2/4); the enum admits arbitrary ints, so reject
+    # anything outside those bits and any unknown song.
+    if flag < 0 or flag & ~7 or not any(m.id_ == music_id for m in cache.music_master):
+        return respond(BooleanResult())
+    async with app.acquire_db() as conn, conn.transaction():
+        # music_bookmark has no unique (userId, musicMasterId) key, so serialize this
+        # account/song pair to stop repeated taps leaving duplicate rows. Replace the row
+        # outright: flag 0 just clears it.
+        await conn.conn.execute(
+            "SELECT pg_advisory_xact_lock(hashtextextended($1, 0))",
+            f"music-bookmark:{user_id}:{music_id}",
+        )
+        existed = await conn.conn.fetchval(
+            'SELECT 1 FROM "music_bookmark" WHERE "userId" = $1 AND "musicMasterId" = $2 LIMIT 1',
+            user_id,
+            music_id,
+        )
+        await conn.conn.execute(
+            'DELETE FROM "music_bookmark" WHERE "userId" = $1 AND "musicMasterId" = $2',
+            user_id,
+            music_id,
+        )
+        if flag:
+            await conn.execute(
+                upsert_music_bookmark(
+                    user_id, {"musicMasterId": music_id, "musicBookmarkFlag": flag}
+                )
+            )
+    if not existed and not flag:  # nothing was there and nothing to set
+        return respond(BooleanResult(is_success=True))
+    return respond(
+        BooleanResult(is_success=True),
+        present=[
+            data_object(
+                "MusicBookmark",
+                MusicBookmarkModel(
+                    userId=user_id, musicMasterId=music_id, musicBookmarkFlag=flag
+                ),
+            )
+        ],
+    )
 
 
 # /api/Lives/FinishAndValidate
@@ -138,10 +184,14 @@ async def lives_finish_and_validate(request: Request):
             existing.clearLamp if existing is not None else int(ClearLamps.None_)
         )
         prev_rate = existing.achievementRate if existing is not None else 0.0
-        is_high_score = this_rate > prev_rate
+        # Auto-play clears don't set records: the client auto-hits every note PERFECT*, which
+        # would otherwise bank a 101% All Perfect. An auto run still counts as a play and still
+        # drops rewards, but the saved lamp/rate/grade (and the result screen) keep the prior best.
+        auto_play = bool(active.isAutoPlay) if active is not None else False
+        is_high_score = this_rate > prev_rate and not auto_play
 
-        best_lamp = max(before_lamp, new_lamp)  # ClearLamps int order = worst..best
-        best_rate = max(prev_rate, this_rate)
+        best_lamp = before_lamp if auto_play else max(before_lamp, new_lamp)
+        best_rate = prev_rate if auto_play else max(prev_rate, this_rate)
         best_grade = rate_grade(best_rate)
         times = (existing.timesCompleted if existing is not None else 0) + 1
         # notation_rate is the chart's (best) live rate: level + interpolated achievement bonus
@@ -315,16 +365,20 @@ async def lives_finish_and_validate(request: Request):
     if refresh:
         present += await build_present(app, user_id, *sorted(refresh))
 
+    # an auto-play run is reported as no improvement (see the record cap above), so the result
+    # panel shows the saved best rather than a fresh All Perfect.
+    result_lamp = best_lamp if auto_play else new_lamp
+    result_rate = best_rate if auto_play else this_rate
     result = FinishLiveResult(
-        clear_lamp=ClearLamps(new_lamp),
+        clear_lamp=ClearLamps(result_lamp),
         before_clear_lamp=ClearLamps(before_lamp),
-        rate_grade=AchievementRateGrades(rate_grade(this_rate)),
+        rate_grade=AchievementRateGrades(rate_grade(result_rate)),
         is_high_score=is_high_score,
         achievement_rate_average=0.0,  # TODO: add global average acc
         rate_result=RateResult(
             achievement_rate_result=RateUpdateResult(
                 best_ever=round(prev_rate, 4),
-                this_time=round(this_rate, 4),  # best_ever = past best only
+                this_time=round(result_rate, 4),  # best_ever = past best only
             ),
             live_rate_result=live_rate_result,
             total_rate_before=total_before,
@@ -504,6 +558,7 @@ async def lives_start(request: Request):
                     payload.party_id,
                     payload.live_setting_master_id,
                     stamina_spent,
+                    payload.is_auto_play,
                 )
             )
             present = [data_object("User", user)] if user is not None else []
