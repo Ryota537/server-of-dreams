@@ -415,6 +415,22 @@ class HubRegistry:
                 return room
         return None
 
+    def room_by_user_id(self, user_id: int) -> Optional[Room]:
+        """Find the room where user_id currently holds a seat."""
+        for room in self.rooms.values():
+            if any(m.user_id == user_id for m in room.members.values()):
+                return room
+        return None
+
+    def room_by_multi_live_id(self, multi_live_id: int) -> Optional[Room]:
+        """Find the room by its active multi_live_id."""
+        if not multi_live_id:
+            return None
+        for room in self.rooms.values():
+            if room.multi_live_id == multi_live_id:
+                return room
+        return None
+
     def reap_empty_rooms(self) -> None:
         """Discard rooms nobody has been connected to for the grace period.
 

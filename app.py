@@ -61,6 +61,7 @@ app = YumeApp(
     version=str(config["server_version"]),
     lifespan=lifespan,
 )
+app.realtime_service = realtime_service
 
 for _r in routers:
     app.include_router(_r)

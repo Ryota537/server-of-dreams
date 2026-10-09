@@ -637,6 +637,17 @@ async def lives_start_multi_live(request: Request):
                 parties = await conn.fetch(get_partys(user_id))
                 party_id = parties[0].id if parties else 1
 
+            # Determine the liveSettingMasterId from the active room if available,
+            # falling back to the standard multi-live hall (11: Sirius)
+            live_setting_master_id = 11
+            rt = getattr(app, "realtime_service", None)
+            if rt is not None and getattr(rt, "registry", None) is not None:
+                room = rt.registry.room_by_user_id(user_id)
+                if room is None and payload.multi_live_id:
+                    room = rt.registry.room_by_multi_live_id(payload.multi_live_id)
+                if room is not None and room.live_setting_master_id:
+                    live_setting_master_id = room.live_setting_master_id
+
             await conn.execute(delete_active_lives(user_id))
             unit, live_id = await build_live_unit(
                 conn, user_id, party_id, payload.live_master_id
@@ -647,7 +658,7 @@ async def lives_start_multi_live(request: Request):
                     live_id,
                     payload.live_master_id,
                     party_id,
-                    0,
+                    live_setting_master_id,
                     stamina_spent,
                 )
             )
