@@ -1385,9 +1385,6 @@
                 },
                 {
                     "slotNumber": 2,
-                    "FacialExpressionMasterId": 101,
-                    "BodyMotionMasterId": 8,
-                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1396,6 +1393,9 @@
                 },
                 {
                     "slotNumber": 3,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 5,
@@ -1425,6 +1425,9 @@
                 },
                 {
                     "slotNumber": 2,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1433,9 +1436,6 @@
                 },
                 {
                     "slotNumber": 3,
-                    "FacialExpressionMasterId": 200,
-                    "BodyMotionMasterId": 2,
-                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 5,

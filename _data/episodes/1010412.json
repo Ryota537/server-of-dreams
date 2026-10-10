@@ -2055,7 +2055,7 @@
                     "FacialExpressionMasterId": 112,
                     "BodyMotionMasterId": 13,
                     "LipSyncMasterId": 1,
-                    "SpineId": 10501,
+                    "SpineId": 10503,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -2076,7 +2076,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
-                    "SpineId": 10501,
+                    "SpineId": 10503,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,

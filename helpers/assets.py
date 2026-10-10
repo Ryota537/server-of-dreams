@@ -61,15 +61,36 @@ def local_assets_enabled() -> bool:
     return bool(config["local_assets"])
 
 
+_KINDS = ("2d-assets", "3d-assets", "cri-assets")
+
+
 def bundle(kind: str, platform: str, rel_path: str) -> Optional[Tuple[bytes, str]]:
-    """A local asset bundle and its Content-MD5, or None if not downloaded. Not
-    memoized -- there are tens of thousands of bundles."""
-    path = (ASSETS / kind / platform.lower() / rel_path).resolve()
-    root = (ASSETS / kind / platform.lower()).resolve()
-    if root not in path.parents or not path.is_file():  # stay inside the asset dir
-        return None
-    body = path.read_bytes()
-    return body, _content_md5(body)
+    """A local asset bundle and its Content-MD5, or None if not downloaded anywhere. Not
+    memoized -- there are tens of thousands of bundles.
+
+    A bundle filename identifies the same content regardless of which kind-host serves it, and
+    asset groups are kind-exclusive, so a given <group>/<file> path lives under at most one kind.
+    The client probes 2d->3d->cri for a bundle and uses the first hit, so a bundle that lives only
+    under one kind (e.g. cri-only adventure se/voice/acb) must be served for a request to ANY kind
+    -- otherwise the offline server 302s the probe to the official CDN. Try the requested kind
+    first, then the others in probe order."""
+    plat = platform.lower()
+
+    def _try(k: str) -> Optional[Tuple[bytes, str]]:
+        path = (ASSETS / k / plat / rel_path).resolve()
+        root = (ASSETS / k / plat).resolve()
+        if root not in path.parents or not path.is_file():  # stay inside the asset dir
+            return None
+        body = path.read_bytes()
+        return body, _content_md5(body)
+
+    hit = _try(kind)
+    if hit is not None:
+        return hit
+    for k in _KINDS:
+        if k != kind and (hit := _try(k)) is not None:
+            return hit
+    return None
 
 
 def official_url(kind: str, platform: str, version: str, rel_path: str) -> str:
