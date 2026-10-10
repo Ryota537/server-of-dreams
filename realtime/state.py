@@ -102,7 +102,6 @@ class Room:
         # unrelated to the id, but only stability matters to the client.
         is_team_challenge = (hall_type == 21) or (live_setting_master_id == 21)
         self.key_code = _key_code_for(hall_id, is_team_challenge=is_team_challenge) if private else 0
-        self._next_member_id = itertools.count(1)
         self.members: dict[int, RoomMember] = {}
         self.selected_music_id: int = 0
         self.multi_live_id: int = 0
@@ -113,10 +112,17 @@ class Room:
         # When the last connection left, or None while someone is still connected.
         self.empty_since: Optional[float] = None
 
+    def _find_free_member_id(self) -> int:
+        """Find the lowest available slot number (1..MAX_MEMBERS)."""
+        for mid in range(1, MAX_MEMBERS + 1):
+            if mid not in self.members:
+                return mid
+        return len(self.members) + 1
+
     # -- seats ------------------------------------------------------------- #
     def add_member(self, session: "HubSession") -> RoomMember:
         member = RoomMember(
-            next(self._next_member_id), session.user_id, session.hash_user_id
+            self._find_free_member_id(), session.user_id, session.hash_user_id
         )
         self.members[member.member_id] = member
         self.bind(member, session)

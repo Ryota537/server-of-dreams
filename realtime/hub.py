@@ -586,13 +586,21 @@ class MultiLiveHubHandler:
         room._go_game_sent = False
         room._lot_music_sent = False
         room._exit_all_sent = False
+
+        # When continuing play, the room becomes private even if it was previously public
+        room.is_private = True
+        if not room.key_code:
+            from realtime.state import _key_code_for
+            is_team_challenge = (room.hall_type == 21) or (room.live_setting_master_id == 21)
+            room.key_code = _key_code_for(room.hall_id, is_team_challenge=is_team_challenge)
+
         session.reset_for_new_game()
         self.registry.broadcast_to_room(
             room, "OnJoin", session.to_user(session.member_id), exclude=session.member_id
         )
         return D.multi_live_join_result(
             error_code=D.MultiLiveJoinErrorCodes.None_,
-            hall_id=None if not room.is_private else room.hall_id,
+            hall_id=room.hall_id,
             member_id=session.member_id or 0,
             key_code=room.key_code,
             live_setting_master_id=room.live_setting_master_id,
