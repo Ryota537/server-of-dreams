@@ -191,6 +191,13 @@ class MultiLiveHubHandler:
             "member %s joined room %s (private=%s, %d in room)",
             member.member_id, room.hall_id, not public, len(room.members),
         )
+
+        # When the room reaches full capacity (4 members), automatically advance
+        # to music selection for both public and private rooms.
+        if len(room.members) >= MAX_MEMBERS:
+            logger.info("room %s reached full capacity (%d members) -> auto deciding roster", room.hall_id, MAX_MEMBERS)
+            self._do_decide_member(room)
+
         return D.multi_live_join_result(
             error_code=D.MultiLiveJoinErrorCodes.None_,
             # A captured public join replies with a NIL hall id: public rooms are
