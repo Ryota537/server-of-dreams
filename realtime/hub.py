@@ -95,7 +95,7 @@ class MultiLiveHubHandler:
         room = self.registry.room_of(session)
         if room is None:
             return
-        member = room.unbind(session)
+        member = room.remove_member(session.member_id or -1, session=session)
         if member is not None:
             self.registry.broadcast_to_room(room, "OnLeaveAnyOne", member.member_id)
             logger.info(
@@ -507,6 +507,7 @@ class MultiLiveHubHandler:
         session.clear_lamp = p["clear_lamp"]
         session.is_exit_game = True
         session.status = D.MultiLiveUserStatus.ExitGame
+        session.is_ready_decide_member = False
         self.registry.broadcast_to_room(
             room,
             "OnSyncGameResult",
@@ -529,6 +530,9 @@ class MultiLiveHubHandler:
     def _broadcast_exit_all_games(self, room: Room) -> None:
         room._exit_all_sent = True
         room.game_started = False
+        for _mid, s in room.active_sessions():
+            s.is_ready_decide_member = False
+            s.status = D.MultiLiveUserStatus.ExitGame
 
         # Calculate MVP member ID(s) based on highest live score
         max_score = -1
@@ -582,8 +586,10 @@ class MultiLiveHubHandler:
         room._go_game_sent = False
         room._lot_music_sent = False
         room._exit_all_sent = False
-        for _member_id, connected in room.active_sessions():
-            connected.reset_for_new_game()
+        session.reset_for_new_game()
+        self.registry.broadcast_to_room(
+            room, "OnJoin", session.to_user(session.member_id), exclude=session.member_id
+        )
         return D.multi_live_join_result(
             error_code=D.MultiLiveJoinErrorCodes.None_,
             hall_id=None if not room.is_private else room.hall_id,

@@ -93,11 +93,13 @@ frame is load-bearing, not cosmetic.
 Decoding order matters: decompress **before** flattening ext types, or the payload becomes
 unrecognisable.
 
-**Seats outlive connections.** The capture shows a client reconnecting and issuing
-room-scoped calls *without joining again*, and still holding its place. So membership is a
-`RoomMember` (a seat) and not a socket. A seat's state is snapshotted on disconnect so the
-roster others see does not change just because a socket was replaced. Only `IMultiLiveHub`
-owns seats — a circle or common-hub connection for the same account must not take one over.
+**Seats and disconnections.** While a game is actively in progress (`room.game_started`),
+a temporary disconnect keeps the seat (`unbind`), snapshotting state so a quick mid-game
+reconnect can recover and submit results. Outside an active live (in the lobby, result screen,
+or when moving to another hall via `_detach`), leaving removes the member from `room.members`
+(`remove_member`) and broadcasts `OnLeaveAnyOne`, freeing the seat so other players see the
+empty slot immediately and preventing multi-room ghost profiles. Only `IMultiLiveHub` owns
+seats — a circle or common-hub connection for the same account must not take one over.
 
 **Hall type and size.** `13` = Gingaza (public), `21` = team challenge, `11`/`12`/`14`/`15`
 are the other halls. Four members maximum. A public join replies with a **nil** hall id
@@ -120,7 +122,7 @@ client misreads silently. Lengths, each confirmed against the capture:
 ## Tests
 
 ```bash
-.venv/bin/python -m realtime.test_realtime   # 51 checks over a real HTTP/2 connection
+.venv/bin/python -m realtime.test_realtime   # 67 checks over a real HTTP/2 connection
 .venv/bin/python -m realtime.test_tls        # TLS + real tokens from sod's own auth
 .venv/bin/python -m realtime.test_replay     # replays the captured session
 ```
@@ -141,20 +143,25 @@ final results, continue play, leave, invitations, seat ownership across reconnec
 
 ## What is verified, and what is not
 
-Verified against the live listener with real tokens:
+Verified against the live listener with real tokens and real game clients (patched Android APK):
 
 * TLS + ALPN `h2` negotiate; a token minted by `make_session_jwt` is accepted and maps to
   the right user id; a forged token is refused;
 * create hall → guest joins by key code → host receives `OnJoin` → `FetchUsersAsync` returns
-  both members → `DecideMemberAsync` fans `OnReadyGroup` and `OnGoGame` out to the guest.
+  both members → ready/decide (or auto-advance on all ready / full room) → `OnReadyGroup` and `OnGoGame`
+  out to everyone;
+* synchronized music lottery (`OnLotMusic`), synchronized difficulty selection (`OnGoGame`),
+  `ReadyGameAsync` sync → `OnPlayGame` countdown and live gameplay;
+* in-game note status sync (`SyncInGameStatusAsync`), live finish (`ExitGameAsync`), final results
+  broadcast (`OnExitAllGames` with MVP IDs and synchronized 60-second result timer);
+* continue play (`ContinuePlayAsync`) keeps the hall while correctly leaving other members in
+  confirming state until they also continue or leave.
 
 Verified by replay: 408 of 449 captured calls match the real server's reply layout exactly,
 with 0 structural mismatches across all 28 methods the capture exercised.
 
 **Not verified:**
 
-* no real game client has connected to this listener yet — the device has not been pointed
-  at it;
 * chat history and the circle activity log are **in memory only** and start empty; the
   capture's non-empty pages are real server data we do not reproduce;
 * `GetActivityLogsAsync` returns empty because nothing records activity yet;

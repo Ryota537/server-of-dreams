@@ -22,6 +22,7 @@ import msgpack
 sys.path.insert(0, "/root/server-of-dreams")
 
 from helpers.user_hash import hash_id, unhash_id  # noqa: E402
+from realtime import dtos as D  # noqa: E402
 from realtime import framing as F  # noqa: E402
 from realtime import methods as M  # noqa: E402
 from realtime.dispatcher import RealtimeService  # noqa: E402
@@ -314,6 +315,10 @@ async def main() -> int:
         cont = await host.call("ContinuePlayAsync", None)
         check("continue reuses the hall id", cont and cont[1] == hall_id, f"got {cont!r}")
         check("continue keeps member id 1", cont and cont[2] == 1)
+        check("guest status not prematurely reset to Joined",
+              service.registry.rooms[hall_id].members[2].session.status == D.MultiLiveUserStatus.ExitGame)
+        check("guest is_ready_decide_member is False",
+              not service.registry.rooms[hall_id].members[2].session.is_ready_decide_member)
 
         # --- leaving ----------------------------------------------------- #
         print("\nleaving")
@@ -322,6 +327,8 @@ async def main() -> int:
         await settle(host)
         check("host told the guest left (OnLeaveAnyOne)", 2 in host.broadcasts("OnLeaveAnyOne"),
               f"got {host.broadcasts('OnLeaveAnyOne')}")
+        check("guest seat removed from room upon leaving",
+              2 not in service.registry.rooms[hall_id].members)
 
         # --- auth -------------------------------------------------------- #
         print("\nauthentication")

@@ -143,6 +143,30 @@ class Room:
             self.empty_since = time.monotonic()
         return member
 
+    def remove_member(
+        self, member_id: int, session: Optional["HubSession"] = None
+    ) -> Optional[RoomMember]:
+        """Permanently remove a member from the room's seats."""
+        member = self.members.get(member_id)
+        if member is None:
+            return None
+        # If another active session already took over this seat, do not remove it
+        if session is not None and member.session is not None and member.session is not session:
+            return None
+        self.members.pop(member_id, None)
+        if member.session is not None and (session is None or member.session is session):
+            member.session.hall_id = None
+            member.session.member_id = None
+            member.session.member = None
+            member.session = None
+        member.snapshot = None
+        if not self.has_connections:
+            self.empty_since = time.monotonic()
+        if self.host_member_id == member_id:
+            remaining = list(self.members.keys())
+            self.host_member_id = min(remaining) if remaining else 1
+        return member
+
     def member_for_user(self, user_id: Optional[int]) -> Optional[RoomMember]:
         if user_id is None:
             return None
@@ -363,12 +387,16 @@ class HubRegistry:
         room = self.room_of(session)
         if room is None:
             return
-        member = room.unbind(session)
+        member_id = session.member_id or -1
+        # If the game is actively in progress, unbind the session so a quick reconnect
+        # can restore the seat mid-game. If not in game (lobby, result screen, etc.),
+        # the member has left the room and is removed permanently.
+        if room.game_started:
+            member = room.unbind(session)
+        else:
+            member = room.remove_member(member_id, session=session)
         if member is None:
             return
-        # The seat stays (so a reconnect finds it); the others are told the member
-        # dropped, which is what OnLeaveAnyOne means. The room is NOT discarded here:
-        # an empty hall survives a grace period so a reconnect can rejoin it.
         self.broadcast_to_room(room, "OnLeaveAnyOne", member.member_id)
         self.reap_empty_rooms()
 
