@@ -95,7 +95,7 @@ class MultiLiveHubHandler:
         room = self.registry.room_of(session)
         if room is None:
             return
-        member = room.unbind(session)
+        member = room.remove_member(session.member_id or -1, session=session)
         if member is not None:
             self.registry.broadcast_to_room(room, "OnLeaveAnyOne", member.member_id)
             logger.info(
@@ -507,6 +507,7 @@ class MultiLiveHubHandler:
         session.clear_lamp = p["clear_lamp"]
         session.is_exit_game = True
         session.status = D.MultiLiveUserStatus.ExitGame
+        session.is_ready_decide_member = False
         self.registry.broadcast_to_room(
             room,
             "OnSyncGameResult",
@@ -529,6 +530,10 @@ class MultiLiveHubHandler:
     def _broadcast_exit_all_games(self, room: Room) -> None:
         room._exit_all_sent = True
         room.game_started = False
+        for _mid, s in room.active_sessions():
+            if s.status != D.MultiLiveUserStatus.Joined:
+                s.is_ready_decide_member = False
+                s.status = D.MultiLiveUserStatus.ExitGame
 
         # Calculate MVP member ID(s) based on highest live score
         max_score = -1
@@ -581,12 +586,25 @@ class MultiLiveHubHandler:
         room.multi_live_id = 0
         room._go_game_sent = False
         room._lot_music_sent = False
-        room._exit_all_sent = False
-        for _member_id, connected in room.active_sessions():
-            connected.reset_for_new_game()
+
+        # When continuing play, the room becomes private even if it was previously public
+        room.is_private = True
+        if not room.key_code:
+            from realtime.state import _key_code_for
+            is_team_challenge = (room.hall_type == 21) or (room.live_setting_master_id == 21)
+            room.key_code = _key_code_for(room.hall_id, is_team_challenge=is_team_challenge)
+
+        session.reset_for_new_game()
+        self.registry.broadcast_to_room(
+            room, "OnJoin", session.to_user(session.member_id), exclude=session.member_id
+        )
+        # Notify the continuing session of other members who are already ready in the lobby
+        for mid, s in room.active_sessions():
+            if mid != session.member_id and s.is_ready_decide_member:
+                session.broadcast("OnReadyDecideMember", [mid, True])
         return D.multi_live_join_result(
             error_code=D.MultiLiveJoinErrorCodes.None_,
-            hall_id=None if not room.is_private else room.hall_id,
+            hall_id=room.hall_id,
             member_id=session.member_id or 0,
             key_code=room.key_code,
             live_setting_master_id=room.live_setting_master_id,
