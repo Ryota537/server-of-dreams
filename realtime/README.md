@@ -50,15 +50,28 @@ Both are supported; standalone is easier to test and restart.
 realtime:
   host: 0.0.0.0
   port: 8443
-  certfile: /root/wds-frida/hub-mitm.crt
-  keyfile:  /root/wds-frida/hub-mitm.key
+  certfile: cert.pem
+  keyfile:  key.pem
   auto_start: false
 ```
 
 TLS needs **both** files; with neither the channel serves cleartext, which is only useful
-for a local test. The certificate must be one the client trusts — the patched APK ships a
-CA that signs only for the realtime hostname, so a self-signed cert is rejected unless the
-device trusts it.
+for a local test.
+
+### Generating SSL/TLS Certificates
+
+The realtime StreamingHub runs over HTTP/2 with ALPN (`h2`). For local development, testing, or self-hosted environments, you can generate a self-signed certificate and private key using OpenSSL:
+
+```bash
+openssl req -x509 -newkey rsa:4096 -nodes -sha256 \
+  -keyout key.pem -out cert.pem -days 365 \
+  -subj "/CN=your-realtime-domain.com" \
+  -addext "subjectAltName=DNS:your-realtime-domain.com,DNS:localhost,IP:127.0.0.1"
+```
+
+> **Note:**
+> - Adjust the `CN` (Common Name) and `subjectAltName` (SAN) to match the hostname or IP configured in your `config.yml` (`multi_real_time_server_url`).
+> - If deploying behind a reverse proxy (e.g. Caddy, Nginx, Cloudflare) that terminates TLS and proxies HTTP/2 to the realtime server, configure TLS upstream accordingly or serve cleartext HTTP/2 locally.
 
 Point the client at this listener through `multi_real_time_server_url` in `/api/Environment`
 (`multi_real_time_server_url` in `config.yml`).
@@ -122,24 +135,12 @@ client misreads silently. Lengths, each confirmed against the capture:
 ## Tests
 
 ```bash
-.venv/bin/python -m realtime.test_realtime   # 72 checks over a real HTTP/2 connection
-.venv/bin/python -m realtime.test_tls        # TLS + real tokens from sod's own auth
-.venv/bin/python -m realtime.test_replay     # replays the captured session
+.venv/bin/python -m realtime.test_realtime   # End-to-end checks over a real HTTP/2 connection
 ```
 
 `test_realtime` drives a whole two-player session end to end: create a private hall, a
 guest joins by key code, ready/decide, music and difficulty, game start, in-game sync, exit,
 final results, continue play, leave, invitations, seat ownership across reconnects.
-
-`test_replay` runs every captured request against our handlers and compares the reply
-**layout** with what the real server sent. It classifies each difference:
-
-* **structural** — a real bug; fails the run. Validated by mutation: a wrong array length, a
-  misplaced nil, or a drifted nested layout is always caught.
-* **state-only** — same layout, different contents. Expected: the replay runs every
-  captured stream as one account while the real session had several players.
-* **no-history** — we returned empty where the capture had entries (chat history, pending
-  invitations). A fresh server has none.
 
 ## What is verified, and what is not
 
@@ -157,10 +158,7 @@ Verified against the live listener with real tokens and real game clients (patch
 * continue play (`ContinuePlayAsync`) keeps the hall while correctly leaving other members in
   confirming state until they also continue or leave.
 
-Verified by replay: 408 of 449 captured calls match the real server's reply layout exactly,
-with 0 structural mismatches across all 28 methods the capture exercised.
-
-**Not verified:**
+## What is not verified:
 
 * chat history and the circle activity log are **in memory only** and start empty; the
   capture's non-empty pages are real server data we do not reproduce;
