@@ -1,3 +1,4 @@
+import datetime
 from typing import Optional
 
 from fastapi import APIRouter, Request
@@ -22,11 +23,32 @@ async def home_check_eexternal_payment(request: Request):
 async def home_check_receive_login_bonus(request: Request):
     app: YumeApp = request.app
     payload = {}  # no payload
-    # TODO: build LoginBonusResult[] from masterdata + grant the day's rewards via
-    # helpers.things.grant_things (to_inbox=True). Blocked: LoginBonusMaster /
-    # LoginBonusDetailMaster / LoginBonusSpineGroupMaster are NOT in our unpacked masterdata
-    # (only LoginBonusSpineCostumeMaster is). Return [] (no bonus) rather than a bogus id-0 one.
-    return respond([])
+    # the client's login-bonus flow takes an AsyncLock (SemaphoreSlim) and only releases it after
+    # it has processed at least one structurally-complete LoginBonusResult. an empty array is a
+    # valid array but leaves that lock held forever -> silent deadlock on Main scene init (white
+    # screen + logo, UnityMain stuck in futex_wait, no further requests). return one complete
+    # result so the flow completes. real rewards still need LoginBonusMaster/LoginBonusDetailMaster
+    # (absent from our unpacked masterdata), so nothing is granted yet -- received_things/details
+    # stay empty.
+    now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat()
+    return respond(
+        [
+            LoginBonusResult(
+                login_bonus_id=1,
+                current_login_count=1,
+                received_things=[],
+                title="ログインボーナス",
+                type=LoginBonusTypes.Normal,
+                start_date=now,
+                message_template="ログインボーナス {0}日目",
+                total_days=7,
+                is_loop=True,
+                order=1,
+                details=[],
+                layout_type=LoginBonusLayoutTypes.Normal,
+            )
+        ]
+    )
 
 
 # /api/Home/GetMultiLiveRestrictionNotification

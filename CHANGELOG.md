@@ -97,3 +97,5 @@
 2026/10/09 - Fix: /api/MultiRooms returns an empty list instead of a placeholder room (the client rejects the placeholder as invalid)
 
 2026/10/09 - Fix: AUTO-play runs no longer bank a 101% All Perfect record; auto is tracked on active_live and skips lamp/rate/grade/high-score updates (still counts as a play and drops rewards). Adds active_live.isAutoPlay (self-migrates on startup)
+
+2026/10/12 - Fix: dual-idol cards now link the second idol's CharacterBase on grant (secondaryCharacterBaseId/secondarySenseLevel); previously left NULL, which hung the party edit/view screens and blocked music play (error 81). Saved dual cards are repaired at startup

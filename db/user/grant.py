@@ -35,16 +35,26 @@ def create_character_base(
 
 
 def create_character(
-    user_id: int, row_id: int, master_id: int, character_base_id: int
+    user_id: int,
+    row_id: int,
+    master_id: int,
+    character_base_id: int,
+    secondary_base_id: Optional[int] = None,
+    secondary_sense_level: int = 0,
 ) -> ExecutableQuery:
+    # dual-idol cards (CharacterMaster.secondary_character_base_master_id set) carry a second
+    # owned CharacterBase; single-idol cards leave it NULL with secondarySenseLevel 0.
     return ExecutableQuery(
         'INSERT INTO "character" '
-        '("userId", "id", "characterMasterId", "characterBaseId", "level", "senseLevel", "selectionType") '
-        "VALUES ($1, $2, $3, $4, 1, 1, 1)",
+        '("userId", "id", "characterMasterId", "characterBaseId", "level", "senseLevel", '
+        '"secondaryCharacterBaseId", "secondarySenseLevel", "selectionType") '
+        "VALUES ($1, $2, $3, $4, 1, 1, $5, $6, 1)",
         user_id,
         row_id,
         master_id,
         character_base_id,
+        secondary_base_id,
+        secondary_sense_level,
     )
 
 

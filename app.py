@@ -11,6 +11,7 @@ from helpers.cache import load_master_data
 from helpers.config import config, database
 from helpers.master_data import master_data_db
 from helpers.msgpack import common_response, fault
+from helpers.things import repair_dual_cards
 from realtime.dispatcher import RealtimeRouter, build_service
 from routes import live_modes, routers
 
@@ -47,6 +48,13 @@ async def lifespan(app: "YumeApp"):
         async with app.acquire_db() as conn:  # live/course progression bookkeeping tables
             for _sql in _PRESERVATION_TABLES:
                 await conn.conn.execute(_sql)
+            # link the second idol on any dual-idol cards saved before that was handled
+            async with conn.transaction():
+                repaired = await repair_dual_cards(conn)
+            if repaired:
+                print(
+                    f"Linked the second idol on {repaired} dual-idol card(s)", flush=True
+                )
     if _realtime_cfg.get("auto_start"):
         await realtime_service.start()
     yield
