@@ -29,6 +29,7 @@ The sequence implemented here is the one a captured live session produced::
 from __future__ import annotations
 
 import logging
+import random
 import time
 from typing import Any, Optional
 
@@ -94,7 +95,7 @@ class MultiLiveHubHandler:
         room = self.registry.room_of(session)
         if room is None:
             return
-        member = room.unbind(session)
+        member = room.remove_member(session.member_id or -1, session=session)
         if member is not None:
             self.registry.broadcast_to_room(room, "OnLeaveAnyOne", member.member_id)
             logger.info(
@@ -190,6 +191,13 @@ class MultiLiveHubHandler:
             "member %s joined room %s (private=%s, %d in room)",
             member.member_id, room.hall_id, not public, len(room.members),
         )
+
+        # When the room reaches full capacity (4 members), automatically advance
+        # to music selection for both public and private rooms.
+        if len(room.members) >= MAX_MEMBERS:
+            logger.info("room %s reached full capacity (%d members) -> auto deciding roster", room.hall_id, MAX_MEMBERS)
+            self._do_decide_member(room)
+
         return D.multi_live_join_result(
             error_code=D.MultiLiveJoinErrorCodes.None_,
             # A captured public join replies with a NIL hall id: public rooms are
@@ -274,6 +282,27 @@ class MultiLiveHubHandler:
         return None
 
     # -- member selection -------------------------------------------------- #
+    def _do_decide_member(self, room: Room) -> None:
+        """Commit the roster and move everyone on to music selection."""
+        for _member_id, connected in room.active_sessions():
+            connected.is_ready_decide_member = True
+            connected.status = D.MultiLiveUserStatus.Joined
+            connected.selected_music_id = 0
+            connected.is_random_music = False
+            connected.difficulty = 0
+            connected.score = 0
+            connected.clear_lamp = 0
+            connected.is_exit_game = False
+        room.selected_music_id = 0
+        room.multi_live_id = 0
+        room.game_started = False
+        room._go_game_sent = False
+        room._lot_music_sent = False
+        room._exit_all_sent = False
+        self.registry.broadcast_to_room(room, "OnReadyGroup", False)
+        self.registry.broadcast_to_room(room, "OnGoGame", None)
+        logger.info("room %s: decided the roster -> OnGoGame", room.hall_id)
+
     def ready_for_decide_member(self, session: HubSession, args):
         room = self._room(session)
         if room is None:
@@ -282,6 +311,20 @@ class MultiLiveHubHandler:
         self.registry.broadcast_to_room(
             room, "OnReadyDecideMember", [session.member_id, session.is_ready_decide_member]
         )
+
+        # In a public room, when multiple members are present and all active connected
+        # members have pressed 準備完了 (is_ready_decide_member=True), automatically
+        # advance to music selection. If only 1 player is in the room, do not advance.
+        if not room.is_private and session.is_ready_decide_member:
+            active = list(room.active_sessions())
+            if len(active) >= 2 and all(s.is_ready_decide_member for _mid, s in active):
+                logger.info(
+                    "public room %s: all %d members are ready -> auto deciding roster",
+                    room.hall_id,
+                    len(active),
+                )
+                self._do_decide_member(room)
+
         return None
 
     def decide_member(self, session: HubSession, args):
@@ -300,12 +343,7 @@ class MultiLiveHubHandler:
                 session.member_id, room.host_member_id,
             )
             return None
-        for _member_id, connected in room.active_sessions():
-            connected.is_ready_decide_member = True
-            connected.status = D.MultiLiveUserStatus.Joined
-        self.registry.broadcast_to_room(room, "OnReadyGroup", False)
-        self.registry.broadcast_to_room(room, "OnGoGame", None)
-        logger.info("room %s: host decided the roster", room.hall_id)
+        self._do_decide_member(room)
         return None
 
     # -- music / difficulty ------------------------------------------------ #
@@ -324,7 +362,50 @@ class MultiLiveHubHandler:
         self.registry.broadcast_to_room(
             room, "OnSelectMusic", [session.member_id, p["music_id"], p["is_random"]]
         )
+        self._try_lot_music(room, p.get("music_id"))
         return None
+
+    def _try_lot_music(self, room: Room, fallback_music_id: Optional[int] = None) -> None:
+        if getattr(room, "_lot_music_sent", False):
+            return
+        active = list(room.active_sessions())
+        if not active:
+            return
+        all_selected = all(
+            (s.selected_music_id > 0 or s.is_random_music)
+            for _mid, s in active
+        )
+        if not all_selected:
+            return
+
+        room._lot_music_sent = True
+        picked_candidates = [
+            s.selected_music_id
+            for _mid, s in active
+            if s.selected_music_id and not s.is_random_music
+        ]
+        if not picked_candidates:
+            picked_candidates = [
+                s.selected_music_id for _mid, s in active if s.selected_music_id
+            ]
+        lot_music_id = random.choice(picked_candidates) if picked_candidates else room.selected_music_id
+        if not lot_music_id:
+            lot_music_id = fallback_music_id or 10071
+        room.selected_music_id = lot_music_id
+
+        if not room.multi_live_id:
+            # Generate unique multi_live_id timestamp-based
+            room.multi_live_id = int(time.time() * 1000) % 2_000_000_000
+
+        logger.info(
+            "room %s: all members selected music -> OnLotMusic(musicId=%s, multiLiveId=%s)",
+            room.hall_id,
+            room.selected_music_id,
+            room.multi_live_id,
+        )
+        self.registry.broadcast_to_room(
+            room, "OnLotMusic", [room.selected_music_id, room.multi_live_id]
+        )
 
     def select_stamp(self, session: HubSession, args):
         room = self._room(session)
@@ -347,6 +428,16 @@ class MultiLiveHubHandler:
         self.registry.broadcast_to_room(
             room, "OnSelectDifficulty", [session.member_id, p["difficulty"]]
         )
+        self._try_lot_music(room)
+
+        # When all active connected members have selected difficulty, broadcast OnGoGame
+        active = list(room.active_sessions())
+        all_diff = bool(active) and all(s.difficulty > 0 for _mid, s in active)
+        if all_diff and not getattr(room, "_go_game_sent", False):
+            room._go_game_sent = True
+            logger.info("room %s: all members selected difficulty -> OnGoGame", room.hall_id)
+            self.registry.broadcast_to_room(room, "OnGoGame", None)
+
         return None
 
     # -- game lifecycle ---------------------------------------------------- #
@@ -355,6 +446,19 @@ class MultiLiveHubHandler:
         if room is None:
             return HubError(GRPC_UNKNOWN, "not in a room")
         session.status = D.MultiLiveUserStatus.ReadyGame
+        logger.info("room %s: member %s ready_game", room.hall_id, session.member_id)
+
+        active = list(room.active_sessions())
+        all_ready = bool(active) and all(
+            s.status == D.MultiLiveUserStatus.ReadyGame for _mid, s in active
+        )
+        if all_ready and not room.game_started:
+            room.game_started = True
+            for _member_id, connected in active:
+                connected.status = D.MultiLiveUserStatus.PlayingGame
+            logger.info("room %s: all members ready -> broadcasting OnPlayGame", room.hall_id)
+            self.registry.broadcast_to_room(room, "OnPlayGame", None)
+
         return None
 
     def before_game_calculate(self, session: HubSession, args):
@@ -369,11 +473,12 @@ class MultiLiveHubHandler:
         room = self._room(session)
         if room is None:
             return HubError(GRPC_UNKNOWN, "not in a room")
-        room.game_started = True
-        for _member_id, connected in room.active_sessions():
-            connected.status = D.MultiLiveUserStatus.PlayingGame
-        self.registry.broadcast_to_room(room, "OnPlayGame", None)
-        logger.info("room %s: game started", room.hall_id)
+        if not room.game_started:
+            room.game_started = True
+            for _member_id, connected in room.active_sessions():
+                connected.status = D.MultiLiveUserStatus.PlayingGame
+            self.registry.broadcast_to_room(room, "OnPlayGame", None)
+            logger.info("room %s: game started", room.hall_id)
         return None
 
     def sync_in_game_status(self, session: HubSession, args):
@@ -402,6 +507,7 @@ class MultiLiveHubHandler:
         session.clear_lamp = p["clear_lamp"]
         session.is_exit_game = True
         session.status = D.MultiLiveUserStatus.ExitGame
+        session.is_ready_decide_member = False
         self.registry.broadcast_to_room(
             room,
             "OnSyncGameResult",
@@ -415,19 +521,53 @@ class MultiLiveHubHandler:
                 sum(1 for _mid, s in room.active_sessions() if s.is_exit_game),
             ],
         )
+        active_sessions = list(room.active_sessions())
+        all_exited = bool(active_sessions) and all(s.is_exit_game for _mid, s in active_sessions)
+        if all_exited and not getattr(room, "_exit_all_sent", False):
+            self._broadcast_exit_all_games(room)
         return None
+
+    def _broadcast_exit_all_games(self, room: Room) -> None:
+        room._exit_all_sent = True
+        room.game_started = False
+        for _mid, s in room.active_sessions():
+            if s.status != D.MultiLiveUserStatus.Joined:
+                s.is_ready_decide_member = False
+                s.status = D.MultiLiveUserStatus.ExitGame
+
+        # Calculate MVP member ID(s) based on highest live score
+        max_score = -1
+        mvp_ids: list[int] = []
+        for _mid, s in room.active_sessions():
+            mid = s.member_id or 1
+            if s.score > max_score:
+                max_score = s.score
+                mvp_ids = [mid]
+            elif s.score == max_score and max_score > 0:
+                mvp_ids.append(mid)
+        if not mvp_ids:
+            mvp_ids = [room.host_member_id]
+
+        fetch_result = room.fetch_users_result()
+        is_team_challenge = (room.hall_type == 21) or (room.live_setting_master_id == 21)
+        event_name = (
+            "OnExitAllGamesForTeamChallenge" if is_team_challenge else "OnExitAllGames"
+        )
+        # Client signature: OnExitAllGames(int[] mvpMemberIds, MultiLiveFetchUsersResult multiLiveFetchUsersResult)
+        self.registry.broadcast_to_room(room, event_name, [mvp_ids, fetch_result])
+        logger.info(
+            "room %s: final results shown (mvp: %s, users: %d)",
+            room.hall_id,
+            mvp_ids,
+            len(fetch_result[1]) if len(fetch_result) > 1 else 0,
+        )
 
     def entry_final_result(self, session: HubSession, args):
         room = self._room(session)
         if room is None:
             return HubError(GRPC_UNKNOWN, "not in a room")
-        room.game_started = False
-        for _member_id, connected in room.active_sessions():
-            connected.is_exit_game = False
-            connected.score = 0
-            connected.clear_lamp = 0
-        self.registry.broadcast_to_room(room, "OnExitAllGames", room.fetch_users_result())
-        logger.info("room %s: final results shown", room.hall_id)
+        if not getattr(room, "_exit_all_sent", False):
+            self._broadcast_exit_all_games(room)
         return None
 
     def continue_play(self, session: HubSession, args):
@@ -444,11 +584,27 @@ class MultiLiveHubHandler:
         room.game_started = False
         room.selected_music_id = 0
         room.multi_live_id = 0
-        for _member_id, connected in room.active_sessions():
-            connected.reset_for_new_game()
+        room._go_game_sent = False
+        room._lot_music_sent = False
+
+        # When continuing play, the room becomes private even if it was previously public
+        room.is_private = True
+        if not room.key_code:
+            from realtime.state import _key_code_for
+            is_team_challenge = (room.hall_type == 21) or (room.live_setting_master_id == 21)
+            room.key_code = _key_code_for(room.hall_id, is_team_challenge=is_team_challenge)
+
+        session.reset_for_new_game()
+        self.registry.broadcast_to_room(
+            room, "OnJoin", session.to_user(session.member_id), exclude=session.member_id
+        )
+        # Notify the continuing session of other members who are already ready in the lobby
+        for mid, s in room.active_sessions():
+            if mid != session.member_id and s.is_ready_decide_member:
+                session.broadcast("OnReadyDecideMember", [mid, True])
         return D.multi_live_join_result(
             error_code=D.MultiLiveJoinErrorCodes.None_,
-            hall_id=None if not room.is_private else room.hall_id,
+            hall_id=room.hall_id,
             member_id=session.member_id or 0,
             key_code=room.key_code,
             live_setting_master_id=room.live_setting_master_id,

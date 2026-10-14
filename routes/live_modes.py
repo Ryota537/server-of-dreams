@@ -36,6 +36,7 @@ from models import (
     SetLessonPartyPayload,
     StartLessonPayload,
     StartLivePayload,
+    StartMultiLivePayload,
 )
 from routes import lives as upstream
 from scripts._sirius import _decompress, _unpack_all
@@ -236,6 +237,36 @@ async def apply_progress(s, mode, ident, score, acts, cleared, result):
     result.audition_rewards = []
     for thing in sorted(things, key=lambda t: t[0]):
         result.audition_rewards.extend(await s.grant([thing]))
+
+
+@router.post("/api/Lives/StartMultiLive")
+async def start_multi_live(request: Request):
+    try:
+        p = await read_request(request, StartMultiLivePayload)
+        if p is None:
+            raise Rejected("Missing payload")
+        chart = master("live_master", p.live_master_id)
+        if not chart:
+            raise Rejected("Invalid live master")
+        async with transaction(request) as s:
+            r = parts(await call_bound(request, s, upstream.lives_start_multi_live))
+            active = await s.conn.conn.fetchrow(
+                'SELECT * FROM active_live WHERE "userId"=$1', s.uid
+            )
+            music = master("music_master", chart.music_master_id)
+            xp = (
+                int(
+                    music.stamina_consumption
+                    * max(1, p.stamina_consumption_ratio)
+                    * rules()["rank_xp_per_stamina"]
+                )
+                if active and active["staminaSpent"] and music is not None
+                else 0
+            )
+            await context(s, "normal", 0, {"rank_xp": xp})
+        return respond(r[1], faults=r[0], present=r[2] + s.present())
+    except Rejected as e:
+        return respond(None, faults=[fault("InvalidLiveState", str(e))])
 
 
 @router.post("/api/Lives/FinishAndValidate")

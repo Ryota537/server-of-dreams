@@ -45,4 +45,12 @@ database:
   username: postgres
   password: postgres
 
+# see realtime/README.md
+realtime:
+  host: 0.0.0.0
+  port: 8443
+# certfile: "cert.pem"
+# keyfile: "key.pem"
+  auto_start: true
+
 jwt_secret: "change-me-in-production"

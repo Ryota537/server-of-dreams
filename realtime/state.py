@@ -100,19 +100,29 @@ class Room:
         # The code a friend types to join a private hall. Derived from the hall id so
         # it is stable for the hall's whole life -- the real server's code is
         # unrelated to the id, but only stability matters to the client.
-        self.key_code = _key_code_for(hall_id) if private else 0
-        self._next_member_id = itertools.count(1)
+        is_team_challenge = (hall_type == 21) or (live_setting_master_id == 21)
+        self.key_code = _key_code_for(hall_id, is_team_challenge=is_team_challenge) if private else 0
         self.members: dict[int, RoomMember] = {}
         self.selected_music_id: int = 0
         self.multi_live_id: int = 0
         self.game_started: bool = False
+        self._go_game_sent: bool = False
+        self._lot_music_sent: bool = False
+        self._exit_all_sent: bool = False
         # When the last connection left, or None while someone is still connected.
         self.empty_since: Optional[float] = None
+
+    def _find_free_member_id(self) -> int:
+        """Find the lowest available slot number (1..MAX_MEMBERS)."""
+        for mid in range(1, MAX_MEMBERS + 1):
+            if mid not in self.members:
+                return mid
+        return len(self.members) + 1
 
     # -- seats ------------------------------------------------------------- #
     def add_member(self, session: "HubSession") -> RoomMember:
         member = RoomMember(
-            next(self._next_member_id), session.user_id, session.hash_user_id
+            self._find_free_member_id(), session.user_id, session.hash_user_id
         )
         self.members[member.member_id] = member
         self.bind(member, session)
@@ -137,6 +147,30 @@ class Room:
         member.session = None
         if not self.has_connections:
             self.empty_since = time.monotonic()
+        return member
+
+    def remove_member(
+        self, member_id: int, session: Optional["HubSession"] = None
+    ) -> Optional[RoomMember]:
+        """Permanently remove a member from the room's seats."""
+        member = self.members.get(member_id)
+        if member is None:
+            return None
+        # If another active session already took over this seat, do not remove it
+        if session is not None and member.session is not None and member.session is not session:
+            return None
+        self.members.pop(member_id, None)
+        if member.session is not None and (session is None or member.session is session):
+            member.session.hall_id = None
+            member.session.member_id = None
+            member.session.member = None
+            member.session = None
+        member.snapshot = None
+        if not self.has_connections:
+            self.empty_since = time.monotonic()
+        if self.host_member_id == member_id:
+            remaining = list(self.members.keys())
+            self.host_member_id = min(remaining) if remaining else 1
         return member
 
     def member_for_user(self, user_id: Optional[int]) -> Optional[RoomMember]:
@@ -359,12 +393,16 @@ class HubRegistry:
         room = self.room_of(session)
         if room is None:
             return
-        member = room.unbind(session)
+        member_id = session.member_id or -1
+        # If the game is actively in progress, unbind the session so a quick reconnect
+        # can restore the seat mid-game. If not in game (lobby, result screen, etc.),
+        # the member has left the room and is removed permanently.
+        if room.game_started:
+            member = room.unbind(session)
+        else:
+            member = room.remove_member(member_id, session=session)
         if member is None:
             return
-        # The seat stays (so a reconnect finds it); the others are told the member
-        # dropped, which is what OnLeaveAnyOne means. The room is NOT discarded here:
-        # an empty hall survives a grace period so a reconnect can rejoin it.
         self.broadcast_to_room(room, "OnLeaveAnyOne", member.member_id)
         self.reap_empty_rooms()
 
@@ -411,6 +449,22 @@ class HubRegistry:
                 return room
         return None
 
+    def room_by_user_id(self, user_id: int) -> Optional[Room]:
+        """Find the room where user_id currently holds a seat."""
+        for room in self.rooms.values():
+            if any(m.user_id == user_id for m in room.members.values()):
+                return room
+        return None
+
+    def room_by_multi_live_id(self, multi_live_id: int) -> Optional[Room]:
+        """Find the room by its active multi_live_id."""
+        if not multi_live_id:
+            return None
+        for room in self.rooms.values():
+            if room.multi_live_id == multi_live_id:
+                return room
+        return None
+
     def reap_empty_rooms(self) -> None:
         """Discard rooms nobody has been connected to for the grace period.
 
@@ -453,14 +507,17 @@ class HubRegistry:
         return value
 
 
-def _key_code_for(hall_id: str) -> int:
+def _key_code_for(hall_id: str, is_team_challenge: bool = False) -> int:
     """A stable key code derived from the hall id.
 
-    Eight digits, because the capture shows codes that long (``11414371`` for a team
-    challenge hall) alongside six-digit ones -- so the field is a plain int, not a
-    fixed-width code. Only stability for the hall's life matters to the client.
+    The official client specifies:
+    - MultiLivePrivateHallIdDigits = 6 (normal private rooms: 100_000 - 999_999)
+    - TeamChallengeHallIdDigits = 8 (team challenge: 10_000_000 - 99_999_999)
     """
-    return int(hall_id[:8], 16) % 100_000_000
+    raw = int(hall_id[:8], 16)
+    if is_team_challenge:
+        return 10_000_000 + (raw % 90_000_000)
+    return 100_000 + (raw % 900_000)
 
 
 __all__ = ["HubRegistry", "HubSession", "MAX_MEMBERS", "Room", "RoomMember"]

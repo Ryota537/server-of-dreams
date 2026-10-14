@@ -2040,7 +2040,7 @@ KEYS = {
         (3, "time_event_second", "int", False, "prim", False),
         (4, "combo", "int", False, "prim", False),
     ),
-    "MultiLiveInformation": ((0, "scores", "Dictionary", False, "model", True),),
+    "MultiLiveInformation": ((0, "scores", "dict", False, "prim", True),),
     "MultiLiveRestriction": (
         (0, "restriction_finished_at", "DateTime", False, "prim", True),
     ),

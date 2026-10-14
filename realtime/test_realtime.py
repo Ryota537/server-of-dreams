@@ -22,6 +22,7 @@ import msgpack
 sys.path.insert(0, "/root/server-of-dreams")
 
 from helpers.user_hash import hash_id, unhash_id  # noqa: E402
+from realtime import dtos as D  # noqa: E402
 from realtime import framing as F  # noqa: E402
 from realtime import methods as M  # noqa: E402
 from realtime.dispatcher import RealtimeService  # noqa: E402
@@ -260,14 +261,30 @@ async def main() -> int:
         await settle(guest)
         check("OnSelectMusic fan-out", [1, 252, False] in guest.broadcasts("OnSelectMusic"),
               f"got {guest.broadcasts('OnSelectMusic')}")
+        check("Host alone selects music does not trigger OnLotMusic",
+              len(host.broadcasts("OnLotMusic")) == 0)
+
+        await guest.call("SelectMusicAsync", [253, False, False])
+        await settle(host, guest)
+        check("All members selected music triggers OnLotMusic",
+              len(host.broadcasts("OnLotMusic")) == 1 and len(guest.broadcasts("OnLotMusic")) == 1)
+
         await host.call("SelectDifficultyAsync", [1, False])
         await settle(guest)
         check("OnSelectDifficulty fan-out", [1, 1] in guest.broadcasts("OnSelectDifficulty"),
               f"got {guest.broadcasts('OnSelectDifficulty')}")
+        check("Host alone selects difficulty does not broadcast OnGoGame yet",
+              len(host.broadcasts("OnGoGame")) == 1)  # only the 1 from decide_member
+
+        await guest.call("SelectDifficultyAsync", [2, False])
+        await settle(host, guest)
+        check("All members selected difficulty triggers OnGoGame to both",
+              len(host.broadcasts("OnGoGame")) == 2 and len(guest.broadcasts("OnGoGame")) == 2)
 
         # --- game lifecycle --------------------------------------------- #
         print("\ngame lifecycle")
         await host.call("ReadyGameAsync", None)
+        await guest.call("ReadyGameAsync", None)
         await host.call("BeforeGameCalculateAsync", None)
         await host.call("StartGameAsync", None)
         await settle(host, guest)
@@ -287,13 +304,38 @@ async def main() -> int:
 
         await host.call("EntryFinalResultAsync", None)
         await settle(guest)
-        check("OnExitAllGames carries the roster", len(guest.broadcasts("OnExitAllGames")) == 1)
+        exit_broadcasts = guest.broadcasts("OnExitAllGames")
+        check("OnExitAllGames carries the roster", len(exit_broadcasts) == 1)
+        check("OnExitAllGames carries [mvp_ids, fetch_result]",
+              isinstance(exit_broadcasts[0], list) and len(exit_broadcasts[0]) == 2
+              and isinstance(exit_broadcasts[0][0], list) and isinstance(exit_broadcasts[0][1], list))
 
         # --- continue play ---------------------------------------------- #
         print("\ncontinue play")
         cont = await host.call("ContinuePlayAsync", None)
         check("continue reuses the hall id", cont and cont[1] == hall_id, f"got {cont!r}")
         check("continue keeps member id 1", cont and cont[2] == 1)
+        check("guest status not prematurely reset to Joined",
+              service.registry.rooms[hall_id].members[2].session.status == D.MultiLiveUserStatus.ExitGame)
+        check("guest is_ready_decide_member is False",
+              not service.registry.rooms[hall_id].members[2].session.is_ready_decide_member)
+
+        # Host marks ready in lobby
+        await host.call("ReadyForDecideMember", True)
+
+        # Guest calls entry final result (e.g. from lingering result screen) and continue play
+        await guest.call("EntryFinalResultAsync", None)
+        check("host status not overwritten back to ExitGame by guest's final result",
+              service.registry.rooms[hall_id].members[1].session.status == D.MultiLiveUserStatus.Joined)
+        check("host is_ready_decide_member preserved",
+              service.registry.rooms[hall_id].members[1].session.is_ready_decide_member)
+
+        guest_cont = await guest.call("ContinuePlayAsync", None)
+        check("guest continue reuses the hall id", guest_cont and guest_cont[1] == hall_id)
+        check("guest status is now Joined",
+              service.registry.rooms[hall_id].members[2].session.status == D.MultiLiveUserStatus.Joined)
+        check("guest notified host is already ready (OnReadyDecideMember)",
+              [1, True] in guest.broadcasts("OnReadyDecideMember"))
 
         # --- leaving ----------------------------------------------------- #
         print("\nleaving")
@@ -302,6 +344,8 @@ async def main() -> int:
         await settle(host)
         check("host told the guest left (OnLeaveAnyOne)", 2 in host.broadcasts("OnLeaveAnyOne"),
               f"got {host.broadcasts('OnLeaveAnyOne')}")
+        check("guest seat removed from room upon leaving",
+              2 not in service.registry.rooms[hall_id].members)
 
         # --- auth -------------------------------------------------------- #
         print("\nauthentication")

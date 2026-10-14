@@ -110,6 +110,7 @@ class RealtimeService:
         handler = self.handlers.get(hub)
         if handler is None:
             return False
+        logger.info("dispatch %s.%s (user=%s, member=%s, msg_id=%s)", hub, method, session.user_id, session.member_id, msg.message_id)
         try:
             result = handler.handle(method, session, msg.args)
         except Exception as exc:  # pragma: no cover - defensive

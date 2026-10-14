@@ -20,11 +20,12 @@ async def _init_connection(conn: asyncpg.Connection) -> None:
 
 
 class YumeApp(FastAPI):
-    def __init__(self, config: Optional[Database] = None, **kwargs):
-        super().__init__(**kwargs)
+    def __init__(self, config: Optional[Database] = None, *args, **kwargs) -> None:
+        super().__init__(*args, **kwargs)
         self.config: Optional[Database] = config
         self._db: asyncpg.Pool
         self.is_setup: bool = False
+        self.realtime_service = None
 
     async def yume_setup(self) -> None:
         if self.is_setup:

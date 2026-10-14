@@ -50,15 +50,28 @@ Both are supported; standalone is easier to test and restart.
 realtime:
   host: 0.0.0.0
   port: 8443
-  certfile: /root/wds-frida/hub-mitm.crt
-  keyfile:  /root/wds-frida/hub-mitm.key
+  certfile: cert.pem
+  keyfile:  key.pem
   auto_start: false
 ```
 
 TLS needs **both** files; with neither the channel serves cleartext, which is only useful
-for a local test. The certificate must be one the client trusts — the patched APK ships a
-CA that signs only for the realtime hostname, so a self-signed cert is rejected unless the
-device trusts it.
+for a local test.
+
+### Generating SSL/TLS Certificates
+
+The realtime StreamingHub runs over HTTP/2 with ALPN (`h2`). For local development, testing, or self-hosted environments, you can generate a self-signed certificate and private key using OpenSSL:
+
+```bash
+openssl req -x509 -newkey rsa:4096 -nodes -sha256 \
+  -keyout key.pem -out cert.pem -days 365 \
+  -subj "/CN=your-realtime-domain.com" \
+  -addext "subjectAltName=DNS:your-realtime-domain.com,DNS:localhost,IP:127.0.0.1"
+```
+
+> **Note:**
+> - Adjust the `CN` (Common Name) and `subjectAltName` (SAN) to match the hostname or IP configured in your `config.yml` (`multi_real_time_server_url`).
+> - If deploying behind a reverse proxy (e.g. Caddy, Nginx, Cloudflare) that terminates TLS and proxies HTTP/2 to the realtime server, configure TLS upstream accordingly or serve cleartext HTTP/2 locally.
 
 Point the client at this listener through `multi_real_time_server_url` in `/api/Environment`
 (`multi_real_time_server_url` in `config.yml`).
@@ -93,11 +106,13 @@ frame is load-bearing, not cosmetic.
 Decoding order matters: decompress **before** flattening ext types, or the payload becomes
 unrecognisable.
 
-**Seats outlive connections.** The capture shows a client reconnecting and issuing
-room-scoped calls *without joining again*, and still holding its place. So membership is a
-`RoomMember` (a seat) and not a socket. A seat's state is snapshotted on disconnect so the
-roster others see does not change just because a socket was replaced. Only `IMultiLiveHub`
-owns seats — a circle or common-hub connection for the same account must not take one over.
+**Seats and disconnections.** While a game is actively in progress (`room.game_started`),
+a temporary disconnect keeps the seat (`unbind`), snapshotting state so a quick mid-game
+reconnect can recover and submit results. Outside an active live (in the lobby, result screen,
+or when moving to another hall via `_detach`), leaving removes the member from `room.members`
+(`remove_member`) and broadcasts `OnLeaveAnyOne`, freeing the seat so other players see the
+empty slot immediately and preventing multi-room ghost profiles. Only `IMultiLiveHub` owns
+seats — a circle or common-hub connection for the same account must not take one over.
 
 **Hall type and size.** `13` = Gingaza (public), `21` = team challenge, `11`/`12`/`14`/`15`
 are the other halls. Four members maximum. A public join replies with a **nil** hall id
@@ -120,41 +135,31 @@ client misreads silently. Lengths, each confirmed against the capture:
 ## Tests
 
 ```bash
-.venv/bin/python -m realtime.test_realtime   # 51 checks over a real HTTP/2 connection
-.venv/bin/python -m realtime.test_tls        # TLS + real tokens from sod's own auth
-.venv/bin/python -m realtime.test_replay     # replays the captured session
+.venv/bin/python -m realtime.test_realtime   # End-to-end checks over a real HTTP/2 connection
 ```
 
 `test_realtime` drives a whole two-player session end to end: create a private hall, a
 guest joins by key code, ready/decide, music and difficulty, game start, in-game sync, exit,
 final results, continue play, leave, invitations, seat ownership across reconnects.
 
-`test_replay` runs every captured request against our handlers and compares the reply
-**layout** with what the real server sent. It classifies each difference:
-
-* **structural** — a real bug; fails the run. Validated by mutation: a wrong array length, a
-  misplaced nil, or a drifted nested layout is always caught.
-* **state-only** — same layout, different contents. Expected: the replay runs every
-  captured stream as one account while the real session had several players.
-* **no-history** — we returned empty where the capture had entries (chat history, pending
-  invitations). A fresh server has none.
-
 ## What is verified, and what is not
 
-Verified against the live listener with real tokens:
+Verified against the live listener with real tokens and real game clients (patched Android APK):
 
 * TLS + ALPN `h2` negotiate; a token minted by `make_session_jwt` is accepted and maps to
   the right user id; a forged token is refused;
 * create hall → guest joins by key code → host receives `OnJoin` → `FetchUsersAsync` returns
-  both members → `DecideMemberAsync` fans `OnReadyGroup` and `OnGoGame` out to the guest.
+  both members → ready/decide (or auto-advance on all ready / full room) → `OnReadyGroup` and `OnGoGame`
+  out to everyone;
+* synchronized music lottery (`OnLotMusic`), synchronized difficulty selection (`OnGoGame`),
+  `ReadyGameAsync` sync → `OnPlayGame` countdown and live gameplay;
+* in-game note status sync (`SyncInGameStatusAsync`), live finish (`ExitGameAsync`), final results
+  broadcast (`OnExitAllGames` with MVP IDs and synchronized 60-second result timer);
+* continue play (`ContinuePlayAsync`) keeps the hall while correctly leaving other members in
+  confirming state until they also continue or leave.
 
-Verified by replay: 408 of 449 captured calls match the real server's reply layout exactly,
-with 0 structural mismatches across all 28 methods the capture exercised.
+## What is not verified:
 
-**Not verified:**
-
-* no real game client has connected to this listener yet — the device has not been pointed
-  at it;
 * chat history and the circle activity log are **in memory only** and start empty; the
   capture's non-empty pages are real server data we do not reproduce;
 * `GetActivityLogsAsync` returns empty because nothing records activity yet;
