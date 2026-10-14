@@ -184,15 +184,20 @@ async def lives_finish_and_validate(request: Request):
             existing.clearLamp if existing is not None else int(ClearLamps.None_)
         )
         prev_rate = existing.achievementRate if existing is not None else 0.0
-        # Auto-play clears don't set records: the client auto-hits every note PERFECT*, which
-        # would otherwise bank a 101% All Perfect. An auto run still counts as a play and still
-        # drops rewards, but the saved lamp/rate/grade (and the result screen) keep the prior best.
+        # The achievement rate is only calculated on a clear. A failed run (life hit 0) shows
+        # "算出されません" in-game, and an auto-play run must not bank a 101% All Perfect -- so
+        # neither updates the saved lamp/rate/grade/SpRate nor counts as a high score. Both still
+        # count as a play and still drop rewards.
         auto_play = bool(active.isAutoPlay) if active is not None else False
-        is_high_score = this_rate > prev_rate and not auto_play
+        rate_counts = is_cleared and not auto_play
+        is_high_score = rate_counts and this_rate > prev_rate
 
         best_lamp = before_lamp if auto_play else max(before_lamp, new_lamp)
-        best_rate = prev_rate if auto_play else max(prev_rate, this_rate)
+        best_rate = max(prev_rate, this_rate) if rate_counts else prev_rate
         best_grade = rate_grade(best_rate)
+        # the rate this run feeds into live-rate math: the real figure on a counted clear,
+        # otherwise the prior best (so a fail / auto play moves nothing).
+        effective_rate = this_rate if rate_counts else prev_rate
         times = (existing.timesCompleted if existing is not None else 0) + 1
         # notation_rate is the chart's (best) live rate: level + interpolated achievement bonus
         notation_rate = chart_live_rate(live_master_id, best_rate) or 0.0
@@ -214,7 +219,9 @@ async def lives_finish_and_validate(request: Request):
                     best_grade,
                 )
             )
-        elif live_master_id:
+        elif live_master_id and rate_counts:
+            # a fresh record is only minted by a counted clear; a never-cleared fail (or auto)
+            # leaves no 0.0% row behind, so the song reads "not calculated" rather than 0%.
             id_row = await conn.fetchrow(next_live_id())
             live_id = id_row.value if id_row is not None else live_master_id
             await conn.execute(
@@ -235,9 +242,10 @@ async def lives_finish_and_validate(request: Request):
 
         await conn.execute(delete_active_lives(user_id))  # consume the session
 
-        # the updated owned Live row goes in present so the client's records reflect it
+        # the updated owned Live row goes in present so the client's records reflect it (only
+        # when a row was actually written -- an existing record, or a counted clear)
         present: list = []
-        if live_master_id:
+        if live_master_id and (existing is not None or rate_counts):
             present.append(
                 data_object(
                     "Live",
@@ -287,7 +295,9 @@ async def lives_finish_and_validate(request: Request):
         # live rate: this chart's (past-best, this-time) + the top-30 total before/after this
         # play. The profile's playerRate IS that top-30 total, so keep it in sync when it moves.
         # (0.0, 0.0) for charts with no live rate (Olivier / long-version) -- not null
-        lr_best, lr_this = chart_live_rate_result(live_master_id, this_rate, prev_rate)
+        lr_best, lr_this = chart_live_rate_result(
+            live_master_id, effective_rate, prev_rate
+        )
         live_rate_result = RateUpdateResult(best_ever=lr_best, this_time=lr_this)
         total_before = total_rate((r.liveMasterId, r.achievementRate) for r in lives)
         after_pairs = [
@@ -304,11 +314,15 @@ async def lives_finish_and_validate(request: Request):
         # Olivier (difficulty 5) clears award star-badge points (SpRate) instead of a live
         # rate: keep the chart's best points and report the before/after per-chart + total.
         sp_rate_update_result = None
-        this_points = olivier_sp_rate_points(
-            live_master_id,
-            this_rate,
-            new_lamp,
-            non_perfect_star_count(payload.base_score_blocks),
+        this_points = (
+            olivier_sp_rate_points(
+                live_master_id,
+                this_rate,
+                new_lamp,
+                non_perfect_star_count(payload.base_score_blocks),
+            )
+            if rate_counts
+            else None
         )
         if this_points is not None:
             sp_rows = await conn.fetch(get_sp_rates(user_id))
@@ -365,10 +379,11 @@ async def lives_finish_and_validate(request: Request):
     if refresh:
         present += await build_present(app, user_id, *sorted(refresh))
 
-    # an auto-play run is reported as no improvement (see the record cap above), so the result
-    # panel shows the saved best rather than a fresh All Perfect.
+    # the result panel agrees with the save (see the cap above): a counted clear shows this
+    # run, an auto play shows the prior best (no fresh All Perfect), and a fail shows no rate
+    # at all -- 0.0 -> grade None_, which the client renders as "算出されません".
     result_lamp = best_lamp if auto_play else new_lamp
-    result_rate = best_rate if auto_play else this_rate
+    result_rate = this_rate if rate_counts else (best_rate if auto_play else 0.0)
     result = FinishLiveResult(
         clear_lamp=ClearLamps(result_lamp),
         before_clear_lamp=ClearLamps(before_lamp),
