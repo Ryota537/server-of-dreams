@@ -55,14 +55,15 @@ async def lifespan(app: "YumeApp"):
                 print(
                     f"Linked the second idol on {repaired} dual-idol card(s)", flush=True
                 )
-            # drop phantom live records from the old "rate on fail" behavior: a never-cleared,
-            # zero-rate row (clearLamp None_ + achievementRate 0) can only come from a failed
-            # run, which no longer records -- removing it lets the song read "not calculated".
+            # drop empty live records (clearLamp None_ + achievementRate 0): a real clear always
+            # has a lamp and a scored fail keeps its own rate, so such a row is only an all-miss
+            # fail or an artifact of the earlier over-correction -- removing it lets the song read
+            # "not played" instead of a bogus 0.0%.
             cleared = await conn.conn.execute(
                 'DELETE FROM "live" WHERE "clearLamp" = 0 AND "achievementRate" = 0'
             )
             if cleared and cleared != "DELETE 0":
-                print(f"Removed phantom fail-only live records ({cleared})", flush=True)
+                print(f"Removed empty live records ({cleared})", flush=True)
     if _realtime_cfg.get("auto_start"):
         await realtime_service.start()
     yield

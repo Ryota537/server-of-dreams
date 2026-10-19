@@ -100,4 +100,4 @@
 
 2026/10/12 - Fix: dual-idol cards now link the second idol's CharacterBase on grant (secondaryCharacterBaseId/secondarySenseLevel); previously left NULL, which hung the party edit/view screens and blocked music play (error 81). Saved dual cards are repaired at startup
 
-2026/10/13 - Fix: a failed live (life reached 0) no longer calculates or records an achievement rate / grade / SpRate (matches the in-game 「算出されません」); a never-cleared fail mints no 0.0% record, and existing phantom fail records (clearLamp None_ + rate 0) are cleared at startup
+2026/10/13 - Fix: a failed live (life reached 0) now keeps its achievement rate, grade and drops, but gives no rating -- no clear lamp, no live-rate/player-rate change, no SpRate (matches the in-game 「算出されません」 shown only for the rating). Player rate is now summed from each chart's stored live rate (notationRate), which only a clear moves, so a fail can't leak into it. Phantom all-miss/never-cleared records (clearLamp None_ + rate 0) left by the earlier over-correction are cleared at startup

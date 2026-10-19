@@ -86,17 +86,15 @@ def chart_live_rate(live_master_id: int, rate: float) -> Optional[float]:
     return None if lm is None else live_rate(lm.level, rate)
 
 
+def total_of_live_rates(rates) -> float:
+    """Sum of the top 30 already-computed chart live rates (None / 0 contribute nothing)."""
+    vals = sorted((r for r in rates if r), reverse=True)
+    return round(sum(vals[:_TOP_N]), 2)
+
+
 def total_rate(pairs) -> float:
     """Sum of the top 30 chart live rates. ``pairs`` = iterable of (live_master_id, rate)."""
-    rates = sorted(
-        (
-            r
-            for r in (chart_live_rate(mid, rate) for mid, rate in pairs)
-            if r is not None
-        ),
-        reverse=True,
-    )
-    return round(sum(rates[:_TOP_N]), 2)
+    return total_of_live_rates(chart_live_rate(mid, rate) for mid, rate in pairs)
 
 
 def chart_live_rate_result(

@@ -26,7 +26,7 @@ from helpers.live_rate import (
     chart_live_rate,
     chart_live_rate_result,
     olivier_sp_rate_points,
-    total_rate,
+    total_of_live_rates,
 )
 from helpers.live_result import (
     achievement_rate,
@@ -185,23 +185,30 @@ async def lives_finish_and_validate(request: Request):
             existing.clearLamp if existing is not None else int(ClearLamps.None_)
         )
         prev_rate = existing.achievementRate if existing is not None else 0.0
-        # The achievement rate is only calculated on a clear. A failed run (life hit 0) shows
-        # "算出されません" in-game, and an auto-play run must not bank a 101% All Perfect -- so
-        # neither updates the saved lamp/rate/grade/SpRate nor counts as a high score. Both still
-        # count as a play and still drop rewards.
+        # A finish records two separable things. The *score* -- achievement rate + grade -- is
+        # kept on any manual play, a failed one (life hit 0) included; the game still shows it.
+        # The *rating* -- the chart/player live rate, the clear lamp and SpRate -- is only earned
+        # by a clear, so a fail shows "算出されません" for those. An auto-play run banks neither
+        # (it would otherwise hand out a free 101% All Perfect); both still count as a play and
+        # still drop rewards.
         auto_play = bool(active.isAutoPlay) if active is not None else False
-        rate_counts = is_cleared and not auto_play
-        is_high_score = rate_counts and this_rate > prev_rate
+        score_counts = not auto_play  # achievement rate + grade (kept even on a fail)
+        rating_counts = is_cleared and not auto_play  # live rate, clear lamp, SpRate
+        is_high_score = score_counts and this_rate > prev_rate
 
-        best_lamp = before_lamp if auto_play else max(before_lamp, new_lamp)
-        best_rate = max(prev_rate, this_rate) if rate_counts else prev_rate
+        best_lamp = max(before_lamp, new_lamp) if rating_counts else before_lamp
+        best_rate = max(prev_rate, this_rate) if score_counts else prev_rate
         best_grade = rate_grade(best_rate)
         # the rate this run feeds into live-rate math: the real figure on a counted clear,
-        # otherwise the prior best (so a fail / auto play moves nothing).
-        effective_rate = this_rate if rate_counts else prev_rate
+        # otherwise the prior best (so a fail / auto play moves no rating).
+        effective_rate = this_rate if rating_counts else prev_rate
         times = (existing.timesCompleted if existing is not None else 0) + 1
-        # notation_rate is the chart's (best) live rate: level + interpolated achievement bonus
-        notation_rate = chart_live_rate(live_master_id, best_rate) or 0.0
+        # the chart's live rate (the rating) only moves on a clear; a fail keeps the prior value
+        notation_rate = (
+            (chart_live_rate(live_master_id, best_rate) or 0.0)
+            if rating_counts
+            else (existing.notationRate if existing is not None else 0.0)
+        )
 
         # the owned Live row's fields that this finish doesn't change carry over (or default)
         live_id = existing.id if existing is not None else 0
@@ -220,9 +227,9 @@ async def lives_finish_and_validate(request: Request):
                     best_grade,
                 )
             )
-        elif live_master_id and rate_counts:
-            # a fresh record is only minted by a counted clear; a never-cleared fail (or auto)
-            # leaves no 0.0% row behind, so the song reads "not calculated" rather than 0%.
+        elif live_master_id and score_counts:
+            # a manual play (clear or fail) mints the record so its achievement rate is kept;
+            # an auto play banks nothing, so it leaves no row behind.
             id_row = await conn.fetchrow(next_live_id())
             live_id = id_row.value if id_row is not None else live_master_id
             await conn.execute(
@@ -246,7 +253,7 @@ async def lives_finish_and_validate(request: Request):
         # the updated owned Live row goes in present so the client's records reflect it (only
         # when a row was actually written -- an existing record, or a counted clear)
         present: list = []
-        if live_master_id and (existing is not None or rate_counts):
+        if live_master_id and (existing is not None or score_counts):
             present.append(
                 data_object(
                     "Live",
@@ -300,15 +307,15 @@ async def lives_finish_and_validate(request: Request):
             live_master_id, effective_rate, prev_rate
         )
         live_rate_result = RateUpdateResult(best_ever=lr_best, this_time=lr_this)
-        total_before = total_rate((r.liveMasterId, r.achievementRate) for r in lives)
-        after_pairs = [
-            (r.liveMasterId, r.achievementRate)
-            for r in lives
-            if r.liveMasterId != live_master_id
+        # the player rate is the top-30 of the stored per-chart live rates (notationRate), which
+        # only a clear moves -- so a fail keeps its contribution unchanged (rating not given).
+        total_before = total_of_live_rates(r.notationRate for r in lives)
+        after_notations = [
+            r.notationRate for r in lives if r.liveMasterId != live_master_id
         ]
-        if live_master_id:
-            after_pairs.append((live_master_id, best_rate))
-        total_after = total_rate(after_pairs)
+        if live_master_id and (existing is not None or score_counts):
+            after_notations.append(notation_rate)
+        total_after = total_of_live_rates(after_notations)
         if total_after != total_before:
             await conn.execute(update_player_rate(user_id, total_after))
 
@@ -322,7 +329,7 @@ async def lives_finish_and_validate(request: Request):
                 new_lamp,
                 non_perfect_star_count(payload.base_score_blocks),
             )
-            if rate_counts
+            if rating_counts
             else None
         )
         if this_points is not None:
@@ -380,21 +387,22 @@ async def lives_finish_and_validate(request: Request):
     if refresh:
         present += await build_present(app, user_id, *sorted(refresh))
 
-    # the result panel agrees with the save (see the cap above): a counted clear shows this
-    # run, an auto play shows the prior best (no fresh All Perfect), and a fail shows no rate
-    # at all -- 0.0 -> grade None_, which the client renders as "算出されません".
-    result_lamp = best_lamp if auto_play else new_lamp
-    result_rate = this_rate if rate_counts else (best_rate if auto_play else 0.0)
+    # the result panel mirrors the save: a manual run reports its own achievement rate + grade
+    # (a fail included), an auto play reports the prior best (no fresh All Perfect), and only a
+    # clear shows a clear lamp. The live rate / SpRate are untouched by a fail, so the client
+    # renders "算出されません" for the rating while still showing the achievement rate.
+    result_lamp = new_lamp if score_counts else before_lamp
+    display_rate = this_rate if score_counts else prev_rate
     result = FinishLiveResult(
         clear_lamp=ClearLamps(result_lamp),
         before_clear_lamp=ClearLamps(before_lamp),
-        rate_grade=AchievementRateGrades(rate_grade(result_rate)),
+        rate_grade=AchievementRateGrades(rate_grade(display_rate)),
         is_high_score=is_high_score,
         achievement_rate_average=0.0,  # TODO: add global average acc
         rate_result=RateResult(
             achievement_rate_result=RateUpdateResult(
                 best_ever=round(prev_rate, 4),
-                this_time=round(result_rate, 4),  # best_ever = past best only
+                this_time=round(display_rate, 4),  # best_ever = past best only
             ),
             live_rate_result=live_rate_result,
             total_rate_before=total_before,
